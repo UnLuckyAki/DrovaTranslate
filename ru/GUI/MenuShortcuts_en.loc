@@ -1,0 +1,11 @@
+Inventory_AssignQuick_PC { $INPUT:Quickbar_1$, $INPUT:Quickbar_2$, $INPUT:Quickbar_3$, $INPUT:Quickbar_4$: Назначить на панель быстрого доступа }
+
+Inventory_AssignQuick_Joystick { $INPUT:QuickslotAssignment$+$INPUT:Quickbar_1$$INPUT:Quickbar_2$$INPUT:Quickbar_3$$INPUT:Quickbar_4$ Назначить на панель быстрого доступа }
+
+Inventory_GarbageToggle_show { Показать мусор }
+
+Inventory_GarbageToggle_hide { Спрятать мусор }
+
+Inventory_MarkAsGarbage { Отметить предмет как мусор }
+
+GarbageFeedback { Фильтр мусора активен }

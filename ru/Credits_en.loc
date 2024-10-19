@@ -1,0 +1,102 @@
+director { Director }
+
+game_design_lead { Game Design Lead }
+
+game_design { Game Design }
+
+additional_game_design { Additional Game Design }
+
+programming_lead { Programming Lead }
+
+programming { Programming }
+
+art_lead { Art Direction }
+
+art { Art }
+
+community { Community }
+
+sound_lead { Sound & Music }
+
+organisation { Organisation }
+
+praktikanten { Interns }
+
+freelancer { Externs }
+
+musik { Musik }
+
+sound { Sound }
+
+grafiken { Illustration }
+
+autor { Autor }
+
+testers { Testers }
+
+publisher { Publisher }
+
+spotlight { Deck13 Spotlight }
+
+spotlight_interns { Interns }
+
+spotlight_productionBaby { Production Baby }
+
+spotlight_deck13 { Deck13 }
+
+spotlight_deck13_interns { Interns }
+
+spotlight_deck13_memory { In memory of Felix Rischbieter }
+
+pr_hound { PR Hound }
+
+bxdxo { BXDXO }
+
+headline_Localization { Localization }
+
+loca_coordination { Coordination }
+
+loca_english_lead { English Language Lead }
+
+loca_english_translators { English Translators }
+
+loca_english_proofreading { English Proofreading }
+
+loca_french_localization { French Localization }
+
+loca_french_translators { French Translators }
+
+special_thank_Grounding { Special thanks for the support in setting up the studio }
+
+specia_thank { Special thanks }
+
+tools { Tools }
+
+voice { Voice }
+
+thanks_family { We would like to thank our family, friends and partners. We would not have made it this far without you. }
+
+thanks_pb { Thank you Piranha Bytes for Gothic. A great game that has left its mark on us all. }
+
+chris_wish { My darling Sarah, thank you for your support as I pursued my crazy dream. It wasn't always easy, but we made it!\nAnd rest in peace Grandma, I miss you. }
+
+gecko { Gecko! Thanks for your help. The iron fist on our Discord. }
+
+bady { Here's to you Bady! Champion of the arena and loyal companion throughout Drova's development. You've been there since the beginning. }
+
+entwicklerWG { Thanks to all the viewers who supported us on Twitch EntwicklerWG. You have regularly given us strength and motivated us to work on Drova. }
+
+lavapotion { Many thanks to the Lavapotion team, who gave us valuable help with the design of our world at the beginning of the project. }
+
+tinyroar { Greetings and thanks to Tiny Roar for all the advice and the mediation of Fabio! }
+
+Acagamics { Many thanks to Acagamics, the student association at our university, who brought us together and motivated us to develop Drova through events and competitions. Without you, there would be no Drova! }
+
+finish_line { The last words are for you. Thank you. Thank you for playing Drova. }
+
+special_thanks_support { Special thanks for the support during development }
+
+johannes_wish { Thanks to you Lea, for your support and for having a wonderful friendship, even though I canceled the promised vacation three times because I was working on Drova. }
+
+Fabio_wish { Thanks to the founders of Just2D - Chris, Johannes, Kai and Julian. With courage, dedication, transparency and structure you have managed to create a wholesome and safe work environment in which we could live the game development dream together. }
+

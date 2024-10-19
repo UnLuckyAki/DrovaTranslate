@@ -1,0 +1,34 @@
+Level { Уровень: }
+
+LearningPoints { Очки обучения: }
+
+Category_Sword { Меч }
+
+Category_Unknown { ??? }
+
+Category_Spear { Копьё }
+
+Category_Axe { Топор }
+
+Category_Daggers { Кинжалы }
+
+Category_Bow { Лук }
+
+Category_Crafting { Крафт }
+
+Category_Hunting { Материалы }
+
+CombatStrength { Доблесть }
+
+Category_Slingshot { Рогатка }
+
+Category_Shield { Щит }
+
+requirement { Требование: }
+
+Category_Preparation { Подготовка }
+
+Category_Mining { Горное Дело }
+
+fighting_strength { Доблесть }
+

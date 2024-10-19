@@ -1,0 +1,17 @@
+Plh_13 { $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$ будет сражаться с $GVAR:DAS_ArenaSystem.MainFight_Participant_02_Name$ }
+
+Plh_14 { Знак крови и железа! }
+
+Plh_17 { Победитель может быть только один. }
+
+Plh_18 { $GVAR:DAS_ArenaSystem.MainFight_WinnerName$ победил. Забирайте свой выигрыш, если вы сделали ставку правильно! }
+
+Plh_19 { Бейте! }
+
+Plh_27 { На кого я снова поставил? }
+
+Plh_28 { Это было неудивительно. Легкие деньги. }
+
+Plh_30 { Битва начинается! }
+
+Plh_31 { Бойцы готовы. }
