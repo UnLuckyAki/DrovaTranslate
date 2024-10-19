@@ -30,9 +30,9 @@ learningpoints { LP }
 
 talentlearned { Изучен }
 
-talentcannotlearned { Пока не изучаем }
+talentcannotlearned { Пока не изучен }
 
-talentcanbelearned { Изучаем }
+talentcanbelearned { Изучен }
 
 unknownteacher { Неизвестно }
 

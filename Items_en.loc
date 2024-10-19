@@ -698,11 +698,11 @@ cons_flow_spartanKick_name { Удар ногой }
 
 cons_flow_spartanKick_description { Вы наносите [DamageFlexAbs] урона и отбрасываете противников. }
 
-cons_flow_execute_name { Выполнить }
+cons_flow_execute_name { Казнь }
 
-cons_flow_execute_description { Вы наносите [WeaponDamagePercent] урона от оружия и дополнительный [WeaponDamagePercent2] урона от оружия за каждое активное кровотечение, которое беспокоит противника. }
+cons_flow_execute_description { Вы наносите [WeaponDamagePercent] урона от оружия и дополнительные [WeaponDamagePercent2] урона от оружия за каждое активное кровотечение, которое беспокоит противника. }
 
-cons_flow_pierce_name { Пронзить }
+cons_flow_pierce_name { Пронзание }
 
 cons_flow_pierce_description { Вы прыгаете вперед и с помощью копья наносите несколько быстрых выпадов, которые наносят [WeaponDamagePercent] урона от оружия за удар противникам перед вами. }
 

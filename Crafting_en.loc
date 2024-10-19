@@ -10,7 +10,7 @@ Recipes { Рецепты }
 
 Title_Panel { Крафт }
 
-Toggle_CraftableOnly { Отображать только рецепты, которые можно изготовить }
+Toggle_CraftableOnly { Можно изготовить }
 
 Foldout_Throw { Инструменты }
 
@@ -24,7 +24,7 @@ Foldout_Heal { Лечение }
 
 Foldout_Unsorted { Несортированный }
 
-Title_CraftingStation { Рабочая зона }
+Title_CraftingStation { Крафт }
 
 Prefix_RequiredWorkbench { Требуется: }
 
