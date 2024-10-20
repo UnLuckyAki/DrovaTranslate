@@ -126,7 +126,7 @@ Autosave_Min5 { 5 минут }
 
 Autosave_Min10 { 10 минут }
 
-Title_FontAndDialog { Написание и диалог }
+Title_FontAndDialog { Отображение текста }
 
 Toggle_PickUpsToQuickbar_Food { Еда }
 
@@ -198,9 +198,9 @@ Parent_CharacterFeedback { Обратная связь с персонажем }
 
 Title_ScreenHUD { Элементы HUD в углу экрана }
 
-Title_PlayerHUD { HUD элементы, прикрепленные к персонажу игрока }
+Title_PlayerHUD { Элементы HUD, прикрепленные к персонажу игрока }
 
-Title_EnemyHUD { элементы HUD, прикрепленные к неигровым персонажам }
+Title_EnemyHUD { Элементы HUD, прикрепленные к неигровым персонажам }
 
 ShowNPCNames { Отображение имен персонажей }
 
@@ -228,7 +228,7 @@ DisplayMode_Borderless { Оконный режим без рамок }
 
 DisplayMode_Fullscreen { Полный экран }
 
-Zoom_Near { Близкр }
+Zoom_Near { Близко }
 
 Zoom_Far { Далеко }
 
