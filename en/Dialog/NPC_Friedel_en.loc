@@ -12,7 +12,7 @@ Plh_27 { Just a few. }
 
 Plh_28 { Actually, I don't need any coins at the moment. }
 
-Plh_58 { Then hand over the get$GVAR:QuestVars_Debt_Config.HighAmountWithInterest$ coins. }
+Plh_58 { Then hand over the $GVAR:QuestVars_Debt_Config.HighAmountWithInterest$ coins. }
 
 Plh_98 { That many?! }
 
@@ -26,7 +26,7 @@ Plh_63 { Excellent. Pleasure doing business with you. *smirks* }
 
 Plh_64 { You'd better. And make it snappy. You don't want to have any trouble with me, believe me. }
 
-Plh_59 { Then hand over get$GVAR:QuestVars_Debt_Config.LowAmountWithInterest$ coins. }
+Plh_59 { Then hand over the $GVAR:QuestVars_Debt_Config.LowAmountWithInterest$ coins. }
 
 Plh_100 { That's almost twice as much! Usury! }
 
@@ -157,3 +157,4 @@ Plh_118 { Oh, Kilian told you so? You've barely arrived and already you're getti
 Plh_119 { In exchange for coins, I'll be of service. }
 
 Plh_120 { Looks good, I'm on it. It should be ready by tomorrow. }
+
