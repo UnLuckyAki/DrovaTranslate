@@ -1,0 +1,18 @@
+Title { Prosperity }
+
+Entry_01 { On their way to Nemeton, Hansi and Gawan were attacked by rippers. Hansi lost his life — and with it, some valuable cargo: a yellow glyph stone. Gawan wants me to bring him this stone so he can sell it in Nemeton. Gawan will share the profit with me, and he's promising that we'll both be rich. }
+
+Entry_02 { I gave Gawan the glyph stone. He wants to leave for Nemeton in order to sell it there. Coins, coins, coins! }
+
+Entry_03 { Gawan spent the coins he got for the glyph stone on some sheep, and he's promising that the sheep business will allow my coins to double in no time. He wants me to invest $GVAR:QuestVars_RipperAmbush.SheepCosts$ coins. }
+
+Entry_04 { Now I'm in the sheep business. Gawan thinks we'll both be swimming in coins soon. }
+
+Entry_05 { With frogs that search the moor for treasure, Gawan wants to TRIPLE our coins! If I want in, I'll need to invest $GVAR:QuestVars_RipperAmbush.YCosts$ coins. }
+
+Entry_06 { I'm in! Gawan wants to start the search near Georgefarm soon. I hope it's worth it. }
+
+Entry_07 { I've received my share of the coins. Gawan was right. }
+
+Entry_Exit { I've decided against going into business with Gawan. }
+

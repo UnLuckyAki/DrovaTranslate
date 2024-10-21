@@ -1,0 +1,96 @@
+Plh_54 { *You see various items in the crate: lockpicks, earthroots...* }
+
+Plh_55 { (take the lockpicks) }
+
+Plh_57 { (take the earthroots) }
+
+Plh_59 { (put in Gera's tampered Rustmoss) }
+
+Plh_64 { *There are three lockpicks; you grab them.* }
+
+Plh_65 { *Earthroots next to Rustmoss? Whatever. You take them all.* }
+
+Plh_60 { *You lift some items and carefully stash the cut Rustmoss underneath.* }
+
+Plh_36 { Boris sends his regards. I'm supposed to pick up his coins. }
+
+Plh_37 { Ah, Boris is sending a new member. That's you, right? }
+
+Plh_39 { Yes, I've joined Boris now. }
+
+Plh_40 { Anyway, I'm here to pick up his coins. }
+
+Plh_41 { Then he'll be proud that you have fulfilled your first task. *smirks* }
+
+Plh_43 { Here are the coins. You can tell Boris that I'm satisfied. }
+
+Plh_42 { Not much of a talker, eh? }
+
+Plh_21 { Gera wanted to sell you some cut Rustmoss to take your place here. (hand over) }
+
+Plh_25 { What?! Show me. }
+
+Plh_26 { Hmm... this stuff looks normal. *sniffs* Smells normal, too. }
+
+Plh_28 { Light it up, and take a closer look at the ashes. }
+
+Plh_30 { *lights the Rustmoss* }
+
+Plh_31 { Burns normally... }
+
+Plh_32 { But... The ash is much darker and firmer. You're right — there's something in there. }
+
+Plh_33 { And you warned me about it. Thanks. Sure as hell don't know why you did that... }
+
+Plh_34 { ... but you shall be rewarded for it. And if I get hold of Gera, then... }
+
+Plh_53 { Only the best from Leyna! }
+
+Plh_63 { Hands off my box! }
+
+Plh_38 { Someone with that kind of armor down here? Don't worry. We're doing everything by the book. }
+
+Plh_5 { Hey, you there. Looks like you could use something that will do you good. }
+
+Plh_6 { Why? How do I look? }
+
+Plh_7 { Always. Gimme. }
+
+Plh_11 { Isn't "do good" just an all-too-human term that exaggerates what is good, and shouldn't we embrace the darkness in ourselves as well? }
+
+Plh_8 { You do look a little on edge. But we could change that. }
+
+Plh_9 { Sounds good. What do you have? }
+
+Plh_10 { Not interested. }
+
+Plh_18 { It's the best stuff. You can simply try it. If you don't like it, then hey, no problem! }
+
+Plh_19 { Of course, of course. Entirely your decision. You can always change your mind. }
+
+Plh_13 { That's the spirit. Here. It's free. And it will really do you a world of good! }
+
+Plh_17 { If you want more of the stuff, just come over to me. }
+
+Plh_12 { Huh? }
+
+Plh_14 { Doesn't matter. Just give me whatever you've got. }
+
+Plh_15 { "Good" and "goodness" are interconnected, but what "does us good" often does us no good, while the exclamation "My goodness" sometimes — }
+
+Plh_16 { Just shut up and take it. I can't take any more of your yammering. }
+
+Plh_46 { You! You sold me this damn Rustmoss, and Boris gave me hell for it! }
+
+Plh_47 { I don't know what you're talking about. }
+
+Plh_48 { What are you going to do about it? }
+
+Plh_49 { You dirty rat! }
+
+Plh_50 { I... I... I am so angry right now! }
+
+Plh_51 { Go away! Because of you, I'm hosed and have to hew! Me! }
+
+Plh_45 { I'm just talking business. }
+

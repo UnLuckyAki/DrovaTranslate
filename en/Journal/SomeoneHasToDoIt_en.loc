@@ -1,0 +1,8 @@
+Title { Someone's Got to Do It! }
+
+Entry_01 { Out of necessity, Agilo is in charge of the food. He needs me to get him apples from the storage pit so he can proceed with the work. I can find the storage pits on the hill northeast from Agilo. }
+
+Entry_02 { Apparently, someone was tampering with the storage pits, and Agilo is pretty pissed about that. He says that last night they contained a lot more supplies. Now food is running low, and I'm supposed to bring him $GVAR:QuestVars_SomeoneHasToDoIt_Config.AmountOfPlants$ berries. }
+
+Entry_03 { Agilo is now working on the bridge. }
+

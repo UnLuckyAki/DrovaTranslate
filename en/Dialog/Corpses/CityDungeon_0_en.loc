@@ -1,0 +1,10 @@
+Plh_0 { *You examine the body in front of you, and notice it's clutching a yellowed piece of parchment in one hand. Maybe an important message that never reached its destination?* }
+
+Plh_2 { (read the parchment) }
+
+Plh_4 { *Some bone fractures on the body in front of you indicate a painful death. Upon closer inspection, you find an old piece of parchment among the remains of clothing.* }
+
+Plh_5 { *This corpse looks almost peaceful. As if it had just sat down to rest. Under the body's hand, you find a piece of writing.* }
+
+Plh_6 { *Half-overgrown with plants, another dead body is lying here. This corpse, you notice, is also carrying a piece of parchment.* }
+

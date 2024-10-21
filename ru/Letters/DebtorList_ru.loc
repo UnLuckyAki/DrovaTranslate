@@ -1,9 +1,0 @@
-Mog { Мог должен мне $GVAR:QuestVars_Debt_Config.MoneyFromMog$ монет. }
-
-Meluna { Поскольку Мелуну тоже ограбили, она должна мне $GVAR:QuestVars_Debt_Config.MoneyFromMeluna$ монет. }
-
-Lindon { Линдон был наглым.<br>Он должен мне $GVAR:QuestVars_Debt_Config.MoneyFromLindon$ монет. }
-
-Bady { Почтенный Бади взял в долг $GVAR:QuestVars_Debt_Config.MoneyFromBady$ монет. }
-
-Lore { Лор должен мне $GVAR:QuestVars_Debt_Config.MoneyFromLore$ монет. }

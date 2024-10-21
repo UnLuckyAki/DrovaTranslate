@@ -1,0 +1,324 @@
+Plh_222 { Where can I find the Blades of Jero? }
+
+Plh_230 { Eugen is a legend in Drova — he's the mightiest fighter there is. He defeats everyone and everything with his trusty axe. }
+
+Plh_245 { But sadly, nowadays he spends his time drinking in the tavern, wasting all that strength. He's gotten tired of everything. But he's still on the hunt for a challenge. }
+
+Plh_229 { Boris has his fingers in a lot of pies. He's a good fighter, but unpredictable. I think he earns a few coins through some... unpleasant activities. What kind, I don't know. }
+
+Plh_244 { His word carries a lot of weight around here. You'll find his hut just to the west, near the tavern. }
+
+Plh_49 { How's it going, Jola? }
+
+Plh_67 { I've found some new workers. }
+
+Plh_122 { I want to work in the Pit. The note says that you're in charge? }
+
+Plh_231 { I've heard you can take me to the Pit. Is that true? }
+
+Plh_25 { About Aldo... }
+
+Plh_91 { Come on, take a look around. You'll see the benefits of being here. }
+
+Plh_250 { If you're looking for a bed, all the Hewers sleep in the old mine just east of the entrance. You can grab a bunk there. }
+
+Plh_256 { *sizes you up* }
+
+Plh_258 { Apparently, you've chosen the Nemeton. Not a good decision. }
+
+Plh_259 { May I enter the Remnants' camp? }
+
+Plh_260 { The Nemeton suit me better. }
+
+Plh_261 { I want to stay in Drova and live here in peace. }
+
+Plh_264 { You may. You can trade, bet, drink. But do not expect the fighters to treat you well. Enter at your own risk. }
+
+Plh_263 { That's your decision. But it wouldn't be mine. }
+
+Plh_262 { We do not wish to quarrel with Nemeton. We have our own goals. All of you can stay here and do as you will. }
+
+Plh_257 { Hey, you there! }
+
+Plh_265 { Nemeton scum! Get out of here! }
+
+Plh_266 { Stow the weapon, Florin. All Jero said was that nobody from Nemeton is allowed into the Floodplain Forest. We don't want a war. }
+
+Plh_267 { *grml* }
+
+Plh_268 { *breathes heavily* What do you want here? }
+
+Plh_269 { I've come to trade. }
+
+Plh_270 { I want to see some fights in the arena. }
+
+Plh_271 { I'm one of Proximus's fighters. }
+
+Plh_280 { You can go inside. But pay heed... the Nemeton are no friends of the Remnants. }
+
+Plh_274 { I know you. You're $GVAR:EVars_Player.Name$! }
+
+Plh_275 { Your battle against Liandra was legendary. Never thought you'd win. }
+
+Plh_276 { You sure showed her! }
+
+Plh_277 { ...and won! }
+
+Plh_278 { *coughs* Florin! Watch your bearing. }
+
+Plh_279 { Sorry. }
+
+Plh_281 { Haven't seen you fighting in the arena yet. }
+
+Plh_282 { Proximus has spoken of $GVAR:EVars_Player.Name$. }
+
+Plh_286 { You can go in, but don't cause any trouble! }
+
+Plh_165 { I don't want to miss the fire. Finally getting some action. }
+
+Plh_199 { The expedition is back! We'll talk later. }
+
+Plh_4 { Hey, I haven't seen you here before. I'm Jola. *smiles* And frankly... You don't look well, exactly. Do you need anything? }
+
+Plh_212 { I've seen many faces before, but I don't recall seeing yours. Is this your first time here? }
+
+Plh_213 { I really have to get into Nemeton. }
+
+Plh_234 { I'm new to Drova, and I'm looking for Nemeton. }
+
+Plh_236 { You're a long way from Nemeton. This is the Remnants' camp. What's your business in Nemeton? }
+
+Plh_216 { I'm supposed to show this stone to a druid. }
+
+Plh_217 { I want to talk to a druid there. }
+
+Plh_239 { Then you don't need to walk through the Red Moor. We have druids here too. We used to be part of Nemeton, but some time ago we left those nutjobs to their own devices. }
+
+Plh_219 { Good to know. Where can I find your druids? }
+
+Plh_240 { In the Academy. But it is only for Remnants. }
+
+Plh_243 { If you want to join the Remnants, you'll have to convince one of the Blades of Jero — Boris and Eugen — to accept you. You'll also need to belong to one of their squads. }
+
+Plh_169 { Hey! You're now one of Eugen's people, right? }
+
+Plh_170 { That's right. }
+
+Plh_171 { How do you know that? }
+
+Plh_172 { Good for you. And while we're on that subject... }
+
+Plh_174 { The next time you see him, can you ask him something? }
+
+Plh_175 { What's it about? }
+
+Plh_176 { Ask him yourself. }
+
+Plh_177 { Well, Eugen doesn't come by here very much — actually, only when he gets drunk and goes hunting. }
+
+Plh_179 { And... I'd like to get to know him better, if you catch my drift. }
+
+Plh_180 { You like him? }
+
+Plh_181 { ...huh? }
+
+Plh_182 { Not so loud! }
+
+Plh_183 { I can't simply approach him and tell him that I want to talk. }
+
+Plh_184 { But if he happens to come by — if you could do that... }
+
+Plh_185 { Sure, I will. }
+
+Plh_186 { Forget it. Something like that, you've got to do it yourself. }
+
+Plh_187 { Thanks! }
+
+Plh_189 { Here. Because you want to help me. Eugen loves the stuff. But don't let him know it's from me. }
+
+Plh_188 { Oh... *looks down* }
+
+Plh_190 { Ok, forget it. }
+
+Plh_178 { *blushes* I can't! }
+
+Plh_173 { Word get out quickly here in the camp. }
+
+Plh_204 { You survived — that's really great. Report to Kilian. He's waiting for you. }
+
+Plh_205 { What happened here? }
+
+Plh_207 { I'll hurry! }
+
+Plh_208 { The Nemeton actually tried to attack us. They tried to smuggle themselves into the camp, but we uncovered their ruse. And then we fought them. }
+
+Plh_209 { We won, but next time they might attack us with even greater force. }
+
+Plh_36 { Say, didn't you run out of the camp completely naked in the dark so nobody could catch you? That was a hell of a sight, everything bouncing around in the midnight air! }
+
+Plh_164 { I guess Eugen had his fun with you. You might want to be a little more careful next time, otherwise you might get something tangled up in the bushes, haha! }
+
+Plh_284 { Very good. But we need more Hewers in our mine. That silver isn't going to hew itself. }
+
+Plh_51 { If you can scare up any more workers, please get them to come here. }
+
+Plh_203 { We need four people right now. For each pair of hands, I'll pay you $GVAR:QuestVars_WorkerWorkerWorker_Config.RewardPerWorker$ coins. }
+
+Plh_54 { What kind of people should I be looking for? }
+
+Plh_55 { Whom can I ask? }
+
+Plh_56 { I'll bring you some new workers. }
+
+Plh_57 { If I find any, I'll let you know. }
+
+Plh_59 { They should be able to hew. That's enough. }
+
+Plh_60 { Anyone wandering around with their finger up their ass. There's plenty of people without a job lounging around Olaf's tavern. }
+
+Plh_61 { You could persuade Meluna at the Remnants' camp. Actually, she used to help us out with hewing, but she's been sitting on her ass for a while. }
+
+Plh_62 { Very good! Like I said, four people would be enough. Send them straight to me. }
+
+Plh_252 { Are there any teachers here who could train me? }
+
+Plh_254 { There are plenty of good fighters here, but most will teach you only if you belong to the Remnants. }
+
+Plh_255 { I recommend that you try the arena fighters. You'll find them if you walk through the tavern, past the arena. And take some coins with you. }
+
+Plh_68 { Yes, some people have already reported to me! }
+
+Plh_69 { Someone called Jurek from one of the farms stopped by. He looks like he could pitch in pretty well. He's exactly the type I'm looking for! }
+
+Plh_70 { Ruhan came by here. He seems a little weak — but we'll make him strong! }
+
+Plh_71 { I never would have thought we'd hear from Meluna again! }
+
+Plh_285 { She was steamed, but I don't care. }
+
+Plh_72 { Agilo from the woodcutters came here. Asked after this Gero guy. He was really eager to be with us, but whoever this Gero is, I can't say. }
+
+Plh_74 { Excellent! Thanks to your recruiting, we've got a few more people pitching in. It won't go unrewarded. As promised. *winks* }
+
+Plh_76 { I need even more people. So keep your eyes and ears open! }
+
+Plh_119 { We're always looking for good Hewers. There's something in it for you too — a roof over your head, good food, plenty of coins... you don't have to commit to anything! You can work as long as you like. }
+
+Plh_125 { What do I have to do there? }
+
+Plh_128 { You work in a mine and hew silver. Under our protection. Anyone who hews with us — we watch their backs. In every respect. }
+
+Plh_129 { I recently brought some to the Pit... }
+
+Plh_200 { Hmm, actually Mottek should be nearby. He wanted to return to the Pit, and he could take you with him... }
+
+Plh_131 { I wouldn't recommend that you go alone. Dangerous. }
+
+Plh_133 { Who's Mottek? }
+
+Plh_201 { In other words, what Levin says goes? }
+
+Plh_134 { Where exactly do I find Mottek? }
+
+Plh_136 { Mottek was a Hewer. Now he's one of the fighters in the Remnants' camp. He discovered a silver vein in the Pit and got in Levin's good graces. Now he's one of us! }
+
+Plh_202 { Levin determines whether someone is allowed to enter the Upper Quarter, but we follow Jero. He is our leader. Levin is the first step toward getting to him. }
+
+Plh_137 { He is probably loafing somewhere around the arena again. He's gotten this idea into his head about becoming an arena fighter. If you find him, tell him I sent you. }
+
+Plh_233 { You can also walk to the Pit on your own, but it's not safe. }
+
+Plh_141 { I understand. Thanks. }
+
+Plh_248 { Just give me directions. }
+
+Plh_139 { Follow the road northeast. At some point you'll come upon a shrine. Then turn heading east, and follow a dirtpath. }
+
+Plh_140 { Then just follow the path and you should reach the Pit. There were bandits roaming around there, but they should be gone now. }
+
+Plh_249 { Take care of yourself, and don't get mugged. If you're unsure, look for Mottek. }
+
+Plh_130 { And you don't want to be a Hewer? Well, then I hope you'll fare better somewhere else. And that nobody slits your throat at night. }
+
+Plh_0 { You always hear about who's entering and leaving the Remnants' camp, right? }
+
+Plh_23 { Can't you just tell me whether you've seen Aldo? }
+
+Plh_1 { I'm always near the entrance, yes. Why? }
+
+Plh_2 { Has Aldo left the camp recently? }
+
+Plh_3 { Aldo? The Merchant? Hm. Somehow his face is blurry in my mind's eye. If you could help me recall — to make it clearer... }
+
+Plh_5 { I understand. How much? }
+
+Plh_6 { Maybe a headbutt would knock the memory back into you. }
+
+Plh_7 { I want to do Fulk a favor. So? }
+
+Plh_17 { So, what about Aldo? Talk! Or do you want more trouble? }
+
+Plh_210 { I'll be back. (end conversation) }
+
+Plh_8 { Finally, someone who doesn't need any visual aids. Then let me be blunt: $GVAR:QuestVars_TheDoppelgangers_Config.PriceForJola$ coins. }
+
+Plh_19 { Here are the coins. So? (hand over coins) }
+
+Plh_14 { I don't need your help. }
+
+Plh_22 { Oh, it's a miracle! My memory is coming back to me! *clears throat*... Aldo... }
+
+Plh_21 { That's not enough. Come back when you've got more. }
+
+Plh_167 { Good luck on your quest, then. }
+
+Plh_10 { I'd like to think it over. A headbutt without a head would be pretty tough to do. That happens faster than you think... }
+
+Plh_251 { I don't care who you're doing something for. Information has its price. }
+
+Plh_18 { All right. You've got more on the stick than I thought... }
+
+Plh_211 { You know where to find me. }
+
+Plh_26 { That was a few days ago... Aldo left the camp in the evening, heading east. Looked as though he wanted to go to the Remnants with someone else. He seemed stressed and rushed. }
+
+Plh_168 { He's always so quiet, but the two obviously had an argument. }
+
+Plh_27 { Do you know where they went? }
+
+Plh_28 { Who was the other person? }
+
+Plh_31 { Did you see anything else? }
+
+Plh_29 { They left the camp. I saw nothing further. He used to stroll around the Remnants' camp fairly often. Just follow the road northeast, go across the river, and you'll see them. }
+
+Plh_30 { No idea. He was wearing a hat or something, and I couldn't see his face. It was a man... I'm pretty sure of that. And the two seemed to be familiar with each other somehow. }
+
+Plh_32 { No. Only... Hang on... Then Aldo came back and walked went past me. I asked him about his friend's whereabouts, but he was completely absorbed in his own thoughts, and he ignored me. I don't know what was going on with him. Normally he stops to chat with me. }
+
+Plh_33 { All right. Hmm... }
+
+Plh_34 { You've got a good right hook, I've got to admit. Speak with Kilian. We could use people like you. You're always welcome down in the mines. }
+
+Plh_35 { Whatever he saw out there — it could also be waiting to ambush you. You'll need a good weapon, thick armor, otherwise you're dead meat. That's some free advice. }
+
+Plh_103 { Who's Jero? }
+
+Plh_109 { But... Is this not the Land of Legends? }
+
+Plh_246 { He's our leader. He is our savior. }
+
+Plh_106 { For a long time, he believed in Nemeton. He wanted to build a country here, as was foretold. But soon he saw that this was a mistake. }
+
+Plh_247 { He convinced others that they had to secede, and thus the Remnants' camp was founded — a sanctuary for those who won't let themselves be blinded by Nemeton. }
+
+Plh_113 { Instead of chasing a pipedream, Jero is doing everything to make sure we'll be able to leave Drova. And we will do everything we can to ensure he succeeds. }
+
+Plh_112 { A LIE! A lie that's dished out to everyone who comes here, who even WANTS to come here. Drova is a prison, and it's forsaken. But we can still escape before everything is consumed by the Deathfog... }
+
+Plh_100 { Who are the Remnants? }
+
+Plh_94 { In Drova, there are two major factions: the Remnants — that's us — and the Nemeton. We don't intend to live in these ruins forever... We want to get out of here. Not just out of the Remnants' camp, but away from this world! }
+
+Plh_237 { Back home. Away from Drova. We cannot build a life here. Jero shall save us. He shall set us free. }
+

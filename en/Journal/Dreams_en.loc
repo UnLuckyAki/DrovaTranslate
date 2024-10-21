@@ -1,0 +1,14 @@
+Title { Dreams of another World }
+
+Entry_01 { Lorthiz approached me in the tavern, and told me he's been dreaming of me. In his dream, he also saw a strange fossil of which he made a drawing. Maybe this is helpful somehow? }
+
+Entry_02 { Lorthiz dreamed of me again. He was babbling about how a door opened somewhere, and behind the door was another fossil. He made another drawing of his dream — maybe it'll help me find this fossil. }
+
+Entry_03 { Lorthiz seems to be getting crazier by the minute. Now he thinks he saw me on the Red Moor, carrying a lantern and giving a fossil to strange creatures who gave me a ring in return. I don't know what to make of this... }
+
+Entry_End { Lorthiz was right about everything. Now I've got a peculiar ring. }
+
+Entry_FoundFossil { I've found another fossil. Maybe Lorthiz knows what to do with it. }
+
+Entry_NoDreamToday { Lorthiz hasn't had another dream yet, and he can't help me. Maybe I should come back later. }
+

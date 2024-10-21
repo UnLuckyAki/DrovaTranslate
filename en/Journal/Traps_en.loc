@@ -1,0 +1,8 @@
+Title { Traps for Chunnaic }
+
+Entry_01 { At the moment, Chunnaic doesn't have anyone who's capable of crafting traps, which is why she's ready to pay handsomely for bear traps. If I bring her three bear traps, she'll pay me $GVAR:QuestVars_Traps_Config.Reward$ coins. }
+
+Entry_02 { I spoke with Caspara, who knows her way around traps. I'm sure Chunnaic will welcome her assistance. }
+
+Entry_03 { Chunnaic gave me my reward. }
+

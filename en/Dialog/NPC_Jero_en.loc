@@ -1,0 +1,468 @@
+Plh_334 { I'm ready for the Red Tower. }
+
+Plh_335 { All right, let's get started. }
+
+Plh_15 { Come along. }
+
+Plh_158 { Enough talking! Time to strike! }
+
+Plh_16 { Plh_16 }
+
+Plh_74 { Freedom's within our grasp. Be prepared. }
+
+Plh_183 { For busting out. }
+
+Plh_6 { Jero! The expedition was a success. }
+
+Plh_31 { Darwin reported back to me. He's preparing the rune vessel right now. But — we've lost Lindon? }
+
+Plh_199 { It was... *lowers eyes* $GVAR:EVars_Player.Name$, tell it. }
+
+Plh_200 { Lindon made the ultimate sacrifice for us. The Mighty Boar impaled him. }
+
+Plh_201 { The Mighty Boar was too strong for him. Can't be helped. }
+
+Plh_202 { I've heard your name before. From Levin. You're new around here and already joined an expedition? Unusual. But that says something about you. }
+
+Plh_203 { It was really a fluke. $GVAR:EVars_Player.Name$ knew how to navigate through the Blackflame. That's the only way we even made it to the Mighty Boar. }
+
+Plh_204 { The Blackflame that cost so many lives? You know a path through it? You're truly in the right place at the right time. }
+
+Plh_205 { Now, the power of the Mighty Boar is in our hands. Cuna is setting everything up right now. Kilian, lend her a hand. $GVAR:EVars_Player.Name$, you stay here. }
+
+Plh_13 { Yes! }
+
+Plh_206 { I've got something to show you. Come with me. }
+
+Plh_7 { ... }
+
+Plh_387 { We made it! We're in the Red Tower! }
+
+Plh_425 { Molvina, the rune circle has gone dark. It doesn't possess any magical power anymore. }
+
+Plh_426 { That means there will be no turning back — unless we find the Divinities... }
+
+Plh_423 { Farther up in the tower, there are several Divinities... I can feel their presence... }
+
+Plh_424 { Soon the Remnants will know that we're in the Red Tower. We've got to hurry. Once we've got the Divinities, we will be unstoppable! }
+
+Plh_482 { Look around — we must figure out how to open the gate to the upper levels. }
+
+Plh_476 { Well fought. The Bygones are strong, but mindless and without any will of their own. No sense of camaraderie. We are one — and that's why we prevail. }
+
+Plh_431 { I pity them... After all this time in this condition... In the Moor, I sensed what can happen if our connection to this world becomes corrupted... }
+
+Plh_477 { All the more reason to dispatch them to the next world. }
+
+Plh_478 { Not for nothing are they called the "Bygones." Their time is up. WE shall rule over Drova. Let's move out. }
+
+Plh_479 { This barrier... I recall the glowing runes of the Red Tower. Mombert? }
+
+Plh_480 { Yes, it's similar, but weaker. }
+
+Plh_433 { With the power of the Mighty Boar, we should be able to overcome it. }
+
+Plh_261 { You did it! }
+
+Plh_260 { We can pass. }
+
+Plh_262 { Follow me, keep moving! }
+
+Plh_481 { More Bygones ahead, saddle up for battle! }
+
+Plh_435 { No golems in sight... Much better. }
+
+Plh_484 { *smirks* Show them what it means to have a family! }
+
+Plh_336 { *breathes heavily* We did it! Good work! }
+
+Plh_219 { What was that accursed thing?! }
+
+Plh_263 { I — I don't know. It seems to have kept the Bygones alive... Their magical power was unable to escape the construct. }
+
+Plh_264 { "Try to escape death, and you shall never find peace." That's what Dorian, my father, always said. }
+
+Plh_440 { Death is a part of life. Remember Gradan... He's in the next world, thinking of us, just as we think of him. }
+
+Plh_441 { Whoever might be in that next world... They ought to feel lucky to have him. }
+
+Plh_266 { Enough. We've got to find the rune vessels. Look around! }
+
+Plh_443 { Another barrier. We must be close to the top. }
+
+Plh_442 { Do you still have enough strength, Mombert? }
+
+Plh_271 { Let me try... }
+
+Plh_272 { We may pass... }
+
+Plh_273 { Keep going! }
+
+Plh_422 { Look around. }
+
+Plh_213 { The gate's open! Over here! }
+
+Plh_483 { How did you manage that, $GVAR:EVars_Player.Name$? Everything around here is so alien... }
+
+Plh_338 { The relics were in the rooms — hidden. I used them to get the door open. }
+
+Plh_385 { In the meantime, I've figured out their puzzles — the relics had to be placed in exactly the right spot. }
+
+Plh_386 { It's a long story... }
+
+Plh_340 { Good to have you on our side. The Bygones and their weird structures... They probably rigged traps here too. }
+
+Plh_246 { I don't know what's awaiting us upstairs. But we need the rune vessels. Otherwise, this was all for nothing. }
+
+Plh_418 { We've got to hurry. Don't forget why we're doing this. For Nemeton! }
+
+Plh_428 { We follow you! }
+
+Plh_430 { Stay alert. }
+
+Plh_214 { Halt! }
+
+Plh_252 { *whispers* We mustn't attack recklessly. Is this — construct — one of their golems? }
+
+Plh_341 { $GVAR:EVars_Player.Name$, have you ever fought anything like this before? What do you know about it? }
+
+Plh_342 { It can take a beating, and it's got a long reach. Not to mention powerful spells. }
+
+Plh_344 { We've got to spread out. If we do that, it won't be a problem. }
+
+Plh_343 { You just leave that to me. }
+
+Plh_253 { All right, $GVAR:EVars_Player.Name$, you handle the golem. We'll attack the Bygones and cover your back. }
+
+Plh_346 { Get ready. We attack, and... }
+
+Plh_347 { Now! }
+
+Plh_349 { We must be near the top. The Divinities' magical power is so strong — it's unbelievable. It's energizing this rune circle too. Look. }
+
+Plh_350 { Do you know what it does? }
+
+Plh_351 { I'm not sure... But I recognize some of these runes. The circle seems to act as a protective spell...? }
+
+Plh_401 { When you entered the Red Tower, you weakened the protective spell. By doing so, you have sealed your own doom... }
+
+Plh_485 { You damned hypocrites. First the Raven, then the Boar. We shall stop you! Otherwise we're all going to end up like the Bygones! }
+
+Plh_447 { I won't let you get your hands on the rune vessels. }
+
+Plh_282 { Get ready, $GVAR:EVars_Player.Name$. }
+
+Plh_486 { Brother, we are here to create the Land of Legends — we fight for our cause! You want to merely run away? To shirk your responsibility? }
+
+Plh_487 { Just like you always do! A coward who wants to get out of Drova, instead of taking fate into your own hands? Don't you even remember what it used to be like? Only a lunatic would want to go back there... }
+
+Plh_448 { Silence! Nobody speaks to our leader like that! }
+
+Plh_356 { I shall cut out your tongue... }
+
+Plh_357 { Come on then, do it, if you dare! }
+
+Plh_405 { My loyal ones... Lower your weapons. }
+
+Plh_285 { Wh-what? }
+
+Plh_449 { This concerns nobody but my sister and me. Nobody else's blood need be shed. We shall decide — with our own blood. }
+
+Plh_406 { What do you say, sister? Shall we cross swords? }
+
+Plh_288 { Let the Divinities pronounce judgment! By guiding our blades, may they decide who receives the rune vessels and who dictates Drova's fate! }
+
+Plh_290 { What? A judgment by the Divinities? }
+
+Plh_291 { It would mean one of us shall have to die... }
+
+Plh_293 { Step aside! }
+
+Plh_410 { For peace, no sacrifice is too great. Only one more time blood shall flow in Drova. One final time — even if it must stream from the veins of my own brother. }
+
+Plh_411 { I fight for the Nemeton. I fight for all of Drova! }
+
+Plh_412 { Molvina, the Heiress of the Moor. }
+
+Plh_296 { Not good... Not good at all... }
+
+Plh_452 { All of you! Witness the judgment of the Divinities! }
+
+Plh_454 { You have never defeated me in a fight, brother. Coming here was a mistake. }
+
+Plh_453 { Those were fights when we were still young. The mistake was made by you, for I am no longer the little Jero of those days, sister. }
+
+Plh_302 { *whispers* I never wanted it to come to this. }
+
+Plh_303 { *whispers* It's too late. All too late. }
+
+Plh_352 { What was that? }
+
+Plh_353 { It sounded like... No, that can't be... }
+
+Plh_444 { The horn of the Remnants. }
+
+Plh_348 { They're here! }
+
+Plh_397 { Sister. How delightful to see you here. }
+
+Plh_277 { Defense formation! }
+
+Plh_399 { Remnants Warriors— step forward! }
+
+Plh_400 { How did you all get into the Red Tower? }
+
+Plh_229 { Darwin, is this our path to freedom? }
+
+Plh_230 { I... I don't know... I sense magical power, but... }
+
+Plh_231 { The magical power comes from higher up... And it's not connected to this rune circle. The circle has been extinguished. }
+
+Plh_232 { We've got the Mighty Boar. Can we use it to generate enough magical power to rekindle the rune circle? }
+
+Plh_233 { No. The rune circle we seek is located at the top of the tower. We need to find the other rune vessels with the Divinities. }
+
+Plh_234 { So, we go higher up the tower... }
+
+Plh_235 { Look around. Somehow, we've got to open the gate. }
+
+Plh_215 { The Bygones will never stop fighting, but their spirits have already left their bodies... They won't be able to stop us. Are you unharmed? }
+
+Plh_255 { I've never been better. A battle a day keeps the doctor away! }
+
+Plh_256 { That's the Eugen I know! Just fight, and the world will be all right again! }
+
+Plh_257 { We — we've got to keep going. A magical power is growing over us. I can feel it. The Divinities are near. }
+
+Plh_258 { Onward, then! }
+
+Plh_216 { This looks like another magical barrier... }
+
+Plh_217 { It's the same one... }
+
+Plh_259 { The barrier resembles the one that surrounded the Red Tower. But it's weak. With the power of the Mighty Boar, I'll be able to lift it. }
+
+Plh_474 { Careful — still more Bygones. }
+
+Plh_475 { No golem this time. Piece of cake! }
+
+Plh_265 { That's what I always say. I'm a peacemaker. }
+
+Plh_220 { Another one of these barriers. Darwin? }
+
+Plh_358 { Molvina... No, that can't be. }
+
+Plh_362 { How could this have happened? We were so close... }
+
+Plh_455 { I didn't want the fight. I didn't want to kill my sister. But she left me no choice. The Divinities left me no choice. }
+
+Plh_456 { Drova shall never become the Land of Legends. We must return to the land whence we came! And I shall lead us there! }
+
+Plh_457 { Now we are more powerful than the Divinities — why should we shape only Drova in our own image? We possess the power to change the entire world! I hold this power! I do! }
+
+Plh_458 { The rune circle — something's wrong with it. Is it — has it been extinguished? }
+
+Plh_459 { Mombert! None of that matters. The Divinities have spoken. I have spoken! }
+
+Plh_460 { For freedom! }
+
+Plh_461 { Molvina, the Heiress of the Moor! How can this be the will of the Divinities? Jero wants to elevate himself above the Divinities. }
+
+Plh_366 { Henik, it's... }
+
+Plh_367 { Molvina is dead, and so is Nemeton. It can't defend itself. The Divinities belong to us, and we shall become this world's new Divinities! }
+
+Plh_462 { I shall never submit to the Divinities again... I shall decide for myself. }
+
+Plh_463 { Kneel before me. Swear your loyalty to me. }
+
+Plh_464 { Or step into the ring if you do not wish to follow. }
+
+Plh_370 { I will not follow you. Instead, I call you to the judgment of the Divinities. }
+
+Plh_371 { (kneel down) }
+
+Plh_372 { What happened to the rune circle? It no longer glows. }
+
+Plh_467 { What in the Divinities' names are you doing? Are you insane? }
+
+Plh_468 { Someone wants to fight Jero? }
+
+Plh_469 { I admire that courage. Senseless courage, but you have my respect. }
+
+Plh_470 { I'll send you to the Divinities. Fight! }
+
+Plh_465 { Asmus... $GVAR:EVars_Player.Name$... What are you doing?! }
+
+Plh_466 { It was an honorable battle. The Divinities have pronounced their judgement. Jero shall lead us now... }
+
+Plh_471 { For Jero! The bringer of freedom! }
+
+Plh_472 { The rune vessels now belong to the Remnants. With their power, we will leave Drova forever. Freedom is within our grasp! }
+
+Plh_473 { Follow me, Remnant warriors. We will obtain the rune vessels. }
+
+Plh_382 { This isn't good, it may be that — }
+
+Plh_383 { Silence! }
+
+Plh_384 { Kneel and pledge fealty to me. I shall lead us to a better world, where we can live without any Divinities. }
+
+Plh_337 { There are many strange things from the Bygones in this chamber. What have you done, $GVAR:EVars_Player.Name$? }
+
+Plh_247 { We're so close. If we find the Divinities, we'll have more than enough magical power to leave Drova. We'll bring the rune magic home. }
+
+Plh_248 { We'll follow you, Jero! }
+
+Plh_249 { To death and beyond! }
+
+Plh_250 { Soon, we shall drink our beer in freedom! Together! Follow me! }
+
+Plh_354 { NEMETON! }
+
+Plh_274 { The Nemeton! The Nemeton are coming! }
+
+Plh_276 { My brother... So, we meet again. }
+
+Plh_279 { To the front! }
+
+Plh_278 { How did you get here? }
+
+Plh_280 { The barrier had disappeared. The Raven was able to get us into the tower. You brought about your own end... }
+
+Plh_281 { You have destroyed the Forest Primeval! Death follows wherever you go. I shall not allow the rune vessels to wind up in your hands. }
+
+Plh_283 { As if you hadn't resorted to the power of the Divinities! To the power of the Mighty Boar! You hypocrites! }
+
+Plh_355 { Do not address the Heiress of the Moor in that fashion! }
+
+Plh_284 { Warriors of Nemeton... Lower your weapons. }
+
+Plh_286 { Enough blood has been spilled. This concerns only my brother and me. We shall settle this — and with nothing but our own blood. }
+
+Plh_287 { Just the two of us, brother. The survivor gets the rune vessels — and with them, Drova's future. }
+
+Plh_294 { I've dedicated my life to leading the people of Drova to freedom. }
+
+Plh_295 { If accomplishing that requires me to appear before the Divinities for judgment — if I must die for it, or if I must take my sister's life... Then so be it. }
+
+Plh_297 { FOR JERO! }
+
+Plh_299 { Let everyone bear witness as the Divinities pass judgment! Watch the future of Drova emerge from the mist! }
+
+Plh_300 { Then we shall see what you have learned in the meantime — sister. }
+
+Plh_301 { You're about to find out — brother. }
+
+Plh_190 { Eugen told me what happened in the moor. I wouldn't have expected to see you again. We were about to dispatch another search party. Do you have the crystals? }
+
+Plh_191 { Yes, here. (hand over) }
+
+Plh_322 { Eugen totally freaked out. He was no help to me at all. }
+
+Plh_192 { *sizes them up and smirks* I sense the power of the Divinities within them. We can begin. }
+
+Plh_330 { We shall go into the Red Tower. I don't know what awaits us there. Prepare yourself well. }
+
+Plh_331 { I'm ready. }
+
+Plh_332 { I need just a little more time. }
+
+Plh_333 { Then finish what you're doing. Hurry up! }
+
+Plh_323 { I spoke to him. We all want to get out of here. Fortunately, you made it out alive... Your heroism will go down in the history of our new world, $GVAR:EVars_Player.Name$. But first we have to get there... }
+
+Plh_36 { The Red Tower. Our path to freedom! We've been trapped in Drova for too long, but the time has come for us to escape. }
+
+Plh_37 { This was our goal when we left Nemeton and founded the Remnants. Not a day has passed without our striving for this goal. }
+
+Plh_39 { You were once part of Nemeton? }
+
+Plh_38 { And now our goal is within our grasp. }
+
+Plh_41 { Everyone was — because back then, Nemeton was all there was. People thought it to be the Land of Legends. Soon they realized it wasn't, and some wanted to leave. }
+
+Plh_42 { Nemeton's druids did not like that. To mold the Nemeton into what they believed it ought to be, they demanded devotion and obedience. Any dissenters were labeled traitors. So we left and founded the Remnants' camp. }
+
+Plh_43 { That was over twenty years ago now. And believe me — no one's forced to join us. Everyone's here on their own volition. And they believe in our goal. }
+
+Plh_49 { If we are to achieve our goal, we need people who have something to offer. People who fight. People who do not doubt our path. }
+
+Plh_208 { You showed us the way through the Blackflame; you brought us the Divine Crystal, and you were instrumental in enabling us to receive the Divinity's power. }
+
+Plh_317 { Behold the Red Tower. }
+
+Plh_318 { The protective spell is strong and cannot be defeated with physical strength... But now we possess the power of a Divinity. }
+
+Plh_319 { Our druids have developed a ritual in which they can use silver to amplify the Divinity's magical power and direct it towards the barrier. }
+
+Plh_320 { I want you by my side when we enter the Red Tower. }
+
+Plh_53 { Nobody knows what we'll find in the Red Tower. I can't promise that all of us will survive. But I promise to do everything I can to make it happen. Well? }
+
+Plh_194 { Come along. }
+
+Plh_195 { (come along) }
+
+Plh_21 { *grabs your hand, cuts your palm, then does the same to himself* }
+
+Plh_25 { *presses your hand and his onto the Red Tower* We've sworn a blood oath. You've placed your fate in my hands. And I shall liberate you from Drova. }
+
+Plh_54 { The Red Tower is our way out. }
+
+Plh_61 { You need a runestone. We can finally make some, thanks to the Mighty Boar. Go to Cuna and have her give you a runestone. She's on the western side of the Academy. }
+
+Plh_64 { After that, you will report to Kilian. }
+
+Plh_62 { Now go. }
+
+Plh_193 { Start the ritual, Manes. }
+
+Plh_304 { Right away! We'll get the Divine Crystals into position. }
+
+Plh_306 { It simply must work... }
+
+Plh_305 { It will. Have faith in our people, Jero. }
+
+Plh_309 { Get started! }
+
+Plh_307 { The barrier is destroyed! }
+
+Plh_308 { Get ready! The Red Tower is open to us! }
+
+Plh_310 { You heard Jero! Eugen, Fulk and $GVAR:EVars_Player.Name$. Get ready! }
+
+Plh_311 { For freedom! (salute) }
+
+Plh_313 { Into the Red Tower. }
+
+Plh_314 { For Jero! }
+
+Plh_315 { For Farlan. }
+
+Plh_324 { You haven't got much time. It won't be long before the Nemeton will notice that we're in the Red Tower. They'll probably attack. I'll see to the defense. }
+
+Plh_325 { We must be faster than the Nemeton. War is inevitable. We've got to bust out. Come on! }
+
+Plh_328 { We'll need the Mighty Boar for the ritual. }
+
+Plh_327 { Kilian, you and Levin handle the defense. Stop the Nemeton from reaching the Red Tower. }
+
+Plh_81 { Look — the Red Tower... How long have I dreamed of this moment... }
+
+Plh_326 { Our path to freedom. }
+
+Plh_316 { Follow me! }
+
+Plh_211 { We've made it... }
+
+Plh_224 { ... TO THE RED TOWER! We've made it! }
+
+Plh_225 { My whole life I've been working towards this moment ... }
+
+Plh_226 { Jero, this is incredible! }
+
+Plh_227 { Watch out. We're the first people to set foot in the Red Tower in an eternity. This is uncharted territory. This is where the Bygones perished. }
+
+Plh_228 { Stay close. }
+

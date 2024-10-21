@@ -1,0 +1,374 @@
+Plh_25 { They're paying you $GVAR:QuestVars_DeepInTheMine_Config.AmountOfSilverForJendra$?! }
+
+Plh_30 { Here, $GVAR:QuestVars_DeepInTheMine_Config.AmountOfSilverToPayJendra$ should do it. (hand over) }
+
+Plh_32 { What if I offered you $GVAR:QuestVars_DeepInTheMine_Config.AmountOfSilverToPayJendra$ pieces of silver? }
+
+Plh_36 { Almar isn't coming today. }
+
+Plh_99 { What's the canary over there for? The one in the cage? }
+
+Plh_217 { I want to go into the Deep Mine. }
+
+Plh_26 { Of course. And they'll still leave the Deep Mine with a big, fat profit. That's why everyone is so eager to do it. }
+
+Plh_27 { If you say so... }
+
+Plh_28 { That's downright theft! }
+
+Plh_29 { You've still got to learn that things are done a little differently around here... }
+
+Plh_179 { Well? }
+
+Plh_31 { Mm. Well, that's a shame about Almar. But you've got your spot! Next time, I'll take you with me. Let me know as soon as you are ready. }
+
+Plh_89 { We can go into the Deep Mine. }
+
+Plh_90 { I still need some more time. }
+
+Plh_91 { Don't wait too long! }
+
+Plh_33 { Actually, I have a deal with them. Ella's coming along in any case. Otherwise she won't be able to pay Laric, and then he'll come running to me. }
+
+Plh_62 { $GVAR:QuestVars_DeepInTheMine_Config.AmountOfSilverToPayJendra$ pieces of silver. Take it or leave it. }
+
+Plh_63 { Do you really want to miss out on that much silver? }
+
+Plh_64 { *frowns* Hmm. That's a lot. Could be worth Almar's spot... }
+
+Plh_75 { Well, if you can scrape up enough silver, you'll be on your way into the deep. Or rather... into the "depth." That's what we miners call it. }
+
+Plh_35 { What? But we've got to get going! Where can I round up another Hewer? }
+
+Plh_67 { Well... }
+
+Plh_66 { *clears throat*... }
+
+Plh_180 { One's standing right in front of you. }
+
+Plh_181 { OPEN YOUR DAMN EYES! }
+
+Plh_68 { *gnashes teeth* Fine. You may come along THIS TIME. Once Almar is back, he's on the job again. Let me know when you're ready. }
+
+Plh_224 { I'm ready to go into the Deep Mine. }
+
+Plh_100 { Hm? You mean Falco? }
+
+Plh_101 { He's sensitive to the gases down below. If we find him dead on the cage floor, then we know we need to get out quickly. }
+
+Plh_102 { That bird looks pretty thrashed. }
+
+Plh_109 { You are aware of the fact that canaries aren't carnivores? }
+
+Plh_103 { Don't you think that's a bit mean? }
+
+Plh_104 { At least the bird is making itself useful. }
+
+Plh_105 { Well, he's all cooped up in a cage, down in a mine. What do you expect? Shona occasionally brings him something. But I haven't seen her with him in a long time. }
+
+Plh_108 { I put a chunk of fish in Falco's cage — from the fish I caught on the way to the Pit. But he's not interested. }
+
+Plh_110 { Nah. But this is fish! }
+
+Plh_106 { We can't escape Drova, and he can't escape his cage. Such is life. }
+
+Plh_107 { Yeah, he'll croak here before we do. }
+
+Plh_77 { No time. }
+
+Plh_69 { That goes for you too — you are NOT coming along into the Deep Mine! }
+
+Plh_71 { What's the Deep Mine? }
+
+Plh_72 { I'm just here to look around. }
+
+Plh_73 { *sighs* Everyone wants to go there, because that's where you can find the most silver. But it's dangerous, which is why I don't take more than two Hewers along with me. }
+
+Plh_173 { Levin has assigned ME to go into the Deep Mine with a couple of Hewers. So I AM THE ONE who decides who's coming along. }
+
+Plh_8 { Remember my name: Jendra! Down in the ground, I'm the pit boss. Around here, whatever I say goes. Levin trusts me. *thrusts out chin* }
+
+Plh_9 { Isn't it called "down below"? }
+
+Plh_13 { I want to go into the Deep Mine. }
+
+Plh_11 { I'm new around here. }
+
+Plh_12 { Right now, I'm just taking a look around. }
+
+Plh_10 { *face reddens* That's what I said! Get the wax out of your ears! I'm not the pit boss for nothing. So show me the respect I'm entitled to. Got that? }
+
+Plh_14 { Obviously. Watch out that you don't do anything stupid. A lot of the guards in the Pit don't have much of a sense of humor. }
+
+Plh_15 { Then take a look around the shafts. There's still silver that has to be mined. }
+
+Plh_74 { Ha! A Hewer who DOESN'T keep bugging me about the Deep Mine? }
+
+Plh_97 { Believe me, you don't want that. Or are you keen on monsters, collapsing shafts, and darkness? That's just for people who were BORN into mining. }
+
+Plh_17 { I've also made a deal with two Hewers. They pay me good silver, and then I take them along with me. }
+
+Plh_18 { Levin didn't mention anything about Hewers having to pay to work. }
+
+Plh_23 { Take me into the Deep Mine. }
+
+Plh_19 { Well, now you know. Whoever offers the most can come along. Simple as that. }
+
+Plh_20 { And Levin has no problem with that? }
+
+Plh_21 { So you're getting rich off the Hewers' backs... }
+
+Plh_60 { As long as there's enough silver flowing into the Remnants' camp to him, he's satisfied. And there's plenty of it in the Deep Mine. }
+
+Plh_61 { Anyone who comes back up from the Deep Mine will have more silver in their pockets in one day than after several days anywhere else. That's more than fair. }
+
+Plh_98 { Forget it. }
+
+Plh_24 { Almar and Ella pay me $GVAR:QuestVars_DeepInTheMine_Config.AmountOfSilverForJendra$ pieces of silver each. I can see that you don't carry that much. }
+
+Plh_4 { Damn digpigs. Those critters keep coming back again and again. }
+
+Plh_111 { There's nothing more to prospect here. We've got to go deeper. Come on! }
+
+Plh_112 { Those are silver veins. $GVAR:EVars_Player.Name$, you take the left side. Ella, you take the right. }
+
+Plh_210 { Yeah, it's not my first time here. }
+
+Plh_211 { Then you know that Levin wants the silver from here. The faster you hew the silver, the faster we can get out, and the happier Levin will be. }
+
+Plh_76 { Get started. }
+
+Plh_174 { Got it. }
+
+Plh_212 { Get to work! }
+
+Plh_82 { What was that? }
+
+Plh_114 { A... an earthquake? }
+
+Plh_115 { Wh-what! No! We're cut off! }
+
+Plh_116 { The roof's collapsing! }
+
+Plh_259 { RUUUUUUNNNN! }
+
+Plh_83 { Dammit... }
+
+Plh_175 { Jendra! What is it? }
+
+Plh_235 { My arm — I can't move it. And my chest... *breathes heavily* }
+
+Plh_236 { I can hardly — can hardly breathe. }
+
+Plh_237 { That's it! Jendra can't fight any longer, and we're going to end up dead in this wretched hole. }
+
+Plh_238 { Quit your yammering! I can still... }
+
+Plh_176 { ARGH! }
+
+Plh_117 { You've got to see a healer, pronto! }
+
+Plh_118 { There's no time. We've got to go, Jendra. }
+
+Plh_119 { Jendra needs a break. }
+
+Plh_120 { Just a... Just one moment... }
+
+Plh_267 { You've got to assume the leadership position... }
+
+Plh_121 { Wh- what? I can't, dammit! You're the pit boss! Nobody else knows how to do it! We're only Hewers! We need you! }
+
+Plh_124 { She's right. You've got to lead us out of here. }
+
+Plh_125 { Okay... I'll get us out of here, somehow. }
+
+Plh_126 { I can't. And Ella can't either. You'll have to take over. }
+
+Plh_128 { *groans* We need light. Remember your torches... }
+
+Plh_129 { I still have some spell scrolls. Here, take them. Remember — you can use them to cast a spell if you're in danger. But only one per scroll. }
+
+Plh_177 { And some healing ointments too. They might come in handy. }
+
+Plh_204 { And a weapon, so you can defend yourself. }
+
+Plh_239 { P-please, get us out of here. }
+
+Plh_240 { We can make it! The Deep Mine is dark and dangerous, but we can't be too far from the rest of the Pit. }
+
+Plh_241 { If only we make it close enough to the other mine, the others might hear us. }
+
+Plh_242 { I'm sorry to say this, but please go on ahead, $GVAR:EVars_Player.Name$. I can't protect you anymore — you're our last hope. }
+
+Plh_130 { So... We're right behind you. I'll hold the critters off with my slingshot. You're not completely on your own. }
+
+Plh_127 { *clutches chest* We don't have time for this... Go! }
+
+Plh_243 { These damned critters are the last thing we needed right now... }
+
+Plh_244 { Maybe we can find a way around them. The less fighting we have to do, the better. }
+
+Plh_249 { There must be a way out somewhere along here! Otherwise, there'd be no air coming in here. }
+
+Plh_250 { Wh-what w-was that? An-another rockfall? }
+
+Plh_251 { That didn't sound like a rockfall, I'm afraid. }
+
+Plh_252 { Sounded bigger, like something we definitely don't want to encounter. }
+
+Plh_253 { $GVAR:EVars_Player.Name$, you go ahead. We'll be right behind you. }
+
+Plh_262 { Wait. What's that? }
+
+Plh_263 { Is that...? CAREFUL! }
+
+Plh_86 { *looks at wall* The rock here seems unstable. And isn't that a draft of air? Maybe we can loosen the stones... }
+
+Plh_87 { We've made it, finally! You saved us! }
+
+Plh_131 { If not for you, things would have gone very wrong. I never want to go back in there! }
+
+Plh_154 { Jendra! She survived! }
+
+Plh_155 { You're all right. Thanks be to the Divinities! How are you doing? }
+
+Plh_156 { *shaking* In one piece. }
+
+Plh_158 { What happened? }
+
+Plh_159 { We survived. That's all that matters. I had an encounter with a rock and could no longer perform my duties. We wouldn't have made it out if it hadn't been for $GVAR:EVars_Player.Name$. }
+
+Plh_160 { But we did come across another access to the Deep Mine. Maybe with even more silver. }
+
+Plh_161 { We could have found it another way. You need to rest now. }
+
+Plh_162 { $GVAR:EVars_Player.Name$... you did well. }
+
+Plh_163 { We could use people who know what needs to be done when the going gets tough. Report to Kilian in the Remnants' camp. Tell him I sent you. And tell him that you're now permitted to enter the Upper Quarter. }
+
+Plh_164 { We'll take care of your wounds, Jendra. }
+
+Plh_171 { You've saved us. Report to Kilian and join us. We could use people like you. }
+
+Plh_203 { Get us out of here. We're right behind you. }
+
+Plh_78 { Start hewing the silver up here. I'll keep a lookout and make sure we don't get any nasty surprises from down there. }
+
+Plh_79 { We've hewed this place dry. }
+
+Plh_94 { I've run out of steam. }
+
+Plh_80 { You can count on me. }
+
+Plh_81 { What?! You've all hardly hewed a thing. That's not good enough! }
+
+Plh_147 { There's nothing more here. We can't do anything about that. }
+
+Plh_213 { Then we have to push deeper. Otherwise, we're going to have to answer to Levin. }
+
+Plh_214 { Wh-what? Deeper? You yourself said it was too dangerous! }
+
+Plh_215 { Pull yourself together. I'm here to protect you. All you've got to do is start hewing. }
+
+Plh_148 { Is that really a good idea? }
+
+Plh_150 { The deeper tunnels are not very well developed, and they're unstable. }
+
+Plh_216 { Did I ask for your opinion? }
+
+Plh_151 { We've got no choice. If I bring back nothing but a sliver of silver, Levin's going to have my butt in a sling. Follow me. }
+
+Plh_152 { Jendra... }
+
+Plh_153 { If the pit boss tells you to go deeper, then you Hewers will go deeper! So get your asses in gear! }
+
+Plh_95 { Here, take this. It ought to help. Now get back to work. }
+
+Plh_96 { So do it. }
+
+Plh_39 { We're waiting until Ella gets here. }
+
+Plh_42 { So, it's time. Break out your pickaxes and start hewing. }
+
+Plh_45 { *panting* Hey... Jendra... I'm here... ready to join you in the Pit... }
+
+Plh_46 { Not today, Almar. }
+
+Plh_59 { What? And what about all the silver I paid you? }
+
+Plh_143 { It is solely my discretion. Or are you questioning my authority? }
+
+Plh_144 { Of course not, but... }
+
+Plh_145 { Then don't, or you'll never go into the Deep Mine again. Got it? }
+
+Plh_192 { We had an agreement! I give you silver, you let me into the Pit! }
+
+Plh_193 { And someone else gave me more silver. Deal with it. }
+
+Plh_194 { *gives you an venomous look* Then at least give me back my silver! }
+
+Plh_195 { Consider it a down payment for next time. }
+
+Plh_196 { You... you... ARGH! }
+
+Plh_197 { You're the world's worst! }
+
+Plh_198 { He's being difficult. }
+
+Plh_199 { Well, you did rip him off. }
+
+Plh_200 { What a crybaby. }
+
+Plh_201 { Now you want to be difficult, too? Next time, he'll pay less silver. I didn't take anything from him. }
+
+Plh_47 { Can we go? I'm ready. }
+
+Plh_48 { Just so that we're clear: I don't want any debates down there. If I tell you to do something, you do it. Got it? }
+
+Plh_135 { Got it. }
+
+Plh_134 { Got it. }
+
+Plh_138 { Be careful. We had some earthquakes a few days ago. }
+
+Plh_139 { *squints her eyes* Don't you think I know that? }
+
+Plh_140 { Of course you do. *rolls her eyes* Good fortunes in the mines. }
+
+Plh_137 { Sure, good fortunes in the mines. }
+
+Plh_202 { He'll get over it. He needs to get some more silver by no later than tomorrow, and then he'll come to me. }
+
+Plh_167 { All right, but if you work under me, I'm responsible for your safety. What should I call you? }
+
+Plh_168 { $GVAR:EVars_Player.Name$. }
+
+Plh_169 { Doesn't matter to me. Let's get going already. }
+
+Plh_56 { Okay, $GVAR:EVars_Player.Name$. Let's go. }
+
+Plh_141 { Ella! Get ready to descend! }
+
+Plh_142 { Already...? I'm coming! }
+
+Plh_170 { Forget it, then. If I don't know your name, you won't be coming in. So? }
+
+Plh_245 { I hope these were the last of the critters. }
+
+Plh_246 { Damn, I want to get out of here. }
+
+Plh_247 { I am Hewer, not a fighter! }
+
+Plh_248 { $GVAR:EVars_Player.Name$ is on top of things. }
+
+Plh_256 { The freaking critter is... dead. }
+
+Plh_257 { We did it! }
+
+Plh_258 { The exit can't be far now! }
+
+Plh_260 { I'm detecting a draft. }
+
+Plh_261 { The exit must be close! }
+

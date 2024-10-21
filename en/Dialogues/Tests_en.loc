@@ -1,0 +1,18 @@
+Plh_13 { $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$ will fight $GVAR:DAS_ArenaSystem.MainFight_Participant_02_Name$ }
+
+Plh_14 { The mark of blood and iron! }
+
+Plh_17 { There can be only one victor. }
+
+Plh_18 { $GVAR:DAS_ArenaSystem.MainFight_WinnerName$ was victorious. Come get your winnings if you've bet correctly! }
+
+Plh_19 { Hit it! }
+
+Plh_27 { Who did I bet on again? }
+
+Plh_28 { That was hardly surprising. Easy money. }
+
+Plh_30 { The battle begins! }
+
+Plh_31 { The fighters are ready. }
+

@@ -1,0 +1,265 @@
+Control { Controls }
+
+GameMode { Game Mode }
+
+default { Reset }
+
+save { Save }
+
+dont_save { Don't Save }
+
+cancel { Cancel }
+
+keyfield_popup { Your bindings have been changed. Would you like to save this configuration? }
+
+keyfield_popup_conflict { This configuration contains conflicting bindings and cannot be saved. Would you like to continue without saving? }
+
+world { World }
+
+category_dialog { Dialog }
+
+category_music { Music }
+
+category_guimenus { GUI Menus }
+
+category_shotcuts { Miscellanea }
+
+Label_Volume_Master { All }
+
+Label_Volume_Sound { Sound FX }
+
+Label_Volume_Ambience { Ambience }
+
+Label_Volume_UI { User Interface }
+
+Label_Volume_Music { Music }
+
+Options { Options }
+
+gameplay { Gameplay }
+
+interface { Interface }
+
+video { Video }
+
+audio { Audio }
+
+Zoom { Zoom }
+
+ShowPlayerHealth { Display player health bar, focus bar and others }
+
+ShowLootFeedback { Whenever your character picks something up, learns something, becomes stronger, or progresses on a quest, additional information will be displayed on the right side of your screen. }
+
+ShowQuickbar { Display Quickbar }
+
+ShowBuffs { Display status effect symbols }
+
+ShowHealthVignette { Display health vignette }
+
+ShowOptions_Disclaimer { Enable all for recommended play settings. }
+
+ShowDirectionFeedback { Show directional indicator }
+
+ShowHealthbars { Display health bars }
+
+ShowStaminaBar { Display stamina bar and ammunition }
+
+Title_Gamepad { Controller }
+
+Title_KeyBinds { Controls }
+
+Language { Language }
+
+Toggle_ShowHelp { Display Tutorials }
+
+AutosaveInterval { Autosave Interval }
+
+Toggle_PickUpsToQuickbar { Auto-assign items directly to Quickbar }
+
+Toggle_PickUpsToQuickbar_Heal { Healing items }
+
+Toggle_PickUpsToQuickbar_Traps { Traps }
+
+Toggle_AutoDrawWeapon { Draw weapon automatically }
+
+Toggle_AutoEquipArrows { Equip ammunition automatically }
+
+Dropdown_Resolution { Resolution }
+
+Toggle_WindowMode { Windowed Mode }
+
+Slider_FPS { Framerate }
+
+Title_Effects { Effects }
+
+Slider_Screenshake { Screen shake intensity }
+
+Slider_ParticleAmount { Particles }
+
+Toggle_DustParticles { Dust Particles }
+
+Toggle_ShaderEffects { Shader Effects }
+
+Toggle_WindEffects { Wind particles }
+
+Toggle_Vibration { Vibration }
+
+Toggle_AutoAim { Auto-Aim }
+
+State_Low { Low }
+
+State_Medium { Medium }
+
+State_High { High }
+
+Vsync { V-Sync }
+
+Unlimited { Unlimited }
+
+Title_Keyboard { Keyboard }
+
+Option_Generic_Off { Off }
+
+Autosave_Min3 { 3 minutes }
+
+Autosave_Min5 { 5 minutes }
+
+Autosave_Min10 { 10 minutes }
+
+Title_FontAndDialog { Writing and Dialog }
+
+Toggle_PickUpsToQuickbar_Food { Food }
+
+Toggle_PickUpsToQuickbar_Throwables { Throwables }
+
+Toggle_PickUpsToQuickbar_Torches { Torches }
+
+Dropdown_FontSize { Font size }
+
+Dropdown_DialogSpeed { Speed of text display }
+
+FontSize_Small { Normal }
+
+FontSize_Medium { Large }
+
+FontSize_Big { Very large }
+
+DialogSpeed_Instant { Immediately }
+
+DialogSpeed_Fast { Fast }
+
+DialogSpeed_Slow { Normal }
+
+Toggle_GroundFog { Ground fog }
+
+Toggle_Rain { Rain }
+
+Toggle_Clouds { Clouds }
+
+Toggle_TextSounds { Sounds when text is being displayed }
+
+Toggle_NPCDialogSounds { Character sounds }
+
+Toggle_ShowCompleteHUD { Display Full HUD }
+
+Toggle_CharacterFeedback { Display character feedback }
+
+ShowDirectionFeedback_Enemies { Show directional indicators }
+
+ShowPoiseBar_Enemies { Display opponent stance bar }
+
+ShowMunition { Display ammunition }
+
+Toggle_SmartQuickbar { Smart Quickbar }
+
+Toggle_ShowItemChanges { Display obtained/lost items }
+
+Toggle_ShowDiaryChanges { Display Journal Updates }
+
+Toggle_ShowNewSpells { Display newly learned spells, recipes, and talents }
+
+Toggle_ShowCharacterImprovements { Display Character Advancement }
+
+Toggle_ChangeSticks { Swap sticks }
+
+Toggle_ChangeDirectionWithSticks { Swap Direction Pad and Standard Action Buttons }
+
+Toggle_ChangeTriggers { Swap Bumpers }
+
+Keybinding_Preset { Default }
+
+KeyPreset_LeftHanded { Left-Handed }
+
+Toggle_ScrollAbilities { Switch active ability using mouse wheel }
+
+Parent_BasicHudElements { Basic HUD elements }
+
+Parent_CharacterFeedback { Character feedback }
+
+Title_ScreenHUD { HUD elements in the corner of the screen }
+
+Title_PlayerHUD { HUD elements attached to player character }
+
+Title_EnemyHUD { HUD elements attached to non-player characters }
+
+ShowNPCNames { Display character names }
+
+KeyPresent_Standard { Default }
+
+KeyPresent_Azerty { Azerty }
+
+Title_General { General }
+
+Description_SmartQuickbar { Remembers the last item that was assigned to a quickbar slot and assigns it again upon obtaining the same item. }
+
+Toggle_CameraMode { Align camera with line of sight }
+
+Description_CameraMode { The camera will always move where the cursor is pointing. If this this option has been turned off, the camera will align with movement direction. }
+
+Toggle_FilterSellItems { Mark sales items as junk automatically }
+
+Description_FilterSellItems { Marks new items as junk for sale automatically, which causes the item to show up in the inventory only when you display junk. }
+
+Dropdown_DisplayMode { Screen mode }
+
+DisplayMode_Windowed { Windowed Mode }
+
+DisplayMode_Borderless { Borderless Windowed Mode }
+
+DisplayMode_Fullscreen { Full Screen }
+
+Zoom_Near { Close }
+
+Zoom_Far { Far }
+
+Toggle_PickUpsToQuickbar_Potions { Potions }
+
+Description_AutoDrawWeapon { The character automatically draws their weapon when they dodge or use a spell. }
+
+Title_WeatherEffects { Weather Effects }
+
+Toggle_WindMovements { Wind Movement }
+
+Toggle_Quickcast { Quick Casting }
+
+AutoDrawWeapon_CombatAbilitiesOnly { Only Attack Skills }
+
+Description_Quickcast { Upon pressing one of the ability keys, the ability will be switched and, as long as quick casting is enabled, used immediately. }
+
+Description_LookDirection { During combat, an arrow at the character's feet indicates the direction they're facing. }
+
+Description_LookDIrection_NPCs { During combat, an arrow at the character's feet indicates the direction they're facing. }
+
+popup_reset { Discard }
+
+FontSize_Preview { Preview }
+
+MapMarker_Player_Toggle { Show position on map } 
+
+PlayerDmgReceive { Enemy damage }
+
+PlayerDmgOutput { Additional player damage }
+
+Toggle_MiniGame { Deactivate minigames }
+
+MouseLock { Restrict mouse to window }

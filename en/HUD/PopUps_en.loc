@@ -1,0 +1,12 @@
+LevelUp { You gained a level! }
+
+NotEnoughFightingStrength { Not enough prowess }
+
+NoAmmoWarning { No ammunition }
+
+ReloadWarning { Reload }
+
+SpellAlreadyKnown { You've already learned this ability. }
+
+NeedsQuiver { Requires Quiver }
+

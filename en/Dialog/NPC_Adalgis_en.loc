@@ -1,0 +1,156 @@
+Plh_42 { What do you need the coins for? Why are you doing this? }
+
+Plh_41 { Uh, yes... Aleka? }
+
+Plh_43 { That's none of your business. }
+
+Plh_44 { Tell me now, or I'll beat it out of you. }
+
+Plh_46 { I just want to know why you're robbing the Hewers who are going to the Pit. }
+
+Plh_47 { Hey, take it easy. We don't want any trouble with you. }
+
+Plh_49 { *sighs* Actually, we live in the mountains. But our sister Geli has gotten sick. We went to the druid, and... }
+
+Plh_50 { Hey, Adalgis, that's just between us. }
+
+Plh_52 { Who's Geli? }
+
+Plh_53 { So, you just want to help Geli? }
+
+Plh_55 { That's none of your business. Get lost! }
+
+Plh_48 { Those poor Hewers! It's ridiculous — they chose this; they WANT to be exploited. Only Jero and his people have benefited from it. }
+
+Plh_61 { Is the weak lady in your tent your sister? }
+
+Plh_64 { *sighs* Geli is very sick. We don't know what she's got. }
+
+Plh_65 { We went to the druid, and he gave us a recipe for a healing potion. We've already got most of the ingredients, but... }
+
+Plh_88 { Enough now. That's a family matter. Leave us alone. }
+
+Plh_89 { We're not going to rob any more Hewers, you have our word. }
+
+Plh_91 { Keep away from us. }
+
+Plh_68 { I've got the stuff you were looking for. }
+
+Plh_67 { W-What? How do you know about that!? }
+
+Plh_69 { It doesn't matter where we got it. Is it really the bear heart and this weird lotus? }
+
+Plh_70 { Everything looks the way the druid described it. I'll quickly prepare some... }
+
+Plh_71 { That should work! }
+
+Plh_92 { Give it to me, I'll take it to Geli. }
+
+Plh_72 { Here, Geli, this'll help you... }
+
+Plh_93 { Slowly. There's enough. }
+
+Plh_73 { Is it working? Aleka? Geli? }
+
+Plh_94 { She's keeping it down, that's a good sign. Like the druid said, she's calmer, and her breathing's slowing down. }
+
+Plh_96 { Thank you. I think you've saved our sister's life. If it hadn't been for you... }
+
+Plh_97 { What exactly does Geli have? }
+
+Plh_101 { Glad I could help. }
+
+Plh_98 { She's always been weaker than the others. She didn't have a good childhood. She just laid around in bed, like she's doing now. }
+
+Plh_99 { That's why Aleka and I wanted to show her the forest. We snuck out with her. We'd never seen her so happy. She'd never left the village before. }
+
+Plh_100 { Then it was all foggy, and we got turned around. That's how we ended up here. It's our fault she's here. We wanted to help her... }
+
+Plh_102 { Thank you... We don't have much, but you've saved our sister, and nothing's more important to me than that. }
+
+Plh_103 { This is the symbol of our tribe. It carries an ancient power. It means a lot to me, and I want you to have it. }
+
+Plh_104 { Thank you for everything. }
+
+Plh_105 { Thank you for the talisman. I shall guard it well. }
+
+Plh_106 { And take care of yourself, too. }
+
+Plh_75 { All right. We're not messing around anymore. }
+
+Plh_84 { We don't want any trouble. }
+
+Plh_87 { You're not getting away from us again! }
+
+Plh_0 { Hey, I haven't seen your face before. Where are you going? }
+
+Plh_10 { I'm on my way to the Pit. }
+
+Plh_11 { I'm just looking around. }
+
+Plh_12 { I've got to go. }
+
+Plh_13 { Then you're in the right place, you're almost there. Just follow the path. }
+
+Plh_16 { Thank you. Good to know. }
+
+Plh_17 { I'd better be getting back. }
+
+Plh_18 { If you want to pass here, you'll have to pay us $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$ coins. We don't like doing this, but we need the coins. Either you pay us... }
+
+Plh_19 { Or what? }
+
+Plh_21 { Here are the $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$ coins. }
+
+Plh_22 { I don't have enough coins on me. }
+
+Plh_20 { I'm not paying you a thing. }
+
+Plh_24 { *frowns* Or we'll just take them. }
+
+Plh_40 { All right, you may pass. You'll earn the coins back quickly in the Pit. }
+
+Plh_25 { Stay calm, we'll just check how many coins you have on you, then we'll take what we're entitled to. }
+
+Plh_26 { Don't you dare... }
+
+Plh_23 { Of course you can do that, but while you're here, we'll need $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$ coins from you. Either you pay us... }
+
+Plh_14 { Then be careful. Danger lies ahead. A pack of rippers hunts here. You should buy better equipment. You can do that in the Pit. Just head that way. }
+
+Plh_15 { Hey, wait up. If you keep going this way, you'll reach the Pit. }
+
+Plh_107 { Geli's doing better — thanks to you. }
+
+Plh_6 { Hey, we don't want any trouble. We're out of here. Right? }
+
+Plh_7 { Leave this place. }
+
+Plh_8 { We're already gone. You won't be seeing us again. }
+
+Plh_4 { Get out of here. You've paid up, and now you can pass. }
+
+Plh_28 { Leave here. }
+
+Plh_29 { There's no place for you here. }
+
+Plh_38 { What do you need the coins for? }
+
+Plh_30 { We can't leave this place. We need the coins. }
+
+Plh_32 { What do you want to do? }
+
+Plh_33 { Show you both that I'm stronger than either of you. }
+
+Plh_34 { You won't be robbing any more Hewers. }
+
+Plh_85 { Never mind. }
+
+Plh_35 { I'd love to see that... }
+
+Plh_86 { Off you go. }
+
+Plh_39 { Don't be so nosy. See that you make tracks. }
+
+Plh_9 { Hey, we're done. What else do you want? }
+

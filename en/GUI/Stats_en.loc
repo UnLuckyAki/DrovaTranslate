@@ -1,0 +1,22 @@
+ExpPoints { Experience Points }
+
+Name_Strength { Strength }
+
+Name_Mind { Mind }
+
+Name_Dex { Dexterity }
+
+Name_Armor { Armor }
+
+Name_MagicResist { Magic Resistance }
+
+Learned { Learned }
+
+LearnPoint { Learning Point }
+
+LearnPoints { Learning Points }
+
+MaximumHealth { Maximum Health }
+
+Name_Orientationpunkt { Base Focus }
+

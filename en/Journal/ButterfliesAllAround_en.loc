@@ -1,0 +1,10 @@
+Title { Help in the Grove }
+
+Entry_01 { Kerr wants me to catch $GVAR:QuestVars_ButterfliesAllAround_Config.AmountOfButterfliesNeeded$ special butterflies in the Sacred Grove. Apparently, I can recognize them by their special wings. }
+
+Entry_02 { I've got all the butterflies with me. }
+
+Entry_03 { Kerr was happy about my assistance, and he gave me a reward. }
+
+Entry_00 { A druid in the Sacred Grove needs help with something. The Sacred Grove is in the north of Nemeton. I can get there by taking the bridge to the east near the warehouse. }
+

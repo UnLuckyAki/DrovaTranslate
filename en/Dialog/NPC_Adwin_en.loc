@@ -1,0 +1,102 @@
+Plh_66 { I heard an argument. Jennifer said you were out of wood? }
+
+Plh_72 { Shall I fetch the wood for you? }
+
+Plh_52 { Here's your wood. (hand over $GVAR:QuestVars_WoodForAdwin_Config.AmountOfWoodRequired$ logs) }
+
+Plh_67 { That's right. So? }
+
+Plh_73 { I could get it for you. }
+
+Plh_68 { Really? You'd be saving my ass. Junali is massively pissed because it's all gone... }
+
+Plh_69 { Actually, Swenn should have brought us $GVAR:QuestVars_WoodForAdwin_Config.AmountOfWoodRequired$ logs. But we've been waiting forever now. }
+
+Plh_70 { If you bring us some wood, of course I'll pay you for it. }
+
+Plh_53 { At last we can continue working. That'll calm Junali down a bit, too. She was already pretty annoyed about everything taking so long. }
+
+Plh_54 { And Swenn just handed over the wood, just like that? }
+
+Plh_55 { Yes, he just needed someone to transport it. }
+
+Plh_56 { I wasn't at Swenn's. I got it myself. }
+
+Plh_57 { Lazy dog, making others haul while he stands around counting coins. }
+
+Plh_59 { You really helped us out with that. Here, this is for you. }
+
+Plh_60 { Go on, take it. Honest work, fair pay, simple as that. If you lend a hand, you get paid for it. That's how it works with us crafters. }
+
+Plh_58 { You're definitely more reliable than the merchants here. We're constantly at loggerheads with them... }
+
+Plh_11 { What's the deal with the boundary stones? }
+
+Plh_16 { Where's the boundary stone supposed to go? }
+
+Plh_61 { How exactly do these boundary stones work? }
+
+Plh_12 { We live in harmony with the Great Raven and set the boundary stones for him. We secure his territory, and in return, it allows us to live here. }
+
+Plh_13 { Living in harmony with a Divinity is something very special. Give a little, take a little. We are one. }
+
+Plh_17 { One boundary stone in the apple grove is no longer doing its job. The countryside there used to bloom. Now the Red Moor is spreading. This is how the Divinity punishes us... }
+
+Plh_19 { The Divinity's boundary stones must be built. Otherwise, Drova will never become the Land of Legends. }
+
+Plh_62 { The Divinity likes the boundary stones. We build them to please it. The Nemeton try everything to remain in the Divinity's good graces. }
+
+Plh_63 { That's why we've placed these boundary stones in a circle all around Nemeton. Now everything here flourishes. Nothing is as dilapidated as it is at the Remnants' camp. }
+
+Plh_64 { The Divinity thanks us for our service and, in return, grants us this fertile land. It does something for us. And we do something for it. }
+
+Plh_6 { It's nice to see a new face here. I'm Adwin. }
+
+Plh_7 { I'm $GVAR:EVars_Player.Name$. What are you doing here? }
+
+Plh_9 { We're setting a boundary stone to extend the Great Raven's sphere of influence. Surely you've noticed these stones around Nemeton? }
+
+Plh_21 { *startles* What do you want here? }
+
+Plh_22 { I was just about to ask you the same thing. }
+
+Plh_26 { Are you the guy who's been defacing the walls? }
+
+Plh_24 { I just want to relax. Lots to do, not much work. But... What do you care? Get out of here. }
+
+Plh_27 { The guy? I'm the one who's telling the truth about what the Nemeton are doing! }
+
+Plh_28 { Look to the Forest Primeval! They killed the Divinity. The Raven doesn't exist. Everything's a lie, and I'm going to expose it! }
+
+Plh_31 { Tell that to Gerdwin. He's looking for you. }
+
+Plh_32 { Gerdwin? Hah! He doesn't understand what the Nemeton are doing to us. You were on the expedition... You know what happened! You, too, should shout out the truth and write it on the walls! }
+
+Plh_29 { Gerdwin thinks you'll get what's coming to you. }
+
+Plh_39 { Either you go to Gerdwin now or I'll take you to him. }
+
+Plh_30 { It's best you stop doing that, and I'll tell Gerdwin that it's taken care of. }
+
+Plh_37 { Actually, you're right. Give me that paintbrush. }
+
+Plh_38 { Me? You killed a Divinity, I say it out loud, and I'm supposed to get punished for it. }
+
+Plh_40 { The truth will be revealed. }
+
+Plh_41 { Get your filthy hands off me! I'm going. }
+
+Plh_42 { Hm. Gerdwin showed Kendrick no mercy. Fine. I yield. }
+
+Plh_51 { Hopefully the Remnants appreciate it when people tell the truth. I'm out of here... }
+
+Plh_43 { I like that! }
+
+Plh_44 { Looks interesting, but... Is Gerdwin really looking for me? }
+
+Plh_46 { It's up on the bulletin board. }
+
+Plh_47 { Then I can really be glad that YOU were the one who found me. But who knows what's going to happen... }
+
+Plh_20 { *glances at you* What do you want? }
+

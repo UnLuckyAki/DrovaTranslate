@@ -1,0 +1,81 @@
+EnterName { Enter name... }
+
+Body { Body }
+
+Visual { Appearance }
+
+Souvenir { Keepsake }
+
+SaveMode { Game Mode }
+
+DefaultMode { Classic }
+
+ImmersiveMode { Iron }
+
+StoryMode { Explorer }
+
+SkipIntro { Skip Intro }
+
+Option_BodyType { Physique }
+
+Option_SkinColor { Skin Color }
+
+Option_Voice { Voice }
+
+Option_Hair { Hairstyle }
+
+Option_HairColor { Hair color }
+
+Option_Deco { Decoration }
+
+Option_Beard { Beard }
+
+Option_BeardColor { Beard Color }
+
+Souvenir_Empty { No Keepsake }
+
+Souvenir_Empty_Tooltip { Just you and your abilities. You've got everything you need. }
+
+Souvenir_Alchemy { Remedies }
+
+Souvenir_Alchemy_Tooltip { You're well prepared and always carry a small stash of remedies with you. }
+
+Souvenir_Money { Coin Purse }
+
+Souvenir_Money_Tooltip { You never leave the house without your coin purse. }
+
+Souvenir_Health { Ring of Life }
+
+Souvenir_Health_Tooltip { This ring is infused with the Essence of Life. Your health is increased. }
+
+Souvenir_Thief { Lockpick }
+
+Souvenir_Thief_Tooltip { Fortune favors the... well, they who make their own luck. }
+
+Souvenir_Strength { Ring of Strength }
+
+Souvenir_Strength_Tooltip { You value physical strength. This ring does just the trick. }
+
+GameMode_Normal_Tooltip { Recommended setting. Drova is dangerous. Be careful who you mess with! }
+
+GameMode_Immersive_Tooltip { Live with your decisions. You only have one save game and the game saves automatically. }
+
+InvalidName { This name is not available! }
+
+HardcoreMode { Hardcore }
+
+GameMode_Hardcore_Tooltip { The ultimate challenge. You only have one life and one save game. }
+
+UseKeyboard { Please enter your name using the keyboard! }
+
+GameMode_Story_Tooltip { You cause more damage and can take more damage. }
+
+Story_PopUp { Are you sure you want to play Drova in Explorer mode?<br><br>You deal more damage and can withstand more. You can customise the damage values in the options and switch between Explorer and Classic mode freely.<br><br>You can save and load at any time. }
+
+Immersive_PopUp { Are you sure you want to play Drova in Iron mode?<br><br>You only have one savegame and the game automatically saves regularly after dialogues, battles, quest progress and important decisions.<br><br>You cannot change this mode once you have started the game. }
+
+Hardcore_PopUp { Are you sure you want to play Drova in Hardcore mode?<br><br>You only have one savegame and the game saves automatically. If your character dies, your savegame will be deleted.<br><br>Once you have started the game, you can no longer change this mode.<br><br>The ultimate challenge. Only the toughest Drova fighters can master this mode. }
+
+SaveModePopUp_Title { Select your save mode }
+
+SaveModePopUp_Text_Default { In Drova, you have several options for saving your game.<br><br>In classic mode, you can save to different slots at any time.<br><br>If you select Iron mode, you only have one savegame and the game saves automatically. Manual saving is not possible in this mode. }

@@ -1,0 +1,10 @@
+Mog { Mog owes me $GVAR:QuestVars_Debt_Config.MoneyFromMog$ coins. }
+
+Meluna { Since Meluna was robbed, she too owes me $GVAR:QuestVars_Debt_Config.MoneyFromMeluna$ coins. }
+
+Lindon { Lindon was being bold.<br>He owes me $GVAR:QuestVars_Debt_Config.MoneyFromLindon$ coins. }
+
+Bady { The honorable Bady took out a loan of $GVAR:QuestVars_Debt_Config.MoneyFromBady$ coins. }
+
+Lore { Lore owes me $GVAR:QuestVars_Debt_Config.MoneyFromLore$ coins. }
+

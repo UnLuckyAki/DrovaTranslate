@@ -1,0 +1,170 @@
+Plh_50 { Quest help... }
+
+Plh_20 { Agnessa needs to relax. Let her rest for a few days. }
+
+Plh_51 { Did you know that there's a secret bunk in the Pit? }
+
+Plh_52 { Hm. Oh, and by the way — if you dig really deep into the Pit, you'll find a secret way out of Drova. }
+
+Plh_53 { But... }
+
+Plh_54 { I don't have time for your fairy tales. Get to work! }
+
+Plh_4 { Hey, you. Rough day? You look exhausted. }
+
+Plh_82 { We built a bunkhouse here for you Hewers. It's warm and cozy in there. Lie down and get some rest. Afterward, the work will go much easier. }
+
+Plh_0 { I'd very much like that... }
+
+Plh_1 { What's the catch? }
+
+Plh_2 { Not now. }
+
+Plh_27 { Just find yourself a bed and get some shuteye. }
+
+Plh_5 { No catch. Those who labor deserve to rest. Just take a load off. }
+
+Plh_6 { All right. You can come back anytime you're tired and need some sleep. }
+
+Plh_55 { Hey. You still owe me coins! You won't get away with this again! }
+
+Plh_68 { Haha, did you see those suckers lying in the dirt? }
+
+Plh_69 { You've made the right choice. And because Mursel is such a nice guy, can sleep here for free now. }
+
+Plh_70 { And you, Emko, you're going to pay double. *smirks* }
+
+Plh_71 { You're world's worst scum. }
+
+Plh_73 { You brought this upon yourself. }
+
+Plh_72 { If you hadn't tried to cheat me, this would have played out very differently. }
+
+Plh_74 { *turns red* You... YOU...! }
+
+Plh_76 { Just get lost. Everything's been said here. }
+
+Plh_59 { That Emko's always been a jerk. But we've got to get back to work. The silver isn't going to prospect itself. Unfortunately. }
+
+Plh_75 { Look, it wasn't anything personal. We're all friends down here! }
+
+Plh_77 { Ah, goddammit... }
+
+Plh_78 { Now you two rats know your place! My silver belongs to ME, and you're not getting ANY of it! }
+
+Plh_79 { All right, easy... }
+
+Plh_80 { Thanks for nothing. }
+
+Plh_44 { Ugh. It's you. }
+
+Plh_57 { I hope you're not always going to be thinking about that ass-kicking when you sleep here. You're supposed to relax, hehe. *smirks* }
+
+Plh_8 { So, sleep well? *smirks* That'll be $GVAR:QuestVars_YouLookTired_Config.PriceForSleeping$ silver. }
+
+Plh_28 { You want silver for sleeping? Levin said we're going to be provided with a place to sleep. }
+
+Plh_45 { Can't we do this another way? }
+
+Plh_29 { You DID get a place to sleep. Is Levin here? No. So pay good old Mursel, and we'll stay friends. }
+
+Plh_60 { How about I give you $GVAR:QuestVars_YouLookTired_Config.FlatrateSleepingPrice$ silver and never have to pay ever again? }
+
+Plh_62 { All right, here is $GVAR:QuestVars_YouLookTired_Config.FlatrateSleepingPrice$ silver. You'll stay away from me from now on. }
+
+Plh_9 { Ugh. Here, for last night. (hand over $GVAR:QuestVars_YouLookTired_Config.PriceForSleeping$ silver) }
+
+Plh_10 { I don't have $GVAR:QuestVars_YouLookTired_Config.PriceForSleeping$ silver. }
+
+Plh_11 { The hell I will! }
+
+Plh_61 { Judging by your looks, you won't stay here for long anyway. Let's make it so. *smirks* }
+
+Plh_63 { *smirks very widely* Ah, right! I've got this message from Levin saying that I'm supposed to make some kind of exception for you. }
+
+Plh_65 { You can sleep here all you like. Rest up whenever you need some shuteye. *winks at you* }
+
+Plh_64 { You think you're funny or something? Bring enough silver! }
+
+Plh_13 { That's better. You're a good Hewer. Just keep on hewing. *smirks* }
+
+Plh_15 { You should have thought of that before sleeping here. Now I'll take what's rightfully mine. }
+
+Plh_16 { Then I'll take what's rightfully mine. }
+
+Plh_46 { Silver is the answer to everything. Hand it over or else. }
+
+Plh_84 { First you come here making waves, trying to be the cock of the walk, and then you just bail. Pretty damned pathetic. }
+
+Plh_85 { I'll let that slide for now... You Hewers have funny notions sometimes. }
+
+Plh_86 { You wanted to fight alongside me against those stupid Hewers, and then you just bail? }
+
+Plh_17 { You're not messing with me again. Oh, by the way, I've already taken the silver that's coming to me. }
+
+Plh_95 { You can sleep easy. }
+
+Plh_56 { You poor thing, you didn't even have any silver on you. Now beat it and get to work. }
+
+Plh_18 { Ugh. *grumbles* All right, you can crash here. }
+
+Plh_47 { I hope you've learned your lesson. You're not getting any silver from me. }
+
+Plh_48 { From now on I'll sleep here for free, understand? }
+
+Plh_49 { Sure, sure. I got it. }
+
+Plh_19 { Ugh. What's up? }
+
+Plh_96 { What's up? Go hewing or sleeping. Don't care. }
+
+Plh_34 { You get some rest. I'll take good care of you Hewers. }
+
+Plh_21 { What? That crone still owes me a bunch of silver that I lent her for new equipment. How is it my problem that she's been slacking off for two days because she's injured? }
+
+Plh_22 { Do I have to mess you up again? }
+
+Plh_90 { Can't you cut Agnessa some slack? She's in really bad pain. }
+
+Plh_91 { Can't we come to some other kind of arrangement regarding Agnessa's problem? }
+
+Plh_30 { If you don't leave Agnessa alone, you're going to regret it. }
+
+Plh_33 { Leave Agnessa alone already! (draw weapon) }
+
+Plh_35 { How much silver does Agnessa owe you? }
+
+Plh_37 { Here, $GVAR:QuestVars_INeedToWorkAgain_Config.AgnessasDebt$ silver. That should take care of Agnessa's debt. }
+
+Plh_23 { All right. Just forget it. (End conversation) }
+
+Plh_24 { Ugh. All right. You win. I'll cut Agnessa some slack. But I'm still going to want my silver back once she's able to work again! }
+
+Plh_89 { Forget it. If word gets out that I got soft with some silly Agnessa chick,, then nobody will ever take me seriously again. }
+
+Plh_93 { No way. }
+
+Plh_92 { Sure. There's a simple solution. }
+
+Plh_94 { She needs to fork over the silver I lent her. Then everything will be fine and dandy again. }
+
+Plh_31 { You want a piece of me? }
+
+Plh_87 { I'd love to see that! }
+
+Plh_32 { You looking for seconds? Anytime. }
+
+Plh_36 { I lent her $GVAR:QuestVars_INeedToWorkAgain_Config.AgnessasDebt$ silver. Then she came groveling and was like... }
+
+Plh_83 { *mimicking a squeaky voice* "Please, Mursel, please! I can't work like this! I'll pay you back real soon!" }
+
+Plh_88 { And then she's too stupid to hew... }
+
+Plh_38 { *smirks widely* That's better. All right, I'll leave Agnessa alone. So no one can say I'm not a reasonable guy! }
+
+Plh_39 { And bring enough silver! }
+
+Plh_25 { Already done. }
+
+Plh_40 { You again. *sighs* }
+

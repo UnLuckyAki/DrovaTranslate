@@ -1,0 +1,2 @@
+FishingTutorial { Try to keep the needle inside the blue shape. <br>$INPUT:Lockpick_Left$: Move needle to the left <br>$INPUT:Lockpick_Right$: Move needle to the right.<br>When the green gauge is full, you've caught the fish. }
+

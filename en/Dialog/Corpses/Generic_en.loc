@@ -1,0 +1,18 @@
+Plh_0 { *You stand before a severely disfigured corpse. Whole chunks of flesh have been bitten out. Whoever died here has re-entered the cycle of nature as a food source.* }
+
+Plh_2 { (search the corpse) }
+
+Plh_4 { *You examine the corpse closely, but you don't recognize the person. Too little of the person's face is left.* }
+
+Plh_6 { *Decomposition has set in, and maggots are rooting through the corpse's heavily decayed flesh. It's emitting an acrid stench. It appears to have been dead for a considerable length of time.* }
+
+Plh_7 { *You inspect the body again, but still can't recognize who the person is. The decomposition is simply too far gone.* }
+
+Plh_12 { *This corpse before you is covered in deep wounds. The clothing is stained and stiff with dried blood. It has already begun to decompose.* }
+
+Plh_13 { *Even upon closer inspection, you still don't recognize the deceased. Either you've never met him, or the decomposition has distorted his appearance too severely.* }
+
+Plh_17 { *You come across a viciously mangled corpse. The cause of death isn't discernible. Apparently, too many animals have already been gnawing on it.* }
+
+Plh_18 { *You take a closer look at the corpse, yet you can't identify the deceased.* }
+

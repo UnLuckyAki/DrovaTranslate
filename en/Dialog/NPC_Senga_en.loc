@@ -1,0 +1,58 @@
+Plh_5 { Do you need some Rustmoss? }
+
+Plh_31 { What are you doing here? }
+
+Plh_32 { What do you think I'm doing? }
+
+Plh_33 { Hew, chat, smoke some Rustmoss from time to time, rinse and repeat. The things one does as a Hewer. }
+
+Plh_29 { The Divinity needs to watch out. }
+
+Plh_30 { Yes! For Jero! For our freedom! For the Red Tower! }
+
+Plh_23 { *yawns* What is it? }
+
+Plh_6 { Yes! Are you running errands for Boris? I've been waiting for new stuff for days now! }
+
+Plh_34 { I've got nothing left. }
+
+Plh_7 { Yes, but it's only a one-time thing. }
+
+Plh_8 { Exactly. And I carry the best stuff you'll have ever tried. }
+
+Plh_35 { All gone already? Dammit! }
+
+Plh_9 { I don't care! The main thing is, there's more supply! }
+
+Plh_11 { How much do you want for it? }
+
+Plh_13 { Pay me $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ coins, and you've got yourself a deal. }
+
+Plh_14 { That's really good stuff. I'll give you some for $GVAR:QuestVars_JobForBoris_Config.ScamPricePerJoint$ coins. }
+
+Plh_15 { The stuff is getting more expensive by the minute. Here, take it. }
+
+Plh_22 { That's what makes all the misery worth it. Thank you. }
+
+Plh_16 { What? That's twice as much as last time! Don't bullshit me. }
+
+Plh_17 { All right, fine, the actual price is $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ coins. }
+
+Plh_18 { It's been getting more difficult to get hold of the stuff. Take it or I'll offer it to someone else. }
+
+Plh_21 { Don't kid a kidder! Otherwise, I'll tell Boris about your "adjusted price." }
+
+Plh_19 { *grinds his teeth* That Boris... }
+
+Plh_20 { First he almost gives away the Rustmoss for free, and now I can hardly afford the stuff. }
+
+Plh_24 { All right, hand it over before you run out. }
+
+Plh_10 { That's what people like you always say when they want to try to push something. }
+
+Plh_12 { Hey! I heard you're selling fresh Rustmoss for Boris! You got some for me? }
+
+Plh_27 { *BELLOWS* }
+
+Plh_28 { Unbelievable — the Divinity has been defeated! }
+

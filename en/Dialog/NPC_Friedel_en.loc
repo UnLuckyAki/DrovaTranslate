@@ -1,0 +1,159 @@
+Plh_24 { I want to borrow some coins. }
+
+Plh_57 { I want to settle my debts. }
+
+Plh_104 { I don't owe you anything anymore. (smirk) }
+
+Plh_25 { How many? }
+
+Plh_26 { I really need a lot. }
+
+Plh_27 { Just a few. }
+
+Plh_28 { Actually, I don't need any coins at the moment. }
+
+Plh_58 { Then hand over the get$GVAR:QuestVars_Debt_Config.HighAmountWithInterest$ coins. }
+
+Plh_98 { That many?! }
+
+Plh_66 { Here, take them. (Give $GVAR:QuestVars_Debt_Config.HighAmountWithInterest$ coins) }
+
+Plh_62 { Oh, I don't have it on me right now. I'll bring it to you later. }
+
+Plh_99 { If you don't like it, you shouldn't have borrowed any. Enough jawboning. Show me the money! }
+
+Plh_63 { Excellent. Pleasure doing business with you. *smirks* }
+
+Plh_64 { You'd better. And make it snappy. You don't want to have any trouble with me, believe me. }
+
+Plh_59 { Then hand over get$GVAR:QuestVars_Debt_Config.LowAmountWithInterest$ coins. }
+
+Plh_100 { That's almost twice as much! Usury! }
+
+Plh_61 { Here, take them. (hand over $GVAR:QuestVars_Debt_Config.LowAmountWithInterest$ coins) }
+
+Plh_101 { Oh yeah? If you don't like it, then you shouldn't have borrowed anything! Believe me, you don't want to get on my bad side. }
+
+Plh_105 { What? Your name is written on my list. In big black letters... *rummages in her table* }
+
+Plh_106 { The list... I had it right here! Where did it go?! }
+
+Plh_108 { As I said: No evidence, no debt! }
+
+Plh_109 { *grinds her teeth* If find out that you have ANYTHING to do with this, then you're in for a world of hurt, my friend. Then you'll wish a ripper really HAD torn you to pieces! }
+
+Plh_70 { I hope Eugen brings everyone back safely again this time. Lindon is one of my best customers. }
+
+Plh_71 { If Lindon doesn't come back, I'll be stuck with his debt. }
+
+Plh_72 { I swear, if he croaks, I'll kill him. }
+
+Plh_73 { Damn it! Where's Lindon? }
+
+Plh_75 { He... He didn't make it. }
+
+Plh_76 { Lindon is dead. The Divinity got him. }
+
+Plh_77 { No!? It... it can't be! He can't die yet! }
+
+Plh_78 { He borrowed a load of coins from me. And ALMOST always paid everything back. Now I have to find another sucker... }
+
+Plh_80 { That damn Divinity. }
+
+Plh_79 { The guy still owes me a BUNCH of coins. I'll never see those again. }
+
+Plh_74 { This is bullshit. Lindon... You bastard. }
+
+Plh_4 { *ignores you and paces up and down* }
+
+Plh_95 { Hey, get your hands off my desk! }
+
+Plh_7 { *sizes you up and winces* You don't need to say anything. It's written all over your face. A lot or a few? }
+
+Plh_5 { ... what are you talking about? }
+
+Plh_6 { A lot. }
+
+Plh_8 { A few. }
+
+Plh_9 { I am Friedel, lender of coin. You're here because you probably need some coins. }
+
+Plh_10 { I was just looking around. }
+
+Plh_11 { How many coins can you lend me? }
+
+Plh_19 { You already did. Do you need coins now or not? }
+
+Plh_16 { It depends on how much you want to owe good old Friedel here. }
+
+Plh_17 { I need a lot of coins. }
+
+Plh_18 { I just need a few coins. }
+
+Plh_68 { I don't need any coins right now. }
+
+Plh_69 { Then stop wasting my time. }
+
+Plh_12 { You'll get $GVAR:QuestVars_Debt_Config.LowAmount$ coins from me. No more, no less. }
+
+Plh_23 { *Friedel opens one of the drawers at her desk. She gets out a list and puts it down in front of you* Here, sign. }
+
+Plh_54 { (sign) }
+
+Plh_55 { I've changed my mind. I don't want to borrow any coins. }
+
+Plh_97 { *You sign, Friedel gives you the coins and smirks* }
+
+Plh_30 { So, our business is concluded. *quickly makes the list disappear into her drawer* }
+
+Plh_14 { I want my coins back in three days, max. No later. And I strongly advise you to pay me back on time. }
+
+Plh_56 { If you don't want to borrow anything, then stop wasting my time. }
+
+Plh_13 { Here you are. $GVAR:QuestVars_Debt_Config.HighAmount$ coins. That should be enough. }
+
+Plh_111 { You floored Snake. You won't get a single coin from me! Scram! }
+
+Plh_22 { How many do you need? }
+
+Plh_103 { My list of debtors! Dammit! }
+
+Plh_29 { Remember... You owe me. }
+
+Plh_81 { *You see a meticulously organized table, with papers neatly arranged; some are open, others rolled up together.* }
+
+Plh_82 { (examine the papers on the table) }
+
+Plh_83 { (open the top drawer) }
+
+Plh_90 { (open the bottom drawer) }
+
+Plh_84 { *The papers look like a contract. There's a line at the bottom for a signature and several lines at the top detailing the agreement's terms.* }
+
+Plh_85 { *In the drawer, you find a worn pipe, a small amount of Rustmoss, and a handful of coins.* }
+
+Plh_86 { (take the Rustmoss and the coins) }
+
+Plh_87 { (close the drawer) }
+
+Plh_89 { *You quickly stash the items in your pockets.* }
+
+Plh_91 { *A parchment containing a list immediately catches your eye. Listed are a number of names and coin amounts.* }
+
+Plh_92 { (take the list) }
+
+Plh_112 { Kilian told me that you can help me improve my home. }
+
+Plh_113 { Pay up your debts first, then we'll talk. }
+
+Plh_114 { I'd like to have a better bed. (Give $GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Bed$ coins) }
+
+Plh_115 { I'd like to have a workbench. (Give $GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Workbench$ coins) }
+
+Plh_116 { I'd like to have a furnace. (Give $GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Smith$ coins) }
+
+Plh_118 { Oh, Kilian told you so? You've barely arrived and already you're getting your own personal quarters! But if Kilian says so, he's going to have his reasons. }
+
+Plh_119 { In exchange for coins, I'll be of service. }
+
+Plh_120 { Looks good, I'm on it. It should be ready by tomorrow. }

@@ -1,0 +1,60 @@
+Plh_10 { Is your name really Snake? }
+
+Plh_12 { Really? That's what your mother called you? }
+
+Plh_11 { Sure. That's what my mother named me. Snake. }
+
+Plh_13 { Tell me, did you fall and hit your head or something? }
+
+Plh_14 { Believe me, you don't want to know my real name. }
+
+Plh_6 { What's in there? }
+
+Plh_8 { I'll get coins just like that? }
+
+Plh_7 { As many as you could possibly need. }
+
+Plh_9 { Of course. Friedel is happy to give you something. }
+
+Plh_5 { Go on in. Snake's keeping an eye on you. }
+
+Plh_34 { What a nice evening for sitting in Bernold's tavern. Snake also likes taking a break. }
+
+Plh_16 { Well, well... you thought you could just borrow some coins and run off with them? }
+
+Plh_17 { Cough up the $GVAR:QuestVars_Debt_Config.HighAmountWithInterest$ coins you owe Friedel, otherwise I'll turn you to firewood. }
+
+Plh_22 { What? But I didn't borrow that many! }
+
+Plh_19 { Fine, fine. Take them. (Hand over $GVAR:QuestVars_Debt_Config.HighAmountWithInterest$ coins) }
+
+Plh_20 { Fine, fine. Take them. (Hand over $GVAR:QuestVars_Debt_Config.LowAmountWithInterest$ coins) }
+
+Plh_21 { Just come and take the coins. }
+
+Plh_23 { Seriously? }
+
+Plh_24 { You think Friedel just wants her coins back? How can you expect her to make a profit? I ought to give you a good crack on the head for such a stupid question. }
+
+Plh_25 { Go on, then. And next time, pay up without asking questions. }
+
+Plh_28 { Are you trying to pull something on me? You haven't got enough coins with you! I'm going to have to teach you a lesson. }
+
+Plh_29 { I did warn you, but you didn't listen. Now you're really going to be in for it! }
+
+Plh_30 { I am EMRE! And people get a good smack from me whenever coins are missing. }
+
+Plh_27 { I was hoping you'd say that. *smirks* }
+
+Plh_18 { Cough up the $GVAR:QuestVars_Debt_Config.LowAmountWithInterest$ coins you owe Friedel, otherwise I'll chop you up into firewood. }
+
+Plh_31 { You kicked my ass. }
+
+Plh_32 { Get out of here. }
+
+Plh_15 { If you need any coins, go inside and talk to Friedel. }
+
+Plh_33 { Nothing beats a brewski after work. }
+
+Nickname { Snake }
+

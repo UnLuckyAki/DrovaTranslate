@@ -1,0 +1,84 @@
+Plh_48 { About your stuff... }
+
+Plh_35 { Have you been here long? }
+
+Plh_36 { How did you go blind? }
+
+Plh_37 { Don't you have a family that can support you? }
+
+Plh_7 { Here, I've got your things. (hand over bearskin) }
+
+Plh_20 { Here, I've got your things. (hand over sheepskin) }
+
+Plh_50 { Still working on that. }
+
+Plh_9 { Oh, finally a bearskin. It's so soft. I'm telling you, my life is already hard enough. }
+
+Plh_10 { It was a young bear. }
+
+Plh_11 { Where are my coins? }
+
+Plh_8 { I am so grateful. Take the coins out of a bag. I can't see them. }
+
+Plh_12 { (Take all $GVAR:QuestVars_OldMan_Config.AllMoney$ coins from the bag) }
+
+Plh_13 { (Take $GVAR:QuestVars_OldMen_Config.DefaultValue$ coins out of the bag) }
+
+Plh_14 { I don't want any coins. }
+
+Plh_17 { I can't remember the last time I wasn't cold at night. But tonight it's going to be different... }
+
+Plh_18 { You... You're just giving me the skin outright? I haven't experienced such kindness for a long time. May the Raven protect you. }
+
+Plh_21 { *strokes the fur* Finally, a bearskin! So soft, so beautiful... but... So small? Aren't bears bigger? }
+
+Plh_51 { I'll wait here for you. }
+
+Plh_38 { Ha! I'm almost as old as Nemeton itself! }
+
+Plh_41 { You couldn't possibly imagine what I've seen here. When Nemeton was great... A place nobody wanted to leave... }
+
+Plh_42 { But then the Remnants came... }
+
+Plh_43 { Molvina should have done more about the Remnants. She's weak! Just like her father! He was a coward, even back then! }
+
+Plh_39 { Would you believe me if I told you I was once a valiant fighter, but was overcome and punished by my enemies? }
+
+Plh_46 { Yes. }
+
+Plh_47 { No. }
+
+Plh_44 { Then let's leave it at that. }
+
+Plh_45 { It speaks well of you that you aren't the type to believe everything people tell you. Age simply caught up with me. }
+
+Plh_40 { Do you think I'd be here if I had one?! }
+
+Plh_23 { Hello? Hello? Is anybody there? }
+
+Plh_24 { Yes. I am. }
+
+Plh_25 { No. }
+
+Plh_27 { Ah! }
+
+Plh_6 { I am Gilwar. Believe me, I would be glad to leave you alone, but right now I have no choice... }
+
+Plh_5 { Look at me. I am old and blind. I require assistance. You sound young and strong. Can you get me four apples, a bread knife, three pieces of springwort, and a bearskin from the market? I'll pay you for it, too. }
+
+Plh_31 { Of course! I'll help you. }
+
+Plh_32 { I don't have time for that... }
+
+Plh_33 { So there are still some decent people around here! You'll find everything here in the market. }
+
+Plh_34 { Hmph. Too bad. If you change your mind, I'll be here. Maybe someone else will come along... }
+
+Plh_28 { Hmph. I don't need anybody's help to screw myself over. }
+
+Plh_29 { I can hear you! }
+
+Plh_30 { Yes, I'm here... }
+
+Plh_22 { Is that you again? }
+

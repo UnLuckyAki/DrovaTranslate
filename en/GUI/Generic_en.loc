@@ -1,0 +1,17 @@
+cancel { Cancel }
+
+accept { Accept }
+
+yes { Yes }
+
+no { No }
+
+on { On }
+
+off { Off }
+
+holdToSkip { Hold to skip }
+
+gameModeChangeDesc { If you change the mode, you can no longer undo it. Are you sure? }
+
+loadLatestPopUp { Do you want to load your latest save game? }

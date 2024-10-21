@@ -1,0 +1,208 @@
+Plh_86 { Plh_86 }
+
+Plh_9 { Did you swipe the package from Asmus? }
+
+Plh_134 { About the package... }
+
+Plh_87 { Why do you think you don't belong here? }
+
+Plh_92 { Why were you kicked out? }
+
+Plh_109 { And what are you going to do now? }
+
+Plh_88 { Why?! Because I used to be a Nemeton! }
+
+Plh_89 { I worked my ass off for them. And how do they repay me? By taking my armor, my weapon, everything! I can't even get something to eat at the Shack! }
+
+Plh_90 { They're all acting as if they didn't even know me! As if I'd never been one of them! }
+
+Plh_91 { Bastards. All of ‘em. }
+
+Plh_93 { Apparently, it's MY fault that some dirty bandits robbed me. I was a runner for Asmus, delivering stuff to the Remnants' camp. }
+
+Plh_94 { I'm not a bad fighter, but I don't stand a chance against three people coming at me. }
+
+Plh_96 { So run away instead of fighting. }
+
+Plh_97 { Three against one? Those rats! }
+
+Plh_95 { Now that won't work if they surround me, will it? }
+
+Plh_99 { I warned Asmus that I keep getting ambushed by them, and that I need reinforcements. He said he'd take care of it, but did he? }
+
+Plh_100 { Of course he didn't! And then it's ultimately my fault! }
+
+Plh_101 { That's really not fair! }
+
+Plh_102 { Of course it's your fault. }
+
+Plh_103 { That's what I'm telling you! And they BANISH me for it! }
+
+Plh_105 { I'll show each and every one of them. They didn't want to help their own brother, and they blew him off. }
+
+Plh_106 { But I let loose one more time at Asmus's place. He wouldn't help me, so I got back at him! I smashed up the place and swiped some more stuff. He deserved it. }
+
+Plh_104 { What do you know about it?! }
+
+Plh_98 { That's what I'm telling you! What should I do? }
+
+Plh_110 { Do what? I'm going to get mauled by all kinds of creatures out there. And I'll never join the Remnants, those traitors! They'll slit your throat and laugh the whole time they're doing it. }
+
+Plh_111 { At least they didn't burn me at the stake. }
+
+Plh_198 { I'm going to Asmus now. Bring the package there. }
+
+Plh_84 { You look like you've just gotten here, too. }
+
+Plh_85 { Look at me, wearing rags and loitering around this goddamn Lost Quarter. As if I were some kind of nobody! I don't belong here! }
+
+Plh_152 { There you are. Did you find the package? }
+
+Plh_153 { Looks like it. Is it this one? (hand over) }
+
+Plh_155 { Yes, that's it. Good, then let's... }
+
+Plh_156 { I don't really know how to start. But it has to be! }
+
+Plh_160 { (walk over with Afrin) }
+
+Plh_161 { Afrin! There you are! }
+
+Plh_205 { I wanted to tell you something else... }
+
+Plh_162 { No, Asmus. I've got to tell you something. }
+
+Plh_163 { Your place... }
+
+Plh_165 { I was the one who... smashed it up. }
+
+Plh_166 { You?! What? Goddammit, WHY? }
+
+Plh_167 { Because they kicked me out! I busted my ass with your deliveries — and they banished me! You could've helped me! You could've stood up for me! }
+
+Plh_169 { So that's why you've been avoiding me. Afrin, I DID stand up for you! They've wanted to get rid of you for a while. I spoke up for you! }
+
+Plh_170 { Angus didn't want to assign any more men to our business. He doesn't think it's worth it, you know that! I begged Molvina to forgive you. }
+
+Plh_171 { But they overruled me... }
+
+Plh_172 { Really? }
+
+Plh_173 { I swear by the Raven and on my parents' lives! Did you really think I'd just leave you hanging like that? After all this time, you ought to know me better. }
+
+Plh_174 { Forgive me, Asmus. I've made a huge mistake. }
+
+Plh_175 { I'm so sorry... }
+
+Plh_176 { It's all right, Afrin. I can empathize, given the crap you've been through. }
+
+Plh_177 { And don't beat yourself up about my place. It's just a few broken knickknacks. I don't blame you. Let's find out what's going wrong. }
+
+Plh_178 { And when we get proof of the robberies, you show it to Molvina! Then she'll HAVE to realize that she shouldn't have banished you! }
+
+Plh_179 { Do you really think they'll take me back? }
+
+Plh_180 { If the evidence is compelling, yes. I'll get something to eat from the Shack, then we'll tidy up my place and you can stay the night. }
+
+Plh_181 { Thanks, Asmus. Really, I'm so sorry! }
+
+Plh_185 { I guess you helped Afrin with the whole thing, didn't you? }
+
+Plh_186 { Oh, actually I was just asking the right questions. (smirk) }
+
+Plh_187 { He figured it out on his own. Well... Almost. }
+
+Plh_188 { Either way, at least you're not fighting anymore. }
+
+Plh_189 { Like hell! I would never have gone to Asmus if it hadn't been for $GVAR:EVars_Player.Name$. }
+
+Plh_191 { We'll talk about the thing with the package in a minute. I've got more work for you, if you're interested. }
+
+Plh_190 { That's right... }
+
+Plh_138 { All right, all right! I'll tell you whatever you want to know. }
+
+Plh_128 { The package is in the apple grove. Take a closer look at the tree next to the pile of wood. It's buried there. }
+
+Plh_139 { You could have just said so. }
+
+Plh_141 { Get out of here. I don't want to see you anymore. }
+
+Plh_137 { You little shit! First you provoke me, then you run away. Really embarrassing. }
+
+Plh_136 { You make a big deal of it at first, but then you can't dish it out, can you? }
+
+Plh_199 { Hey, you got the package? }
+
+Plh_206 { Thanks for your help. Maybe I'll be able to return to Nemeton, thanks to you. }
+
+Plh_207 { Thanks to you, I'm a part of the Nemeton again. Thanks for everything! }
+
+Plh_50 { I'm sick of looking at those abandoned houses. }
+
+Plh_112 { Wha-? Oh, dammit, I shouldn't have told you anything. I'm just waiting for Asmus to show up and tell me I'm good to go. }
+
+Plh_114 { Can I relieve you of the package in exchange for a few coins? }
+
+Plh_125 { All right then. Take the $GVAR:QuestVars_TheOutcast_Config.PackagePrice_Full$ coins and hand it over. }
+
+Plh_135 { Let's settle this thing with the package once and for all. (draw weapon) }
+
+Plh_115 { Hand over the package, or else... }
+
+Plh_113 { Asmus didn't mention your name. }
+
+Plh_201 { I don't think Asmus suspected you at all. }
+
+Plh_203 { Talk it over. Maybe you can come to an agreement. }
+
+Plh_117 { Hm? Sure. Give me $GVAR:QuestVars_TheOutcast_Config.PackagePrice_Full$ coins and it's all yours. Can't do anything with it anyway, and the coins will get me by for a while. }
+
+Plh_126 { *smirks* That's the way I like it. }
+
+Plh_129 { How? Now I'm supposed to get my hands dirty? }
+
+Plh_130 { You're a reasonable person to do business with. }
+
+Plh_131 { Yes, you are. I certainly won't. }
+
+Plh_132 { Right back at you! *smirks* }
+
+Plh_127 { Then bring enough coins! What do you think you're trying to pull, anyway? }
+
+Plh_121 { You wouldn't have it any other way! Then I'll just let my anger out on YOU! }
+
+Plh_118 { You want a piece of me? You can have it! But then don't say I didn't warn you! }
+
+Plh_119 { Then let's see what you can do. (draw weapon) }
+
+Plh_120 { I take it back. }
+
+Plh_122 { You've sure got a big mouth. But all right, I'll let it slide this time... }
+
+Plh_200 { Oh really? First you want to beat me up, and now you're lying to me? Forget it. }
+
+Plh_116 { What? I... I thought he'd know right away it was me. He's the one who got me banished, after all! }
+
+Plh_204 { Forget it. I don't want to hear another word from you. }
+
+Plh_202 { Can that really be true? That would change... everything. }
+
+Plh_144 { I've been avoiding him ever since I was banished, so he wouldn't try and weasel his way out of it. Anyhow, HE was the one who didn't send me any backup! }
+
+Plh_145 { I'm sure he would have backed you up if it had been possible. }
+
+Plh_146 { Sounds to me like you should listen to his side of the story. }
+
+Plh_148 { Maybe you're right. }
+
+Plh_149 { If I don't talk to him, I'll never know whether my suspicions are correct. }
+
+Plh_150 { Oh, screw it. I'll talk to him. He can have his stupid package back. It's useless to me anyway. }
+
+Plh_151 { I'll wait for you at Asmus's place, then we'll sort everything out. }
+
+Plh_124 { I'm glad you said that. }
+
+Plh_133 { You want to go over all that again? Ugh. }
+

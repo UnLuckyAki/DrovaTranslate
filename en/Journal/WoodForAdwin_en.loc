@@ -1,0 +1,10 @@
+Title { Wood for Adwin }
+
+Entry_01 { Adwin, in the Crafters' Quarter, urgently needs $GVAR:QuestVars_WoodForAdwin_Config.AmountOfWoodRequired$ logs of wood. I'm supposed to fetch them from Swenn at the Market Square. }
+
+Entry_02 { I've got the wood — Jennifer and Swenn almost started a brawl over it. Now I need to take it to Adwin. }
+
+Entry_03 { Adwin's got the wood, and I've got my coins. }
+
+Entry_04 { I've got better things to do now. }
+
