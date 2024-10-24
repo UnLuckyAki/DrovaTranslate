@@ -78,4 +78,4 @@ Hardcore_PopUp { Are you sure you want to play Drova in Hardcore mode?<br><br>Yo
 
 SaveModePopUp_Title { Select your save mode }
 
-SaveModePopUp_Text_Default { In Drova, you have several options for saving your game.<br><br>In classic mode, you can save to different slots at any time.<br><br>If you select Iron mode, you only have one savegame and the game saves automatically. Manual saving is not possible in this mode. }
+SaveModePopUp_Text_Default { In Drova, you have several options for saving your game.<br><br>In classic mode, you can save to different slots at any time.<br><br>If you select Iron mode the game saves automatically. Manual saving is not possible in this mode. }

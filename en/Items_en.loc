@@ -996,13 +996,13 @@ armor_chest_shirt_ragged_name_name { Rags }
 
 armor_chest_shirt_ragged_name_description { Better than nothing, I guess... }
 
-armor_chest_ruinenlager_fighter_druid_name_name { Ruinics Druidic Fighter Armor }
+armor_chest_ruinenlager_fighter_druid_name_name { Remnants Druidic Fighter Armor }
 
 armor_chest_ruinenlager_fighter_druid_name_description { Only the strongest in the Remnants' camp are allowed to wear this armor. }
 
-armor_chest_ruinenlager_fighter_fight_name_name { Ruinics Light Fighter Armor }
+armor_chest_ruinenlager_fighter_fight_name_name { Remnants Light Fighter Armor }
 
-armor_chest_ruinenlager_fighter_heavy_name_name { Ruinics Heavy Fighter Armor }
+armor_chest_ruinenlager_fighter_heavy_name_name { Remnants Heavy Fighter Armor }
 
 armor_chest_ruinenlager_heavy_name_name { Remnants Heavy Armor }
 
@@ -1056,7 +1056,7 @@ item_riptoothchain_description { Bleed effects inflict their damage faster. }
 
 item_vipertooth_name { Tooth of the Viper }
 
-item_vipertooth_description { The effect of poison is further slowed down by [SlowPercent]. }
+item_vipertooth_description { The slowing of poison is increases by [SlowPercent]. }
 
 item_mastersmemory_name { Belt of the Master }
 
@@ -1232,7 +1232,7 @@ item_paperchasestone_rune_description { Thanks to my artistic talents, a rune no
 
 misc_riddle_deer_name { Silver Antlers }
 
-misc_riddle_deer_description { A magical artefact of the bygones. Inspired by a divinity.  }
+misc_riddle_deer_description { A magical artefact of the bygones. Inspired by a divinity. }
 
 misc_riddle_fox_name { Silver Paw }
 
@@ -1404,7 +1404,7 @@ recipe_ironbar_name { Recipe: Iron Ingot }
 
 recipe_ironlump_name { Recipe: Lump of Iron }
 
-recipe_ironstone_name { Recipe: Irons Balls }
+recipe_ironstone_name { Recipe: Iron Balls }
 
 recipe_jaggedthrowingknife_name { Recipe: Jagged Ritual Knife }
 
@@ -1564,9 +1564,9 @@ key_sleepingTavernKey_description { I rented Olaf's upstairs room for one night.
 
 item_strangeFossil_name { Strange Fossil }
 
-letter_leru_hint01_name { Leru's First Dream Drawing }
+letter_leru_hint01_name { Lorthiz's First Dream Drawing }
 
-letter_leru_hint02_name { Leru's Second Dream Drawing }
+letter_leru_hint02_name { Lorthiz's Second Dream Drawing }
 
 armor_chest_nemeton_social_name_name { Nemeton Garb }
 
@@ -1698,7 +1698,7 @@ misc_map_leuchtwald_name { Map of the Forest Primeval }
 
 misc_worldmap_detailed_name { Map of Drova }
 
-misc_worldmap_detailed_description { Drawn by one "Leru." }
+misc_worldmap_detailed_description { Drawn by one "Lorthiz". }
 
 misc_worldmap_shrines_name { Map of the Shrines }
 
@@ -1842,7 +1842,7 @@ item_fish_dead_description { That's still raw. Not fit for human consumption. }
 
 recipe_foodpile_strong_name { Recipe: Jumping Bass }
 
-letter_leru_hint03_name { Leru's Third Dream Drawing }
+letter_leru_hint03_name { Lorthiz's Third Dream Drawing }
 
 key_chest_BanditCamp_name { Heavy Key }
 
@@ -2032,7 +2032,7 @@ item_KendrickSagar_description {  }
 
 recipe_throwingknife_name { Recipe: Throwing Knife }
 
-item_letterAtlanter_Extractor2_description { item_letterAtlanter_Extractor2_description }
+item_letterAtlanter_Extractor2_description {  }
 
 item_letterAtlanter_Armor_name { Armor of the Bygones }
 

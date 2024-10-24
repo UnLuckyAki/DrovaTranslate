@@ -20,7 +20,7 @@ Plh_10 { Hm... I don't know... }
 
 Plh_11 { Trust me, you won't regret it! }
 
-Plh_15 { Tonight $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$ will face $GVAR:DAS_ArenaSystem.MainFight_Participant_02_Name$. }
+Plh_15 { Tonight at 9pm: $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$ will face $GVAR:DAS_ArenaSystem.MainFight_Participant_02_Name$. }
 
 Plh_16 { Is this some kind of clue? }
 
@@ -74,7 +74,7 @@ Plh_50 { The shield is riddled with holes and cracks — as if something had bee
 
 Plh_51 { A raven above a triskelion. }
 
-Plh_52 { Two hands, a friendly handshake, and a coin below them. }
+Plh_52 { Two hands, a friendly handshake, and a coin above them. }
 
 Plh_53 { It shows the heft and the beginning of a sword's blade under the raven of Nemeton. }
 

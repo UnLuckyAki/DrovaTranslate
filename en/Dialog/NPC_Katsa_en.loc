@@ -61,3 +61,9 @@ Plh_47 { Good fortunes in the mines! Come along. I'll explain the rules around h
 Plh_48 { *Grumbles* Better listen to Trusty... }
 
 Plh_53 { Where's the silver? Have you been sleeping the whole time? Next time I want to see silver. }
+
+Plh_54 { You have prospected a total of $GVAR:EVars_Katsa.PlayerSilverDiffAmountMine$ silver, $GVAR:EVars_Katsa.SilverDefaultAmount$ silver go into our pockets, the remaining $GVAR:EVars_Katsa.SilverAmountLeaveMine$ silver are yours. }
+
+Plh_55 { You have prospected a total of $GVAR:EVars_Katsa.PlayerSilverDiffAmountMine$ silver, $GVAR:EVars_Katsa.SilverAngryAmount$ silver go into our pockets, the remaining $GVAR:EVars_Katsa.SilverAmountLeaveMine$ silver are yours. }
+
+Plh_56 { You have prospected a total of $GVAR:EVars_Katsa.PlayerSilverDiffAmountMine$ silver, $GVAR:EVars_Katsa.SilverFriendlyAmount$ silver go into our pockets, the remaining $GVAR:EVars_Katsa.SilverAmountLeaveMine$ silver are yours. }

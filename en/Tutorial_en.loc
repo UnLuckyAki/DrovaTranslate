@@ -84,7 +84,7 @@ CloseTutorial { Hide }
 
 CloseTutorial_Gamepad { Close (Hold $INPUTANIM:UISubmit$) }
 
-Statuseffects { You've walked into a thornbush and became afflicted with "bleed."<br>In the game, there are several afflictions which will be displayed to the left and below your health bar.<br>Open the menu using $INPUTANIM:Inventory$ in order to use tooltips to take a closer look at the various afflictions. }
+Statuseffects { You've walked into a thornbush and became afflicted with "bleed."<br>In the game, there are several afflictions which will be displayed to the right of your health bar.<br>Open the menu using $INPUTANIM:Inventory$ in order to use tooltips to take a closer look at the various afflictions. }
 
 Secondaries { You've found a shield!<br>This is an offhand item. Use it in combat by pressing $INPUTANIM:Block$.<br>If you press $INPUTANIM:Block$ without having an offhand item equipped, you'll perform an action unique to each weapon type instead. }
 
