@@ -4,7 +4,7 @@ Entry_01 { I've got a crude talisman, but it's missing a leather cord. The child
 
 Entry_02 { Rura fastened a leather cord to my talisman. Now all I've got to do is purify the talisman in the Eternal Fire of Nemeton. }
 
-Entry_03 { With Myrte's assistance, I was able to purify the talisman. But now I've got to engrave something. Myrte said, "Follow the lights of the night at the stone circle in Nemeton. Listen to their melody, and the Raven himself shall guide you." What's that supposed to mean? }
+Entry_03 { With Myrte's assistance, I was able to purify the talisman. But now I've got to engrave something. Myrte said, "Search for the lights of the night at the central stone circle in Nemeton. Play to their dance and they will guide you to the sign of the raven." What's that supposed to mean? }
 
 Entry_04 { On the talisman, I've painted a symbol that's connected with the Great Raven. Am I done now? Maybe I should ask the children. }
 
@@ -20,7 +20,7 @@ Entry_05B { There was a strange place in the moor. Ever since I went there, my t
 
 Entry_04A { The blessings of change are in a place haunted by eternal darkness, yet surrounded by light. Five phases of life form the circle of change. }
 
-Entry_04C { The blessings of the wellspring can be found on a small island where all the birds land on a lonely rock singing, with the voices of the past swarming around them. }
+Entry_04C { The blessing of the wellspring can be found on a small island, off from the overgrown shore. Birds sit on a mighty rock and sing their song together.}
 
 Entry_03_Rejected { Myrte will help me only if I'm part of the Nemeton. Maybe I can persuade her to help me regardless? }
 

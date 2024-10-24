@@ -1,2 +1,2 @@
-Desc { Try to keep the needle inside the blue shape. $INPUT:Lockpick_Left$: Move the needle to the left $INPUT:Lockpick_Right$: Move the needle to the right. Once the green gauge is full, you have picked the lock. The more the red gauge fills up, the higher the chances of your lockpick breaking. }
+Desc { Try to keep the needle inside the blue shape. $INPUT:Lockpick_Left$: Move the needle to the left. $INPUT:Lockpick_Right$: Move the needle to the right. Once the green gauge is full, you have picked the lock. The more the red gauge fills up, the higher the chances of your lockpick breaking. }
 
