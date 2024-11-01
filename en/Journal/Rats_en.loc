@@ -6,7 +6,7 @@ Entry_03 { The rats in the cellar are dead. Bernold sure will be happy about tha
 
 Entry_03_A { The rats emerge from a cave and enter Bernold's cellar through a hole. He'd probably be happy if I took care of that too. }
 
-Entry_03_B { The rats in the hidden cave are dead. Once I've taken care of the ones still in the basement, I should report to Bernold. }
+Entry_03_B { The rats in the hidden cave are dead. Once I've taken care of the rats still in the basement, I should report to Bernold. }
 
 Entry_04 { Bernold kept his promise. He gave me the coins, and his problem has been solved. }
 

@@ -1,14 +1,14 @@
 Title { The bridge, again? }
 
-Entry_01 { Delani put a request up on the bulletin board. She urgently needs help near the bridge. I'm supposed to report to her. }
+Entry_01 { Delani put a request up on the bulletin board. She urgently needs help near the bridge. I'm supposed to report to her. I find them at Georgefarm. }
 
 Entry_02 { When I reached the bridge, I was surprised by a bunch of "nice" bandits. If I don't take care of them, they're going to continue ripping people off around here. }
 
-Entry_03 { The bandits are history. I should tell Delani about that. }
+Entry_03 { The bandits are history. I should tell Delani about it at Georgefarm. }
 
 Entry_04 { Angus gave me my reward. Another job well done. }
 
 Entry_01B { Delani says that something near the bridge to the Woodcutter Camp is holding up her deliveries. She wants me to investigate. }
 
-Entry_03B { When I told Delani that the bandits will no longer be a problem, that took a huge load off her mind. I'm supposed to receive my reward from Angus. }
+Entry_03B { When I told Delani that the bandits will no longer be a problem, that took a huge load off her mind. I'm supposed to receive my reward from Angus in Nemeton. }
 

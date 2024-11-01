@@ -826,7 +826,7 @@ cons_flow_bullRush_description { You charge ahead, inflicting [DamageFlexAbs] ph
 
 cons_flow_ferventCry_name { Fervent Shout }
 
-cons_flow_ferventCry_description { Increases your damage resistance by [DamageResPercent] for [TimeAbs] seconds. }
+cons_flow_ferventCry_description { Increases your physical damage resistance by [DamageResPercent] for [TimeAbs] seconds. }
 
 item_crowtrap_name { Crows' Feet }
 
@@ -1056,7 +1056,7 @@ item_riptoothchain_description { Bleed effects inflict their damage faster. }
 
 item_vipertooth_name { Tooth of the Viper }
 
-item_vipertooth_description { The slowing of poison is increases by [SlowPercent]. }
+item_vipertooth_description { The slowing of poison is increased by [SlowPercent]. }
 
 item_mastersmemory_name { Belt of the Master }
 
@@ -1704,7 +1704,7 @@ misc_worldmap_shrines_name { Map of the Shrines }
 
 armor_chest_ruinenlager_gladiator_name { Gladiators' Armor }
 
-armor_chest_ruinenlager_gladiator_description { For each 1% lost health, you receive 1% less damage — up to a maximum of 90%<br><br>Armor, drenched in the blood of my enemies. Victory is mine. }
+armor_chest_ruinenlager_gladiator_description { For each % lost health, you receive 1% less damage — up to a maximum of 90%<br><br>Armor, drenched in the blood of my enemies. Victory is mine. }
 
 misc_bagOfCurrency_big_name { Large Pouch filled with Coins }
 

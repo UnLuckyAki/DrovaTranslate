@@ -94,7 +94,7 @@ talent_extractsecretion { Extract Ichor }
 
 talent_extractsecretion_desc { You can extract ichor from certain animals. Ichor is required for brewing potions and for crafting. }
 
-talent_tearclaws { Gut Animal }
+talent_tearclaws { Pull Claws }
 
 talent_tearclaws_desc { You can remove the claws and teeth of some animals. Claws can be sold; Teeth can be used for crafting. }
 

@@ -70,7 +70,7 @@ Journal { You've made a new entry in your journal.<br>Press $INPUTANIM:Journal$ 
 
 Journal_Gamepad { You've made a new entry in your journal.<br>Press $INPUTANIM:Inventory$ to open your menu and use $INPUTANIM:PrevPanel$ and $INPUTANIM:NextPanel$ to access the journal tab.<br>From there, you can check the current status of your quests at any time. }
 
-FirstConsFlow_Gamepad { You've found a spell scroll.<br>Press $INPUTANIM:OpenAbilities$ to open the menu and use $INPUTANIM:PrevPanel$ to $INPUTANIM:NextPanel$ access the abilities tab. You can equip your spell scroll from there.<br>Spell scrolls can give you an edge in difficult fights; there's no point in hoarding them. }
+FirstConsFlow_Gamepad { You've found a spell scroll.<br>Open the menu and use $INPUTANIM:PrevPanel$ to $INPUTANIM:NextPanel$ access the abilities tab. You can equip your spell scroll from there.<br>Spell scrolls can give you an edge in difficult fights; there's no point in hoarding them. }
 
 FirstThrow { You've found a consumable!<br> Press $INPUTANIM:Inventory$ to open your inventory.<br>From here, you can drag the item into your Quickbar. }
 
