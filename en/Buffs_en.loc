@@ -8,7 +8,7 @@ PoisonDescription { Decreases your movement speed by [MovementPercent]. }
 
 Bleeding { Bleed }
 
-BleedingDescription { Every second, you lose health. }
+BleedingDescription { You lose health over time. }
 
 SleepBuff_T2 { Well Rested }
 
