@@ -338,7 +338,7 @@ weapon_spear_ger_name { Гер }
 
 weapon_spear_bronzeSpear_name { Железное Копье }
 
-weapon_spear_spear_name { Копье Кабана }
+weapon_spear_spear_name { Копье Вепря }
 
 weapon_spear_deathRitualSpear_name { Ржавое Копье }
 
@@ -878,7 +878,7 @@ item_diamond_name { Алмаз }
 
 item_ripperfur_name { Кожа Потрошителя }
 
-item_pigfur_name { Кожа Кабана }
+item_pigfur_name { Кожа Вепря }
 
 item_bearfur_name { Медвежья Шкура }
 
@@ -1086,7 +1086,7 @@ item_hunterquiver_name { Рог Охотника }
 
 item_hunterquiver_description { Увеличивает емкость вашего колчана на 1 и ускоряет перезарядку. }
 
-item_boartooth_name { Череп Кабана }
+item_boartooth_name { Череп Вепря }
 
 item_boartooth_description { Тяжелые атаки потребляют на [StaminaValuePercent] меньше выносливости. }
 
