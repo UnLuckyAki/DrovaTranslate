@@ -233,7 +233,7 @@
 | Dialog/NPC_Piglet_Kai_ru.loc | ✅    |
 | Dialog/NPC_Pwyll_ru.loc | ✅    |
 | Dialog/NPC_Raya_ru.loc | ✅    |
-| Dialog/NPC_Reija_ru.loc | Машинный перевод    |
+| Dialog/NPC_Reija_ru.loc | ✅    |
 | Dialog/NPC_Roarke_ru.loc | Машинный перевод    |
 | Dialog/NPC_Roisin_ru.loc | Машинный перевод    |
 | Dialog/NPC_Ruhan_ru.loc | Машинный перевод    |
