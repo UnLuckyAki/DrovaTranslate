@@ -2,6 +2,8 @@ Title { Blood and Iron in the Arena }
 
 Entry_00_Eugen { Eugen tells me that I can earn both glory and coins in the arena. If interested, I'm supposed to report to Antonius Proximus. }
 
+Entry_00_Boris { Boris tells me that I can earn both glory and coins in the arena. If interested, I'm supposed to report to Antonius Proximus. }
+
 Entry_00_Nemeton { There's an arena in the Remnants' camp. If I want to fight, I should report to Angus. }
 
 Entry_00_Nemeton_Start { Angus will let me fight in the arena only after I've defeated Kati and Fester. }

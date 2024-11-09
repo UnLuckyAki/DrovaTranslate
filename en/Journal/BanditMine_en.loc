@@ -30,7 +30,7 @@ Entry_Day2_03 { We discovered an old chamber, but right at this moment a guard a
 
 Entry_Day3_01 { Day 3: We're running low in food. I was tasked with getting some and bringing it to Bruna. At least that's a change of routine... }
 
-Entry_Day3_02 { Bruna wants me to obtain $GVAR:BanditMineBrutus_Day03.CountMushrooms$ cavernshrooms and $GVAR:BanditMineBrutus_Day03.CountCaveMushrooms$ shadeshrooms. Apparently, digpigs dwell where these grow. But we could all do with some meat. }
+Entry_Day3_02 { Bruna wants me to obtain $GVAR:BanditMineBrutus_Config.CountMushrooms$ ordinary mushroom. Apparently, digpigs dwell where these grow. But we could all do with some meat. }
 
 Entry_Day3_03 { Lanzo beat Bruna up. Now she can't cook anymore... So, naturally, I'm supposed to prepare tomorrow's food. }
 

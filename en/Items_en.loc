@@ -728,7 +728,7 @@ cons_flow_fogForm_name { Fog Shape }
 
 cons_flow_fogForm_description { Increases your movement speed by [MovementPercent], and makes you immune to physical damage for [TimeAbs] seconds. }
 
-cons_flow_fireCry_name { Firey Shout }
+cons_flow_fireCry_name { Fiery Shout }
 
 cons_flow_fireCry_description { You inflict [DamageFlexAbs] magical damage in a cone-shaped area in front of you. }
 
@@ -1310,7 +1310,7 @@ recipe_flow_execute_name { Ability: Execute }
 
 recipe_flow_ferventCry_name { Ability: Fervent Shout }
 
-recipe_flow_fireCry_name { Spell: Firey Shout }
+recipe_flow_fireCry_name { Spell: Fiery Shout }
 
 recipe_flow_flowForm_name { Spell: Focus Shape }
 
@@ -1376,7 +1376,7 @@ recipe_farmersmeal_name { Recipe: Farmer's Meal }
 
 recipe_fishpan_name { Recipe: Fish Stirfry }
 
-recipe_flowpotion_0_name { Recipe: Tunnel Roast }
+recipe_flowpotion_0_name { Recipe: Flow Potion }
 
 recipe_flowpotion_1_name { Recipe: Potent Flow Potion }
 

@@ -130,7 +130,7 @@ Plh_92 { And what exactly am I supposed to get for you? }
 
 Plh_94 { I hope so too... }
 
-Plh_95 { Bring me $GVAR:BanditMineBrutus_Day03.CountMushrooms$ shadeshrooms and $GVAR:BanditMineBrutus_Day03.CountCaveMushrooms$ caveshrooms. That should be enough for everyone. }
+Plh_95 { Bring me $GVAR:BanditMineBrutus_Config.CountMushrooms$ ordinary mushrooms. That should be enough for everyone. }
 
 Plh_96 { Meat would be great too, but it isn't worth the risk. Just come back in one piece. }
 
