@@ -55,17 +55,17 @@
 | Dialog/NPC_Asmus_ru.loc | ✅    |
 | Dialog/NPC_Augis_ru.loc | ✅    |
 | Dialog/NPC_Babsi_ru.loc | ✅    |
-| Dialog/NPC_Bady_ru.loc | Машинный перевод    |
+| Dialog/NPC_Bady_ru.loc | На переводе    |
 | Dialog/NPC_Baldo_ru.loc | ✅    |
-| Dialog/NPC_Baltus_ru.loc | Машинный перевод    |
+| Dialog/NPC_Baltus_ru.loc | На переводе    |
 | Dialog/NPC_BanditBridge1_ru.loc | ✅    |
 | Dialog/NPC_BanditBridge2_ru.loc | ✅    |
 | Dialog/NPC_Banner_ru.loc | ✅    |
 | Dialog/NPC_Bardok_ru.loc | ✅    |
-| Dialog/NPC_Berni_ru.loc | Машинный перевод    |
-| Dialog/NPC_Bernold_ru.loc | Машинный перевод    |
-| Dialog/NPC_Bertine_ru.loc | Машинный перевод    |
-| Dialog/NPC_Birka_ru.loc | Машинный перевод    |
+| Dialog/NPC_Berni_ru.loc | На переводе    |
+| Dialog/NPC_Bernold_ru.loc | На переводе    |
+| Dialog/NPC_Bertine_ru.loc | На переводе    |
+| Dialog/NPC_Birka_ru.loc | На переводе    |
 | Dialog/NPC_Blaan_ru.loc | ✅    |
 | Dialog/NPC_Blanda_ru.loc | ✅    |
 | Dialog/NPC_Bombus_ru.loc | ✅    |
@@ -86,7 +86,7 @@
 | Dialog/NPC_Darwin_ru.loc | Машинный перевод    |
 | Dialog/NPC_Delani_ru.loc | Машинный перевод    |
 | Dialog/NPC_Der Ripper_ru.loc | ✅    |
-| Dialog/NPC_Diemo_ru.loc | Машинный перевод    |
+| Dialog/NPC_Diemo_ru.loc | На переводе    |
 | Dialog/NPC_Doro_ru.loc | ✅    |
 | Dialog/NPC_Drax_ru.loc | ✅    |
 | Dialog/NPC_Dunja_ru.loc | ✅    |
@@ -233,7 +233,7 @@
 | Dialog/NPC_Piglet_Kai_ru.loc | ✅    |
 | Dialog/NPC_Pwyll_ru.loc | ✅    |
 | Dialog/NPC_Raya_ru.loc | ✅    |
-| Dialog/NPC_Reija_ru.loc | Машинный перевод    |
+| Dialog/NPC_Reija_ru.loc | На переводе    |
 | Dialog/NPC_Roarke_ru.loc | Машинный перевод    |
 | Dialog/NPC_Roisin_ru.loc | Машинный перевод    |
 | Dialog/NPC_Ruhan_ru.loc | Машинный перевод    |
