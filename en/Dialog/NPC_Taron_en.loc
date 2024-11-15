@@ -42,7 +42,7 @@ Plh_6 { No, you're not wayward, you are A Wayward. Because you don't have a spar
 
 Plh_7 { Then greetings, $GVAR:EVars_Player.Name$. It's rare that strangers pass by here, you know. }
 
-Plh_47 { *he notices you but choses to ignore you visibly* }
+Plh_47 { *he notices you but chooses to ignore you visibly* }
 
 Plh_9 { What are you doing here? }
 
