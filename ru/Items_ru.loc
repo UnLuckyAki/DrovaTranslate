@@ -1064,7 +1064,7 @@ item_mastersmemory_description { Последний удар в комбо с м
 
 item_cleavageskull_name { Череполом }
 
-item_cleavageskull_description { Вы наносите противникам на [PoiseValuePercent] больше урона в стойке. }
+item_cleavageskull_description { Вы наносите на [PoiseValuePercent] больше урона стойке противника. }
 
 item_bloodthirstamulet_name { Амулет Кровожадности }
 

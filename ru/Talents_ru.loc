@@ -122,7 +122,7 @@ talent_shield_flow_afterblock { Это все на что ты способен?
 
 talent_shield_flow_afterblock_desc { Если вы идеально блокируете атаку, вы генерируете [FocusValueAbsolut] фокуса. }
 
-talent_axe_adddmgflow { Кровавое безумие }
+talent_axe_adddmgflow { Боевое безумие }
 
 talent_axe_adddmgflow_desc { После успешного удара, следующая атака даёт [FocusValueAbsolut] дополнительного фокуса. }
 
