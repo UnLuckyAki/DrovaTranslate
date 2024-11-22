@@ -140,7 +140,7 @@ Talent_Daggers_CritAfterDodge_desc { Your first attack with a dagger after dodgi
 
 Talent_Daggers_DecreaseFlow { Fully focused! }
 
-Talent_Daggers_DecreaseFlow_desc { After using an ability, you'll gain [FocusValueAbsolut] focus. }
+Talent_Daggers_DecreaseFlow_desc { After using an ability, you'll gain [FocusValueAbsolut] focus while you have daggers equipped. }
 
 Talent_Daggers_RegenerateStamina { Efficient Strike }
 

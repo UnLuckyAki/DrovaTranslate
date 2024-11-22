@@ -214,7 +214,7 @@ Description_SmartQuickbar { Remembers the last item that was assigned to a quick
 
 Toggle_CameraMode { Align camera with line of sight }
 
-Description_CameraMode { The camera will always move where the cursor is pointing. If this this option has been turned off, the camera will align with movement direction. }
+Description_CameraMode { The camera will always move where the cursor is pointing. If this option has been turned off, the camera will align with movement direction. }
 
 Toggle_FilterSellItems { Mark sales items as junk automatically }
 
@@ -254,7 +254,7 @@ popup_reset { Discard }
 
 FontSize_Preview { Preview }
 
-MapMarker_Player_Toggle { Show position on map } 
+MapMarker_Player_Toggle { Show position on map }
 
 PlayerDmgReceive { Enemy damage }
 
@@ -263,3 +263,4 @@ PlayerDmgOutput { Additional player damage }
 Toggle_MiniGame { Deactivate minigames }
 
 MouseLock { Restrict mouse to window }
+
