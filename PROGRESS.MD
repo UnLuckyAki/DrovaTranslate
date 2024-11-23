@@ -73,7 +73,7 @@
 | Dialog/NPC_BorisBandit_A_ru.loc | ✅    |
 | Dialog/NPC_BorisBandit_B_01_ru.loc | ✅    |
 | Dialog/NPC_BorisBandit_C_01_ru.loc | ✅    |
-| Dialog/NPC_Boris_ru.loc | На переводе    |
+| Dialog/NPC_Boris_ru.loc | ✅    |
 | Dialog/NPC_Bruna_ru.loc | Машинный перевод    |
 | Dialog/NPC_Caspara_ru.loc | ✅    |
 | Dialog/NPC_Cengiz_ru.loc | На переводе    |
