@@ -63,8 +63,8 @@
 | Dialog/NPC_Banner_ru.loc | ✅    |
 | Dialog/NPC_Bardok_ru.loc | ✅    |
 | Dialog/NPC_Berni_ru.loc | На переводе    |
-| Dialog/NPC_Bernold_ru.loc | На переводе    |
-| Dialog/NPC_Bertine_ru.loc | На переводе    |
+| Dialog/NPC_Bernold_ru.loc | ✅    |
+| Dialog/NPC_Bertine_ru.loc | ✅    |
 | Dialog/NPC_Birka_ru.loc | ✅    |
 | Dialog/NPC_Blaan_ru.loc | ✅    |
 | Dialog/NPC_Blanda_ru.loc | ✅    |
@@ -76,8 +76,8 @@
 | Dialog/NPC_Boris_ru.loc | ✅    |
 | Dialog/NPC_Bruna_ru.loc | Машинный перевод    |
 | Dialog/NPC_Caspara_ru.loc | ✅    |
-| Dialog/NPC_Cengiz_ru.loc | На переводе    |
-| Dialog/NPC_Chunnaic_ru.loc | Машинный перевод    |
+| Dialog/NPC_Cengiz_ru.loc | ✅    |
+| Dialog/NPC_Chunnaic_ru.loc | ✅    |
 | Dialog/NPC_Conor_ru.loc | ✅    |
 | Dialog/NPC_Cord_ru.loc | ✅    |
 | Dialog/NPC_Cuna_ru.loc | ✅    |
