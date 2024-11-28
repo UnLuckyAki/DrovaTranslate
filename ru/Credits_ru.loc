@@ -1,4 +1,4 @@
-director { Director }
+director { Game Director }
 
 game_design_lead { Game Design Lead }
 
@@ -16,21 +16,21 @@ art { Art }
 
 community { Community }
 
-sound_lead { Sound & Music }
+sound_lead { Sound and Music }
 
-organisation { Organisation }
+organisation { Support & Backoffice }
 
 praktikanten { Interns }
 
-freelancer { Externs }
+freelancer { External Contractors }
 
-musik { Musik }
+musik { Music }
 
 sound { Sound }
 
 grafiken { Illustration }
 
-autor { Autor }
+autor { Writing }
 
 testers { Testers }
 
@@ -66,37 +66,37 @@ loca_french_localization { French Localization }
 
 loca_french_translators { French Translators }
 
-special_thank_Grounding { Special thanks for the support in setting up the studio }
+special_thank_Grounding { We extend our special thanks for founding the studio to: }
 
-specia_thank { Special thanks }
+specia_thank { Special Thanks }
 
 tools { Tools }
 
-voice { Voice }
+voice { Voice Talents }
 
-thanks_family { We would like to thank our family, friends and partners. We would not have made it this far without you. }
+thanks_family { We thank our families, friends, and partners for their ongoing support. We would have never made it this far without you. }
 
-thanks_pb { Thank you Piranha Bytes for Gothic. A great game that has left its mark on us all. }
+thanks_pb { Thank you, Piranha Bytes, for the Gothic series. A great game that had a lasting effect on all of us. }
 
-chris_wish { My darling Sarah, thank you for your support as I pursued my crazy dream. It wasn't always easy, but we made it!\nAnd rest in peace Grandma, I miss you. }
+chris_wish { My darling Sarah, thank you for supporting me while I was chasing my crazy dream. It wasn't always easy, but we made it!\nAnd rest in peace, grandma. I miss you. }
 
-gecko { Gecko! Thanks for your help. The iron fist on our Discord. }
+gecko { Gecko! Thanks for your help! The iron fist on our Discord. }
 
-bady { Here's to you Bady "Atilolzz"! Champion of the arena and loyal companion throughout Drova's development. You've been there since the beginning. }
+bady { Here's to you, Bady "Atilozz"! Champion of the arena and loyal companion throughout Drova's development. You've been here from the beginning. }
 
-entwicklerWG { Thanks to all the viewers who supported us on Twitch EntwicklerWG. You have regularly given us strength and motivated us to work on Drova. }
+entwicklerWG { Thanks to all the spectators who followed our "Entwickler WG" on Twitch. You continued giving us the strength and motivation to work on Drova. }
 
-lavapotion { Many thanks to the Lavapotion team, who gave us valuable help with the design of our world at the beginning of the project. }
+lavapotion { Thanks to the Lavaoption team, who provided valuable insights into designing our world when we first started working on our project. }
 
-tinyroar { Greetings and thanks to Tiny Roar for all the advice and the mediation of Fabio! }
+tinyroar { Greetings and thanks to Tiny Roar for the plethora of advice and sending Fabio our way! }
 
-Acagamics { Many thanks to Acagamics, the student association at our university, who brought us together and motivated us to develop Drova through events and competitions. Without you, there would be no Drova! }
+Acagamics { Thanks to Acagamics, our university's student body association, that brought us together and held events and competitions motivating us to develop Drova. Without you, there'd be no Drova! }
 
-finish_line { The last words are for you. Thank you. Thank you for playing Drova. }
+finish_line { The final words are for you. Thank you for playing Drova. }
 
-special_thanks_support { Special thanks for the support during development }
+special_thanks_support { Special thanks for your support during the development process: }
 
-johannes_wish { Thanks to you Lea, for your support and for having a wonderful friendship, even though I canceled the promised vacation three times because I was working on Drova. }
+johannes_wish { Thank you, Lea, for your support and your wonderful friendship—even though I had to cancel our planned vacation three times because I had to work on Drova. }
 
-Fabio_wish { Thanks to the founders of Just2D - Chris, Johannes, Kai and Julian. With courage, dedication, transparency and structure you have managed to create a wholesome and safe work environment in which we could live the game development dream together. }
+Fabio_wish { Thanks to the four founders of Just2D—Chris, Johannes, Kai, and Julian. Through your courage, commitment, accountability, and structure, you created a work environment in which we can feel safe even during difficult times and fulfill our common dream: developing games. }
 

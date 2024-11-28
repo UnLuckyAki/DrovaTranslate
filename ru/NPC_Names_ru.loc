@@ -354,7 +354,7 @@ Jennifer { Дженнифер }
 
 Beard_Red { Рыжик }
 
-MineCookingFire { Костёр }
+MineCookingFire { Очаг }
 
 Pwyll { Пуйл }
 
@@ -402,7 +402,7 @@ MorvinAliases { Антониус Проксимус }
 
 WaterBarrel { Бочка с водой }
 
-FriedelsTable { Стол Фридель }
+FriedelsTable { Рыба Фриделя }
 
 Ada_Normal { Ада }
 
@@ -546,3 +546,90 @@ Willi { Вилли }
 
 Monko { Монко }
 
+Erwin { Эрвин }
+
+Henrike { Хенрик }
+
+Waterrat_Young { Детеныш Водяной Крысы }
+
+Waterrat { Водяная Крыса }
+
+Bloodquito_Auwald { Гигантский Комар }
+
+Sprigga_Young { Молодая Спригга }
+
+Diggerpig { Свинокоп }
+
+Ripper_Hungry { Изголодавшийся Потрошитель }
+
+Ripper { Потрошитель }
+
+Ripper_Elite { Сереброспин }
+
+Boar { Кабан }
+
+Fox { Рыжая Лыса }
+
+Stalker_Red { Красный Щелкун }
+
+Stalker_Blue { Синий Щелкун }
+
+Stalker_Green { Зелёный Щелкун }
+
+Sprigga { Спригга }
+
+Stonefist { Камнекруш }
+
+Frog_Melee { Красный лягушонок }
+
+Frog_Ranged { Зелёный лягушонок }
+
+Bloodquito { Кровосос }
+
+Ambusher { Грязекус }
+
+Bear { Медведь }
+
+Snapper_Weak { Паук-охотник }
+
+Spitter_Weak { Ядовитый Паук }
+
+Ripper_Shadow { Теневой Потрошитель }
+
+Boar_Luminous { Светокабан }
+
+Mortarshroom { Спороход }
+
+Bear_luminous { Жуткий Медведь }
+
+Snapper { Магический Паук-охотник }
+
+Spitter { Магический Ядовитый Паук }
+
+BigSpider { Явление }
+
+BigSpider_Auwald { Магический Огромный Паук }
+
+Harpy { Гарпия }
+
+Foglet { Туманник }
+
+Worm { Серебряный Червь }
+
+Leshen { Леший }
+
+Golem { Рунический Голем }
+
+ChaosSpirit { ??? }
+
+Draugr_Sword { Солдат Прошедших }
+
+Draugr_Spear { Воин Прошедших }
+
+Draugr_Mage { Маг Прошедших }
+
+Draugr_Axe { Генерал Прошедших }
+
+Rat { Крыса }
+
+Snake { Гадюка }
