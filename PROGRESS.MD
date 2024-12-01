@@ -251,7 +251,7 @@
 | Dialog/NPC_Swenn_ru.loc | Машинный перевод    |
 | Dialog/NPC_Tadhg_ru.loc | Машинный перевод    |
 | Dialog/NPC_Taron_ru.loc | Машинный перевод    |
-| Dialog/NPC_Teigen_ru.loc | Машинный перевод    |
+| Dialog/NPC_Teigen_ru.loc | На переводе    |
 | Dialog/NPC_Tiaa_ru.loc | Машинный перевод    |
 | Dialog/NPC_Tristan_ru.loc | Машинный перевод    |
 | Dialog/NPC_Tuz_ru.loc | Машинный перевод    |
