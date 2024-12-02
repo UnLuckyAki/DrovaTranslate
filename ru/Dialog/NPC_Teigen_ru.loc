@@ -10,7 +10,7 @@ Plh_62 { Кто-то вроде меня может очень ясно пока
 
 Plh_63 { У тебя, во всяком случае, есть смелость. }
 
-Plh_65 { Миссия довольно четко сформулирована, не думаешь? Я хорошо заплачу, если монстр... скажем... }
+Plh_65 { Миссия довольно четко объяснена, не думаешь? Я хорошо заплачу, если монстр... скажем... }
 
 Plh_66 { ...будет срублен на голову или две прежде, чем кто-либо узнает, что я рядом. Понимаешь, о чем я? }
 
@@ -28,7 +28,7 @@ Plh_73 { Мне понадобится минутка. }
 
 Plh_18 { Ну... }
 
-Plh_74 { *вздыхает* Кто здесь кому платит? По крайней мере, поторопитесь с черновой работой, которую вам еще предстоит сделать. Ненавижу ждать. }
+Plh_74 { *вздыхает* Кто здесь кому платит? По крайней мере, поторопитесь с грязной работой, которую вам еще предстоит сделать. Ненавижу ждать. }
 
 Plh_70 { Да, защитник, ведомый, эскорт... Как хотите это называйте... *тихо бормочет* Черт бы их побрал и их военный жаргон... }
 
@@ -44,13 +44,13 @@ Plh_90 { Даже если бы это было так, это ВСЕ РАВНО
 
 Plh_91 { А теперь перестань беспокоить мои круги. }
 
-Plh_56 { Береги меня! }
+Plh_56 { Защищай меня! }
 
 Plh_85 { Чего ты хочешь? Убирайся отсюда к черту. }
 
 Plh_20 { Тогда начинай зарабатывать свои деньги! Здесь кажется опасно! }
 
-Plh_76 { *схватившись за руку* Хватит медлить, дурак! Расчисти дорогу впереди! Чего ты ждешь? Хочешь, чтобы я тут напился? }
+Plh_76 { *схватившись за руку* Хватит медлить, дурак! Расчисти дорогу впереди! Чего ты ждешь? Хочешь, чтобы я тут тратил время впустую? }
 
 Plh_77 { Успокойся. Я уже в пути. }
 
@@ -70,7 +70,7 @@ Plh_83 { Вот ЭТО то, что я хочу услышать! Отлично
 
 Plh_84 { Я сделаю вид, что пропустил это. Уничтожь всех тварей там, чтобы мы могли продолжить. Тск-тск... }
 
-Plh_33 { Ты называешь это защитой? Я мог ЧУВСТВОВАТЬ этих тварей! У меня по шее текло их отвратительное дыхание! А теперь посмотри на мою одежду! }
+Plh_33 { Ты называешь это защитой? Я мог буквально чувствовать ЗАПАХ этих тварей! У меня по шее текло их отвратительное дыхание! А теперь посмотри на мою одежду! }
 
 Plh_75 { Я ни за что не заплачу за это! Мне следовало бы знать лучше... Учитывая, как ты выглядишь... }
 
@@ -78,7 +78,7 @@ Plh_35 { Ты еще не умер. Так что давай мне монеты
 
 Plh_36 { Если ты сейчас не отдашь их мне, я заберу их у тебя. }
 
-Plh_37 { Ты не получишь ни одной красной монеты! Тебе лучше порадоваться, что ТЫ не должен мне за ущерб. Убирайся! }
+Plh_37 { Ты не получишь ни одной красной монеты! Тебе лучше радоваться, что ТЫ не должен мне за ущерб. Убирайся! }
 
 Plh_38 { Может, эти угрозы должны меня впечатлить? Ха. Перестань выставлять себя дураком. }
 
@@ -114,53 +114,53 @@ Plh_52 { Твоя работа в качестве эскорта была не 
 
 Plh_86 { А теперь что? }
 
-Plh_142 { I know you! You helped me back in the cave! Looks like you've joined the Nemeton! Then you've really got what it takes. But this situation is more dangerous than the frogs outside the cave. }
+Plh_142 { Я тебя знаю! Ты помог мне вернуться в пещеру! Похоже, ты присоединился к Неметону! Тогда у тебя действительно есть то, что нужно. Но эта ситуация опаснее, чем лягушки снаружи пещеры. }
 
-Plh_141 { All right, all right, I'm going. See you in Nemeton. }
+Plh_141 { Ладно, ладно, я пойду. Увидимся в Неметоне. }
 
-Plh_95 { GET LOST, YOU CRITTERS! YOU'RE NOT GETTING IN HERE! }
+Plh_95 { ПРОВАЛИВАЙТЕ, ТВАРИ! ВАМ СЮДА НЕ ПРОЙТИ! }
 
-Plh_107 { As long as I'm standing here, you won't get through that door! }
+Plh_107 { Пока я стою здесь, вы не пройдете через эту дверь! }
 
-Plh_109 { RAAAAWRLOOUURRR! (mimic monster sounds) }
+Plh_109 { РАААУРЛОУУРРР! (имитирует звуки монстра) }
 
-Plh_110 { Uh... Is everything all right in there? }
+Plh_110 { Эй... Все в порядке? }
 
-Plh_112 { Teigen, is that you? }
+Plh_112 { Тейген, это ты? }
 
-Plh_115 { AAAAAAAAAAAHHHHHHHH GET LOOOOOST! Freaking critters. }
+Plh_115 { AAAAAAAAAAAAHHHHHHHHH ПРОВАЛИВАЙТЕ! Чертовы твари. }
 
-Plh_111 { Who are you? What are you doing here? }
+Plh_111 { Кто ты? Что ты здесь делаешь? }
 
-Plh_113 { I followed a cat to this place. }
+Plh_113 { Я следовал за кошкой в ​​это место. }
 
-Plh_114 { My name is $GVAR:EVars_Player.Name$, and I was just taking a look around. }
+Plh_114 { Меня зовут $GVAR:EVars_Player.Name$, и я просто осматриваюсь. }
 
-Plh_117 { Ah, at least Mikesh survived! Don't you dare harm him! }
+Plh_117 { Ах, по крайней мере Микеш выжил! Не смей причинять ему вред! }
 
-Plh_119 { I'd never do that! }
+Plh_119 { Я бы никогда этого не сделал! }
 
-Plh_118 { Bah, you're probably just another cutthroat. Currently, those bandits are lurking around every corner. You're not getting me! Scram! }
+Plh_118 { Ба, ты, наверное, просто очередной головорез. Сейчас эти бандиты прячутся за каждым углом. Ты меня не получишь! Катись! }
 
-Plh_104 { Are you kidding me? I can hear that you haven't been outside. }
+Plh_104 { Ты шутишь? Я слышал, что ты не был снаружи. }
 
-Plh_94 { What the... }
+Plh_94 { Что за... }
 
-Plh_120 { Who are you? What are you doing here? }
+Plh_120 { Кто ты? Что ты здесь делаешь? }
 
-Plh_96 { I know that Erwin is waiting for you. Don't you want to return to Nemeton? }
+Plh_96 { Я знаю, что Эрвин ждет тебя. Ты не хочешь вернуться в Неметон? }
 
-Plh_121 { No. With all those critters roaming around outside, I'd rather stay in the safety of this cave of mine. }
+Plh_121 { Нет. Со всеми этими тварями, бродящими снаружи, я бы предпочел остаться в безопасности в этой пещере. }
 
-Plh_122 { I came here with Peter. The critters got him. But I'm not dumb enough to leave this cave. }
+Plh_122 { Я пришел сюда с Питером. Его схватили эти твари. Но я не настолько глуп, чтобы покинуть эту пещеру. }
 
-Plh_123 { I can take care of the froglets. }
+Plh_123 { Я могу позаботиться о лягушках. }
 
-Plh_125 { All the froglets are dead. }
+Plh_125 { Все лягушки мертвы. }
 
-Plh_124 { Be my guest! You won't get any reward from me! }
+Plh_124 { Будь моим гостем! Ты не получишь от меня никакой награды! }
 
-Plh_100 { Yeah? How many frogs were on this island? }
+Plh_100 { Да? Сколько лягушек было на этом острове? }
 
 Plh_101 { 9 }
 
@@ -170,33 +170,33 @@ Plh_127 { 11 }
 
 Plh_128 { 12 }
 
-Plh_103 { Bah, then you didn't get all of them. Peter and I alone killed three of them before they got him. }
+Plh_103 { Ба, значит, ты не расправился со всеми ими. Питер и я в одиночку убили троих, прежде чем они его схватили. }
 
-Plh_129 { Come back when it's safe outside. You're not messing with me. }
+Plh_129 { Возвращайся, когда снаружи будет безопасно. Ты меня не обманешь. }
 
-Plh_106 { That sounds about right. I saw them out of the corner of my eye. }
+Plh_106 { Это похоже на правду. Я видел их краем глаза. }
 
-Plh_130 { All right, I'm coming. But step away from the door. I'm coming out. }
+Plh_130 { Ладно, я выйду. Но отойдите от двери. Я выхожу. }
 
-Plh_131 { (step away from the door) }
+Plh_131 { (отойти от двери) }
 
-Plh_132 { (stay where you are) }
+Plh_132 { (остаться на месте) }
 
-Plh_134 { *sizes you up* You don't look that strong. But I won't complain if the path is actually clear. }
+Plh_134 { *осматривает тебя* Ты не выглядишь таким уж сильным. Но я не буду жаловаться, если путь действительно свободен. }
 
-Plh_135 { All right, then, I'll be on my way to Nemeton now. }
+Plh_135 { Хорошо, тогда я сейчас отправлюсь в Неметон. }
 
-Plh_136 { How did you end up in here? }
+Plh_136 { Как вы здесь оказались? }
 
-Plh_138 { To Nemeton. }
+Plh_138 { В Неметон. }
 
-Plh_137 { I was on my way to Nemeton when I wanted to quickly grab something from my stash. On the way back, we were ambushed by an army of froglets... }
+Plh_137 { Я направлялся в Неметон, когда мне захотелось быстро схватить что-нибудь из своего тайника. На обратном пути мы попали в засаду армии лягушек... }
 
-Plh_139 { We got rid of some of them, but then Peter got splashed pretty bad. My only recourse was to dig myself in here. }
+Plh_139 { Мы избавились от некоторых из них, но Питера тогда сильно обрызгали. Единственным выходом было окопаться здесь. }
 
-Plh_133 { Don't screw with me. I can see your shape through that rotten wood. Now step away from the door. }
+Plh_133 { Не шути со мной. Я вижу твою фигуру сквозь это гнилое дерево. А теперь отойди от двери. }
 
-Plh_105 { Have you really killed all the froglets now? You'd better not mess with me again. }
+Plh_105 { Ты что, действительно перебил всех лягушек? Тебе лучше не обманывать меня снова. }
 
-Plh_97 { Have you killed all the froglets? Is it safe outside? }
+Plh_97 { Ты убил всех лягушек? Снаружи безопасно? }
 
