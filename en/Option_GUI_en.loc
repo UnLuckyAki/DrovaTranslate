@@ -10,13 +10,13 @@ dont_save { Don't Save }
 
 cancel { Cancel }
 
-keyfield_popup { Your bindings have been changed. Would you like to save this configuration? }
+keyfield_popup { Your key bindings have been changed. Would you like to save this configuration? }
 
-keyfield_popup_conflict { This configuration contains conflicting bindings and cannot be saved. Would you like to continue without saving? }
+keyfield_popup_conflict { This configuration contains conflicting key bindings and cannot be saved. Would you like to continue without saving? }
 
 world { World }
 
-category_dialog { Dialog }
+category_dialog { Dialogue }
 
 category_music { Music }
 
@@ -52,11 +52,11 @@ ShowLootFeedback { Whenever your character picks something up, learns something,
 
 ShowQuickbar { Display Quickbar }
 
-ShowBuffs { Display status effect symbols }
+ShowBuffs { Display affliction symbols }
 
 ShowHealthVignette { Display health vignette }
 
-ShowOptions_Disclaimer { Enable all for recommended play settings. }
+ShowOptions_Disclaimer { We recommend you play with all these settings enabled. }
 
 ShowDirectionFeedback { Show directional indicator }
 
@@ -74,7 +74,7 @@ Toggle_ShowHelp { Display Tutorials }
 
 AutosaveInterval { Autosave Interval }
 
-Toggle_PickUpsToQuickbar { Auto-assign items directly to Quickbar }
+Toggle_PickUpsToQuickbar { Items directly to Quickbar }
 
 Toggle_PickUpsToQuickbar_Heal { Healing items }
 
@@ -126,6 +126,10 @@ Autosave_Min5 { 5 minutes }
 
 Autosave_Min10 { 10 minutes }
 
+Autosave_Min20 { 20 minutes }
+
+Autosave_Min30 { 30 minutes }
+
 Title_FontAndDialog { Writing and Dialog }
 
 Toggle_PickUpsToQuickbar_Food { Food }
@@ -160,7 +164,7 @@ Toggle_TextSounds { Sounds when text is being displayed }
 
 Toggle_NPCDialogSounds { Character sounds }
 
-Toggle_ShowCompleteHUD { Display Full HUD }
+Toggle_ShowCompleteHUD { Display complete HUD }
 
 Toggle_CharacterFeedback { Display character feedback }
 
@@ -182,9 +186,9 @@ Toggle_ShowCharacterImprovements { Display Character Advancement }
 
 Toggle_ChangeSticks { Swap sticks }
 
-Toggle_ChangeDirectionWithSticks { Swap Direction Pad and Standard Action Buttons }
+Toggle_ChangeDirectionWithSticks { Swap directional pad and standard action buttons }
 
-Toggle_ChangeTriggers { Swap Bumpers }
+Toggle_ChangeTriggers { Swap bumpers }
 
 Keybinding_Preset { Default }
 
@@ -256,11 +260,19 @@ FontSize_Preview { Preview }
 
 MapMarker_Player_Toggle { Show position on map }
 
-PlayerDmgReceive { Enemy damage }
+PlayerDmgReceive { Damage Received }
 
-PlayerDmgOutput { Additional player damage }
+PlayerDmgOutput { Additional Damage Received }
 
-Toggle_MiniGame { Deactivate minigames }
+Toggle_MiniGame { Deactivate Minigames }
 
-MouseLock { Restrict mouse to window }
+MouseLock { Constrain Mouse to Window }
+
+UseHardwareMouse { Hardware Mouse Pointer }
+
+UseAltFriendlyColor { Alternate Color for Allies' Health Bars }
+
+FontSize_VeryBig { Even Bigger }
+
+category_quickbar { Quickbar }
 

@@ -12,7 +12,7 @@ Entry_00_Nemeton_Kati { Kati was no problem for me. }
 
 Entry_00_Nemeton_Fester { I fought more doggedly than Fester did. He didn't stand a chance. }
 
-Entry_01_Nemeton { I'm allowed to fight for the Nemeton in the arena. The battles are being organized by Antonius Proximus. I'm supposed to report to him if I want to fight. }
+Entry_01_Nemeton { I'm allowed to fight for Nemeton in the arena. The battles are being organized by Antonius Proximus. I'm supposed to report to him if I want to fight. }
 
 Entry_01_A { Before I'm allowed to fight for Proximus in the arena, I shall have to prove to him that I've got something on the ball. I'm supposed to defeat Mog. He's usually training somewhere. }
 
@@ -38,7 +38,7 @@ Entry_10 { The crowd was cheering! Finally — I shall face Ada, the arena champ
 
 Entry_11 { I am arena champion, and I have beaten the Undefeated Ada. Now I'm on top of the world! }
 
-Entry_07_AcceptArenaFight { I've paid Proximus my entry fee. I'm supposed to be at the arena at 9 p.m. the next day. }
+Entry_07_AcceptArenaFight { I've paid Proximus my entry fee. I'm supposed to be at the arena the next evening at nine. }
 
 Entry_06_RepeatLose { I lost, and I'm supposed to report to Proximus for a rematch. }
 

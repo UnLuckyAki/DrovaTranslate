@@ -8,9 +8,9 @@ Entry_03 { Boris made me an offer. If I pay $GVAR:QuestVars_VoteFromBoris_Config
 
 Entry_06 { Ester is part of Boris's squad. If I help her, Boris will get wind of it. }
 
-Entry_07 { Gera is part of Boris's squad. If I help him, Boris will get wind of it. }
+Entry_07 { Gera is part of Boris's squad. If I help her, Boris will get wind of it. }
 
-Entry_08 { Lindon is part of Boris's squad. If I help him, Boris will get wind of it. }
+Entry_08 { Lindon is part of Boris's squad. If I help her, Boris will get wind of it. }
 
 Entry_10 { I've already joined a faction. }
 
@@ -24,4 +24,5 @@ Entry_14 { Boris wants me to join his squad. I'm supposed to report to Kilian on
 
 Entry_FailedEster { Ester will not vote for me. }
 
-Entry_FailedLindon { Lindon will not vote for me. }
+Entry_FailedLindon { I don't have Lindon's vote. }
+

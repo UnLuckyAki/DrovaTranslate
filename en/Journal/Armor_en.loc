@@ -1,7 +1,8 @@
-Title { Strange piece of armor }
+Title { Strange Piece of Armor }
 
-Entry_01 { I have found a strange, ancient piece of armor. Perhaps a blacksmith can do more with it? }
+Entry_01 { I've found a strange, ancient-looking piece of armor. Maybe a blacksmith can make heads or tails of it? }
 
-Entry_02 { 3 pieces are required to forge a powerful armor. }
+Entry_02 { In order to assemble a powerful suit of armor, I'll need three pieces of armor. }
 
-Entry_03 { I got a powerful armor. }
+Entry_03 { I've obtained a powerful suit of armor. }
+

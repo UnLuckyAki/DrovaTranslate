@@ -1,0 +1,16 @@
+Title { Traveling Merchants }
+
+Entry_01 { A group of travelling merchants has arrived in Nemeton. Erwin, Lobo, and Henrike are waiting for Teigen in order to coordinate their routes. Erwin doesn't have any knowledge of Teigen's whereabouts, except that he should be arriving in Nemeton soon. Why don't I just look around? }
+
+Entry_02 { Henrike of the traveling merchants tells me that Teigen took a friend and his tomcat with him when he left the Remnants' camp. They should already have arrived in Nemeton. }
+
+Entry_03 { I found Teigen in a cave in the moor, south of the camp outside Nemeton. He doesn't dare come out until all the froglets on the island are dead. }
+
+Entry_04 { Teigen has resumed his way to Nemeton and will be meeting Erwin and the others soon. }
+
+Entry_05_Optional { Teigen has arrived in Nemeton and left the traveling merchants. The others will leave as soon as the bandit threat in the moor has been dealt with. Apparently, the bandits are causing trouble, particularly in the area between Nemeton and the tavern. }
+
+Entry_06 { The traveling merchants are on their way, and they will be giving me a lift. }
+
+Entry_07_HintOlaf { Olaf tells me that Teigen left for Nemeton in the direction of the moor. He was on his way to Nemeton. }
+
