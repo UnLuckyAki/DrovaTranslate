@@ -9,3 +9,4 @@ Inventory_GarbageToggle_hide { Спрятать мусор }
 Inventory_MarkAsGarbage { Отметить предмет как мусор }
 
 GarbageFeedback { Фильтр мусора активен }
+

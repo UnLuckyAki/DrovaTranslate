@@ -12,7 +12,7 @@ Orientationpoint_Label { Базовый фокус: }
 
 Orientationpointtooltip_Header { Базовый фокус }
 
-Orientationpointtooltip_Description { Со временем фокус будет восстанавливаться до этой точки. }
+Orientationpointtooltip_Description { Со временем Фокус будет восстанавливаться до этой точки. }
 
 MaxLeben { Макс. здоровье }
 
