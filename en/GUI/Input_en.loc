@@ -1,8 +1,8 @@
 Key_Shift { Shift }
 
-control_mousebutton_left { Left-Click }
+control_mousebutton_left { Mouse left }
 
-control_mousebutton_right { Right-Click }
+control_mousebutton_right { Mouse right }
 
 control_keycode_space { SPACE }
 
@@ -116,13 +116,13 @@ action_Quickbar_3 { Quickbar 3 }
 
 action_Quickbar_4 { Quickbar 4 }
 
-action_QuickslotAssignment { Assign to Quickbar }
+action_QuickslotAssignment { Assign to quickbar }
 
-action_DeleteQuickbarItem { Empty Quickbar }
+action_DeleteQuickbarItem { Empty quickbar }
 
-action_PrevPanel { Previous tab }
+action_PrevPanel { Previous category }
 
-action_NextPanel { Next tab }
+action_NextPanel { Next category }
 
 action_Lockpick_Left { Minigame left }
 
@@ -130,13 +130,13 @@ action_Lockpick_Right { Minigame right }
 
 action_GuiScrollY { Scroll Interface }
 
-action_PlayNote_1 { Note 1 }
+action_PlayNote_1 { Lyra Note 1 }
 
-action_PlayNote_2 { Note 2 }
+action_PlayNote_2 { Lyra Note 2 }
 
-action_PlayNote_3 { Note 3 }
+action_PlayNote_3 { Lyra Note 3 }
 
-action_PlayNote_4 { Note 4 }
+action_PlayNote_4 { Lyra Note 4 }
 
 action_MoveX { Movement }
 
@@ -152,11 +152,47 @@ action_Abilities { Abilities }
 
 action_Squat { Crouch }
 
-action_DialogSkip { Skip Dialog }
+action_DialogSkip { Continue Dialogue }
 
 action_CraftingMenu { Crafting Menu }
 
 action_ToggleGarbageVisibility { Display Junk on/off }
 
-action_UIDelete { Delete }
+action_UIDelete { Close GUI }
+
+action_CamZoom { Toggle Zoom }
+
+action_toggleCraftables { Toggle: Display only craftable recipes }
+
+dialogoption_1 { Dialogue option 1 }
+
+dialogoption_2 { Dialogue option 2 }
+
+dialogoption_3 { Dialogue option 3 }
+
+dialogoption_4 { Dialogue option 4 }
+
+dialogoption_5 { Dialogue option 5 }
+
+dialogoption_6 { Dialogue option 6 }
+
+leftcontrol { LCtrl }
+
+leftalt { LAlt }
+
+leftshift { LShift }
+
+rightcontrol { RCtrl }
+
+rightalt { RAlt }
+
+rightshift { RShift }
+
+action_uiSubmit { GUI Confirm }
+
+action_minigameSubmit { Minigame Action }
+
+action_PrevNavigation { Previous tab }
+
+action_NextNavigation { Next tab }
 
