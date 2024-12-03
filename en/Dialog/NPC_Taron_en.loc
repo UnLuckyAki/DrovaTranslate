@@ -42,7 +42,7 @@ Plh_6 { No, you're not wayward, you are A Wayward. Because you don't have a spar
 
 Plh_7 { Then greetings, $GVAR:EVars_Player.Name$. It's rare that strangers pass by here, you know. }
 
-Plh_47 { *he notices you but chooses to ignore you visibly* }
+Plh_47 { *he notices you but choses to ignore you visibly* }
 
 Plh_9 { What are you doing here? }
 
@@ -84,7 +84,7 @@ Plh_236 { Well, strictly speaking, I'm just taking care of them. It's the Mother
 
 Plh_117 { It used to go pretty smoothly, too. The piglets got bigger and stronger, and almost all of them made it. Until Anatoli spotted that apparition... }
 
-Plh_58 { An apparition of chaos and death. The Mother is tainted and weakens my piglet seed. And without the seed, we have to fear the anger of the Mighty Boar. }
+Plh_58 { A apparition of chaos and death. The Mother is tainted and weakens my piglet seed. And without the seed, we have to fear to anger of the Mighty Boar. }
 
 Plh_196 { Diemo and I do what we can. But it's not that easy... }
 
@@ -365,4 +365,28 @@ Plh_201 { We call a littler of piglets piglet seed. }
 Plh_260 { I'm here to warn you. My camp wants to catch the Mighty Boar! }
 
 Plh_259 { Mere humans are unable to harm the Mighty Boar. I don't have time for your yarn — I need to tend to the new seed. }
+
+Plh_261 { You want to catch the Mighty Boar? That sounds crazy. How is this even supposed to work? }
+
+Plh_262 { Oh, your spark is pretty strong! Even I can sense that! }
+
+Plh_263 { I don't believe it! Looks like your spark healed Cay on the spot! }
+
+Plh_264 { I did not see that coming. But your spark and you... you've got a very strong connection. In it, I can sense the Mighty Boar. }
+
+Plh_265 { I think you can have your spark back. Cay won't need it any longer. }
+
+Plh_266 { *eeeeek...* }
+
+Plh_267 { Oh... your spark... it's so weak... }
+
+Plh_268 { Cay's strength is dwindling... I think the spark will keep him alive, but it will take a while. }
+
+Plh_269 { Thank you, $GVAR:EVars_Player.Name$. You did what you could. Perhaps, over time, Cay will be himself again... *gently pets the little piglet* }
+
+Plh_271 { I ran into Rea, Bea, Lea, and Nea. They're fine. }
+
+Plh_272 { My little ones. They've made it. The Mighty Boar is still protecting them. Watching over them. In them, The Forest Primeval lives on. }
+
+Plh_273 { Thanks, $GVAR:EVars_Player.Name$, for telling me. In these troubled times, I needed that. *smiles* }
 

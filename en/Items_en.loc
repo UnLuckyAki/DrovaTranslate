@@ -28,7 +28,7 @@ item_bogIron_name { Bog Iron }
 
 armor_feet_shoe_lost_name { Single Leather Shoe }
 
-armor_feet_shoe_lost_description { A single, reeking shoe }
+armor_feet_shoe_lost_description { A single, reeking shoe. }
 
 item_letterToAsmus_open_name { Opened letter for Asmus }
 
@@ -46,7 +46,7 @@ item_letterToAsmus_sealed_description { This letter is addressed to Asmus. }
 
 item_healthPlant_0_name { Healing Plant }
 
-item_healthPlant_1_name { Large Healing Plant }
+item_healthPlant_1_name { Large healing Plant }
 
 item_lanternFruit_name { Lanternfruit }
 
@@ -170,13 +170,13 @@ weapon_axe_splittingAxe_name { Splitting Axe }
 
 weapon_axe_beardedAxe_name { Deformed Bearded Axe }
 
-weapon_axe_broadAxe_name { Broadax }
+weapon_axe_broadAxe_name { Broadaxe }
 
 weapon_axe_highlandAxe_name { Highland Axe }
 
 weapon_axe_coarseDoubleAxe_name { Skull Cleaver }
 
-weapon_axe_doubleAxe_name { Rough Iron Axe }
+weapon_axe_doubleAxe_name { Crude Iron Axe }
 
 weapon_axe_rustyAxe_name { Battleaxe }
 
@@ -188,7 +188,7 @@ weapon_axe_bearSlaughtererAxe_name { Bear Butcher Axe }
 
 weapon_axe_greatAxe_name { Great Axe }
 
-weapon_axe_barbarianBattleAxe_name { Barbarian Poleax }
+weapon_axe_barbarianBattleAxe_name { Barbarian Poleaxe }
 
 weapon_axe_iron-BoundGreatAxe_name { Blunt Great Axe }
 
@@ -356,7 +356,7 @@ weapon_spear_tipOfDeath_name { Spear of the Red Snake }
 
 weapon_spear_messengerOfTheDivine_name { Hydra's Tooth }
 
-weapon_spear_messengerOfTheDivine_description { An eye for an eye, a tooth for a tooth — together we'll face even the Hydra. }
+weapon_spear_messengerOfTheDivine_description { And eye for an eye, a tooth for a tooth — together we'll face even the Hydra. }
 
 weapon_shield_adornedWoodenShield_name { Ornate Shield }
 
@@ -450,7 +450,7 @@ item_permapotion_skill_name { Elixir of Dexterity }
 
 item_permaherb_strength_name { Basaltroot }
 
-item_permaherb_mind_name { Void Plant }
+item_permaherb_mind_name { Brainfood Plant }
 
 item_permaherb_life_name { Hawthorne }
 
@@ -504,7 +504,7 @@ misc_currency_description { Drova's currency. }
 
 weapon_barehands_name { Fists }
 
-weapon_barehands_description { Attack damage from unarmed attacks scales with strength. }
+weapon_barehands_description { Damage of unarmed attacks scales with strength. }
 
 item_stew_tiaa_name { Tiaa's Stew }
 
@@ -528,7 +528,7 @@ misc_riddle_sundial_name { Ram Figurine }
 
 misc_riddle_mirror_name { Mirror }
 
-misc_riddle_incense_name { Incense Burner }
+misc_riddle_incense_name { Thurible }
 
 misc_riddle_horn_name { Horn }
 
@@ -548,7 +548,7 @@ tool_pickaxe_improvisedpickaxebroken_description { Damn! What kind of a lemon di
 
 throwing_knife_name { Throwing Knife }
 
-throwing_knife_description { You throw a knife that inflicts [DamageFlexAbs] damage and ignores the target's armor. }
+throwing_knife_description { You throw a knife that inflicts [DamageFlexAbs] damage. Ignores the target's armor. }
 
 item_lyra_description { Speaks a language everyone understands. }
 
@@ -568,7 +568,7 @@ misc_map_tristan_name { Tristan's Map }
 
 item_claw_description { Can be obtained from animals using the talent "Pull Claws." }
 
-misc_bagOfCurrency_description { A bag that jingles when you shake it. Is it just a few coins, or is there more to it? }
+misc_bagOfCurrency_description { A pouch that jingles when you shake it. Does it contain only a few coins or is there more to it than meets the eye? }
 
 key_chest_mineBanditMainKey_name { Rusty Key }
 
@@ -576,7 +576,7 @@ key_chest_mineBanditMainKey_description { I took this off a bunch of bandits. }
 
 item_mineRelic_name { Strange Relic }
 
-item_mineRelic_description { An ancient relic of the Bygones. }
+item_mineRelic_description { An ancient relic of the Bygones }
 
 item_rubble_name { Rubble }
 
@@ -586,9 +586,9 @@ item_spiritVessel_greatTusk_name { Spirit Vessel }
 
 item_atlanterRune_name { Strange Rune }
 
-item_runestone_name { Rune Stone }
+item_runestone_name { Runestone }
 
-item_runestone_empty_name { Empty Rune Stone }
+item_runestone_empty_name { Empty Runestone }
 
 item_packageBrutusMineWeapons_name { Weapons Pack }
 
@@ -698,9 +698,9 @@ cons_flow_spartanKick_name { Kick }
 
 cons_flow_spartanKick_description { You inflict [DamageFlexAbs] damage and knock back opponents. }
 
-cons_flow_execute_name { Execute }
+cons_flow_execute_name { Blood Frenzy }
 
-cons_flow_execute_description { You inflict [WeaponDamagePercent] weapon damage and an additional [WeaponDamagePercent2] weapon damage per active Bleed that's ailing the opponent. }
+cons_flow_execute_description { You inflict [WeaponDamagePercent] weapon damage and an additional [WeaponDamagePercent2] weapon damage per active Bleed that's afflicting the opponent. Adds one additional active Bleed. }
 
 cons_flow_pierce_name { Pierce }
 
@@ -710,9 +710,9 @@ cons_flow_infection_name { Contagion }
 
 cons_flow_infection_description { You inflict [WeaponDamagePercent] weapon damage, and poison opponents suffering from an active Bleed. }
 
-cons_flow_bloodRage_name { Blood Frenzy }
+cons_flow_bloodRage_name { Execute }
 
-cons_flow_bloodRage_description { A heavy attack that inflicts [WeaponDamagePercent] weapon damage. If you kill an opponent while Blood Frenzy is active, you'll regain the focus points for the skill. }
+cons_flow_bloodRage_description { A heavy attack that inflicts [WeaponDamagePercent] weapon damage. If you kill an opponent using Execute, you'll regain the focus points for the skill. }
 
 item_rubin_name { Ruby }
 
@@ -742,11 +742,11 @@ cons_flow_conjure_pack_description { Summons a pack of rippers to tear apart you
 
 cons_flow_conjure_insects_name { Summoning: Insects }
 
-cons_flow_conjure_insects_description { Summons insects that poison your opponents. }
+cons_flow_conjure_insects_description { Summons insects that can poison your opponents. }
 
 cons_flow_conjure_rats_name { Summoning: Rats }
 
-cons_flow_conjure_rats_description { Summons rats that have a chance to inflict opponents with "Bleed." }
+cons_flow_conjure_rats_description { Summons rats that have a chance to inflict "Bleed" upon opponents. }
 
 cons_flow_venomCry_name { Venomous Shout }
 
@@ -754,7 +754,7 @@ cons_flow_venomCry_description { You conjure up a cloud in front of you, poisoni
 
 cons_flow_thunderstorm_name { Thunderstorm }
 
-cons_flow_thunderstorm_description { You create a mighty thunderstorm that hurls lightning down on your enemies. The effect lasts [TimeAbs] seconds. }
+cons_flow_thunderstorm_description { You create a mighty thunderstorm that hurls lightning down on your opponents. The effect lasts [TimeAbs] seconds. }
 
 misc_traderBag_name { Filthy Bag }
 
@@ -784,7 +784,7 @@ item_blackboard_woodcamp_name { Notice: Woodcutter Camp }
 
 cons_flow_flowForm_name { Focus Shape }
 
-cons_flow_flowForm_description { Increases physical damage by [DamagePercent], movement and attack speed by [MovePercent] and reduces stamina consumption for all actions by [StaminaValuePercent].<br><br>Focus costs will be consumed over time. The effect lasts until all focus has been used up. }
+cons_flow_flowForm_description { Increases physical damage by [DamagePercent], increases movement and attack speed by [MovePercent], and reduces stamina consumption for all actions by [StaminaValuePercent].<br><br>Focus costs will be consumed over time. This effect lasts until all focus has been used up. }
 
 cons_flow_whirlingEnergy_name { Whirling Energy }
 
@@ -800,7 +800,7 @@ item_traps_name { Notice: We Need More Traps }
 
 cons_flow_obsidianSpear_name { Summon Obsidian Spear }
 
-cons_flow_obsidianSpear_description { You conjure up a spear of the Bygones that generates focus in an area around itself. }
+cons_flow_obsidianSpear_description { You conjure up a spear of the Bygones that generates Focus in an area around itself. }
 
 item_playWithKids_name { Notice: Playing with the Kids }
 
@@ -818,7 +818,7 @@ cons_flow_aggressiveCry_description { You bellow into a cone-shaped area in fron
 
 cons_flow_battleCry_name { Battle Shout }
 
-cons_flow_battleCry_description { Increases inflicted damage by [DamagePercent], movement and attack speed by [MovePercent], but you'll also receive [ReceiveDamagePercent] more damage. The effect lasts [TimeAbs] seconds. }
+cons_flow_battleCry_description { Increases inflicted damage by [DamagePercent], movement and attack speed by [MovePercent], but you'll also receive [ReceiveDamagePercent] greater damage. The effect lasts [TimeAbs] seconds. }
 
 cons_flow_bullRush_name { Charge }
 
@@ -826,7 +826,7 @@ cons_flow_bullRush_description { You charge ahead, inflicting [DamageFlexAbs] ph
 
 cons_flow_ferventCry_name { Fervent Shout }
 
-cons_flow_ferventCry_description { Increases your physical damage resistance by [DamageResPercent] for [TimeAbs] seconds. }
+cons_flow_ferventCry_description { Increases your resistance to physical damage by [DamageResPercent] for [TimeAbs] seconds. }
 
 item_crowtrap_name { Crows' Feet }
 
@@ -840,9 +840,9 @@ item_permapotion_flow_name { Elixir of Concentration }
 
 item_permaherb_flow_name { Luminous Bass }
 
-item_potion_flow_0_name { Flow Potion }
+item_potion_flow_0_name { Focus Potion }
 
-item_potion_flow_1_name { Potent Flow Potion }
+item_potion_flow_1_name { Potent Focus Potion }
 
 item_fishing_name { Notice: Fish for the Soup }
 
@@ -944,7 +944,7 @@ item_potion_windwalker_description { Increases your movement speed by [MovePerce
 
 item_harpybrew_name { Harpybrew }
 
-item_harpybrew_description { Swaps Focus with health. I'm sure that's not completely pointless, right? }
+item_harpybrew_description { Swaps Focus with Health. I'm sure that's not completely pointless, right? }
 
 item_golemsalve_name { Golem Ointment }
 
@@ -996,19 +996,19 @@ armor_chest_shirt_ragged_name_name { Rags }
 
 armor_chest_shirt_ragged_name_description { Better than nothing, I guess... }
 
-armor_chest_ruinenlager_fighter_druid_name_name { Remnants Druidic Fighter Armor }
+armor_chest_ruinenlager_fighter_druid_name_name { Remnants' Druidic Fighter Armor }
 
 armor_chest_ruinenlager_fighter_druid_name_description { Only the strongest in the Remnants' camp are allowed to wear this armor. }
 
-armor_chest_ruinenlager_fighter_fight_name_name { Remnants Light Fighter Armor }
+armor_chest_ruinenlager_fighter_fight_name_name { Remnants' Light Fighter Armor }
 
-armor_chest_ruinenlager_fighter_heavy_name_name { Remnants Heavy Fighter Armor }
+armor_chest_ruinenlager_fighter_heavy_name_name { Remnants' Heavy Fighter Armor }
 
-armor_chest_ruinenlager_heavy_name_name { Remnants Heavy Armor }
+armor_chest_ruinenlager_heavy_name_name { Remnants' Heavy Armor }
 
 armor_chest_ruinenlager_heavy_name_description { This armor is reserved to members of the Remnants. It displays my loyalty to Jero. }
 
-armor_chest_ruinenlager_name_name { Remnants Light Armor }
+armor_chest_ruinenlager_name_name { Remnants' Light Armor }
 
 armor_chest_tunic_name_name { Work Clothes }
 
@@ -1044,7 +1044,7 @@ item_bigquiver_description { This quiver has room for seven arrows. }
 
 item_rivercharm_name { Amulet of the River }
 
-item_rivercharm_description { Upon a successful hit, attacks generate [FocusValueAbsolut] more Focus. }
+item_rivercharm_description { Upon a successful hit, attacks generate more Focus. }
 
 item_thornfetish_name { Thorny Fetish }
 
@@ -1056,11 +1056,11 @@ item_riptoothchain_description { Bleed effects inflict their damage faster. }
 
 item_vipertooth_name { Tooth of the Viper }
 
-item_vipertooth_description { The slowing of poison is increased by [SlowPercent]. }
+item_vipertooth_description { Poison is slowed down further by [SlowPercent]. }
 
 item_mastersmemory_name { Belt of the Master }
 
-item_mastersmemory_description { The final hit of a combo with the sword or the axe inflicts [DamageValuePercent] more damage and generates [FocusValuePercent] more Focus. }
+item_mastersmemory_description { The final hit of a combo with sword or axe inflicts [DamageValuePercent] more damage and generates [FocusValuePercent] more Focus. }
 
 item_cleavageskull_name { Skullcleaver }
 
@@ -1092,7 +1092,7 @@ item_boartooth_description { Heavy attacks consume [StaminaValuePercent] less st
 
 item_tendonofglory_name { Bolt of Grandeur }
 
-item_tendonofglory_description { Ranged attacks pierce the first target hit. }
+item_tendonofglory_description { Ranged attacks pierce the first target that has been hit. }
 
 item_shaftofpurefury_name { Shaft of pure Rage }
 
@@ -1100,7 +1100,7 @@ item_shaftofpurefury_description { For each [HealthPercent] lost health, you inf
 
 item_bloodbornering_name { Ring of Blood }
 
-item_bloodbornering_description { Once you are hit, you have a short window of time to regenerate lost health by inflicting damage on an opponent. Beware of the old blood. }
+item_bloodbornering_description { Once you are hit, you have a short window of time to regenerate lost Health by inflicting damage on an enemy. Beware of the old blood. }
 
 item_whispersilkbag_name { Pouch Made from Whispering Silk }
 
@@ -1116,7 +1116,7 @@ item_flowcatchertalisman_description { Using a Focus ability temporarily increas
 
 item_windtalisman_name { Wind Talisman }
 
-item_windtalisman_description { After dodging, your next attack inflicts [DamageValuePercent] more damage. }
+item_windtalisman_description { After dodging, your next physical attack inflicts [DamageValuePercent] more damage. }
 
 item_lifering_name { Ring of the Norns }
 
@@ -1174,7 +1174,7 @@ armor_chest_nemeton_craftsman_name_name { Crafters' Garb in Nemeton }
 
 armor_chest_nemeton_chief_name_name { Nemeton Leadership Armor }
 
-armor_chest_ruinenlager_chief_name_name { Remnant Leadership Armor }
+armor_chest_ruinenlager_chief_name_name { Remnants' Leadership Armor }
 
 item_mumbertDiarrhoea_name { Spiked Beer }
 
@@ -1232,7 +1232,7 @@ item_paperchasestone_rune_description { Thanks to my artistic talents, a rune no
 
 misc_riddle_deer_name { Silver Antlers }
 
-misc_riddle_deer_description { A magical artefact of the bygones. Inspired by a divinity. }
+misc_riddle_deer_description { A magical artifact of the Bygones. Reminiscent of a Divinity. }
 
 misc_riddle_fox_name { Silver Paw }
 
@@ -1296,7 +1296,7 @@ recipe_flow_battleCry_name { Ability: Battle Shout }
 
 recipe_flow_blink_name { Spell: Misty Step }
 
-recipe_flow_bloodRage_name { Ability: Blood Frenzy }
+recipe_flow_bloodRage_name { Ability: Execute }
 
 recipe_flow_bullRush_name { Ability: Charge }
 
@@ -1306,7 +1306,7 @@ recipe_flow_dash_name { Ability: Dash }
 
 recipe_flow_energyProjectile_name { Spell: Energy Bolt }
 
-recipe_flow_execute_name { Ability: Execute }
+recipe_flow_execute_name { Ability: Blood Frenzy }
 
 recipe_flow_ferventCry_name { Ability: Fervent Shout }
 
@@ -1376,9 +1376,9 @@ recipe_farmersmeal_name { Recipe: Farmer's Meal }
 
 recipe_fishpan_name { Recipe: Fish Stirfry }
 
-recipe_flowpotion_0_name { Recipe: Flow Potion }
+recipe_flowpotion_0_name { Recipe: Focus Potion }
 
-recipe_flowpotion_1_name { Recipe: Potent Flow Potion }
+recipe_flowpotion_1_name { Recipe: Potent Focus Potion }
 
 recipe_fogstew_name { Recipe: Dismal Stew }
 
@@ -1524,7 +1524,7 @@ item_letter_library_circleRoom_note1_name { Teleportation Circle }
 
 item_letter_library_circleRoom_note2_name { Dark Silver }
 
-item_letter_library_energyRoom_note_name { Rune Stones }
+item_letter_library_energyRoom_note_name { Runestones }
 
 item_letter_library_golemRoom_note1_name { Research: Nature Magic }
 
@@ -1608,9 +1608,9 @@ helmet_nemeton_guard1_name_name { Nemeton Light Helmet }
 
 helmet_nemeton_guard2_name_name { Nemeton Heavy Helmet }
 
-helmet_ruinenlager_guard1_name_name { Remnants Simple Helmet }
+helmet_ruinenlager_guard1_name_name { Remnants' Simple Helmet }
 
-helmet_ruinenlager_guard2_name_name { Remnants Heavy Helmet }
+helmet_ruinenlager_guard2_name_name { Remnants' Heavy Helmet }
 
 helmet_cauldron_name_name { Cauldron }
 
@@ -1698,13 +1698,17 @@ misc_map_leuchtwald_name { Map of the Forest Primeval }
 
 misc_worldmap_detailed_name { Map of Drova }
 
-misc_worldmap_detailed_description { Drawn by one "Lorthiz". }
+misc_worldmap_detailed_description { Drawn by one "Lorthiz." }
 
 misc_worldmap_shrines_name { Map of the Shrines }
 
+misc_caveSystem_name { Map of the Caves }
+
+misc_caveSystem_description { A map of the cave system below the Remnants' camp. }
+
 armor_chest_ruinenlager_gladiator_name { Gladiators' Armor }
 
-armor_chest_ruinenlager_gladiator_description { For each % lost health, you receive 1% less damage — up to a maximum of 90%<br><br>Armor, drenched in the blood of my enemies. Victory is mine. }
+armor_chest_ruinenlager_gladiator_description { For each % of health lost, you receive 1% less damage — up to a maximum of 90%<br><br>Armor, drenched in the blood of my enemies. Victory is mine. }
 
 misc_bagOfCurrency_big_name { Large Pouch filled with Coins }
 
@@ -1860,7 +1864,7 @@ recipe_meat_2_name { Recipe: Juicy Fried Meat }
 
 item_ring_god_name { Blessing of the Divinities }
 
-item_ring_god_description { My very own Talisman. }
+item_ring_god_description { My Very Own Talisman }
 
 key_harald_name { Key to the Mine }
 
@@ -1910,7 +1914,7 @@ flow_ricochet_description { You fire a projectile that inflicts [WeaponDamagePer
 
 recipe_flow_ricochet_name { Ability: Ricochet }
 
-flow_bruntShot_name { Concussive Shot }
+flow_bruntShot_name { Impetus Shot }
 
 flow_bruntShot_description { You fire an arrow that inflicts [WeaponDamagePercent] weapon damage and stuns opponents for [StunTime] seconds. }
 
@@ -2016,13 +2020,13 @@ item_ironore_description { Needs to be refined at a bloomery. }
 
 item_trinket_pureDmg_name { Tinkerer's Revenge }
 
-item_trinket_pureDmg_description { Increases the damage of traps and thrown objects by 100%. }
+item_trinket_pureDmg_description { Increases damage inflicted by traps and throwables by 100%. }
 
-item_VoragoFragment_0_name { Fragment of an emblem }
+item_VoragoFragment_0_name { Fragment of an Emblem }
 
-item_VoragoFragment_0_description { The other half appears to be missing. The symbol on it is not clearly recognizable. Could it be a shell? }
+item_VoragoFragment_0_description { The other half seems to be missing. There is a symbol, but it's unintelligible. Could this be a shell? }
 
-item_letterAtlanter_Excalibur_name { The sword in the stone }
+item_letterAtlanter_Excalibur_name { The Sword in the Stone }
 
 item_letterAtlanter_Excalibur_description {  }
 
@@ -2037,4 +2041,20 @@ item_letterAtlanter_Extractor2_description {  }
 item_letterAtlanter_Armor_name { Armor of the Bygones }
 
 item_letterAtlanter_Armor_description {  }
+
+item_potion_respec_name { Potion of Forgetfulness }
+
+item_potion_respec_description { A beverage containing strong alcohol. It's said whoever drinks this spirit will not remember having done so afterwards.<br>(Resets talents learned with Learning Points) }
+
+weapon_sling_legendarySlingshot_name { Cyclone }
+
+weapon_sling_legendarySlingshot_description { The slingshot is surrounded by a wind that amplifies its momentum. }
+
+item_letterCelts_Spark_name { Bertine's Spark }
+
+item_letterCelts_Spark_description { item_letterCelts_Spark_description }
+
+item_letter_library_soundRoom_note2_name { Resonance Horns }
+
+item_letter_library_soundRoom_note2_description { item_letter_library_soundRoom_note2_description }
 

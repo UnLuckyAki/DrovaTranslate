@@ -18,13 +18,13 @@ Mind3 { If you focus on your breathing, it'll be easier for you to block out wha
 
 Generic { You've learned this talent. }
 
-Axe_01_00 { Axefighting is all about strength and technique. In the beginning, you need to learn that your swing must come from your arm and shoulder. }
+Axe_01_00 { Axfighting is all about strength and technique. In the beginning, you need to learn that your swing must come from your arm and shoulder. }
 
 Axe_02_00 { If you perform your combo attacks in the following manner, you'll maneuver yourself into a position allowing you to launch a devastating third attack. Give it a try! }
 
 Axe_03_00 { In order to improve, you need to become one with your axe. Feel every bit of resistance, each drop of blood, and each cut — as if you yourself were the axe. }
 
-Axe_BattleFrenzy_00 { The secret of the axe lies with its inertia. Use the weight of its blade, and you'll notice how the Focus of your attacks improves. }
+Axe_BattleFrenzy_00 { The secret of the axe lies with its inertia. Use the weight of its blade, and you'll notice the focus of your attacks improving. }
 
 Sword_Axe_Reduce_StaminaCost { When winding up for an attack, relax your muscles. Otherwise, you'll tire out faster than a running ripper! }
 
@@ -78,7 +78,7 @@ Shield_02_00 { Relax your hand during blocking. Gripping your shield too tightly
 
 Shield_BalanceBreaker_00 { If you repel an attack at the very last moment, you'll throw your opponent off balance. This way, not only can you avoid taking damage, but you can also seize the opportunity to inflict more damage of your own! }
 
-Shield_IsThatAllYouGot_00 { If you're attacked, keep a level head. Use your shield to block and to increase your Focus. }
+Shield_IsThatAllYouGot_00 { If you're attacked, keep a level head. Use your shield to block and to accumulate Focus. }
 
 Bow_01_00 { If spend too much time aiming, you'll lose your strength. Try to aim only until you've locked onto your target, then let go. You'll notice that your arrow inflicts a lot more damage this way. }
 
