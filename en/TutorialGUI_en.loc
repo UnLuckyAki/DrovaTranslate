@@ -1,0 +1,78 @@
+Title { Tutorials }
+
+IsTrader { Merchant }
+
+Category_Basics { Basics }
+
+Category_Journal { Journal }
+
+Category_Combat { Combat }
+
+Category_Items { Items }
+
+Name_Movement { Movement }
+
+Name_Perception_01 { Investigation Mode: Look Around }
+
+Name_Perception_02 { Investigation Mode: Uncover }
+
+Name_Perception_03 { Investigation Mode: Examine }
+
+Name_Interact { Interaction }
+
+Name_Stealing { Stealing }
+
+Name_Crafting { Crafting }
+
+Name_LevelUp { Leveling Up }
+
+Name_ChangeStance { Change Stance }
+
+Name_StatusEffects { Afflictions }
+
+Name_UsedHealItem { Healing }
+
+Name_Journal { Journal Entries }
+
+Name_FirstNote { Notes }
+
+Name_FirstTreasure { Treasure Maps }
+
+Name_Dodge { Dodge }
+
+Name_SecondWeapon { Switch Weapon }
+
+Name_Abilities_02 { Abilities }
+
+Name_BattleBuddies_Blocks { Block }
+
+Name_BattleBuddies_Combos { Combos }
+
+Name_BattleBuddies_GetFlow { Focus }
+
+Name_BattleBuddies_Spell { Spells }
+
+Name_NeedMunition { Ammunition }
+
+Name_Secondaries { Off-Hand Actions }
+
+Name_PoiseBreak { Stance }
+
+Name_LookDirectionCombat { Line of Sight in Combat }
+
+Name_FirstHeal { Healing }
+
+Name_FirstFood { Food }
+
+Name_FirstGoodFood { Rich Food }
+
+Name_FirstWeapon { Weapon Types }
+
+Name_FirstRangeWeapon { Ranged Weapons }
+
+Name_FirstConsFlow { Scrolls }
+
+Name_FirstThrow { Consumables }
+
+Name_FistRecipe { Recipes }
+

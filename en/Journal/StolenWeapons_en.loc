@@ -1,6 +1,6 @@
 Title { The Vanished Weapons }
 
-Entry_00 { For a while now, weapons shipments have been disappearing in Nemeton — including yesterday's shipment. This is a way for me to prove my worth if I want to be accepted into the Nemeton. Apparently, Kendrick from Nemeton has been entrusted with the investigation. }
+Entry_00 { For a while now, weapons shipments have been disappearing in Nemeton — including yesterday's shipment. This is a way for me to prove my worth if I want to be accepted into the Nemeton. Apparently, Kendrick has been entrusted with the investigation. }
 
 Entry_0B { Kendrick doesn't seem to like me very much. He suspects Palina of having stolen the weapons. Palina guards the western gate. }
 
@@ -34,13 +34,13 @@ Entry_08 { Swenn has red hair, but he's got an alibi. He said he saw Harvey and 
 
 Entry_08_A { Humbert said that Harvey and Jennifer were meeting by the pond in the southern part of the garden. }
 
-Entry_09_A { Harvey's hut was ransacked, but I found a note mentioning a hatch in the Lost Quarter in the east part of Nemeton. }
+Entry_09_A { Harvey's hut was ransacked, but I found a note mentioning a hatch in the Lost Quarter east of Nemeton. }
 
 Entry_09_B { I found a strange key in the garden. }
 
 Entry_09 { When I followed up on Kendrick's hot tip, I was ambushed. The assailant was carrying a heavy key and a letter. Something about a hatch behind some dilapidated building. }
 
-Entry_09B { Kendrick told me that he was approached by someone who claims to have more information. I'm supposed to meet that person in the Lost Quarter, in the east part of Nemeton. }
+Entry_09B { Kendrick told me that he was approached by someone who claims to have more information. I'm supposed to meet that person in the Lost Quarter, east of Nemeton. }
 
 Entry_10 { Kendrick pressured Harvey to steal the weapons. Now Harvey is no longer sure whether this choice was the right one. I convinced him to take me to the stash. I've got to see it with my own eyes. }
 
@@ -48,5 +48,5 @@ Entry_11 { Harvey's colleague Jennifer was near the stash, and she, too, had wan
 
 Entry_12 { I told Angus, and now I may join. }
 
-Entry_0C { I would like to join the Nemeton, but Angus doesn't have time for me. He says that new recruits must first prove themselves. }
+Entry_0C { I would like to join the Nemeton, but Angus doesn't have time for me. He says that new recruits must first to prove themselves. }
 
