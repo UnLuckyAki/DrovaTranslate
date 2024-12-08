@@ -80,7 +80,7 @@ item_alraune_name { Мандрагора }
 
 item_alraune_description { Кричащий корень. Интересно, для чего он... }
 
-item_callashroom_name { Каллашрум }
+item_callashroom_name { Калла Гриб }
 
 item_callashroom_description { Гриб с болота. }
 
@@ -94,7 +94,7 @@ item_beer_description { Простое пиво. Чем больше пьешь,
 
 item_apple_name { Яблоко }
 
-item_callashroom_extract_name { Экстракт Каллашрума }
+item_callashroom_extract_name { Экстракт Калла Грибов }
 
 item_callashroom_extract_description { Экстракт, который нужен для талисмана Хелмы. }
 
@@ -956,7 +956,7 @@ item_foodpile_name { Рыбный Омлет}
 
 item_fishpan_name { Жареная Рыба}
 
-item_roastedcallamushroom_name { Жареные Каллашрумы}
+item_roastedcallamushroom_name { Жареные Калла Грибы}
 
 item_roastofthepast_name { Жаркое Прошедших }
 
@@ -1428,7 +1428,7 @@ recipe_potion_windwalker_name { Рецепт: Зелье Блуждающего 
 
 recipe_rivercharm_name { Рецепт: Амулет Реки }
 
-recipe_roastedcallamushroom_name { Рецепт: Жареные Каллашрумы }
+recipe_roastedcallamushroom_name { Рецепт: Жареные Калла Грибы }
 
 recipe_roastofthepast_name { Рецепт: Жаркое Прошедших }
 
