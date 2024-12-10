@@ -48,7 +48,7 @@ Plh_60 { I never would've thought it so difficult to get through the damn Red Mo
 
 Plh_61 { Fortunately, Nemeton was impossible to miss. Now I need to get some rest... }
 
-Plh_62 { I thought I was a goner down there in the Pit. Thanks be to the Divinities for leading us out. }
+Plh_62 { Once I've regained my strength, I'd like to see more of Drova. After all this time underground... I'd like to make good use of my newfound freedom. }
 
 Plh_59 { Bruna and I got some rest, then we made our way through the mire. }
 
@@ -99,4 +99,14 @@ Plh_76 { Good luck with that. A lot of people around here want that. }
 Plh_14 { *blinks and mutters* }
 
 Plh_54 { Will we... ever make it out of here? }
+
+Plh_119 { Hello, $GVAR:EVars_Player.Name$! Look, my cart! I'm a traveling merchant now! }
+
+Plh_120 { Nice! How's life on the road treating you? }
+
+Plh_121 { In the beginning, I was a bit worried what it would be like... not having a place to sleep and all... but once we were on the road, all those worries subsided. Especially when Bruna was with me. }
+
+Plh_122 { It's really nice to be out and about so much. After that musty cave, I enjoy that a lot. }
+
+Plh_123 { Hello, $GVAR:EVars_Player.Name$. Good to see you. }
 

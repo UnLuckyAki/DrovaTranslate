@@ -1,8 +1,8 @@
-Plh_12 { What kind of potion are you making? }
+Plh_12 { What exactly does a potion of strength do? }
 
 Plh_33 { What exactly are you missing to make your potion? }
 
-Plh_36 { Where can I find an herb like that? }
+Plh_36 { Where can I find a root like that? }
 
 Plh_48 { Here's a basaltroot. }
 
@@ -111,4 +111,50 @@ Plh_10 { What are you doing here? }
 Plh_9 { Tinkering. I'm in the process of developing a potion to improve my own strength. But somehow it's not working properly... As if something important is still missing. }
 
 Plh_21 { I've got things to do. What do you want? }
+
+Plh_95 { Really fascinating what those Bygones were brewing. }
+
+Plh_69 { Another potion is supposed to make you forget everything. And by that, I mean not only last night. Our concoction can do that just fine! Nope, you'll forget everything you've ever learned! }
+
+Plh_73 { You were talking about a potion of forgetfulness? }
+
+Plh_80 { Here are the $GVAR:QuestVars_TrankVergessens_Config.AmountMats$ ruin blossoms for the potion. }
+
+Plh_86 { I've tried the potion of forgetfulness. }
+
+Plh_74 { Imagine this: The potion lets you forget everything you've ever learned. Unbelievable. The Bygones truly were masters of concoctions. }
+
+Plh_75 { What's missing for the potion of forgetfulness? }
+
+Plh_76 { I have no idea how to make it. All I've ever found is a description of it. }
+
+Plh_77 { *whispers* But I've also found some liquid that could become the potion. Once, I took only a tiny sip and instantly forgot how to sit down. }
+
+Plh_78 { The potion is still a clear liquid, but the description speaks of a yellowish color. It's probably lacking some ruin blossoms. They grow, as the name indicates, close to ruins. And they are yellow. }
+
+Plh_79 { If you fetch me $GVAR:QuestVars_TrankVergessens_Config.AmountMats$ of those, I can brew the potion for you. I'll hand it over to you then. And since it's somewhat risky, you won't have to pay me! }
+
+Plh_93 { You know where to find me. }
+
+Plh_81 { Great! So today, we'll learn something new! Well, I will... I guess you won't. }
+
+Plh_82 { Mhh, it's gotten nice and yellow. Here, for you. }
+
+Plh_83 { You don't have to drink it right away, but let me know once you've tried it. I'm curious to find out whether it works. }
+
+Plh_84 { Thanks for your help! }
+
+Plh_85 { We'll see once I'll get around to it. }
+
+Plh_92 { If you want to know something about potions — or if you need anything — you can always come to me. }
+
+Plh_87 { So, how was it? You seem to remember me, at least. }
+
+Plh_88 { Somehow, I've forgotten only the things that I learned in Drova... }
+
+Plh_89 { It burned like frog spittle, and for the life of me, I couldn't remember which end of a weapon is the dangerous one. }
+
+Plh_90 { Good, good! It's intriguing to observe the efficacy of Bygones' potions! }
+
+Plh_91 { That's for letting me know! }
 
