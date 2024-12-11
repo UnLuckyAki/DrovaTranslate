@@ -141,3 +141,52 @@ Plh_99 { Хм, интуиция подсказывает мне, что шанс
 Plh_100 { Ты найдешь палатку Бади где-то здесь, на холме к западу от Арены. Может, ты найдешь что-то еще, что нам поможет. }
 
 Plh_67 { Мое внутреннее чувство подсказывает мне, что этого недостаточно. Гра не такой уж хороший боец, а Бади — крутой парень. Нам нужно немного больше — скажем так, влияния. }
+
+Plh_110 { Теперь я стал бойцом арены... У меня получилось! }
+
+Plh_114 { Скоро я буду сражаться на арене. Ты бы... помог мне с этим? }
+
+Plh_111 { Убирайся. Из-за тебя я проиграл свою ставку. }
+
+Plh_112 { Там можно выиграть крупно. Дай знать, если тебе когда-нибудь понадобится... помощь. Если бой пойдёт не по твоему плану, я могу кое-что уладить... если ты понимаешь, о чём я. }
+
+Plh_118 { Конечно, только если у тебя есть монеты. }
+
+Plh_113 { Ты ведь один из нас. Хорошо, что ты выбрал Бориса. Так я могу немного скинуть цену. *ухмыляется* }
+
+Plh_115 { Без проблем... если поможешь нескольким монетам найти дорогу в мой карман. }
+
+Plh_117 { Поскольку ты один из нас, давай скажем $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationBorisTeam$ монет. Это сделает бой намного легче. *ухмыляется* }
+
+Plh_119 { Вот монеты. (передать $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationBorisTeam$ монет) }
+
+Plh_116 { $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulation$ монет. Это сделает бой намного легче. *ухмыляется* }
+
+Plh_121 { Вот монеты. (передать $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulation$ монет) }
+
+Plh_125 { Поскольку ты один из нас, давай скажем $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationLiandraBorisTeam$ монет. Это сделает бой намного легче. *ухмыляется* }
+
+Plh_126 { Вот монеты. (передать $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationLiandraBorisTeam$ монет) }
+
+Plh_128 { $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationLiandra$ монет. Это сделает бой намного легче. *ухмыляется* }
+
+Plh_127 { Вот монеты. (передать $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationLiandra$ монет) }
+
+Plh_129 { Поскольку ты один из нас, давай скажем $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationDieDunkleBorisTeam$ монет. Это сделает бой намного легче. *ухмыляется* }
+
+Plh_131 { Вот монеты. (передать $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationDieDunkleBorisTeam$ монет) }
+
+Plh_130 { $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationDieDunkle$ монет. Это сделает бой намного легче. *ухмыляется* }
+
+Plh_132 { Вот монеты. (передать $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationDieDunkle$ монет) }
+
+Plh_133 { Поскольку ты один из нас, давай скажем $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationAdaBorisTeam$ монет. Это сделает бой намного легче. *ухмыляется* }
+
+Plh_135 { Вот монеты. (передать $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationAdaBorisTeam$ монет) }
+
+Plh_134 { $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationAda$ монет. Это сделает бой намного легче. *ухмыляется* }
+
+Plh_136 { Вот монеты. (передать $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationAda$ монет) }
+
+Plh_124 { Я видел твой бой. Отлично сражался! *ухмыляется* Ты всегда можешь на меня рассчитывать! }
+
