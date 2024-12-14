@@ -80,7 +80,7 @@ Plh_235 { Yes, I wish to embark on the journey. }
 
 Plh_236 { No, I have other things to take care of. }
 
-Plh_238 { There are two more offshoots — one to the northeast, one to the south. You'll have to find the roots there on your own, however. For those, you'll need two more talismans. }
+Plh_238 { There are two more offshoots — one to the northeast, one to the south. }
 
 Plh_184 { Find the roots. Introduce yourself to the Mighty Boar and become a full-fledged member of the Bonded. }
 
@@ -384,7 +384,7 @@ Plh_30 { Now we can focus on Birka's Rite of Passage. She's waited a long time, 
 
 Plh_84 { What's a Rite of Passage? }
 
-Plh_85 { So, what are we waiting for? }
+Plh_85 { I'm ready for the ritual. }
 
 Plh_31 { Everyone here has their spark. Birka's the only one who still doesn't. But she will receive hers once she completes her Rite of Passage, provided that the Boar deems her worthy. }
 
@@ -399,4 +399,38 @@ Plh_303 { The Divinity guides each path and decides what's going to happen. We, 
 Plh_301 { I'm here to warn you. My camp wants to catch the Mighty Boar! }
 
 Plh_302 { The Divinities know more than we do. It is not up to us to question them, only to trust in them. Whatever happens, the Mighty Boar guides each of our paths. }
+
+Plh_321 { So, the camps actually mustered their strength and risked it. Those fools. }
+
+Plh_322 { My trust in the nature of the Mighty Boar is unwavering. It chose you, and whatever fate you shall meet in the heart of the forest... I am certain it will be in the Divinities' best interest. }
+
+Plh_310 { You... How could you...?! }
+
+Plh_311 { I warned you! What was I supposed to do? }
+
+Plh_312 { Defying the camps is futile. It had to come to this! }
+
+Plh_313 { You warned us, all right, but why didn't the Boar prevent it? It showed no fear! It didn't speak to me! }
+
+Plh_314 { Ugh... you... YOU...! }
+
+Plh_315 { It is as though a part of myself had been torn out of me... all I feel is pain... and HATRED! }
+
+Plh_316 { The spark is flying to YOU?! THAT CANNOT BE HAPPENING! AHHHH! }
+
+Plh_318 { You are strong. Perhaps your spark is a better judge of character than I am... use this power for something good. }
+
+Plh_319 { Maybe everything will turn out all right after all. *smiles weakly* }
+
+Plh_304 { Leave the Refuge and turn north. Once you see the stone circle, continue east as if you wanted to leave the forest. Follow the path until it bends, but then keep going straight. The root is on a rise behind the Blackflame. }
+
+Plh_305 { In order to reach the other root, leave the camp heading eastward. You need to pass the hill with the ruins on top of it and go deeper into the forest. Turn southwest after you've reached the meadow where you fought the Wayward. You'll find the root there. }
+
+Plh_307 { Are you ready for this? The spark will light up the entire forest, and everyone in Drova will see the radiance. *smirks* }
+
+Plh_306 { I still need some more time. }
+
+Plh_308 { You've helped us, and we'd like you to be a part of it. We're ready when you are. Just let us know. }
+
+Plh_309 { Plh_309 }
 

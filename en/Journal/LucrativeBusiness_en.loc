@@ -10,7 +10,7 @@ Entry_04 { On the way back, I was mugged by bandits. Apparently, they had been l
 
 Entry_05 { I sold Boris the note for $GVAR:QuestVars_LucrativeBusiness_Config.LetterPrice$ coins. Now I just have to get to Asmus. }
 
-Entry_06 { Asmus believes the story about the mugging, but he can't do anything about it without proof. He needs the coins, and I'm supposed to get them some other way. }
+Entry_06 { Asmus believes the story about the mugging, but he can't do anything about it without proof. He needs the coins, and I'm supposed to get the Rustmoss some other way. }
 
 Entry_07 { I gave the coins to Asmus. As a reward, he gave a share of the coins back to me. }
 

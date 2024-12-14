@@ -12,7 +12,7 @@ Plh_27 { Just a few. }
 
 Plh_28 { Actually, I don't need any coins at the moment. }
 
-Plh_58 { Then hand over the $GVAR:QuestVars_Debt_Config.HighAmountWithInterest$ coins. }
+Plh_58 { Then hand over the get$GVAR:QuestVars_Debt_Config.HighAmountWithInterest$ coins. }
 
 Plh_98 { That many?! }
 
@@ -26,7 +26,7 @@ Plh_63 { Excellent. Pleasure doing business with you. *smirks* }
 
 Plh_64 { You'd better. And make it snappy. You don't want to have any trouble with me, believe me. }
 
-Plh_59 { Then hand over the $GVAR:QuestVars_Debt_Config.LowAmountWithInterest$ coins. }
+Plh_59 { Then hand over get$GVAR:QuestVars_Debt_Config.LowAmountWithInterest$ coins. }
 
 Plh_100 { That's almost twice as much! Usury! }
 
@@ -40,7 +40,7 @@ Plh_106 { The list... I had it right here! Where did it go?! }
 
 Plh_108 { As I said: No evidence, no debt! }
 
-Plh_109 { *grinds her teeth* If I find out that you have ANYTHING to do with this, then you're in for a world of hurt, my friend. Then you'll wish a ripper really HAD torn you to pieces! }
+Plh_109 { *grinds her teeth* If find out that you have ANYTHING to do with this, then you're in for a world of hurt, my friend. Then you'll wish a ripper really HAD torn you to pieces! }
 
 Plh_70 { I hope Eugen brings everyone back safely again this time. Lindon is one of my best customers. }
 
@@ -142,24 +142,25 @@ Plh_91 { *A parchment containing a list immediately catches your eye. Listed are
 
 Plh_92 { (take the list) }
 
-Plh_112 { Kilian told me that you can help me improve my home. }
+Plh_112 { Kilian said you're responsible for making the ruins habitable. }
 
-Plh_113 { Pay up your debts first, then we'll talk. }
+Plh_113 { Pay your debt, then we'll talk. }
 
-Plh_114 { I'd like to have a better bed. (Give $GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Bed$ coins) }
+Plh_114 { I'd like a better bed. (hand over $GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Bed$ coins) }
 
-Plh_115 { I'd like to have a workbench. (Give $GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Workbench$ coins) }
+Plh_115 { I'd like a workbench. (hand over $GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Workbench$ coins) }
 
-Plh_116 { I'd like to have a furnace. (Give $GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Smith$ coins) }
+Plh_116 { I'd like a bloomery. (hand over $GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Smith$ coins) }
 
-Plh_118 { Oh, Kilian told you so? You've barely arrived and already you're getting your own personal quarters! But if Kilian says so, he's going to have his reasons. }
+Plh_118 { Ah, does Kilian say that? You've only just arrived, and you've already obtained your own home. But when Kilian says so, then it must be true, yes? }
 
-Plh_119 { In exchange for coins, I'll be of service. }
+Plh_119 { If you've got the coins, I can help you. }
 
-Plh_120 { Looks good, I'm on it. It should be ready by tomorrow. }
+Plh_120 { Looks good. I'll take care of it. It should be delivered tomorrow. }
 
-Plh_121 { My list, that can't be true. Someone must have stolen it. }
+Plh_121 { My list! That can't be happening! Someone must have stolen it! }
 
-Plh_122 { What about the coins now? Can I borrow something here now? }
+Plh_122 { Now, what about the coins? Can I borrow some? }
 
-Plh_123 { I can't borrow you anything without my list. What a mess. }
+Plh_123 { Without my list I cannot give out any loans. Dammit. }
+

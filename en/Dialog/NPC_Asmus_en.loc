@@ -288,9 +288,9 @@ Plh_400 { But I don't know who comes and goes here. Can't imagine it was anyone 
 
 Plh_231 { Honest work yields honest coins. }
 
-Plh_235 { Plus, I can teach you how to fight better with daggers, if and when you decide to join Nemeton. They're perfect when you've got to be quick. }
+Plh_235 { Plus, once you've joined Nemeton, I can teach you how to fight better with daggers. They're perfect whenever you've got to be quick. }
 
-Plh_36 { Then hurry up and get started. }
+Plh_36 { Then watch and learn. }
 
 Plh_228 { Hmpf. If you find the package, let me know. }
 
@@ -348,7 +348,7 @@ Plh_145 { I'm talking bandits! }
 
 Plh_147 { Hm. That's what Afrin always used to say. What kind of bandits were they? }
 
-Plh_148 { No idea — maybe they were some of Boris's henchmen. But I can't prove that. }
+Plh_148 { No idea — maybe they were some of Boris's henchmen. But I can't proof that. }
 
 Plh_149 { Could they also have been highwaymen? }
 
@@ -466,7 +466,7 @@ Plh_451 { These plinths have something to do with the door... But I still don't 
 
 Plh_452 { Something's missing. Look around. You might find something that fits on the plinths. }
 
-Plh_537 { Get your bearings first, get yourself some armor, and try to survive for a few days. Then you can come back to me. }
+Plh_537 { Get here first, get yourself some armor, and try to survive for a few days. Then you can come back to me. }
 
 Plh_331 { What? Only you? }
 
@@ -562,9 +562,9 @@ Plh_481 { Thanks for your help. }
 
 Plh_482 { They've set up a small camp southwest of here. They're living under Nemeton's protection, and they sell their wood to us. But now that the bridge has been destroyed, their direct route to Nemeton is blocked. }
 
-Plh_483 { When I heard about the earthquake, I immediately thought to myself that some poor bastards had ended up here again. }
+Plh_483 { Once I heard about the earthquake, I immediately thought to myself that some poor bastards had ended up here again. }
 
-Plh_484 { We need capable people in Nemeton. I thought, maybe there'd be a few among the new arrivals. Ah well. }
+Plh_484 { We need capable people in Nemeton. I thought, maybe there'd be a few among the new arrivals. Well. }
 
 Plh_497 { We'll see. }
 
@@ -643,4 +643,20 @@ Plh_534 { Boris won't be happy about this. }
 Plh_535 { Then he ought to repair the bridge. }
 
 Plh_536 { Fine, I'll tell him. }
+
+Plh_540 { So, how did you stomach the Festival of Fire? }
+
+Plh_539 { Didn't think ol' Humbert had it in him... }
+
+Plh_542 { I had it coming. }
+
+Plh_544 { Maybe you should just stop pestering him. }
+
+Plh_545 { *smirks* It's your turn now. }
+
+Plh_547 { I wasn't even aware what we children did to him. We just played some pranks on him. We didn't mean anything... }
+
+Plh_548 { But now I know what that feels like. Maybe you're right... }
+
+Plh_546 { Let the games begin! *smirks* }
 

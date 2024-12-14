@@ -130,11 +130,23 @@ Plh_92 { And what exactly am I supposed to get for you? }
 
 Plh_94 { I hope so too... }
 
-Plh_95 { Bring me $GVAR:BanditMineBrutus_Config.CountMushrooms$ ordinary mushrooms. That should be enough for everyone. }
+Plh_95 { Bring me $GVAR:BanditMineBrutus_Config.CountMushrooms$ common mushrooms. That should be enough for everyone. }
 
 Plh_96 { Meat would be great too, but it isn't worth the risk. Just come back in one piece. }
 
 Plh_97 { Just head to Kolina. You'll find her when you head south from the sleeping quarters. She's on guard duty. }
 
 Plh_91 { Let me give you some advice: take only as much as we need, then come straight back. No unnecessary risks. }
+
+Plh_123 { Hello $GVAR:EVars_Player.Name$! Nice seeing you. }
+
+Plh_124 { What are you doing here? }
+
+Plh_125 { Dalin was asked whether she wanted to join the traveling merchants. She was quick to accept. }
+
+Plh_126 { I got bored lurking around outside Nemeton. So I thought I'd come along. It's safer anyway, even though we're taking only the roads. }
+
+Plh_128 { I'm glad for you. }
+
+Plh_127 { Thanks for everything. *smiles* }
 

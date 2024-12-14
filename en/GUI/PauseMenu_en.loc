@@ -8,6 +8,5 @@ LoadLatest { Last Saved Game }
 
 ToMainMenu { To Main Menu }
 
-Language { Language }
+PleaseWait { The game is being saved. Please wait. }
 
-PleaseWait { Please wait, the game is being saved }

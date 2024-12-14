@@ -4,9 +4,9 @@ Entry_Main_01 { One of Georg's workers went missing, a guy named Hasso. He just 
 
 Entry_Main_02 { In the Remnants' camp, Kora is missing her friend Baltus. He was going to go for a beer to the Headless Ripper Inn, but he never returned. }
 
-Entry_Main_03 { In the camp south of the Remnants' camp, Pwyll is missing his friend Wind, who was on his way to the Headless Ripper Inn. }
+Entry_Main_03 { In the camp south of the Remnants, Pwyll is missing his friend Wind, who was on his way to the Headless Ripper Inn. }
 
-Entry_Main_04 { A few people from the tavern went missing. They all had dealings with Fawini. I should talk to her. }
+Entry_Main_04 { Several people from the tavern are missing. Ostensibly, a woman with brown hair and a scar has something to do with it. }
 
 Entry_Main_04_01 { Supposedly, Hasso left the tavern sometime during the night, heading in the direction of Georgefarm. }
 
@@ -30,7 +30,7 @@ Entry_Day2_03 { We discovered an old chamber, but right at this moment a guard a
 
 Entry_Day3_01 { Day 3: We're running low in food. I was tasked with getting some and bringing it to Bruna. At least that's a change of routine... }
 
-Entry_Day3_02 { Bruna wants me to obtain $GVAR:BanditMineBrutus_Config.CountMushrooms$ ordinary mushroom. Apparently, digpigs dwell where these grow. But we could all do with some meat. }
+Entry_Day3_02 { Bruna wants me to obtain $GVAR:BanditMineBrutus_Config.CountMushrooms$ common mushrooms. Where they grow, digpigs are also supposed to be found. Some meat surely wouldn't hurt. }
 
 Entry_Day3_03 { Lanzo beat Bruna up. Now she can't cook anymore... So, naturally, I'm supposed to prepare tomorrow's food. }
 
@@ -52,4 +52,5 @@ Entry_Main_010 { Here it goes. All in. Freedom awaits us! }
 
 Entry_Main_GoodEnd { I was able to save everyone and get them out of this cave. We're free! }
 
-Entry_Main_KilledFawini { Fawini attacked me, but I was able to defend myself. She said something about taking me to the moor. Maybe I should have a look around the moor. }
+Entry_Main_KilledFawini { Fawini attacked me, but I was able to defend myself. She babbled something about them wanting to take me to the moor. Maybe I should have a look around that moor. }
+

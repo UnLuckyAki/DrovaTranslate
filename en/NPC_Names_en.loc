@@ -354,7 +354,7 @@ Jennifer { Jennifer }
 
 Beard_Red { Red Hair }
 
-MineCookingFire { Campfire }
+MineCookingFire { Hearth }
 
 Pwyll { Pwyll }
 
@@ -402,7 +402,7 @@ MorvinAliases { Antonius Proximus }
 
 WaterBarrel { Water Barrel }
 
-FriedelsTable { Friedel's Table }
+FriedelsTable { Friedel's Fish }
 
 Ada_Normal { Ada }
 
@@ -496,7 +496,7 @@ Margitte { Margitte }
 
 bandit_generic { Bandit }
 
-Leru { Lorthiz  }
+Leru { Lorthiz }
 
 Cat { Cat }
 
@@ -545,4 +545,92 @@ IdleGuy { Willi }
 Willi { Willi }
 
 Monko { Monko }
+
+Erwin { Erwin }
+
+Henrike { Henrike }
+
+Waterrat_Young { Water Rat Pup }
+
+Waterrat { Water Rat }
+
+Bloodquito_Auwald { Giant Gnat }
+
+Sprigga_Young { Young Sprigga }
+
+Diggerpig { Digpig }
+
+Ripper_Hungry { Famished Ripper }
+
+Ripper { Ripper }
+
+Ripper_Elite { Silverback }
+
+Boar { Boar }
+
+Fox { Red Fox }
+
+Stalker_Red { Red Snaptor }
+
+Stalker_Blue { Blue Snaptor }
+
+Stalker_Green { Green Snaptor }
+
+Sprigga { Sprigga }
+
+Stonefist { Stonecrusher }
+
+Frog_Melee { Red Froglet }
+
+Frog_Ranged { Green Froglet }
+
+Bloodquito { Bloodfly }
+
+Ambusher { Mudbiter }
+
+Bear { Bear }
+
+Snapper_Weak { Huntsman Spider }
+
+Spitter_Weak { Venom Weaver }
+
+Ripper_Shadow { Shadowripper }
+
+Boar_Luminous { Glowboar }
+
+Mortarshroom { Spore Scuttler }
+
+Bear_luminous { Direbear }
+
+Snapper { Magic Huntsman Spider }
+
+Spitter { Magic Venom Weaver }
+
+BigSpider { The Apparition }
+
+BigSpider_Auwald { Magic Giant Spider }
+
+Harpy { Harpy }
+
+Foglet { Fogling }
+
+Worm { Silverworm }
+
+Leshen { Leshen }
+
+Golem { Runic Golem }
+
+ChaosSpirit { ??? }
+
+Draugr_Sword { Bygone Soldier }
+
+Draugr_Spear { Bygone Warrior }
+
+Draugr_Mage { Bygone Mage }
+
+Draugr_Axe { Bygone General }
+
+Rat { Rat }
+
+Snake { Viper }
 

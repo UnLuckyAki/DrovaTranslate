@@ -46,7 +46,7 @@ Plh_125 { TERRIFIC! Finally, my people can deliver goods again. }
 
 Plh_120 { So I want to personally show you my gratitude. Here are a few coins. }
 
-Plh_123 { Report to Angus, he will give you a reward. }
+Plh_123 { Talk to Angus. He'll give you a reward for this. }
 
 Plh_51 { I've got things to do. What do you want? }
 
@@ -56,7 +56,7 @@ Plh_54 { I found Fleur. }
 
 Plh_58 { About the rustroot... }
 
-Plh_52 { Nevermind. (end conversation) }
+Plh_52 { Never mind (end conversation) }
 
 Plh_56 { Finally! Haven't heard from him for days. Will he be back soon? }
 
@@ -190,4 +190,5 @@ Plh_134 { I met Ida and Elgar. }
 
 Plh_135 { Ah, then you must be here to sell your rustroot. }
 
-Plh_136 { By the way, if you need anything, I sell everything we make here on the farm. Even a potion to make you run faster. }
+Plh_136 { Oh, by the way: I sell everything we make on the farm — should you need anything. Including a potion that makes you walk faster. }
+
