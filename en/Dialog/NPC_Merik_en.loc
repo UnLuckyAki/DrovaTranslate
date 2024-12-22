@@ -176,7 +176,7 @@ Plh_41 { You scumbag. Just forget it. (end conversation) }
 
 Plh_46 { We need to work on our business relationship. }
 
-Plh_113 { How about a discount? The next silver Smasher I'll sell you for $GVAR:QuestVars_BluntHoe_Config.LowestPriceForPickaxe$ silver. One-time offer! }
+Plh_113 { How about a discount? The next Silver Smasher I'll sell you for $GVAR:QuestVars_BluntHoe_Config.LowestPriceForPickaxe$ silver. One-time offer! }
 
 Plh_82 { All right. Here. (Pay $GVAR:QuestVars_BluntHoe_Config.LowestPriceForPickaxe$) }
 
