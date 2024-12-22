@@ -60,10 +60,10 @@ Plh_47 { Удачи в шахтах! Пойдём. Я объясню здешн�
 
 Plh_48 { *Ворчит* Лучше прислушайся к Трасти... }
 
-Plh_53 { Где серебро? Ты что, всё время спал? В следующий раз я хочу увидеть серебро. }
+Plh_53 { Где серебро? Всё это время дрых, что ли? В следующий раз хочу увидеть серебро! }
 
-Plh_54 { Ты добыл в общей сложности $GVAR.PlayerSilverDiffAmountMine$ серебра, $GVAR.SilverDefaultAmount$ идет в наши карманы, оставшиеся $GVAR.SilverAmountLeaveMine$ твои. }
+Plh_54 { Ты добыл $GVAR:EVars_Katsa.PlayerSilverDiffAmountMine$ кусков серебра. $GVAR:EVars_Katsa.SilverDefaultAmount$ кусков идёт в нашу казну, оставшиеся $GVAR:EVars_Katsa.SilverAmountLeaveMine$ – твои. }
 
-Plh_55 { Ты добыл в общей сложности $GVAR.PlayerSilverDiffAmountMine$ серебра, $GVAR.SilverAngryAmount$ идет в наши карманы, оставшиеся $GVAR.SilverAmountLeaveMine$ твои. }
+Plh_55 { Ты добыл $GVAR:EVars_Katsa.PlayerSilverDiffAmountMine$ кусков серебра. $GVAR:EVars_Katsa.SilverAngryAmount$ кусков идёт в нашу казну, оставшиеся $GVAR:EVars_Katsa.SilverAmountLeaveMine$ – твои. }
 
-Plh_56 { Ты добыл в общей сложности $GVAR.PlayerSilverDiffAmountMine$ серебра, $GVAR.SilverFriendlyAmount$ идет в наши карманы, оставшиеся $GVAR.SilverAmountLeaveMine$ твои. }
+Plh_56 { Ты добыл $GVAR:EVars_Katsa.PlayerSilverDiffAmountMine$ кусков серебра. $GVAR:EVars_Katsa.SilverFriendlyAmount$ кусков идёт в нашу казну, оставшиеся $GVAR:EVars_Katsa.SilverAmountLeaveMine$ – твои. }
