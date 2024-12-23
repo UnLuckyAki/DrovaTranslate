@@ -52,7 +52,7 @@ Plh_50 { I'll teach her some manners! You think you can cross me!? }
 
 Plh_51 { You're going to kill her! Enough! }
 
-Plh_52 { You know what Aldrik ordered! I follow the orders I'm given. I haven't gone soft like you! }
+Plh_52 { You know what Aldrik ordered! I follow whatever orders I'm given. I haven't gone soft. Not like you! }
 
 Plh_53 { Say that again! }
 
@@ -72,7 +72,7 @@ Plh_54 { Bruna stuck her nose in. I can't stand that sort of thing. She deserved
 
 Plh_75 { *breathes deeply* }
 
-Plh_56 { Lanzo, we're going to discuss that now. Come with me to the fire. $GVAR:EVars_Player.Name$, you take care of the food while Bruna pulls herself together. Once we've got the relic, we can all get out of here... }
+Plh_56 { Lanzo, we're going to discuss that now. Come along with me to the festival. $GVAR:EVars_Player.Name$, you take care of the food while Bruna pulls herself together. Once we've got the relic, we can all get out of here... }
 
 Plh_57 { *grumbles* Whoever gives me more backtalk will be next. }
 
@@ -111,4 +111,124 @@ Plh_31 { You're really incompetent, Hasso. }
 Plh_32 { Where did you learn how to hit, Hasso? Do you even know what you can do with your arms? }
 
 Plh_33 { Get a move on. }
+
+Plh_94 { You found me...dammit. }
+
+Plh_107 { And do you remember what I said back then? }
+
+Plh_108 { No worries, I don't want to beat you up anymore. (mess with him) }
+
+Plh_109 { I'm not like you. I'll leave you alone. }
+
+Plh_110 { That... you'll beat me up? }
+
+Plh_111 { Exactly. And that's what I'm going to do. For real. }
+
+Plh_114 { Ugh, dammit... }
+
+Plh_112 { Seriously?! }
+
+Plh_113 { Just kidding. I'll keep my promise and beat you up now. }
+
+Plh_115 { We're building something new for ourselves here. Because Aldrik told us to — that's the only reason we did it. }
+
+Plh_117 { I want nothing to do with that crap anymore. Let's leave it be. }
+
+Plh_118 { What more do you want from me? }
+
+Plh_116 { I'm back! Ready for your beating? (start brawl) }
+
+Plh_121 { It's not like this is fun for me either. (start brawl) }
+
+Plh_122 { Nice day we're having, right? (start brawl) }
+
+Plh_123 { Guess what I've got in my hand! (start brawl) }
+
+Plh_119 { I am REALLY sorry about all this! }
+
+Plh_120 { You're not only going to be sorry very soon, you're also going to be hurtin' all over! }
+
+Plh_130 { Then leave it... }
+
+Plh_125 { Well... now that I think about it... nope! }
+
+Plh_126 { No, not again... }
+
+Plh_127 { So far... }
+
+Plh_128 { Let's see if you still find him pretty without any teeth or gums. }
+
+Plh_129 { I already did... }
+
+Plh_131 { ...nothing? }
+
+Plh_132 { Wrong. It's the weapon you'll get to know in a second. }
+
+Plh_158 { I got it. }
+
+Plh_159 { Why won't you just leave me alone?! }
+
+Plh_160 { *sigh* }
+
+Plh_136 { Doesn't it get boring to beat me up all the time? }
+
+Plh_137 { No. (start brawl) }
+
+Plh_138 { I could go all day. (start brawl) }
+
+Plh_141 { I got it... }
+
+Plh_142 { Let's get started. I've got work to do. }
+
+Plh_135 { What if I pay you to stop? }
+
+Plh_139 { Do you have coins? (start brawl) }
+
+Plh_143 { Uh... No. }
+
+Plh_144 { Then you'll pay as usual. With pain. }
+
+Plh_146 { Why don't we agree on a draw? }
+
+Plh_147 { Were you asking Bruna that? No. (start brawl) }
+
+Plh_134 { No, not again... }
+
+Plh_148 { Do you know what we're going to do now? (start brawl) }
+
+Plh_149 { Yeah? }
+
+Plh_150 { A DIG PARTY! }
+
+Plh_152 { Please... }
+
+Plh_155 { Haven't you had enough already? }
+
+Plh_156 { Not yet. So let's get cracking. (start brawl) }
+
+Plh_154 { We've learned our lesson! We won't mess up anymore! }
+
+Plh_93 { Now that I think about it... death is too good for you. Too easy. I'm not going to give you this out. }
+
+Plh_95 { What...what do you mean? }
+
+Plh_96 { The things you did at the excavation are unforgiveable. What you did to Bruna... this pain needs to be reciprocated. }
+
+Plh_97 { I'll let you go. }
+
+Plh_98 { But I won't set you free. }
+
+Plh_99 { You will never experience another minute of peace. }
+
+Plh_100 { Wherever you'll end up... you'll never rest easy. }
+
+Plh_101 { For I shall find you and give you payback for all of this. }
+
+Plh_102 { You'll never again be happy in Drova. }
+
+Plh_103 { But...I'm sorry. }
+
+Plh_104 { QUIET! }
+
+Plh_105 { You should have thought about that earlier. Now scram. }
 
