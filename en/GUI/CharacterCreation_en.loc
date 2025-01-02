@@ -14,6 +14,8 @@ ImmersiveMode { Iron }
 
 StoryMode { Explorer }
 
+InsaneMode { Insane }
+
 SkipIntro { Skip Intro }
 
 Option_BodyType { Physique }
@@ -78,7 +80,15 @@ Hardcore_PopUp { Are you sure you want to play Drova in Hardcore mode?<br><br>Yo
 
 SaveModePopUp_Title { Choose your save mode }
 
-SaveModePopUp_Text_Default { Drova offers several options to save your game.<br><br>In Classic mode, you can create various savegames at any time.<br><br>Should you choose Iron mode, your game will be saved automatically. In this mode, you will not be able to save manually. }
+SaveModePopUp_Text_Default { Drova offers several options to save your game.<br><br>In Classic mode, you can create multiple savegames and save at any time.<br><br>Should you choose to play in Iron mode, your game will be saved automatically. In this mode, you will not be able to save manually.<br><br>Hardcore mode works essentially the same way that Iron mode does. You've got only one chance to finish the game in Hardcore mode. Should your character die, the challenge has failed; your savegame will be downgraded to Iron. You will be able to continue this run, but only in Iron mode. If you want to finish the game in "Hardcore" mode, you'll need to start a new character.<br><br>You can downgrade your save mode at any time using "Options." }
 
 ChangeGameModeWarning { Are you sure you want to quit Iron mode? Once you've quit, you cannot reactivate this mode for the rest of the game play. }
+
+Insane_Desc { The ultimate challenge! Not recommended if it's your first time playing Drova. }
+
+ChangeGameModeWarning_Hardcore { Are you sure you want to quit Hardcore mode? Once you've quit, you cannot reactivate this mode for the rest of the gameplay. }
+
+Title_Insane_PopUp { Difficulty: Insane }
+
+Desc_Insane_PopUp { The "Insane" difficulty presents you with the most daring challenge in Drova so far.<br><br>In this mode, opponents are much more dangerous—their behavior, their position, and their numbers have all been updated. While we've equipped some creatures with new attacks, we've also created entirely new variants of existing creatures, who wield new special attacks.<br><br>In addition, you will suffer 30% more damage and inflict 20% less damage—and if this still isn't hard enough, you can further customize these numbers in the Options menu.<br><br>We've also made some minor adjustments in order to enhance the overall gameplay experience—just wait!<br><br>Are you sure you want to play the game in "Insane" mode? Once you've chosen this mode, you will not be able to change it during gameplay. }
 

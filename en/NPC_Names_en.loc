@@ -402,7 +402,7 @@ MorvinAliases { Antonius Proximus }
 
 WaterBarrel { Water Barrel }
 
-FriedelsTable { Friedel's Fish }
+FriedelsTable { Friedel's Table }
 
 Ada_Normal { Ada }
 
@@ -570,7 +570,7 @@ Boar { Boar }
 
 Fox { Red Fox }
 
-Stalker_Red { Red Snaptor }
+Stalker_Red { Snaptor }
 
 Stalker_Blue { Blue Snaptor }
 
@@ -628,9 +628,13 @@ Draugr_Spear { Bygone Warrior }
 
 Draugr_Mage { Bygone Mage }
 
-Draugr_Axe { Bygone General }
+Draugr_Axe { Bygone Berserker }
 
 Rat { Rat }
 
 Snake { Viper }
+
+Draugr_Axe_Legendary { Bygone General }
+
+Draugr_Dagger { Bygone Assassin }
 

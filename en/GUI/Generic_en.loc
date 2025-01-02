@@ -16,3 +16,5 @@ gameModeChangeDesc { Once you've changed this mode, you cannot switch back. Are 
 
 loadLatestPopUp { Would you like to load your last savegame? }
 
+Answer_Understood { Got it. }
+

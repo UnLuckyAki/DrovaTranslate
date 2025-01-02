@@ -198,3 +198,7 @@ Achievement_ClassicMode_name { Classic }
 
 Achievement_ClassicMode_desc { Finish Drova in Classic mode. }
 
+Achievement_InsaneMode_name { Insane }
+
+Achievement_InsaneMode_desc { Finish Drova in "Insane" mode. Does not count towards basic achievements. }
+

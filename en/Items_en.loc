@@ -356,7 +356,7 @@ weapon_spear_tipOfDeath_name { Spear of the Red Snake }
 
 weapon_spear_messengerOfTheDivine_name { Hydra's Tooth }
 
-weapon_spear_messengerOfTheDivine_description { And eye for an eye, a tooth for a tooth — together we'll face even the Hydra. }
+weapon_spear_messengerOfTheDivine_description { An eye for an eye, a tooth for a tooth — together we'll face even the Hydra. }
 
 weapon_shield_adornedWoodenShield_name { Ornate Shield }
 
@@ -1914,7 +1914,7 @@ flow_ricochet_description { You fire a projectile that inflicts [WeaponDamagePer
 
 recipe_flow_ricochet_name { Ability: Ricochet }
 
-flow_bruntShot_name { Impetus Shot }
+flow_bruntShot_name { Concussive Shot }
 
 flow_bruntShot_description { You fire an arrow that inflicts [WeaponDamagePercent] weapon damage and stuns opponents for [StunTime] seconds. }
 
@@ -2057,4 +2057,10 @@ item_letterCelts_Spark_description { item_letterCelts_Spark_description }
 item_letter_library_soundRoom_note2_name { Resonance Horns }
 
 item_letter_library_soundRoom_note2_description { item_letter_library_soundRoom_note2_description }
+
+weapon_dagger_draugr_name { Draugr Daggers }
+
+weapon_axe_draugr_name { Draugr Axe }
+
+weapon_bow_draugr_name { Draugr Bow }
 

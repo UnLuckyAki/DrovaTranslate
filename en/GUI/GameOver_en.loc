@@ -8,3 +8,5 @@ Restart { Retry }
 
 Load { Load }
 
+HardcoreMessage { You died in "Hardcore" mode. Your savegames will be downgraded to "Iron."<br>If you want to finish the game in "Hardcore" mode, you'll need to start a new character. }
+

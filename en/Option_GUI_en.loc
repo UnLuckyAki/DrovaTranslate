@@ -262,7 +262,7 @@ MapMarker_Player_Toggle { Show position on map }
 
 PlayerDmgReceive { Damage Received }
 
-PlayerDmgOutput { Additional Damage Received }
+PlayerDmgOutput { Additional Damage Dealt }
 
 Toggle_MiniGame { Deactivate Minigames }
 
@@ -275,4 +275,8 @@ UseAltFriendlyColor { Alternate Color for Allies' Health Bars }
 FontSize_VeryBig { Even Bigger }
 
 category_quickbar { Quickbar }
+
+SaveMode { Save Mode }
+
+Toggle_ChallengeTimer { Show Playtime Timer }
 

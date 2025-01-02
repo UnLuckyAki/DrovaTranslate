@@ -896,7 +896,7 @@ Plh_824 { Fine, I'll take the newbie along. As long as I get to grab the Divinit
 
 Plh_687 { Here's to our leaving this world behind! And soon! }
 
-Plh_674 { I hope this spark is useful for something... Otherwise, you're going to sorry. }
+Plh_674 { I hope this spark is useful for something... Otherwise, you're going to be sorry. }
 
 Plh_675 { Understood. (salute) }
 
@@ -916,7 +916,7 @@ Plh_682 { You catch on quick. }
 
 Plh_684 { Farlan, Darwin, and Lindon are coming along too. They're already set. I hope you're truly suited for this expedition. Once we set off, we aren't coming back until the mission's objective has been completed. }
 
-Plh_683 { Your choice. Do what I say without asking questions, or be on your own You can gripe about it all you like — but you'll actually make it back alive. }
+Plh_683 { Your choice. Do what I say without asking questions, or be on your own. You can gripe about it all you like — but you'll actually make it back alive. }
 
 Plh_690 { That's the way it is. And you WILL do as I say. That's the only way we'll be able to pull this off. }
 
@@ -1028,7 +1028,7 @@ Plh_771 { It's as if we ourselves possessed the aura of a Divinity! }
 
 Plh_772 { But I don't feel at all divine... }
 
-Plh_773 { Not too shabby, $GVAR:EVars_Player.PlayerNickNameRuinenlager$. Not too shabby. }
+Plh_773 { Not too shabby, $GVAR:EVars_Player.Name$. Not too shabby. }
 
 Plh_774 { Lindon's right. That aside, we should go through as quickly as possible. Come on, let's move on. }
 
