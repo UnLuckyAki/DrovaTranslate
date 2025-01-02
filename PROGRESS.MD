@@ -104,7 +104,7 @@
 | Dialog/NPC_Ester_ru.loc | Машинный перевод    |
 | Dialog/NPC_Etzel_ru.loc | ✅    |
 | Dialog/NPC_Eugen_ru.loc | ✅    |
-| Dialog/NPC_Evi_ru.loc | На переводе    |
+| Dialog/NPC_Evi_ru.loc | ✅    |
 | Dialog/NPC_Faol_ru.loc | Машинный перевод    |
 | Dialog/NPC_Farina_ru.loc | ✅    |
 | Dialog/NPC_Farlan_ru.loc | Машинный перевод    |
@@ -152,7 +152,7 @@
 | Dialog/NPC_Jarmon_ru.loc | ✅    |
 | Dialog/NPC_Jean_ru.loc | ✅    |
 | Dialog/NPC_Jendra_ru.loc | Машинный перевод    |
-| Dialog/NPC_Jendrik_ru.loc | На переводе    |
+| Dialog/NPC_Jendrik_ru.loc | ✅    |
 | Dialog/NPC_Jennifer_ru.loc | ✅    |
 | Dialog/NPC_Jero_ru.loc | Машинный перевод    |
 | Dialog/NPC_Jerzy_ru.loc | ✅    |
@@ -176,9 +176,9 @@
 | Dialog/NPC_Kessia_ru.loc | ✅    |
 | Dialog/NPC_Kilian_ru.loc | Машинный перевод    |
 | Dialog/NPC_Kolina_ru.loc | ✅    |
-| Dialog/NPC_Kora_ru.loc | На переводе    |
+| Dialog/NPC_Kora_ru.loc | ✅    |
 | Dialog/NPC_Lanzo_ru.loc | ✅    |
-| Dialog/NPC_Larea_ru.loc | На переводе    |
+| Dialog/NPC_Larea_ru.loc | ✅    |
 | Dialog/NPC_Laric_ru.loc | Машинный перевод    |
 | Dialog/NPC_Laudine_ru.loc | Машинный перевод    |
 | Dialog/NPC_Laurin_ru.loc | Машинный перевод    |
