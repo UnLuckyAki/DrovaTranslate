@@ -58,7 +58,7 @@ Plh_69 { The Red Tower is in the Remnants' territory. Are we going to attack the
 
 Plh_67 { No. Their fighters are strong, and Jero is a formidable leader. But thanks to the Divine Crystals and the Mighty Boar, at least we stand a chance. *smirks* }
 
-Plh_64 { We'll need magical power for a rune journey in order to overcome the barrier around the Red Tower and enter. }
+Plh_64 { We'll need magical power for a rune journey I order to overcome the barrier around the Red Tower and enter. }
 
 Plh_71 { This journey will require enormous power. The power of the Mighty Boar is limited, since we imprisoned it in the rune vessel. }
 
@@ -92,11 +92,11 @@ Plh_86 { I can give you light armor, which will allow for greater agility, but d
 
 Plh_87 { The magic that surrounds us is everywhere. I can also offer you druidic armor. It won't offer that much protection, but it'll enhance your spiritual connection. }
 
-Plh_88 { I'd like the light armor. }
+Plh_88 { I'd like the light armor. <br>(92 armor, 59 magic resistance, stamina cost -30%) }
 
-Plh_89 { I'd like the heavy armor. }
+Plh_89 { I'd like the heavy armor. <br>(135 armor, 65 magic resistance, stance damage -50%) }
 
-Plh_90 { I'd like the magic armor. }
+Plh_90 { I'd like the magic armor. <br>(90 armor, 70 magic resistance, magic damage +20%, base focus +6) }
 
 Plh_92 { Now, that's much better. If you need new weapons, you should go see Chunnaic. And Lio can imprint new spells into your runestone. }
 

@@ -54,7 +54,7 @@ Plh_175 { You aren't a particularly great liar. }
 
 Plh_181 { Many of those who are sitting outside Nemeton want exactly this. }
 
-Plh_32 { I haven't got any. Try fighters at the West Gate. They're always looking for new hands. }
+Plh_32 { I haven't got any. Try the fighters at the West Gate. They're always looking for new hands. }
 
 Plh_157 { Where in the Divinity's name were you? Didn't I tell you that you should stay here? }
 
@@ -94,25 +94,25 @@ Plh_150 { Aiko, Kellan, and Mumme. Just walk along the palisades here at the Eas
 
 Plh_151 { But don't distract them too long! They're supposed to be working, not babbling away. }
 
-Plh_184 { Angus told me you could help improve my home. }
+Plh_184 { Angus said you could help spruce up my hut. }
 
-Plh_185 { Good job. I'd never have thought Kendrick would do something like this. I already heard that his old place is yours now. You've earned it. }
+Plh_185 { Good work. I never thought Kendrick would go through with something like that. I've already heard that you've taken over his hut. That's only fair. }
 
-Plh_186 { I'd like to have a better bed. (Give $GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Bed$ coins) }
+Plh_186 { I'd like a better bed. (hand over $GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Bed$ coins) }
 
-Plh_187 { I'd like to have a workbench. (Give $GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Workbench$ coins) }
+Plh_187 { I'd like a workbench. (hand over $GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Workbench$ coins) }
 
-Plh_188 { I'd like to have a furnace. (Give $GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Smith$ coins) }
+Plh_188 { I'd like a bloomery. (hand over $GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Smith$ coins) }
 
 Plh_189 { Plh_189 }
 
 Plh_190 { Plh_190 }
 
-Plh_191 { Looks good, I'm on it. It should be ready by tomorrow. }
+Plh_191 { Looks good. I'll take care of it. It should be delivered tomorrow. }
 
 Plh_192 { If you have the necessary coin. }
 
-Plh_193 { If you have the necessary coin, I could help you. }
+Plh_193 { If you've got the coins, I can help you. }
 
 Plh_194 { Plh_194 }
 

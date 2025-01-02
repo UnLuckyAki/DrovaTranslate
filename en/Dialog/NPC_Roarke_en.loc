@@ -1,4 +1,4 @@
-Plh_13 { Ìs everything all right with Bertine? }
+Plh_13 { Is everything all right with Bertine? }
 
 Plh_311 { Wait, you don't barter with coins? }
 
@@ -80,7 +80,7 @@ Plh_310 { Go ahead. I'd like to chat with you a bit longer, but... }
 
 Plh_45 { That's the way I like it. Here, and tell me right away what you think about it. It's the initial impression that counts! }
 
-Plh_112 { *You try the soup. It has an intense taste of salt and heat. After you've swallowed, a langorous aftertaste lingers, the likes of which you've never experienced before.* }
+Plh_112 { *You try the soup. It has an intense test of salt and heat. After you've swallowed, a languorous aftertaste lingers, the likes of which you've never experienced before.* }
 
 Plh_78 { Pretty salty... }
 
@@ -138,7 +138,7 @@ Plh_231 { Isn't there another way? }
 
 Plh_232 { That little runt is more capable than you might think. }
 
-Plh_234 { Cay has this incredible sense for finding the best mushrooms. When you feed him, he usually darts off right away to get more. Could you take him and find some? }
+Plh_234 { Cay has this incredible sense for finding the best mushrooms. When you feed him,, he usually darts off right away to get more. Could you take him and find some? }
 
 Plh_235 { All right, I'll bring you mushrooms. }
 
@@ -502,7 +502,7 @@ Plh_248 { Diemo... is... }
 
 Plh_249 { I hardly recognize him anymore. He seems to have gone completely insane. }
 
-Plh_270 { *sizes you up* On top of that, he's cursed you. He said it's all your fault. Had you not arrived at the Refuge, none of this would have happened. }
+Plh_270 { *sizes you up* On top that, he's cursed you. He said it's all your fault. Had you not arrived at the Refuge, none of this would have happened. }
 
 Plh_273 { Is that true? Is it your fault? }
 
@@ -583,4 +583,20 @@ Plh_353 { *smirks* I'll just give it to you, anyway. You can do with it whatever
 Plh_357 { I'm here to warn you. My camp wants to catch the Mighty Boar! }
 
 Plh_356 { No one can harm the Mighty Boar. He is one with this forest. We sense neither fear nor worries from it. Don't fret. }
+
+Plh_365 { Of course! And I'd like my next bowl of soup to taste like clouds! }
+
+Plh_358 { I've tried to warm you! No one was listening! I had no choice! }
+
+Plh_359 { You're right. We can base our decisions only on the knowledge we possess at that very moment. }
+
+Plh_360 { ... and who could have imagined? }
+
+Plh_361 { A mistake remains a mistake only if you don't fight to correct it. *smiles tired* }
+
+Plh_362 { I hope you can turn this around somehow, $GVAR:EVars_Player.Name$. }
+
+Plh_363 { What happened to Diemo? }
+
+Plh_364 { Diemo was consumed by pain and hatred... I had to put him out of his misery. }
 

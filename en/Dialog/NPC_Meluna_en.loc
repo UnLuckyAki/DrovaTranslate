@@ -170,63 +170,77 @@ Plh_100 { Draw your weapon. We'll settle this now. }
 
 Plh_96 { I couldn't even get a word in edgewise. And now everyone in the Remnants' camp has gotten the wrong idea about me. }
 
-Plh_101 { Get the fuck out! }
+Plh_101 { I don't want to see anything of yours. }
 
-Plh_102 { Your arms? }
+Plh_102 { Your upper arms? }
 
 Plh_103 { I have some, too. }
 
-Plh_104 { I have some, too. }
+Plh_104 { I've got some, too. }
 
-Plh_105 { Of course. Well ... show me. }
+Plh_105 { Yeah, right. Well... let's see. }
 
-Plh_106 { ... yes ... it's nice. }
+Plh_106 { ...hm... not too shabby. }
 
-Plh_107 { (tense biceps) }
+Plh_107 { (flex biceps) }
 
-Plh_108 { Oh! I have to take a ... closer look at those. }
+Plh_108 { Oh! I've got to take a... closer look. }
 
-Plh_109 { Yes ... that one feels good ... so strong ... }
+Plh_109 { Yeah, that feels good... very strong. }
 
-Plh_110 { (tense biceps A LOT) }
+Plh_110 { (flex biceps HARD) }
 
-Plh_111 { OH! I did not expect it to get THIS big! }
+Plh_111 { Oh! I didn't think it could get THAT big! }
 
-Plh_112 { The upper arm has to be exactly THERE. Good. And now ... move ... }
+Plh_112 { The upper arm goes RIGHT THERE. And now... move. }
 
-Plh_113 { (move to the left) }
+Plh_113 { (move left) }
 
-Plh_114 { (move to the right) }
+Plh_114 { (move right) }
 
-Plh_115 { No, not that, the other side! }
+Plh_115 { No, not like that. The other way. }
 
 Plh_116 { (move to the other side) }
 
-Plh_117 { Yes ... like that ... }
+Plh_117 { Yeah... just like that... }
 
-Plh_118 { Say ... can you tense other stuff as well? }
+Plh_118 { Say... can you flex other... things? }
 
-Plh_119 { (tense other stuff) }
+Plh_119 { (flex other things) }
 
-Plh_120 { That's what I meant ... }
+Plh_120 { That's exactly what I meant. }
 
-Plh_121 { Very good ... keep going ... }
+Plh_121 { Very nice... keep going... }
 
-Plh_122 { *exhausted* I ... I didn't even know that doing something like that with an arm was possible! }
+Plh_122 { *exhausted* Whoever knew that you can do THAT with an upper arm! }
 
-Plh_123 { The divinities must have kissed your arms. }
+Plh_123 { The Divinities must have kissed your upper arms. }
 
-Plh_124 { Bady does not even come close ... }
+Plh_124 { Not even Bady can rival them. }
 
-Plh_125 { Come ... it's most comfortable on the bed. }
+Plh_125 { Come... it'll be more comfortable on the bed over there. }
 
-Plh_126 { I like that! }
+Plh_126 { Happy to! }
 
-Plh_127 { On second thought, let's not go there. }
+Plh_127 { Ugh, I think I've changed my mind. }
 
-Plh_128 { Alright. You think your arms are too good for me, right? Pff. }
+Plh_128 { Well, suit yourself! You think your upper arms are too good for me, don't you? Pff. }
 
-Plh_129 { I've been working out, do you want to see my biceps now? }
+Plh_129 { I've been working out. Do you want to see my biceps? }
 
-Plh_130 { I needed that, good work *wink*. But now I need some rest. }
+Plh_130 { That's exactly what I needed. Good work! *winks* But now I need to rest. }
+
+Plh_132 { Have you seen Bady? }
+
+Plh_133 { No, not for a while. Not since he decided to leave the Remnants. He said he needed to clear his head in order to fully focus on his training. }
+
+Plh_134 { He's got no idea what he's missing out on here. }
+
+Plh_135 { Do you know where he went? }
+
+Plh_136 { Somewhere to the north, beyond the riverbed. That's all I know. }
+
+Plh_137 { Thanks for your help. }
+
+Plh_138 { Should you meet him, tell him... ah, no, never mind. }
 
