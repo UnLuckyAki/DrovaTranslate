@@ -1,4 +1,4 @@
-healingText { Restores [MaxStack] health over [StackTime] seconds. }
+healingText { Restores [MaxStack] Health over [StackTime] seconds. }
 
 damage { Damage }
 
@@ -24,7 +24,7 @@ mind { Mind }
 
 health { Health }
 
-healing { Restores [VALUE] of your maximum health. }
+healing { Restores [VALUE] of your maximum Health. }
 
 learningpoints { LP }
 
@@ -98,7 +98,7 @@ stat_change_str { +$STATCHANGE:PhysDmg$ phys. damage }
 
 stat_change_dex { +$STATCHANGE:CritChance$ crit. }
 
-stat_change_mind { +$STATCHANGE:MagDmg$ mag. damage + $STATCHANGE:Focus$ base focus }
+stat_change_mind { +$STATCHANGE:MagDmg$ mag. damage + +$STATCHANGE:Focus$ BF }
 
 helmet_cosmetics { (Helmets are purely cosmetic and have no effect on your character.) }
 
@@ -114,7 +114,7 @@ drug_description { Dulls your senses }
 
 LearnSpell { Teaches weapon ability }
 
-flowText { Generates [HealValue] focus over [StackTime] seconds. }
+flowText { Generates [HealValue] Focus over [StackTime] seconds. }
 
 needrunestone { Needs Runestone }
 

@@ -30,7 +30,7 @@ Plh_71 { The finest blacksmith far and wide. There's no blade she can't forge. }
 
 Plh_72 { If you find yourself in Nemeton, be sure to pay her a visit. }
 
-Plh_57 { Ah, good. That's exactly where the bog iron needed to go anyway. Then Muc won't have to kill himself lugging it. }
+Plh_57 { Ah, good. That's exactly where the bog iron needed to go anyway. Now Muc won't have to kill himself lugging it around. }
 
 IronForFarmers_Start { I'm always stuck doing this crap for Georg. I've had it up to here! }
 
@@ -94,15 +94,15 @@ Plh_24 { Got any work for me? Georg sent me. }
 
 Plh_25 { Don't think so. We're managing just fine on our own. }
 
-Plh_23 { Managing? Us? What nonsense. If the old fart sent you, then go ahead and work. Just collect some bog iron from the fields up ahead. }
+Plh_23 { Just fine? We? Nonsense. If the geezer sent you, you might as well work. Just gather some bog iron on those fields ahead. }
 
-Plh_26 { Ha, good idea. Muc always collects bog iron from us for Chunnaic the blacksmith. Gather some and bring it to me. }
+Plh_26 { Ha, good idea. Muc always fetches bog iron from us for Chunnaic the blacksmith. Gather some and bring it to me. }
 
-Plh_27 { What does the bog iron look like? }
+Plh_27 { What does bog iron look like? }
 
 Plh_30 { What is bog iron? }
 
-Plh_28 { I'll bring you the bog iron. (end conversation) }
+Plh_28 { All right, I'll bring you bog iron. (end conversation) }
 
 Plh_29 { Small, brownish lumps. They always get plowed up to the surface. }
 

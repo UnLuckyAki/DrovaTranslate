@@ -16,21 +16,21 @@ LoadingScreen_11 { When someone is lying on the ground you can help them get bac
 
 LoadingScreen_12 { Different merchants sell different goods. Keep an eye out for good deals! }
 
-LoadingScreen_14 { Carrying a spear allows you to fish in certain places. Circling fish indicate prime fishing spots. }
+LoadingScreen_14 { If you carry a spear, you can fish in special places. You'll recognize fishing spots by the circling fish. }
 
 LoadingScreen_15 { If you carry a lockpick, you can open locks. Just don't get caught! }
 
 LoadingScreen_16 { Be careful when you pick up items! Items with a red outline already belong to someone else. No one likes a thief! }
 
-LoadingScreen_17 { In combat, you can dodge attacks using $INPUT:Dodge$. But keep an eye on your stamina bar! }
+LoadingScreen_17 { In combat, you can dodge $INPUT:Dodge$ attacks. But keep an eye on your Stamina bar! }
 
 LoadingScreen_18 { If you've committed a crime, people no longer want anything to do with you. In Nemeton, Gerdwin can forgive a crime. In the Remnants' camp, you'll have to work it out with the person who's angry with you. }
 
-LoadingScreen_19 { Your character takes notes of all important events. Look in your journal if you get stuck. }
+LoadingScreen_19 { Your character takes notes of all important events. Should you get stuck, consult your journal. }
 
-LoadingScreen_20 { Should you run into opponents who are still too difficult for you, you might want to consider going somewhere else first. }
+LoadingScreen_20 { Should you run into enemies who are still too difficult for you, you might want to consider going somewhere else first. }
 
-LoadingScreen_21 { Prowess is the sum of your attribute scores. Some weapons require a certain amount of prowess in order to be wielded. }
+LoadingScreen_21 { Prowess is the sum of your attribute scores. Weapons, in order to be wielded, require a certain amount of prowess. }
 
 LoadingScreen_22 { People don't like it if you walk around brandishing your weapon. When you're around people, stow your weapon with $INPUT:DrawWeapon$. }
 
@@ -46,37 +46,37 @@ LoadingScreen_28 { Hold $INPUT:RingMenu$ to open the wheel menu. From there, you
 
 LoadingScreen_29 { Abilities from scrolls can be used only once. These can be helpful, so use them wisely. }
 
-LoadingScreen_30 { Using an ability consumes focus. You generate focus by attacking, and you lose focus if you get hit or haven't attacked for a long time. }
+LoadingScreen_30 { Using an ability consumes Focus. You generate Focus by attacking, and you lose Focus if you get hit or haven't attacked for a long time. }
 
 LoadingScreen_32 { With $INPUT:SwapWeaponSet$, you can switch between two weapon sets in combat. Press $INPUT:MENU-Inventory$ to configure your two weapon sets. }
 
-LoadingScreen_34 { You can communicate with some animals. Why not try talking to one? }
+LoadingScreen_34 { You can communicate with some animals. Why don't you try talking to one? }
 
 LoadingScreen_35 { In order to craft certain items, you need the proper work space. }
 
-LoadingScreen_36 { Don't enjoy fighting? Stick to the path and you should be relatively safe. }
+LoadingScreen_36 { You don't enjoy fighting? Stick to the paths, and you should be relatively safe. }
 
-LoadingScreen_37 { The secondary attack of the daggers deals exponentially more damage the higher your focus is. }
+LoadingScreen_37 { Depending on your Focus, the secondary dagger attack inflicts exponentially higher damage. }
 
-LoadingScreen_38 { You can place markers on all your maps. However, you must first find ink. }
+LoadingScreen_38 { You can place markers on all your maps. First you'll have to find some ink, of course. }
 
-LoadingScreen_39 { You can mark items that are of no use to you as junk using $INPUTANIM:Garbage$. You can show and hide junk in the inventory and add it to trade in the trade menu with just one click. }
+LoadingScreen_39 { You can use $INPUTANIM:MarkAsGarbage$ to mark as junk any items that are of no value to you. You can hide and unhide junk in your inventory. In the barter menu, add junk to the trade by using only one click. }
 
-LoadingScreen_40 { Critical hits cause bleeding (bleeding causes damage over time, equal to the attack damage). }
+LoadingScreen_40 { Critical hits cause Bleed. (Bleed inflicts damage over time that's equivalent to the initial attack damage.) }
 
-LoadingScreen_41 { Poison slows the movement speed of affected targets. }
+LoadingScreen_41 { Poison reduces movement speed and the affected targets' armor. }
 
-LoadingScreen_42 { Food heals you over time, but regeneration is paused as long as you have full health. Many dishes give you passive effects while you are full. If you are already full and eat something, the active full effect is overwritten. }
+LoadingScreen_42 { Over time, eating food heals you. However, while you're at full health, regeneration is put on hold. As long as you're sated, many dishes grant passive effects. Should you then eat something, the current satiety effect will be overwritten. }
 
-LoadingScreen_43 { When you use a healing item, you receive the healing status effect and regain health points at regular intervals. You can also have several healing effects active at the same time, but only one per healing item. }
+LoadingScreen_43 { Using a healing item, you'll apply "healing" onto yourself, causing you to recover health periodically. Multiple healing effects can be active simultaneously, but only one per distinct healing item. }
 
-LoadingScreen_44 { Check out the options menu. We have some additional features and settings that might be useful for your playstyle. }
+LoadingScreen_44 { Check the options menu! We've added additional features and settings that might be helpful for your gameplay. }
 
-LoadingScreen_45 { Enemies have different resistances to physical and magical damage. So spells are particularly effective on well-armored creatures! }
+LoadingScreen_45 { Opponents possess varying resistances to physical and magical damage. Some spells might be particularly effective against opponents in heavy armor! }
 
-LoadingScreen_46 { Each weapon has a secondary attack, which you execute with $INPUTANIM:Block$. You can only use this with one-handed weapons if your secondary hand is free. }
+LoadingScreen_46 { Each weapon offers a secondary attack that you can execute using $INPUTANIM:Block$. If you're wielding a one-handed weapon, you can use the secondary attack only if your off-hand is empty. }
 
-LoadingScreen_47 { If you have feedback or want to get in touch with us, come join our Discord. There you can talk to us personally. We'll be happy to see you there! }
+LoadingScreen_47 { Join our Discord to give feedback, contact us, or just to have a chat. We're looking forward to talking to you! }
 
-LoadingScreen_48 { Consumable items such as traps, bombs and throwing knives penetrate the armor of enemies. }
+LoadingScreen_48 { Consumables such as traps, bombs, and throwing knives pierce opponents' armor. }
 

@@ -28,7 +28,7 @@ Plh_276 { Today you'll fight in the arena yourself, and I've already gotten your
 
 Plh_155 { You want to place a bet? Then come see me later. I'm not doing this here. }
 
-Plh_372 { Soon there'll be arena battles again every day. You're not going to miss that. }
+Plh_372 { Usually, you are indeed able to bet on the fighters. At the moment, there are no battles, but the arena will soon reopen. You won't miss that. }
 
 Plh_371 { There's a special battle in the arena. Bady versus Gra! Only after that one will we continue with my own people. }
 
@@ -152,7 +152,7 @@ Plh_271 { That's looking good. Tomorrow night you'll step into the arena. I'm cu
 
 Plh_318 { If you want to learn how your opponents operate, you should watch them do battle. That piece of advice is free. }
 
-Plh_319 { You'll start tomorrow. Get some rest. Go have a drink at the tavern. Tomorrow you'll have to be at your best. }
+Plh_319 { You'll start tomorrow night at nine. Get some rest. Go have a drink at the tavern. Tomorrow you'll have to be at your best. }
 
 Plh_274 { You defeated each and every one of them. Only Ada is left. She's been watching you very carefully. It's going to be a fun battle, haha! }
 
@@ -214,7 +214,7 @@ Plh_75 { *grinds teeth* Take it. And get lost. }
 
 Plh_79 { *turns to you* And you! You bet on Gra, too. Here. Ugh. }
 
-Plh_109 { I haven't forgotten that you helped me get the fight up and running. And I promised you something... }
+Plh_109 { I haven't forgotten that you helped me fix that battle. And I promised you something... }
 
 Plh_85 { *smirks at you* Here, for you. You did a good job. Gra won, and my pockets are lined with coins. }
 
@@ -370,7 +370,7 @@ Plh_243 { I'm done for today. Since you've defeated Mog, it might be time for yo
 
 Plh_143 { We arena fighters are a community of Marked Ones. We don't care where you're from. They who are marked have been reborn. }
 
-Plh_240 { It doesn't matter whether you're from Nemeton or the Remnants Camp. }
+Plh_240 { It doesn't matter whether you're from Nemeton or the Remnants camp. }
 
 Plh_241 { The arena is all that matters to us. The battle. The will. The deed. }
 
@@ -494,9 +494,9 @@ Plh_37 { You want to bet $GVAR:QuestVars_BetThat_Config.HighBetAmount$ coins on 
 
 Plh_41 { You want to bet $GVAR:QuestVars_BetThat_Config.LowBetAmount$ coins on Gra. Do you wish to place that bet? }
 
-Plh_42 { You want to bet $GVAR:QuestVars_BetThat_Config.MediumBetAmount$ on Gra. Do you wish to place that bet? }
+Plh_42 { You want to bet $GVAR:QuestVars_BetThat_Config.MediumBetAmount$ coins on Gra. Do you wish to place that bet? }
 
-Plh_43 { You want to bet $GVAR:QuestVars_BetThat_Config.HighBetAmount$ on Gra. Do you wish to place that bet? }
+Plh_43 { You want to bet $GVAR:QuestVars_BetThat_Config.HighBetAmount$ coins on Gra. Do you wish to place that bet? }
 
 Plh_27 { Someone's feeling lucky today. }
 
@@ -511,4 +511,16 @@ Plh_383 { Trust me — once you've stood in the arena, you'll never want to leav
 Plh_384 { Hey, easy there. Don't sweat it. Think it over. Just go talk to Mog and train with him. }
 
 Plh_379 { Wear this armor with pride. }
+
+Plh_385 { You've proven your prowess, but don't let that go to your head. Now you're up against the elite of the Marked Ones: Drova's best fighters, who train and battle every day — always one eye on the victory. }
+
+Plh_386 { Even if your weapons and armor were forged by the Divinities themselves, you won't have an easy time of it here. Brace yourself for tough battles. }
+
+Plh_387 { Once you manage to score a victory against the shield hands, you will have earned the right to wear the Gladiators' Armor. Spectators love close battles... }
+
+Plh_388 { And I'm telling you: Shortly before you hit the ground, the armor will prevent you from feeling any pain. Well, almost any. Don't know why I didn't always fight half naked. }
+
+Plh_389 { Keep an eye out for spells. The Divinities' magical power inflicts damage that even the toughest fighters cannot withstand. }
+
+Plh_390 { The only good thing I took from Nemeton is my runestone. But it's not like I need it here. }
 

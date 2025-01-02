@@ -1,6 +1,6 @@
 talent_sword_01 { Basic Swordfighting }
 
-talent_sword_01_desc { Improves your fighting stance, increases the damage you inflict by [DamageValuePercent]. You'll learn the ability Execute. }
+talent_sword_01_desc { Improves your fighting stance, increases the damage you inflict by [DamageValuePercent]. You'll learn the weapon ability Blood Frenzy. }
 
 talent_sword_02 { Trained Swordfighting }
 
@@ -36,7 +36,7 @@ talent_spear_02_desc { Increases the damage you inflict by [DamageValuePercent].
 
 talent_spear_03 { Masterful Spearfighting }
 
-talent_spear_03_desc { Improves your fighting stance. Increases the damage you inflict by [DamageValuePercent], and the stamina you regenerate with each hit to [StaminaValueAbsolut]. }
+talent_spear_03_desc { Improves your fighting stance. Increases the damage you inflict by [DamageValuePercent], and the stamina you regenerate with each hit up to [StaminaValueAbsolut]. }
 
 talent_dagger_01 { Basic Daggerfighting }
 
@@ -44,11 +44,11 @@ talent_dagger_01_desc { Improves your fighting stance, increases the damage you 
 
 talent_dagger_02 { Trained Daggerfighting }
 
-talent_dagger_02_desc { Increases the damage you inflict by [DamageValuePercent], increases the focus you generate with each hit by [FocusValueAbsolut]. }
+talent_dagger_02_desc { Increases the damage you inflict by [DamageValuePercent], increases the Focus you generate with each hit by [FocusValueAbsolut]. }
 
 talent_dagger_03 { Masterful Daggerfighting }
 
-talent_dagger_03_desc { Improves your fighting stance, increases the damage you inflict by [DamageValuePercent], increases the focus you generate with each hit by [FocusValueAbsolut]. }
+talent_dagger_03_desc { Improves your fighting stance, increases the damage you inflict by [DamageValuePercent], increases the Focus you generate with each hit by [FocusValueAbsolut]. }
 
 talent_bow_01 { Basic Bowfighting }
 
@@ -72,7 +72,7 @@ talent_slingshot_02_desc { Increases the damage you inflict by [DamageValuePerce
 
 talent_axe_01 { Basic Axefighting }
 
-talent_axe_01_desc { Improves your fighting stance, increases the damage you inflict by [DamageValuePercent]. You'll learn the weapon ability Blood Frenzy. }
+talent_axe_01_desc { Improves your fighting stance, increases the damage you inflict by [DamageValuePercent]. You'll learn the ability Execute. }
 
 talent_axe_02 { Trained Axefighting }
 
@@ -120,11 +120,11 @@ talent_shield_CritAfterBlock_desc { If you block an attack perfectly, your next 
 
 talent_shield_flow_afterblock { That all you got? }
 
-talent_shield_flow_afterblock_desc { If you block an attack perfectly, you generate [FocusValueAbsolut] focus. }
+talent_shield_flow_afterblock_desc { If you block an attack perfectly, you generate [FocusValueAbsolut] Focus. }
 
 talent_axe_adddmgflow { Battle Frenzy }
 
-talent_axe_adddmgflow_desc { Upon a successful hit, attacks generate an additional [FocusValueAbsolut] focus. }
+talent_axe_adddmgflow_desc { Upon a successful hit, attacks generate an additional [FocusValueAbsolut] Focus. }
 
 talent_axe_critonpoise { Coup de Grace }
 
@@ -136,11 +136,11 @@ talent_axe_decreasestamina_desc { Heavy attacks consume [StaminaValuePercent] le
 
 Talent_Daggers_CritAfterDodge { Surprise! }
 
-Talent_Daggers_CritAfterDodge_desc { Your first attack with a dagger after dodging will result in a [CritPercent] higher chance to land a critical hit. }
+Talent_Daggers_CritAfterDodge_desc { Your first attack with a dagger after dodging will quadruple your chance of landing a critical hit. }
 
-Talent_Daggers_DecreaseFlow { Fully focused! }
+Talent_Daggers_DecreaseFlow { Fully Focused! }
 
-Talent_Daggers_DecreaseFlow_desc { After using an ability, you'll gain [FocusValueAbsolut] focus while you have daggers equipped. }
+Talent_Daggers_DecreaseFlow_desc { After using an ability, you'll gain [FocusValueAbsolut] Focus. }
 
 Talent_Daggers_RegenerateStamina { Efficient Strike }
 
@@ -160,7 +160,7 @@ Talent_Sword_AddCritChance_desc { When attacking with your sword you have a [Cri
 
 Talent_Spear_GenerateFlow { Focused Blow }
 
-Talent_Spear_GenerateFlow_desc { Each spear attack on the same opponent increases the generated focus by [FocusValueAbsolut]. }
+Talent_Spear_GenerateFlow_desc { Each spear attack on the same opponent increases the generated Focus by [FocusValueAbsolut]. }
 
 Talent_Spear_MoreDmgOnHead { Peak Performance }
 
@@ -168,7 +168,7 @@ Talent_Spear_MoreDmgOnHead_desc { The tip of the spear inflicts up to [DamageVal
 
 Talent_Spear_PoiseOnCrit { Poisoned Tip }
 
-Talent_Spear_PoiseOnCrit_desc { Landing critical hits with your spear afflict your opponent with Poison. }
+Talent_Spear_PoiseOnCrit_desc { Landing critical hits with your spear will provide you a [ChanceToPoison] chance to afflict your opponent with poison. }
 
 Talent_Bow_InstantAfterDodge { Quick Draw }
 
@@ -190,7 +190,7 @@ Talent_Sling_Ricochet_Name { Ricochet }
 
 Talent_Sling_Ricochet_Desc { You fling a projectile that inflicts [WeaponDamagePercent] damage, then ricochets off an opponent and onto nearby opponents. }
 
-Talent_Sling_HeavyShot_Name { Concussive Shot }
+Talent_Sling_HeavyShot_Name { Impetus Shot }
 
 Talent_Sling_HeavyShot_Desc { Heavy shot that inflicts [WeaponDamagePercent] damage and stuns opponents for [StunTime] seconds. }
 

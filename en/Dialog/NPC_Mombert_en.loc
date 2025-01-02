@@ -20,7 +20,7 @@ Plh_619 { Ah, there you are. We're heading for the Forest Primeval with Henik, G
 
 Plh_743 { We're setting off soon, so prepare yourself. }
 
-Plh_744 { We'll do our part, you do yours. Find the next Divine Crystal in the Forest Primeval west of the Remnants' camp! }
+Plh_744 { We do our part, you do yours. Find the next Divine Crystal in the Forest Primeval, west of the Remnants' camp! }
 
 Plh_31 { We're back, Now you can enjoy the Festival of Fire. We'll talk later. }
 
@@ -70,7 +70,7 @@ Plh_749 { And YOU, $GVAR:EVars_Player.Name$! You sided with the conspirators. Yo
 
 Plh_752 { STOP! }
 
-Plh_753 { We musn't let things go this far. You've got to listen to $GVAR:EVars_Player.Name$. The Divine Crystal — have you got it? }
+Plh_753 { We mustn't let things go this far. You've got to listen to $GVAR:EVars_Player.Name$. The Divine Crystal — have you got it? }
 
 Plh_138 { I've got the Divine Crystal. (hand it over to Molvina) }
 
@@ -122,7 +122,7 @@ Plh_563 { Now it is time. We've got the Divinity, and we mustn't wait — we mus
 
 Plh_565 { But whatever magical power we do have won't be enough. Jero outnumbers us, and he's already there. We could lose everything — and then it'd all been for nothing. }
 
-Plh_568 { I went to the library with Reija. I found a scroll. }
+Plh_568 { I went to the library with Reija. Found a scroll there. }
 
 Plh_571 { *sighs* We urgently need some good news. Show me. }
 
@@ -160,7 +160,7 @@ Plh_596 { Yeah, I've got to accept the fact that Molvina's right. Sending an exp
 
 Plh_599 { At the most, we could send a single individual to sneak past the Remnants' troops and snatch the crystal... }
 
-Plh_592 { Why not just say that I'm supposed to do that. }
+Plh_592 { Why don't just say that I'm supposed to do that. }
 
 Plh_593 { Who could probably be suited to do that... }
 
@@ -170,7 +170,7 @@ Plh_600 { You belong to us, but you have yet to learn the ropes. So you're still
 
 Plh_601 { Will Molvina let me go? }
 
-Plh_602 { She doesn't need to know. }
+Plh_602 { Molvina doesn't need to know. }
 
 Plh_603 { If it goes well, you'll be back with the Divine Crystal before she even knows you're gone. }
 
@@ -698,7 +698,7 @@ Plh_800 { $GVAR:EVars_Player.Name$ wanted to help me get my weapon whetted by Ch
 
 Plh_262 { And I'm convinced that $GVAR:EVars_Player.Name$ will be a great asset. }
 
-Plh_263 { People of Nemeton! Follow me! Perhaps today will be the day we turn Drova into the Land of Legends... }
+Plh_263 { Nemeton community! Follow me! Perhaps today will be the day we turn Drova into the Land of Legends... }
 
 Plh_624 { With $GVAR:EVars_Player.Name$, I vanquished a couple of beasts at the East Gate. }
 

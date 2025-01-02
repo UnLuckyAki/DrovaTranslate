@@ -26,7 +26,7 @@ Plh_202 { I've heard your name before. From Levin. You're new around here and al
 
 Plh_203 { It was really a fluke. $GVAR:EVars_Player.Name$ knew how to navigate through the Blackflame. That's the only way we even made it to the Mighty Boar. }
 
-Plh_204 { The Blackflame that cost so many lives? You know a path through it? You're truly in the right place at the right time. }
+Plh_204 { The Blackflame that demanded so many lives? You know a path through it? You're truly in the right place at the right time. }
 
 Plh_205 { Now, the power of the Mighty Boar is in our hands. Cuna is setting everything up right now. Kilian, lend her a hand. $GVAR:EVars_Player.Name$, you stay here. }
 
@@ -48,7 +48,7 @@ Plh_424 { Soon the Remnants will know that we're in the Red Tower. We've got to 
 
 Plh_482 { Look around — we must figure out how to open the gate to the upper levels. }
 
-Plh_476 { Well fought. The Bygones are strong, but mindless and without any will of their own. No sense of camaraderie. We are one — and that's why we prevail. }
+Plh_476 { Well fought. The Bygones are strong, but mindless and without any will of their own. No sense of camaraderie. We are one — and that's why we shall prevail. }
 
 Plh_431 { I pity them... After all this time in this condition... In the Moor, I sensed what can happen if our connection to this world becomes corrupted... }
 
@@ -332,7 +332,7 @@ Plh_280 { The barrier had disappeared. The Raven was able to get us into the tow
 
 Plh_281 { You have destroyed the Forest Primeval! Death follows wherever you go. I shall not allow the rune vessels to wind up in your hands. }
 
-Plh_283 { As if you hadn't resorted to the power of the Divinities! To the power of the Mighty Boar! You hypocrites! }
+Plh_283 { As if you hadn't coveted the power of the Divinities — the power of the Mighty Boar! You hypocrites! }
 
 Plh_355 { Do not address the Heiress of the Moor in that fashion! }
 

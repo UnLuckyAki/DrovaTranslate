@@ -4,7 +4,7 @@ Plh_69 { I'm ready for the Red Tower. }
 
 Plh_225 { I've returned from the Forest Primeval, and I brought the Divine Crystal. }
 
-Plh_237 { *examines the Divine Crystal* Looks like it's as empty as the others. Mombert was right about the Divine Crystal — we need to charge it. }
+Plh_237 { *examines the Divine Crystal* Looks like it's just as depleted as the others. Mombert was right — we need to charge it. }
 
 Plh_226 { You alone decided to do so. As Heiress of the Moor, I cannot condone this. You might have had our well-being in mind, but we need to work together. }
 
@@ -32,7 +32,7 @@ Plh_234 { And the Divine Crystals will take us there. Mombert was right. We need
 
 Plh_248 { Take the Divine Crystal to Mombert. He's on the Red Moor, looking for the Divinity. There must be a place where we can imbue all the crystals with magical power. }
 
-Plh_249 { *reaches for her neck and loosens her necklace* I wear the symbol of the Nemeton. This necklace was passed down to me by my father, Dorian. It was he who founded Nemeton... and with it, the dream of our future. }
+Plh_249 { *reaches for her neck and loosens her necklace* I wear the symbol of Nemeton. This necklace was passed down to me by my father, Dorian. It was he who founded Nemeton... and with it, the dream of our future. }
 
 Plh_251 { A dream that might now come true. Take the symbol. It shall protect you. }
 
@@ -140,9 +140,9 @@ Plh_159 { Now you are finally worthy of wearing the armor with Nemeton's insigni
 
 Plh_160 { What's the difference? }
 
-Plh_161 { I'd like light armor. }
+Plh_161 { I'd like the light armor. <br>(29 armor, 12 magic resistance, stamina cost -30%) }
 
-Plh_162 { I'd like heavy armor. }
+Plh_162 { I'd like the heavy armor. <br>(48 armor, 14 magic resistance, stance damage -50%) }
 
 Plh_163 { Heavy armor offers better protection against blows, but light armor makes dodging easier. }
 
@@ -208,7 +208,7 @@ Plh_210 { It's a spark. A Link to the Divinity. Its light repels the Blackflame.
 
 Plh_152 { *leans in toward the spark* I've sensed this power before... back then, in the Forest Primeval... }
 
-Plh_216 { With this being, we could reach the Divinity. It could shield us from the Blackflame — if $GVAR:EVars_Player.Name$ is telling the truth. Molvina? }
+Plh_216 { With this being, we could reach the Divinity. It could shield us from the Blackflame — assuming $GVAR:EVars_Player.Name$ is telling the truth. Molvina? }
 
 Plh_204 { I've got doubts. I shudder when I think back on how many people we've lost. And now we're supposed to believe that this... spark is enough to prevent history from repeating itself? }
 
@@ -312,7 +312,7 @@ Plh_309 { This isn't good, it may be that — }
 
 Plh_310 { Silence! }
 
-Plh_311 { Kneel, and swear allegiance to me! Accept me as your leader. Then we shall command the rune vessels. Drova shall become the Nemeton that was foretold! }
+Plh_311 { Kneel, and swear allegiance to me! Accept me as your leader. Then we shall command the rune vessels. Drova shall become the Land of Legends that was foretold! }
 
 Plh_70 { Are you sure? Once we begin our mission, there won't be any going back. }
 

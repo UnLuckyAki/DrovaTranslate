@@ -1,4 +1,4 @@
-Movement_Gamepad { Press $MOVEMENT$ to move around. }
+Movement_Gamepad { Use $MOVEMENT$ to move around. }
 
 Movement_Keyboard { Press $MOVEMENT$ to move around. }
 
@@ -18,7 +18,7 @@ EngageCombat { Only if you've drawn your weapon can you attack with $INPUTANIM:A
 
 Interact { Use $INPUTANIM:Interact$ to interact with items or people. As long as your weapon is drawn, you can't interact at all.<br>Stow your weapon with $INPUTANIM:DrawWeapon$. }
 
-Perception_03 { Some objects can be examined more closely. Hold $INPUTANIM:PerceptionMode$ until the eye symbol over your head is filled completely. }
+Perception_03 { Some objects can be examined more closely. Hold $INPUTANIM:PerceptionMode$ until the eye-symbol over your head is filled completely. }
 
 Dodge { Hold a movement button and press $INPUTANIM:Dodge$ to dodge in that direction. Dodging uses up Stamina. Stamina is displayed beneath your character. }
 
@@ -28,13 +28,13 @@ SwitchWeapon { You found a new type of weapon! There are a few different types o
 
 Perception_03_Controller { Activate investigation mode by pressing $INPUTANIM:PerceptionMode$. In order to examine an object, stand close to it and use $INPUTANIM:LookX$ to look in its direction. }
 
-Abilities_02 { You've learned an ability! It has already been equipped automatically. Press $INPUTANIM:SpellMenu$ to open the ability menu to take a closer look at your new ability or to move it to another slot in the wheel menu. In the game you can change an active ability using the wheel menu ($INPUTANIM:RingMenu$). }
+Abilities_02 { You've learned an ability! It has already been equipped automatically. Press $INPUTANIM:OpenAbilities$ to open the ability menu to take a closer look at your new ability or to move it to another slot in the wheel menu. In the game, you can change an active ability using the wheel menu ($INPUTANIM:RingMenu$). }
 
 Abilities_02_Controller { You've learned an ability! It has already been equipped automatically. Press $INPUTANIM:Inventory$ to open the menu, and use $INPUTANIM:PrevPanel$ and $INPUTANIM:NextPanel$ to access the ability tab. From there you can take a closer look at your new ability or move it to another slot in the wheel menu. In the game you can change an active ability using the wheel menu ($INPUTANIM:RingMenu$). }
 
 Abilities_03 { You've equipped your first ability! In order to switch abilities, hold $INPUTANIM:RingMenu$ until you've selected the ability you want to use actively. }
 
-FoodAndHeal { Over time, both food and healing items restore health. As opposed to healing items, food restores health more slowly, but once your health bar is full, the regeneration process is paused. Plus: As long as the buff is active, food also grants you additional effects. }
+FoodAndHeal { Over time, both food and healing items restore Health. As opposed to healing items, food restores Health more slowly, but once your health bar is full, the regeneration process is paused. Plus: As long as the buff is active, food also grants you additional effects. }
 
 FirstHeal { You've found a healing plant!<br>Press $INPUTANIM:Inventory$ to open your inventory.<br>From here, you can drag items into your Quickbar, or equip and consume the item immediately using $INPUTANIM:Interact$.<br>$ICON:Heal$ Healing items restore your health over time. }
 
@@ -46,15 +46,15 @@ BattleBuddies_Combos { Press $INPUTANIM:Attack_Primary$ at exactly the right mom
 
 BattleBuddies_Combos_Label { Successful Combos }
 
-BattleBuddies_Spells { As indicated by the ability markings in the focus bar, you've collected enough focus to use an ability. Use the ability by pressing $INPUTANIM:UseSpell$. }
+BattleBuddies_Spells { As indicated by the ability markings in the Focus bar, you've collected enough Focus to use an ability. Use the ability by pressing $INPUTANIM:UseSpell$. }
 
 BattleBuddies_Spells_Label { Successful Spells }
 
-BattleBuddies_GetFlow { The focus bar below your health bar displays your current focus. In combat, every time you successfully hit an opponent, you generate focus. If you get hit, you'll lose focus. If you don't use up your focus, it dissipates — except for your base focus. }
+BattleBuddies_GetFlow { The Focus bar below your health bar displays your current focus. In combat, every time you successfully hit an opponent, you generate Focus. If you get hit, you'll lose Focus. If you don't use up your focus, it dissipates — except for your base Focus. }
 
-FirstFood { You've found some food!<br>Press $INPUTANIM:Inventory$ to open your inventory.<br>From here, you can drag food items into your quickbar, or consume them immediately using $INPUTANIM:Interact$.<br><br>$ICON:Food$ Food restores your health over time. However, regeneration is paused if your health bar is full.<br><br>Make sure you're well sated at any given time. Gather recipes and prepare your food at a campfire. }
+FirstFood { You've found some food!<br>Press $INPUTANIM:Inventory$ to open your inventory.<br>From here, you can drag food items into your quickbar, or consume them immediately using $INPUTANIM:Interact$.<br><br>$ICON:Food$ Food restores your health over time. However, while you're at full health, regeneration is put on hold.<br><br>Make sure you're well sated at any given time. Gather recipes and prepare your food at a campfire. }
 
-FirstGoodFood { You've consumed rich food.<br>Many dishes in Drova grant passive effects while you're sated.<br>Be careful, though! If you then consume additional food, the satiety effect will be overwritten. It is best to wait until the effect expires before eating again.<br><br>It is advisable to always be sated in order to enjoy passive health regeneration. }
+FirstGoodFood { You've consumed rich food.<br>Many dishes in Drova grant passive effects while you're sated.<br>Be careful, though! If you then consume additional food, the satiety effect will be overwritten. It is best to wait until the effect expires before eating again.<br><br>It is advisable to be sated at all times in order to enjoy passive health regeneration. }
 
 FirstWeapon { You've found a weapon!<br>Press $INPUTANIM:Inventory$ to open your inventory.<br>From here, you can equip your weapon using $INPUTANIM:Interact$.<br><br>(You can customize two weapon sets; press $INPUTANIM:SwapWeaponSet$ to switch between them.) }
 
@@ -70,7 +70,7 @@ Journal { You've made a new entry in your journal.<br>Press $INPUTANIM:Journal$ 
 
 Journal_Gamepad { You've made a new entry in your journal.<br>Press $INPUTANIM:Inventory$ to open your menu and use $INPUTANIM:PrevPanel$ and $INPUTANIM:NextPanel$ to access the journal tab.<br>From there, you can check the current status of your quests at any time. }
 
-FirstConsFlow_Gamepad { You've found a spell scroll.<br>Open the menu and use $INPUTANIM:PrevPanel$ to $INPUTANIM:NextPanel$ access the abilities tab. You can equip your spell scroll from there.<br>Spell scrolls can give you an edge in difficult fights; there's no point in hoarding them. }
+FirstConsFlow_Gamepad { You've found a spell scroll.<br>Press $INPUTANIM:OpenAbilities$ to open the menu and use $INPUTANIM:PrevPanel$ to $INPUTANIM:NextPanel$ access the abilities tab. You can equip your spell scroll from there.<br>Spell scrolls can give you an edge in difficult fights; there's no point in hoarding them. }
 
 FirstThrow { You've found a consumable!<br> Press $INPUTANIM:Inventory$ to open your inventory.<br>From here, you can drag the item into your Quickbar. }
 
@@ -84,7 +84,7 @@ CloseTutorial { Hide }
 
 CloseTutorial_Gamepad { Close (Hold $INPUTANIM:UISubmit$) }
 
-Statuseffects { You've walked into a thornbush and became afflicted with "bleed."<br>In the game, there are several afflictions which will be displayed to the right of your health bar.<br>Open the menu using $INPUTANIM:Inventory$ in order to use tooltips to take a closer look at the various afflictions. }
+Statuseffects { You've walked into a thornbush and became afflicted with "bleed."<br>In the game, there are several afflictions that will be displayed to the right of your health bar.<br>Open the menu using $INPUTANIM:Inventory$ in order to use tooltips to examine the various afflictions more closely. }
 
 Secondaries { You've found a shield!<br>This is an offhand item. Use it in combat by pressing $INPUTANIM:Block$.<br>If you press $INPUTANIM:Block$ without having an offhand item equipped, you'll perform an action unique to each weapon type instead. }
 
@@ -96,10 +96,9 @@ LookDirectionCombat { In combat, you'll always attack in the direction you're fa
 
 LookDirectionCombat_Gamepad { In combat, you'll always attack in the direction you're facing.<br>The arrow under your character indicates the direction you're facing.<br>Use $INPUTANIM:LookX$ to change this direction. }
 
-FirstTreasure { You've found a treasure map!<br>All treasure maps are stored in your journal in the letters tab. You can watch them there at any time. }
+FirstTreasure { You've found a treasure map!<br>All treasure maps are stored in your journal in the letters tab. You can read them from there at any time. }
 
-FirstTreasure_Gamepad { You've found a treasure map!<br>Press $INPUTANIM:Inventory$ to open your menu and use $INPUTANIM:PrevPanel$ and $INPUTANIM:NextPanel$ to access the journal tab.<br>All treasure maps are stored in your journal in the letters tab. You can watch them there at any time. }
+FirstTreasure_Gamepad { You've found a treasure map.<br>Press $INPUTANIM:Inventory$ to open your menu and use $INPUTANIM:PrevPanel$ and $INPUTANIM:NextPanel$ to access the journal tab.<br>All your treasure maps are stored in the letters tab. You can read them from there at any time. }
 
-FirstRecipe { You have found a recipe.<br>Open the inventory with $INPUTANIM:Inventory$. There you can learn the recipe by using it with $INPUTANIM:Interact$ }
-
+FirstRecipe { You've found a recipe.<br>Press $INPUTANIM:Inventory$ to open your inventory. From there, you can learn the recipe by pressing $INPUTANIM:Inventory$. }
 

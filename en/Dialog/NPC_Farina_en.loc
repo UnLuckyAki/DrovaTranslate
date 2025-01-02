@@ -46,7 +46,7 @@ Plh_41 { Then let's go! Draw your weapon! }
 
 Plh_61 { Next time, just say so... }
 
-Plh_69 { So you'll get your runestone. There are different spells that differ from the physical skills. These are formidable, but require more magical power. }
+Plh_69 { So, you'll get your runestone. There are different spells that differ from the physical skills. These are formidable, but they require more magical power. }
 
 Plh_98 { There are different types of spells: fire, arcane, air, and nature. They are classed as either offensive or defensive. }
 
@@ -71,4 +71,6 @@ Plh_39 { You can count on me. }
 Plh_40 { Not now. }
 
 Plh_42 { Then don't be too surprised by your new powers when you unleash them. }
+
+Plh_99 { I'm ready for a practice battle. }
 
