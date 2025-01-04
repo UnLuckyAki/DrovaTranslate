@@ -1,8 +1,8 @@
-Entry_01 { Olga and Luten need callashroom extract for crafting a talisman that they wish to give to Helma. Humbert can tell me where I can find those shrooms. I find him east of Nemeton, where there are lots of plants. }
+Entry_01 { Olga and Luten need callashroom extract for crafting a talisman that they wish to give to Helma. Humbert can tell me where I can find those shrooms. He'll be hanging around the eastern part of Nemeton — where all the plants are. }
 
 Entry_03 { Humbert tells me that he needs $GVAR:QuestVars_EverybodyUnderstandsThat_Config.AmountOfCallashrooms$ callashrooms in order to make the extract. I should find them outside of Nemeton, in the Red Moor. }
 
-Entry_04_Wait { I gave Mombert the callashroom. He needs a moment, shouldn't take too long. }
+Entry_04_Wait { I brought Mombert the callashrooms. He'll need a moment. It shouldn't take too long. }
 
 Entry_04 { I've got the extract. Now all I've got to do is take it to Olga and Luten. }
 

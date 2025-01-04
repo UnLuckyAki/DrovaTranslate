@@ -1,6 +1,6 @@
 Title_Maps { Maps }
 
-MapName_World_Rough { Crude Map }
+MapName_World_Rough { Crude World Map }
 
 MapName_World_Detailed { World Map }
 
@@ -8,9 +8,9 @@ MapName_World_Shrines { Shrines }
 
 MapName_Nemeton { Nemeton }
 
-MapName_Ruincamp { Remnants' Camp }
+MapName_Ruincamp { Remnants }
 
-MapName_Leuchtwald { Forest Primeval }
+MapName_Leuchtwald { The Forest Primeval }
 
 MapName_Tristan { Tristan's Map }
 
@@ -26,4 +26,7 @@ PlaceMarker { Place Marker }
 
 DeleteMarker { Delete Marker }
 
-Hint_Ink { Buy ink to mark places on the map. }
+Hint_Ink { Buy ink in order to mark locations on your map. }
+
+MapName_CaveSystem { Cave System }
+

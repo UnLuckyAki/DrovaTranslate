@@ -130,8 +130,29 @@ PlayerSaysTheyDontHaveMoney { I don't have enough coins... }
 
 PlayCatch { Do you want to play tag? }
 
-OnlyNemetonTeaching { I'll only be a teacher to fighters of Nemeton. }
+OnlyNemetonTeaching { I teach only fighters from Nemeton. }
 
-Teach_Axe { Can you show me how to fight more competently with my axe? }
+Teach_Axe { Can you teach me how to fight better with the axe? }
 
-HaveRostmoos { I have Rustmoss with me. Do you need some? }
+HaveRostmoos { I've got Rustmoss. Do you need some? }
+
+FastTravel { Can you give me a lift? }
+
+FastTravel_Ruinenlager { Take me to the Remnants' camp. }
+
+FastTravel_Nemeton { Take me to Nemeton. }
+
+FastTravel_Tavern { Take me to the tavern. }
+
+FastTravel_Georgsfarm { Take me to Georgefarm. }
+
+FastTravel_Accepted { All right, just jump onto the cart. We'll be leaving shortly. }
+
+FastTravel_Rejected { You know where to find me... should you change your mind. }
+
+FastTravel_IntroChapter2_01 { If you don't want to wander around alone, you can ride along with me in my cart. }
+
+FastTravel_IntroChapter2_02 { It'll set you back only $GVAR:QuestVars_FastTravel_Config.Costs$ coins. }
+
+FastTravel_GerogsFarm { We've hired someone new, so now we're traveling to Georgefarm too. }
+

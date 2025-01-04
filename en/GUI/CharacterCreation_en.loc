@@ -14,6 +14,8 @@ ImmersiveMode { Iron }
 
 StoryMode { Explorer }
 
+InsaneMode { Insane }
+
 SkipIntro { Skip Intro }
 
 Option_BodyType { Physique }
@@ -46,38 +48,47 @@ Souvenir_Money_Tooltip { You never leave the house without your coin purse. }
 
 Souvenir_Health { Ring of Life }
 
-Souvenir_Health_Tooltip { This ring is infused with the Essence of Life. Your health is increased. }
+Souvenir_Health_Tooltip { This ring is perfused with the Essence of Life. You can withstand more damage. }
 
 Souvenir_Thief { Lockpick }
 
-Souvenir_Thief_Tooltip { Fortune favors the... well, they who make their own luck. }
+Souvenir_Thief_Tooltip { Fortune favors the... well, the one who creates his own opportunities. }
 
 Souvenir_Strength { Ring of Strength }
 
-Souvenir_Strength_Tooltip { You value physical strength. This ring does just the trick. }
+Souvenir_Strength_Tooltip { You value physical strength. This ring grants you just that. }
 
-GameMode_Normal_Tooltip { Recommended setting. Drova is dangerous. Be careful who you mess with! }
+GameMode_Normal_Tooltip { Recommended. Drova is dangerous. Be careful who you're messing with! }
 
-GameMode_Immersive_Tooltip { Live with your decisions. You only have one save game and the game saves automatically. }
+GameMode_Immersive_Tooltip { You've made your bed and now you must lie in it. You have only one savegame, and the game will be saved automatically. }
 
 InvalidName { This name is not available! }
 
 HardcoreMode { Hardcore }
 
-GameMode_Hardcore_Tooltip { The ultimate challenge. You only have one life and one save game. }
+GameMode_Hardcore_Tooltip { The ultimate challenge. You have only one life and one savegame. }
 
 UseKeyboard { Please enter your name using the keyboard! }
 
-GameMode_Story_Tooltip { You cause more damage and can take more damage. }
+GameMode_Story_Tooltip { You inflict more damage and suffer less damage. }
 
-Story_PopUp { Are you sure you want to play Drova in Explorer mode?<br><br>You deal more damage and can withstand more. You can customise the damage values in the options and switch between Explorer and Classic mode freely.<br><br>You can save and load at any time. }
+Story_PopUp { Are you sure you want to play Drova in Explorer mode?<br><br>You'll inflict more damage and suffer less damage. From the Options menu, you can customize damage values and freely switch game modes between Explorer and Classic.<br><br>You can save and load your game any time. }
 
-Immersive_PopUp { Are you sure you want to play Drova in Iron mode?<br><br>You only have one savegame and the game automatically saves regularly after dialogues, battles, quest progress and important decisions.<br><br>You cannot change this mode once you have started the game. }
+Immersive_PopUp { Are you sure you want to play Drova in Iron mode?<br><br>You'll have only one savegame, and the game will be saved automatically after any dialogue, combat, quest progression, and important decisions.<br><br>Once you've started playing, you can no longer change this mode. }
 
-Hardcore_PopUp { Are you sure you want to play Drova in Hardcore mode?<br><br>You only have one savegame and the game saves automatically. If your character dies, your savegame will be deleted.<br><br>Once you have started the game, you can no longer change this mode.<br><br>The ultimate challenge. Only the toughest Drova fighters can master this mode. }
+Hardcore_PopUp { Are you sure you want to play Drova in Hardcore mode?<br><br>You'll have only one savegame, and the game will be saved automatically after any dialogue, combat, quest progression, and important decisions. When your character dies, your savegame will be deleted.<br><br>Once you've started playing, you can no longer change this mode.<br><br>The ultimate challenge. Only the fiercest fighters in Drova will master this mode. }
 
-SaveModePopUp_Title { Select your save mode }
+SaveModePopUp_Title { Choose your save mode }
 
-SaveModePopUp_Text_Default { In Drova, you have several options for saving your game.<br><br>In classic mode, you can save to different slots at any time.<br><br>If you select Iron mode the game saves automatically. Manual saving is not possible in this mode. }
+SaveModePopUp_Text_Default { Drova offers several options to save your game.<br><br>In Classic mode, you can create multiple savegames and save at any time.<br><br>Should you choose to play in Iron mode, your game will be saved automatically. In this mode, you will not be able to save manually.<br><br>Hardcore mode works essentially the same way that Iron mode does. You've got only one chance to finish the game in Hardcore mode. Should your character die, the challenge has failed; your savegame will be downgraded to Iron. You will be able to continue this run, but only in Iron mode. If you want to finish the game in "Hardcore" mode, you'll need to start a new character.<br><br>You can downgrade your save mode at any time using "Options." }
 
-ChangeGameModeWarning { Are you sure you want to leave Iron mode? If you do, the mode can no longer be activated during the course of the game. }
+ChangeGameModeWarning { Are you sure you want to quit Iron mode? Once you've quit, you cannot reactivate this mode for the rest of the game play. }
+
+Insane_Desc { The ultimate challenge! Not recommended if it's your first time playing Drova. }
+
+ChangeGameModeWarning_Hardcore { Are you sure you want to quit Hardcore mode? Once you've quit, you cannot reactivate this mode for the rest of the gameplay. }
+
+Title_Insane_PopUp { Difficulty: Insane }
+
+Desc_Insane_PopUp { The "Insane" difficulty presents you with the most daring challenge in Drova so far.<br><br>In this mode, opponents are much more dangerous—their behavior, their position, and their numbers have all been updated. While we've equipped some creatures with new attacks, we've also created entirely new variants of existing creatures, who wield new special attacks.<br><br>In addition, you will suffer 30% more damage and inflict 20% less damage—and if this still isn't hard enough, you can further customize these numbers in the Options menu.<br><br>We've also made some minor adjustments in order to enhance the overall gameplay experience—just wait!<br><br>Are you sure you want to play the game in "Insane" mode? Once you've chosen this mode, you will not be able to change it during gameplay. }
+

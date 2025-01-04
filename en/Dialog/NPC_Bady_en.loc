@@ -280,7 +280,7 @@ Plh_30 { Hungry? I've got something for you! (hand over tampered food) }
 
 Plh_171 { Hungry? I've got something for you! (hand over food) }
 
-Plh_31 { I brought you your axe. (hand over) }
+Plh_31 { I brought you your Cudgel. (hand over) }
 
 Plh_173 { *shoots you a venomous look* Finally. Hand it over! }
 
@@ -300,16 +300,25 @@ Plh_222 { This belonged to my mentor. He passed it down to me after I defeated h
 
 Plh_221 { When your body and mind are attuned, no one can defeat you. Come see me when you're ready to learn more. }
 
-Plh_226 { Meluna really likes my arms. If you know what I mean ... }
+Plh_226 { Meluna digs my upper arms. If you know what I mean... }
 
-Plh_227 { Meluna? Did she ... with you ... }
+Plh_227 { Meluna? She's with you... }
 
-Plh_228 { *scoffs* Don't care. I have no clue anyway why she has this thing for arms. }
+Plh_228 { *scoffs* Don't care. Like, I don't even understand her kink with arms and whatnot... }
 
-Plh_229 { I mean, they are for LIFTING stuff. Not ... like ... you know. }
+Plh_229 { I mean, you've got arms to lift stuff, not to... you know. }
 
-Plh_230 { I'm resting right now, I only train when the sun is at its highest point. }
+Plh_230 { I'm resting now. I train only when the sun is at its highest point. }
 
-Plh_231 { Only once I have my axe can I fight. Until then, let me train. }
+Plh_231 { I can fight only when I've got my axe. Let me train until then. }
 
-Plh_232 { Only once I have my food can I fight. Until then, let me train. }
+Plh_232 { I can fight only after I've eaten. Let me train until then. }
+
+Plh_237 { We'll be fighting on this island. Should you leave the island, you lose. These are the rules. }
+
+Plh_236 { Great. But this time, I won't be holding back. }
+
+Plh_233 { Not bad. I'll train you. Maybe I can make a worthy challenger out of you after all. }
+
+Plh_234 { You know where to find me once you feel powerful enough. I'm waiting for a real fight. }
+

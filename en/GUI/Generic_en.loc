@@ -12,6 +12,9 @@ off { Off }
 
 holdToSkip { Hold to skip }
 
-gameModeChangeDesc { If you change the mode, you can no longer undo it. Are you sure? }
+gameModeChangeDesc { Once you've changed this mode, you cannot switch back. Are you sure? }
 
-loadLatestPopUp { Do you want to load your latest save game? }
+loadLatestPopUp { Would you like to load your last savegame? }
+
+Answer_Understood { Got it. }
+

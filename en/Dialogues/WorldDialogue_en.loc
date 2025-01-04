@@ -20,7 +20,7 @@ Plh_10 { Hm... I don't know... }
 
 Plh_11 { Trust me, you won't regret it! }
 
-Plh_15 { Tonight at 9pm: $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$ will face $GVAR:DAS_ArenaSystem.MainFight_Participant_02_Name$. }
+Plh_15 { Tonight at nine, $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$ will face $GVAR:DAS_ArenaSystem.MainFight_Participant_02_Name$. }
 
 Plh_16 { Is this some kind of clue? }
 
@@ -40,7 +40,7 @@ Plh_29 { I need to clear the detritus first. }
 
 Plh_34 { This is where the detritus is emptied. }
 
-Plh_35 { I need to equip my pickaxe. }
+Plh_35 { I need to equip my pickax. }
 
 Plh_36 { I need a torch. }
 
@@ -60,7 +60,7 @@ Plh_43 { I need to clear the detritus first. }
 
 Plh_44 { Today Bady battles Gra! }
 
-Plh_45 { Know the first three and step forward to fathom the depths of rune magic. }
+Plh_45 { Know about the first three and step forward in order to explore the depths of rune magic. }
 
 Plh_46 { There is a slight tug coming from the object. }
 
@@ -74,13 +74,13 @@ Plh_50 { The shield is riddled with holes and cracks — as if something had bee
 
 Plh_51 { A raven above a triskelion. }
 
-Plh_52 { Two hands, a friendly handshake, and a coin above them. }
+Plh_52 { Two hands, a friendly handshake, and a coin below them. }
 
 Plh_53 { It shows the heft and the beginning of a sword's blade under the raven of Nemeton. }
 
 Plh_54 { A scythe under the raven of Nemeton. Apparently, this is where the druids are. }
 
-Plh_55 { It shows an anvil under the raven of Nemeton. It seems to symbolize craftsmenship. }
+Plh_55 { It shows an anvil under the raven of Nemeton. It seems to symbolize craftsmanship. }
 
 Plh_56 { There is something here. }
 
@@ -118,7 +118,7 @@ Plh_134 { You're staying right there. }
 
 Plh_135 { That was far too easy. }
 
-Plh_136 { That's that. }
+Plh_136 { If only we had that. }
 
 Plh_105 { Come here, you little punk! }
 
@@ -205,4 +205,14 @@ Plh_80 { Damn, why won't you die already?! }
 Plh_79 { There's its brood. I know it's here somewhere! }
 
 Plh_140 { There's no battle scheduled for today. }
+
+Plh_141 { This cannot go on... }
+
+Plh_142 { We mustn't put up with that. }
+
+Plh_143 { Dammit, how can this be? }
+
+Plh_144 { Dammit! Aldrik, you jackass! }
+
+Plh_145 { Oh, crap, no! }
 

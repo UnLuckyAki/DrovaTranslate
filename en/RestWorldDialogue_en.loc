@@ -1,6 +1,6 @@
 PostExpeditionRuinenlager_FarlanIdle_0 { You should have seen me! }
 
-R_Karotte_AfterRunestone_1 { I've got a rune stone! }
+R_Karotte_AfterRunestone_1 { I've got a runestone! }
 
 R_Karotte_AfterRunestone_2 { You've earned it! }
 
@@ -52,7 +52,7 @@ HarpyEncounterAndLore_25 { Something's always lying in wait for us. }
 
 HarpyEncounterAndLore_26 { Those damn harpies. }
 
-HarpyEncounterAndLore_27 { Let's try to keep the bloodshed to a minimum. }
+HarpyEncounterAndLore_27 { Let's try to keep the bloodshed at a minimum. }
 
 HarpyEncounterAndLore_28 { Stop dawdling! Move it! }
 
@@ -88,7 +88,7 @@ R_MelunaGoToJola_43 { I'm back. }
 
 R_MelunaGoToJola_44 { Meluna! Tired of slacking? }
 
-R_MelunaGoToJola_45 { Shut it. I've gotta get back to it now. }
+R_MelunaGoToJola_45 { Shut it. I've got to get back to it now. }
 
 R_MelunaGoToJola_46 { Well then, get to work! }
 
@@ -112,7 +112,7 @@ TalkToJola_55 { Would you like to have a drink with me sometime? }
 
 TalkToJola_56 { I've just been waiting for you to ask that question. }
 
-WayToRippers_SecondStation_57 { Hang on a sec, I've gotta drain the lizard. }
+WayToRippers_SecondStation_57 { Hang on a sec, I've got to drain the lizard. }
 
 WayToRippers_ThirdStation_58 { Hm. Footsteps. }
 
@@ -162,7 +162,7 @@ WorkingNight_80 { On mine too. }
 
 WorkingNight_81 { I'd like to switch places with you. }
 
-WorkingNight_82 { Haha, I can see that. But nothing's ever gonna happen here. }
+WorkingNight_82 { Haha, I can see that. But nothing's ever going to happen here. }
 
 BonnyIntroduction_83 { Ahh, back here, finally. }
 
@@ -408,9 +408,9 @@ RunToBabsi_203 { The Remnants' camp isn't far. }
 
 GiveStuffToProximus_204 { Here, I've got the delivery, Proximus. }
 
-AllDay_205 { I've got to go now. }
+AllDay_205 { I'm going to get going again. }
 
-AllDay_206 { I'll see you around. }
+AllDay_206 { See you around. }
 
 AllDay_207 { Just catching my breath for a moment. }
 
@@ -418,7 +418,7 @@ AllDay_208 { I'm back! }
 
 AllDay_209 { I've got to go now. }
 
-AllDay_210 { I'll see you around. }
+AllDay_210 { See you around. }
 
 AllDay_211 { Just catching my breath for a moment. }
 
@@ -428,7 +428,7 @@ AllDay_213 { Let's go. }
 
 AllDay_214 { Greetings, Olaf. }
 
-AllDay_215 { I'll have to get moving soon. }
+AllDay_215 { I'll have to get going soon. }
 
 AllDay_216 { All right, all unloaded... }
 
@@ -630,7 +630,7 @@ R_RuhanGoToJola_314 { All right, thanks. }
 
 R_Fawni_RunToTavern_315 { Get ready, sweetcakes. }
 
-R_Fawni_RunToTavern_316 { That's gonna be exciting. }
+R_Fawni_RunToTavern_316 { That's going to be exciting. }
 
 Evening_317 { I can do one more! }
 
@@ -682,7 +682,7 @@ HitReceiver_Reija_Dialog_EnterWurmArea_340 { Something isn't right here. }
 
 HitReceiver_Reija_Dialog_FireRoom_341 { Maybe a spell backfired. }
 
-HitReceiver_Reija_Dialog_PictureWall_01_342 { There, over by the wall... that must be a rune stone. }
+HitReceiver_Reija_Dialog_PictureWall_01_342 { There, over by the wall... that must be a runestone. }
 
 HitReceiver_Reija_Dialog_DoorOpen_343 { The door just opened! }
 
@@ -705,4 +705,6 @@ Dylara_Moorlagerhof_351 { It's nicest by the fire. }
 Dylara_Moorlagerhof_352 { I'll have a look around. See if everything is quiet. }
 
 Plh_0 { Welcome to Bernold's Tavern. Grab a beer. }
+
+Bady_Duel_Leaving_0 { Remain on the island. I really don't want to have to chase you all over Drova. }
 

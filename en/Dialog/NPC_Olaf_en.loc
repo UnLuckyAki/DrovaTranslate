@@ -80,13 +80,13 @@ Plh_171 { Oh? Well, that's reason enough. }
 
 Plh_172 { You and Aldrik kidnapped people and made them dig something up in the Pit. }
 
-Plh_173 { Aldrik is the reason people have been disappearing. He kidnapped them and had them work in the Pit. }
+Plh_173 { Aldrik is the reason people have been disappearing. He kidnapped them and had them excavate some ruins in the moor. }
 
-Plh_175 { Oh, is that right? I don't know about that, but I'd recommend that you don't go around flapping your gums too loudly where others can hear you. }
+Plh_175 { What are you talking about? I've got nothing to do with Aldrik. The guy just waltzed in here one day and asked what I'd pay for Bygones' relics. How am I supposed to know that he's kidnapping people? }
 
-Plh_176 { Maybe I did buy something from Aldrik once in a while — so what? What's this got to do with me? }
+Plh_176 { But about that relic... }
 
-Plh_182 { I found a letter at Aldrik's. You asked for a relic. }
+Plh_182 { I have it with me. (show relic) }
 
 Plh_185 { *looks at the relic and frowns* That could actually be interesting. All right, listen... }
 
@@ -102,7 +102,7 @@ Plh_190 { No idea. I've never seen it before. Ede's the one who knows about thes
 
 Plh_191 { Answers to your questions. }
 
-Plh_177 { Aldrik is an idiot. This whole thing could have been set up a lot more shrewdly. Ah well. }
+Plh_177 { That riffraff! Had I known that he's acquiring relics this way, I'd have kicked him out of my tavern right away. Good thing you got out of there in one piece. }
 
 Plh_180 { He had it coming. }
 
@@ -350,7 +350,7 @@ Plh_98 { That's awfully nice of you. }
 
 Plh_100 { I can give you his key if you pay the rest of his tab. That'll be $GVAR:QuestVars_TheWayToTheLeuchtwald_Config.Bill$ coins. }
 
-Plh_103 { I haven't got have that many coins. }
+Plh_103 { I don't have that many coins. }
 
 Plh_104 { Here are the $GVAR:QuestVars_TheWayToTheLeuchtwald_Config.Bill$ coins for Tristan's tab. }
 
@@ -398,14 +398,29 @@ Plh_326 { But don't overdo it! I just need her to get back to work. }
 
 Plh_330 { I think we're scraping by. I know that Reija wanted something from you. Go talk to her. }
 
-Plh_331 { Reija told me to help you. }
+Plh_331 { Reija said I'm supposed to help you. }
 
-Plh_332 { Then help me already. Find my sheep. }
+Plh_332 { Then help me. Go find my sheep. }
 
-Plh_333 { I was in Drivanius' chamber and found this Nexus helmet ... }
+Plh_333 { I entered Drivanius's chamber and found this nexus helmet. }
 
-Plh_334 { Hey wait ... }
+Plh_334 { Hey, wait... }
 
-Plh_335 { Not here. Tell that to Ede. I have to take care of the tavern here. }
+Plh_335 { Not here. Tell that to Ede. I need to tend to the tavern. }
 
 Plh_336 { Good work, $GVAR:EVars_Player.Name$. }
+
+Plh_338 { Do you happen to know a guy named Teigen? He must have come through here not too long ago. }
+
+Plh_339 { Isn't he one of the traveling merchants? I like the others better. But yeah, I know him. }
+
+Plh_340 { Do you know where he went? }
+
+Plh_341 { No clue. It's been a while since he was here. He was with some guy from the Remnants' camp and his cat. That much I remember. They were on their way to Nemeton. }
+
+Plh_342 { *whispers* Since you've helped me so much, here's a little piece of advice... }
+
+Plh_343 { I know that Teigen talked about his "hidden" stash from time to time. It must be somewhere outside of Nemeton, maybe after the bridge along the river in the south? }
+
+Plh_344 { *raises his voice again* You have no idea what kind of things you hear when you're running an inn. }
+

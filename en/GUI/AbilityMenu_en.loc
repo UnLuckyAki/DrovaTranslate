@@ -12,7 +12,7 @@ Orientationpoint_Label { Base Focus: }
 
 Orientationpointtooltip_Header { Base Focus }
 
-Orientationpointtooltip_Description { Over time, focus will regenerate up to this point. }
+Orientationpointtooltip_Description { Over time, Focus will regenerate up to this point. }
 
 MaxLeben { Max. Health }
 

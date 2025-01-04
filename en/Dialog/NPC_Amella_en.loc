@@ -32,3 +32,19 @@ Plh_23 { Come with me, I'll take you to Ede. }
 
 Plh_9 { Olaf, you say? Then you must have something for us, right? }
 
+Plh_26 { Could you mark that cave on my map? }
+
+Plh_27 { What map have you got there? Let me see. }
+
+Plh_28 { (give map) }
+
+Plh_30 { Incredible! I never thought that someone would go through the trouble of marking all the caves around here! }
+
+Plh_32 { I can amend your map. For a fee. Let's say $GVAR:EVars_Amella.MapEditingCost$ coins? }
+
+Plh_33 { Here are your coins. }
+
+Plh_36 { Alrighty, now our caves have been added. But don't show this map to anyone who doesn't know about us! }
+
+Plh_35 { Let me know when you've changed your mind. }
+

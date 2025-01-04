@@ -4,7 +4,7 @@ Plh_238 { I want to join you. }
 
 Plh_153 { I have a question... }
 
-Plh_226 { You don't look like a fighter but you became a Blade of Jero? }
+Plh_226 { You don't exactly look like a fighter. You've really became a Blade of Jero? }
 
 Plh_309 { Now I belong to your people. }
 
@@ -256,7 +256,7 @@ Plh_315 { Tell Leyna I sent you. She owes me $GVAR:QuestVars_EntranceToShadyDist
 
 Plh_317 { Get the coins and come back to me. }
 
-Plh_316 { Near the temple is a small cave with a trapdoor. Here, this key will get you in. }
+Plh_316 { Near the entrance to the Hewers' cave there's a latch in the floor. Here, this key will get you in. }
 
 Plh_327 { Oh, I like that. Were there any problems? }
 
@@ -266,7 +266,7 @@ Plh_329 { She was a little too curious. But nothing I couldn't handle. }
 
 Plh_330 { Good work. Here's your share. }
 
-Plh_332 { I'm a man of my word. Proximus will hear about you, and you can fight in the arena. I don't know why you're so bent on doing that, but if you can really dish it out, there's good coin in it there. }
+Plh_332 { I'm a man of my word. Proximus will hear about you, and you can fight in the arena. I don't know why you're so bent on doing that, but if you can really dish it out, there's good coin in it for you. }
 
 Plh_334 { Now go and do whatever it is you do. }
 
@@ -464,7 +464,7 @@ Plh_119 { $GVAR:QuestVars_Debt_Config.FirstPriceForBoris$ coins. }
 
 Plh_120 { $GVAR:QuestVars_Debt_Config.SecondPriceForBoris$ coins. }
 
-Plh_127 { All right then. Find out where the list is. (hand over $GVAR:QuestVars_Debt_Config.SecondPriceForBoris$ coins) }
+Plh_127 { All right then. Find out where the list is. ($GVAR:QuestVars_Debt_Config.SecondPriceForBoris$ hand over coins) }
 
 Plh_121 { $GVAR:QuestVars_Debt_Config.ThirdPriceForBoris$ coins. }
 
@@ -495,4 +495,42 @@ Plh_160 { And now get lost. }
 Plh_156 { I'm a man of my word. Here's the list. }
 
 Plh_161 { Don't do anything with it I wouldn't do. *smirks* }
+
+Plh_356 { I heard that you've got a relic of the Bygones in your possession. What do you want for it? }
+
+Plh_365 { About that relic... }
+
+Plh_354 { Well, well... You're working with Olaf now. Interesting. }
+
+Plh_357 { $GVAR:QuestVars_TheCuriousRelic_Config.PriceBorisRelict$ coins. }
+
+Plh_358 { You're asking quite a lot of coins for such an old trinket. }
+
+Plh_359 { I'm one of your people! Can I get a friends-and-family discount? }
+
+Plh_360 { Here are the coins. (Hand over $GVAR:QuestVars_TheCuriousRelic_Config.PriceBorisRelict$ coins) }
+
+Plh_363 { Here are the coins. (hand over $GVAR:QuestVars_TheCuriousRelic_Config.PriceBorisRelictTrupBoris$ coins) }
+
+Plh_364 { Do you want the relic or not? I know how much it's worth. }
+
+Plh_361 { All right, Since it's you. $GVAR:QuestVars_TheCuriousRelic_Config.PriceBorisRelictTrupBoris$ coins. }
+
+Plh_362 { Always a pleasure doing business with you. }
+
+Plh_368 { I knew that it's worth something! *smirks* }
+
+Plh_370 { Who knows for how long I'm going to keep it, now that I know what it's worth. You shouldn't wait too long. }
+
+Plh_371 { Well, did you change your mind? }
+
+Plh_373 { I've found this letter on a body in the moor. }
+
+Plh_374 { Let me see it... }
+
+Plh_375 { Oh, On a body, you say? There's really no winning... }
+
+Plh_376 { Poor Peter... I really wanted to help him to get into Nemeton. He never really managed to make friends around here. He was a good guy, actually. }
+
+Plh_377 { Well, then I've got one favor left, at least. *smirks* Thanks for bringing me this. Here are a few coins for your trouble. }
 

@@ -34,7 +34,7 @@ Plh_23 { Finally, a day off. No work. You did good! *smirks* }
 
 Plh_38 { *sighs* Are you snooping around here or what? None of your business. }
 
-Plh_39 { Fiaa said there's a cargo manifest. That should contain a record of it. }
+Plh_39 { Fia said there's a cargo manifest. That should contain a record of it. }
 
 Plh_40 { True. But it's still none of your business. Are you deaf? }
 
@@ -50,7 +50,7 @@ Plh_46 { What? $GVAR:QuestVars_StolenWeapons_Config.MoneyForWilli$ coins? }
 
 Plh_47 { Are you nuts? }
 
-Plh_48 { I haven't got have that many coins. }
+Plh_48 { I don't have that many coins. }
 
 Plh_49 { I could just beat the hint out of you. }
 
@@ -58,7 +58,7 @@ Plh_50 { We're not in the Remnants' camp. If you so much as lay a hand on me the
 
 Plh_51 { Here are the coins. (hand over $GVAR:QuestVars_StolenWeapons_Config.MoneyForWilli$ coins) }
 
-Plh_52 { *grumbles* I'll make you a deal. I've been working my ass off, and Fia's putting more and more pressure on me. If you don't have any coins, you might as well help me with work. }
+Plh_52 { *grumbles* I'll make you a deal. I've been working my ass off, and Fia's putting more and more pressure on me. If you don't have any coins, you might as well help me with my work. }
 
 Plh_53 { You take over my work, unload all the cargo from the cart into the correct boxes, and I'll take a break. }
 

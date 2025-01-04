@@ -44,7 +44,7 @@ Plh_14 { *Before you can leave, the piglet throws himself against your legs, alm
 
 Plh_3 { *The piglet looks at you expectantly.* }
 
-Plh_27 { *Cay looks proud after digging up a truffle. Now he looks at you expectantly.* }
+Plh_27 { *After digging up a truffle, Cay appears to be pretty proud. Now he looks at you expectantly.* }
 
 Plh_34 { *Cay seems nervous. He stops and doesn't seem to want to get going again. He looks up at you.* }
 
@@ -103,4 +103,6 @@ Plh_21 { *You get on your knees to pet Cay. As you stroke his fur, Cay pushes hi
 Plh_22 { *Cay grunts at you a few times and runs around one of your legs twice, as though he wanted to say goodbye.* }
 
 Plh_25 { *Cay grabs the treat and wolfs it down. He then makes a face, as though he knew what was expected of him, and runs off.* }
+
+Plh_70 { *Cay looks weak, but his life force seems to flicker back to health. You can faintly sense your spark creating a warm feeling in your stomach.* }
 

@@ -142,3 +142,51 @@ Plh_100 { You'll find Bady's tent around here, on the hill west of the Arena. Ma
 
 Plh_67 { My gut feeling is telling me that it's not quite enough. Gra isn't that great a fighter, and Bady is a hardass. We need a little more — shall we say, influence. }
 
+Plh_110 { I've now become an arena fighter... I made it! }
+
+Plh_114 { Soon, I'll be fighting in the arena. Would you... assist me with that? }
+
+Plh_111 { Get lost. Thanks to you, I've lost my bet. }
+
+Plh_112 { You can win big there. Let me know, should you ever need... assistance. Should a fight not go your way, I might be able to fix it... if you catch my drift. }
+
+Plh_118 { Only if you've got the coins, of course. }
+
+Plh_113 { You're one of us, after all. Good thing you chose Boris. This way, I can take something off the price. *smirks* }
+
+Plh_115 { Sure thing... assuming you help more coins find their way into my pockets. }
+
+Plh_117 { Since you're one of us, let's say $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationBorisTeam$ coins. This will make for a much easier fight. *smirks* }
+
+Plh_119 { Here are the coins. (hand over $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationBorisTeam$ coins) }
+
+Plh_116 { $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulation$ coins. This will make for a much easier fight. *smirks* }
+
+Plh_121 { Here are the coins. (hand over $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulation$ coins) }
+
+Plh_125 { Since you're one of us, let's say $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationLiandraBorisTeam$ coins. This will make for a much easier fight. *smirks* }
+
+Plh_126 { Here are the coins. (hand over $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationLiandraBorisTeam$ coins) }
+
+Plh_128 { $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationLiandra$ coins. This will make for a much easier fight. *smirks* }
+
+Plh_127 { Here are the coins. (hand over $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationLiandra$ coins) }
+
+Plh_129 { Since you're one of us, let's say $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationDieDunkleBorisTeam$ coins. This will make for a much easier fight. *smirks* }
+
+Plh_131 { Here are the coins. (hand over $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationDieDunkleBorisTeam$ coins) }
+
+Plh_130 { $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationDieDunkle$ coins. This will make for a much easier fight. *smirks* }
+
+Plh_132 { Here are the coins. (hand over $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationDieDunkle$ coins) }
+
+Plh_133 { Since you're one of us, let's say $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationAdaBorisTeam$ coins. This will make for a much easier fight. *smirks* }
+
+Plh_135 { Here are the coins. (hand over $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationAdaBorisTeam$ coins) }
+
+Plh_134 { $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationAda$ coins. This will make for a much easier fight. *smirks* }
+
+Plh_136 { Here are the coins. (hand over $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationAda$ coins) }
+
+Plh_124 { I saw your battle. Well fought! *smirks* You can always count on me! }
+

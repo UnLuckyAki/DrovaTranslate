@@ -1,6 +1,6 @@
 Achievement_ImmersiveMod_name { Iron }
 
-Achievement_ImmersiveMod_desc { Finish the game with the save mode set to Iron. }
+Achievement_ImmersiveMod_desc { Finish Drova with the save mode set to "Iron." }
 
 Achievement_CengizWoodcampQuest_name { A Nice Beginning }
 
@@ -32,7 +32,7 @@ Achievement_CaughtBoar_desc { Defeat the Mighty Boar. }
 
 Achievement_GotYourRunestone_name { Only with the Rune }
 
-Achievement_GotYourRunestone_desc { Receive your Rune Stone. }
+Achievement_GotYourRunestone_desc { Receive your runestone. }
 
 Achievement_CompletedLibrary_name { Bookworm }
 
@@ -54,7 +54,7 @@ Achievement_FirstDeath_name { Welcome to Drova }
 
 Achievement_FirstDeath_desc { Bite the dust for the first time. }
 
-Achievement_FirstArenaFight_name { Am I not Entertaining You? }
+Achievement_FirstArenaFight_name { Am I Not Entertaining You? }
 
 Achievement_FirstArenaFight_desc { Win your first battle in the arena. }
 
@@ -66,7 +66,7 @@ Achievement_BloodborneAchievement_name { Beware of the Old Blood }
 
 Achievement_BloodborneAchievement_desc { A hunter must hunt. }
 
-Achievement_BertineRevenge_name { An Eye for an Eye, a Tooth for a Tooth }
+Achievement_BertineRevenge_name { An Eye for an Eye, a Tooth for a Tooth. }
 
 Achievement_BertineRevenge_desc { Help Bertine exact her final vengeance. }
 
@@ -88,7 +88,7 @@ Achievement_LastManStandingFeuertaufe_desc { Be the last person standing after E
 
 Achievement_CompletedBrutusMine_name { Freedom! }
 
-Achievement_CompletedBrutusMine_desc { Free the prisoners. }
+Achievement_CompletedBrutusMine_desc { Free the prisoners in the Pit. }
 
 Achievement_KilledRipperWoodcampAct1_name { The Right Hand of Cengiz }
 
@@ -126,7 +126,7 @@ Achievement_UndertookJourneyToRoots_name { One with the Forest Primeval }
 
 Achievement_UndertookJourneyToRoots_desc { Embark on the journey to the roots of the Mother. }
 
-Achievement_FedMikesch10Fish_name { Mikesch the Devourer }
+Achievement_FedMikesch10Fish_name { Mikesch The Devourer }
 
 Achievement_FedMikesch10Fish_desc { Feed 10 fish to Mikesch. }
 
@@ -188,12 +188,17 @@ Achievement_AllAchievements_desc { Get all Achievements. }
 
 Achievement_ExplorerMode_name { Explorer }
 
-Achievement_ExplorerMode_desc { Finish Drova in Explorer Mode. }
+Achievement_ExplorerMode_desc { Finish Drova in Explorer mode. }
 
 Achievement_HardcoreMode_name { Hardcore }
 
-Achievement_HardcoreMode_desc { Finish the game with the save mode set to Hardcore. }
+Achievement_HardcoreMode_desc { Finish Drova with the save mode set to "Hardcore." }
 
 Achievement_ClassicMode_name { Classic }
 
-Achievement_ClassicMode_desc { Finish Drova in Classic Mode. }
+Achievement_ClassicMode_desc { Finish Drova in Classic mode. }
+
+Achievement_InsaneMode_name { Insane }
+
+Achievement_InsaneMode_desc { Finish Drova in "Insane" mode. Does not count towards basic achievements. }
+

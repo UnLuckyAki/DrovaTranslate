@@ -828,7 +828,7 @@ Plh_1099 { Let me just quickly extinguish the rest of the embers, then I'll be r
 
 Plh_941 { Come on, get your butts out of bed and saddle up. We've got to get a move on! }
 
-Plh_942 { If you oversleep again, we're going to have a serious talk. From advocat to newbie. }
+Plh_942 { If you oversleep again, we're going to have a serious talk. From advocate to newbie. }
 
 Plh_943 { Figures that one of Boris's guys would oversleep. }
 
@@ -914,7 +914,7 @@ Plh_692 { Is it really a good idea to confront a Divinity? }
 
 Plh_682 { You catch on quick. }
 
-Plh_684 { Farlan, Darwin, and Lindon are coming along too. They're already set. I hope you're truly suited for this expedition. Once we set off, we aren't coming back until the mission's objective is accomplished. }
+Plh_684 { Farlan, Darwin, and Lindon are coming along too. They're already set. I hope you're truly suited for this expedition. Once we set off, we aren't coming back until the mission's objective has been completed. }
 
 Plh_683 { Your choice. Do what I say without asking questions, or be on your own. You can gripe about it all you like — but you'll actually make it back alive. }
 
@@ -1028,7 +1028,7 @@ Plh_771 { It's as if we ourselves possessed the aura of a Divinity! }
 
 Plh_772 { But I don't feel at all divine... }
 
-Plh_773 { Not too shabby, $GVAR:EVars_Player.PlayerNickNameRuinenlager$. Not too shabby. }
+Plh_773 { Not too shabby, $GVAR:EVars_Player.Name$. Not too shabby. }
 
 Plh_774 { Lindon's right. That aside, we should go through as quickly as possible. Come on, let's move on. }
 
@@ -1349,4 +1349,6 @@ Plh_1160 { I'll have to prepare myself. }
 Plh_1161 { There's no turning back now. Are you ready? }
 
 Plh_1162 { Hurry up and join me once you're ready. }
+
+Plh_1163 { Farlan was really keen on you. You must have made a truly lasting impression on him. }
 

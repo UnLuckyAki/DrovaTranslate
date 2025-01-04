@@ -102,4 +102,61 @@ Plh_46 { I scratch your back, you scratch mine. We're even now. }
 
 Plh_69 { Then you won't need my help anymore. I'll set out soon as well. I'll see you in Nemeton! }
 
-Plh_70 { I don't want to have anything to do with bullies. }
+Plh_70 { I don't want anything to do with ruffians. }
+
+Plh_104 { Sure thing! Where would you like to go? }
+
+Plh_105 { Sure! I'll give you a lift for $GVAR:QuestVars_FastTravel_Config.Costs$ coins! }
+
+Plh_106 { Here are the coins. }
+
+Plh_109 { I've changed my mind. }
+
+Plh_77 { Teigen! There you are! At last! What happened? }
+
+Plh_78 { I was out and about with Peter. We wanted to take something to the cave. And then there were these nasty froglets. They got him bad. I was barely able to get away myself. }
+
+Plh_79 { Froglets, bandits... tell you what — I'm out. Have fun dealing with this crap without me. I'm not about to risk my life for a couple of coins. }
+
+Plh_80 { Aww, come on, Teigen... there's so few of us. You can't just leave us in the lurch like that. }
+
+Plh_81 { I'm out. }
+
+Plh_82 { Well, then the three of us will need to continue on our own. }
+
+Plh_83 { But Teigen is right about one thing: The bandits are trouble. }
+
+Plh_84 { Between Nemeton and Olaf's tavern, people are constantly getting mugged. In other places, too, but right now it's particularly bad there. }
+
+Plh_85 { We'll venture out with our carts, but only once it's less dangerous out there. A lot less. }
+
+Plh_86 { I could take a look. }
+
+Plh_90 { Once the bandits are gone, we can set out again. It'd be really helpful if someone took care of them. }
+
+Plh_87 { But be careful. Lately, people have frequently been disappearing in the moor. Without a trace. Who knows what the bandits are doing to them... }
+
+Plh_88 { We'll pack our things and venture out. }
+
+Plh_89 { Thanks for helping us. Once we've spread out across Drova, we'll repay your kindness. }
+
+Plh_73 { On the moor, I was ambushed by froglets. Lost some of my stuff. Ah, well, I'm here now. What's your situation? }
+
+Plh_74 { Ugh... you... you're right... *relaxes somewhat* }
+
+Plh_75 { The main thing is, you've gotten here in one piece. We're still waiting for Teigen, anyway. Henrike is waiting outside Nemeton. }
+
+Plh_76 { All right, let's see what I can hawk here. }
+
+Plh_115 { Ah, a new face! I'm Lobo, traveling merchant and, as such, well-traveled throughout all of Drova. }
+
+Plh_98 { Ah, good to see you. We're on the road again. Let us know if you need a lift. You don't even have to pay. You'll get a free ride from us. }
+
+Plh_71 { Lobo! There you are! By the Divinities! I thought you'd never make it! You how much I hate waiting! }
+
+Plh_72 { Erwin! Nice to see you too — in spite of your rude greeting. }
+
+Plh_116 { We'll pack our things and head out again. }
+
+Plh_117 { Before we can leave, we'll need to pack our things. In the meantime, feel free to browse my wares — since you were so kind to help us. *smiles* }
+
