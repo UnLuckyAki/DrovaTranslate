@@ -130,8 +130,29 @@ PlayerSaysTheyDontHaveMoney { У меня недостаточно монет...
 
 PlayCatch { Хочешь сыграть в салочки? }
 
-OnlyNemetonTeaching { Я буду учить только бойцов Неметона. }
+OnlyNemetonTeaching { Я обучаю только бойцов Неметона. }
 
-Teach_Axe { Можешь показать мне, как более грамотно сражаться с топором? }
+Teach_Axe { Можешь научить меня лучше владеть топором? }
 
-HaveRostmoos { У меня с собой Ржавый мох. Интересует? }
+HaveRostmoos { У меня есть ржавый мох. Тебе нужно? }
+
+FastTravel { Можешь подвезти меня? }
+
+FastTravel_Ruinenlager { Отвези меня в лагерь Отступников. }
+
+FastTravel_Nemeton { Отвези меня в Неметон. }
+
+FastTravel_Tavern { Отвези меня в таверну. }
+
+FastTravel_Georgsfarm { Отвези меня на ферму Георга. }
+
+FastTravel_Accepted { Хорошо, просто залезай в телегу. Мы скоро отправимся. }
+
+FastTravel_Rejected { Ты знаешь, где меня найти... если передумаешь. }
+
+FastTravel_IntroChapter2_01 { Если не хочешь бродить в одиночестве, можешь прокатиться со мной в моей телеге. }
+
+FastTravel_IntroChapter2_02 { Это обойдётся тебе всего в $GVAR:QuestVars_FastTravel_Config.Costs$ монет. }
+
+FastTravel_GerogsFarm { Мы наняли нового работника, так что теперь путешествуем и на ферму Георга. }
+

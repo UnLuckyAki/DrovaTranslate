@@ -118,11 +118,11 @@ action_Quickbar_4 { Быстрый доступ 4 }
 
 action_QuickslotAssignment { Назначить в быстрый доступ }
 
-action_DeleteQuickbarItem { Отчистить Быстрый доступ }
+action_DeleteQuickbarItem { Очистить Быстрый доступ }
 
-action_PrevPanel { Проршлая вкладка }
+action_PrevPanel { Прошлая категория }
 
-action_NextPanel { Следующая вкладка }
+action_NextPanel { Следующая категория }
 
 action_Lockpick_Left { Миниигра: влево }
 
@@ -130,13 +130,13 @@ action_Lockpick_Right { Миниигра: вправо }
 
 action_GuiScrollY { Прокрутка Интерфейса }
 
-action_PlayNote_1 { Заметка 1 }
+action_PlayNote_1 { Нота Лиры 1 }
 
-action_PlayNote_2 { Заметка 2 }
+action_PlayNote_2 { Нота Лиры 2 }
 
-action_PlayNote_3 { Заметка 3 }
+action_PlayNote_3 { Нота Лиры 3 }
 
-action_PlayNote_4 { Заметка 4 }
+action_PlayNote_4 { Нота Лиры 4 }
 
 action_MoveX { Двигаться }
 
@@ -152,11 +152,47 @@ action_Abilities { Способности }
 
 action_Squat { Присесть }
 
-action_DialogSkip { Пропустить диалог }
+action_DialogSkip { Продолжить диалог }
 
 action_CraftingMenu { Ремесло }
 
 action_ToggleGarbageVisibility { Отображать мусор да/нет }
 
-action_UIDelete { Удалить }
+action_UIDelete { Закрыть графический интерфейс }
+
+action_CamZoom { Переключить масштаб }
+
+action_toggleCraftables { Переключить: Отображать только доступные для создания рецепты }
+
+dialogoption_1 { Вариант диалога 1 }
+
+dialogoption_2 { Вариант диалога 2 }
+
+dialogoption_3 { Вариант диалога 3 }
+
+dialogoption_4 { Вариант диалога 4 }
+
+dialogoption_5 { Вариант диалога 5 }
+
+dialogoption_6 { Вариант диалога 6 }
+
+leftcontrol { LCtrl }
+
+leftalt { LAlt }
+
+leftshift { LShift }
+
+rightcontrol { RCtrl }
+
+rightalt { RAlt }
+
+rightshift { RShift }
+
+action_uiSubmit { Применить графический интерфейс }
+
+action_minigameSubmit { Minigame Action }
+
+action_PrevNavigation { Прошлая вкладка }
+
+action_NextNavigation { Следующая вкладка }
 
