@@ -22,7 +22,7 @@ item_meat_raw_name { Сочное мясо }
 
 item_meat_raw_description { Все еще сырое. Не пригодно для употребления в пищу. }
 
-item_farmersFood_name { Фермерский обед }
+item_farmersFood_name { Фермерское Рагу }
 
 item_bogIron_name { Болотное железо }
 
@@ -1372,7 +1372,7 @@ recipe_elixier_spirit_name { Рецепт: Эликсир Разума }
 
 recipe_elixier_strength_name { Рецепт: Эликсир Силы }
 
-recipe_farmersmeal_name { Рецепт: Обед Фермера }
+recipe_farmersmeal_name { Рецепт: Фермерское Рагу }
 
 recipe_fishpan_name { Рецепт: Жареная Рыбка }
 
@@ -1990,7 +1990,7 @@ item_Map_Treasure_Forest_name { Сокровище: Хвойный Лес }
 
 item_Map_Treasure_Garden_name { Сокровище: Руины }
 
-item_Map_Treasure_GeorgsFarm_name { Сокровище: Джорджфарм }
+item_Map_Treasure_GeorgsFarm_name { Сокровище: Ферма Георга }
 
 item_Map_Treasure_Heath_name { Сокровище: Пустошь }
 
