@@ -582,7 +582,7 @@ item_rubble_name { Щебень }
 
 Note_BanditMine_name { Реликвия Прошлого }
 
-item_spiritVessel_greatTusk_name { Сосуд Луха }
+item_spiritVessel_greatTusk_name { Сосуд Духа }
 
 item_atlanterRune_name { Странная Руна }
 
@@ -1512,13 +1512,13 @@ armor_chest_druid_atlanter_name { Руническое Одеяние Проше
 
 armor_chest_druid_atlanter_description { Вновь выкованные, древние доспехи. Один только вид говорит об их могуществе. }
 
-item_letter_library_0_name { История рунной магии I }
+item_letter_library_0_name { История магии рун I }
 
-item_letter_library_1_name { История рунной магии II }
+item_letter_library_1_name { История магии рун II }
 
-item_letter_library_2_name { История рунной магии III }
+item_letter_library_2_name { История магии рун III }
 
-item_letter_library_3_name { История рунной магии IV }
+item_letter_library_3_name { История магии рун IV }
 
 item_letter_library_circleRoom_note1_name { Круг Телепортации }
 
