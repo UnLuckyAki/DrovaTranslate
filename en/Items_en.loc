@@ -528,7 +528,7 @@ misc_riddle_sundial_name { Ram Figurine }
 
 misc_riddle_mirror_name { Mirror }
 
-misc_riddle_incense_name { Thurible }
+misc_riddle_incense_name { Incense Burner }
 
 misc_riddle_horn_name { Horn }
 
@@ -1304,7 +1304,7 @@ recipe_flow_conflagration_name { Spell: Blaze }
 
 recipe_flow_dash_name { Ability: Dash }
 
-recipe_flow_energyProjectile_name { Spell: Energy Bolt }
+recipe_flow_energyProjectile_name { Spell: Magic Missile }
 
 recipe_flow_execute_name { Ability: Blood Frenzy }
 
@@ -2020,7 +2020,7 @@ item_ironore_description { Needs to be refined at a bloomery. }
 
 item_trinket_pureDmg_name { Tinkerer's Revenge }
 
-item_trinket_pureDmg_description { Increases damage inflicted by traps and throwables by 100%. }
+item_trinket_pureDmg_description { Increases damage inflicted by traps and throwables by [DamageValuePercent]. }
 
 item_VoragoFragment_0_name { Fragment of an Emblem }
 
