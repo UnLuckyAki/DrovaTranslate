@@ -386,7 +386,7 @@ Plh_152 { *calls out* Tonight $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Nam
 
 Plh_275 { Today you'll fight. Be ready. }
 
-Plh_125 { If you want to bet: I accept wagers at my house. Nowhere else. }
+Plh_125 { I accept wagers only at the arena entrance. Nowhere else! }
 
 Plh_255 { Your wager has paid off. Here are your $GVAR:DAS_ArenaSystem.MainFight_BetAmountRewardForPlayer$ coins. }
 

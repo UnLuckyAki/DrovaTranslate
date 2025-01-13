@@ -56,5 +56,5 @@ totalFIghtingStrength { Prowess }
 
 baseFightingStrength { Base Prowess }
 
-baseFightingStrengthDesc { Base Fighting Capacity is the sum of your attribute scores without additional bonuses through equipment. It also serves as prerequisite for certain talents. }
+baseFightingStrengthDesc { Base prowess is the sum of your attribute scores without additional bonuses through equipment. It also serves as prerequisite for certain talents. }
 

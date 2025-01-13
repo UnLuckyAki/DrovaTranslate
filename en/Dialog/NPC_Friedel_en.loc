@@ -12,7 +12,7 @@ Plh_27 { Just a few. }
 
 Plh_28 { Actually, I don't need any coins at the moment. }
 
-Plh_58 { Then hand over the get$GVAR:QuestVars_Debt_Config.HighAmountWithInterest$ coins. }
+Plh_58 { Then hand over the $GVAR:QuestVars_Debt_Config.HighAmountWithInterest$ coins. }
 
 Plh_98 { That many?! }
 

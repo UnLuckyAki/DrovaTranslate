@@ -24,7 +24,7 @@ Plh_201 { The Mighty Boar was too strong for him. Can't be helped. }
 
 Plh_202 { I've heard your name before. From Levin. You're new around here and already joined an expedition? Unusual. But that says something about you. }
 
-Plh_203 { It was really a fluke. $GVAR:EVars_Player.Name$ knew how to navigate through the Blackflame. That's the only way we even made it to the Mighty Boar. }
+Plh_203 { Yeah, we made an exception. $GVAR:EVars_Player.Name$ knew how to navigate through the Blackflame. That's the only way we even made it to the Mighty Boar. }
 
 Plh_204 { The Blackflame that demanded so many lives? You know a path through it? You're truly in the right place at the right time. }
 
