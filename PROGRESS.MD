@@ -1,478 +1,478 @@
 ## Прогресс
 
-| Файл                           | Статус              |
-|--------------------------------|---------------------|
-| Dialog/Corpses/Aldo_ru.loc              | ✅    |
-| Dialog/Corpses/Anselm_ru.loc            | ✅    |
-| Dialog/Corpses/Baldo_ru.loc             | ✅    |
-| Dialog/Corpses/CityDungeon_0_ru.loc     | ✅    |
-| Dialog/Corpses/Cobweb_Wall_ru.loc       | ✅     |
-| Dialog/Corpses/Fleur_ru.loc              | ✅    |
-| Dialog/Corpses/Generic_ru.loc            | ✅    |
-| Dialog/Footprint/HumanFight_ru.loc       | ✅    |
-| Dialog/Objects/Armorstand_Bady_ru.loc    | ✅    |
-| Dialog/Perceptible/NPC_Farlan_Corpse_ru.loc        | ✅    |
-| Dialog/Perceptible/Perceptible_Generic_ru.loc       | ✅    |
-| Dialog/Perceptible/Signpost_Generic_ru.loc           | ✅    |
-| Dialog/Perceptible/Vorago_Lightning_ru.loc           | ✅    |
-| Dialog/Alraune_ru.loc | ✅    |
-| Dialog/AuwaldDungeonFaction_ru.loc | ✅    |
-| Dialog/Beard_Red_ru.loc | ✅    |
-| Dialog/BlaanKarimBattleBuddies_ru.loc | ✅    |
-| Dialog/BluePoo_ru.loc | ✅    |
-| Dialog/BlueVomit_ru.loc | ✅    |
-| Dialog/BrokenPlant_ru.loc | ✅    |
-| Dialog/BrokenSheepFence_ru.loc | ✅    |
-| Dialog/BrutusMineDays_ru.loc | ✅    |
-| Dialog/BrutusMineWorldDialog_ru.loc | ✅    |
-| Dialog/Canary_ru.loc | ✅    |
-| Dialog/Corpses_ru.loc | ✅    |
-| Dialog/Frog_Friendly_ru.loc | ✅    |
-| Dialog/GenericSheep_ru.loc | ✅    |
-| Dialog/GrowthEnhancer_ru.loc | ✅    |
-| Dialog/HauerWorldDialogs_ru.loc | ✅    |
-| Dialog/Lever_Generic_ru.loc | ✅    |
-| Dialog/MadWoman_ru.loc | ✅    |
-| Dialog/MusicMachine_ru.loc | ✅    |
-| Dialog/MysteriousLantern_ru.loc | ✅    |
-| Dialog/NPC_Adalgis_ru.loc | ✅    |
-| Dialog/NPC_Ada_ru.loc | ✅    |
-| Dialog/NPC_Adela_ru.loc | ✅    |
-| Dialog/NPC_Adwin_ru.loc | ✅    |
-| Dialog/NPC_Afrin_ru.loc | ✅    |
-| Dialog/NPC_Agilo_ru.loc | ✅    |
-| Dialog/NPC_Agnessa_ru.loc | ✅    |
-| Dialog/NPC_Aidan_ru.loc | ✅    |
-| Dialog/NPC_Aiko_ru.loc | ✅    |
-| Dialog/NPC_Albrecht_ru.loc | ✅    |
-| Dialog/NPC_Aldrik_ru.loc | ✅    |
-| Dialog/NPC_Aleka_ru.loc | ✅    |
-| Dialog/NPC_Almar_ru.loc | ✅    |
-| Dialog/NPC_Amella_ru.loc | ✅    |
-| Dialog/NPC_Andarta_ru.loc | ✅    |
-| Dialog/NPC_Andrick_ru.loc | ✅    |
-| Dialog/NPC_Angus_ru.loc | ✅    |
-| Dialog/NPC_Asmus_ru.loc | ✅    |
-| Dialog/NPC_Augis_ru.loc | ✅    |
-| Dialog/NPC_Babsi_ru.loc | ✅    |
-| Dialog/NPC_Bady_ru.loc | ✅    |
-| Dialog/NPC_Baldo_ru.loc | ✅    |
-| Dialog/NPC_Baltus_ru.loc | На переводе    |
-| Dialog/NPC_BanditBridge1_ru.loc | ✅    |
-| Dialog/NPC_BanditBridge2_ru.loc | ✅    |
-| Dialog/NPC_Banner_ru.loc | ✅    |
-| Dialog/NPC_Bardok_ru.loc | ✅    |
-| Dialog/NPC_Berni_ru.loc | На переводе    |
-| Dialog/NPC_Bernold_ru.loc | ✅    |
-| Dialog/NPC_Bertine_ru.loc | ✅    |
-| Dialog/NPC_Birka_ru.loc | ✅    |
-| Dialog/NPC_Blaan_ru.loc | ✅    |
-| Dialog/NPC_Blanda_ru.loc | ✅    |
-| Dialog/NPC_Bombus_ru.loc | ✅    |
-| Dialog/NPC_Bonny_ru.loc | ✅    |
-| Dialog/NPC_BorisBandit_A_ru.loc | ✅    |
-| Dialog/NPC_BorisBandit_B_01_ru.loc | ✅    |
-| Dialog/NPC_BorisBandit_C_01_ru.loc | ✅    |
-| Dialog/NPC_Boris_ru.loc | ✅    |
-| Dialog/NPC_Bruna_ru.loc | Машинный перевод    |
-| Dialog/NPC_Caspara_ru.loc | ✅    |
-| Dialog/NPC_Cengiz_ru.loc | ✅    |
-| Dialog/NPC_Chunnaic_ru.loc | ✅    |
-| Dialog/NPC_Conor_ru.loc | ✅    |
-| Dialog/NPC_Cord_ru.loc | ✅    |
-| Dialog/NPC_Cuna_ru.loc | ✅    |
-| Dialog/NPC_Dalin_ru.loc | ✅    |
-| Dialog/NPC_Dark_ru.loc | ✅    |
-| Dialog/NPC_Darwin_ru.loc | Машинный перевод    |
-| Dialog/NPC_Delani_ru.loc | Машинный перевод    |
-| Dialog/NPC_Der Ripper_ru.loc | ✅    |
-| Dialog/NPC_Diemo_ru.loc | ✅    |
-| Dialog/NPC_Doro_ru.loc | ✅    |
-| Dialog/NPC_Drax_ru.loc | ✅    |
-| Dialog/NPC_Dunja_ru.loc | ✅    |
-| Dialog/NPC_Dylan_ru.loc | ✅    |
-| Dialog/NPC_Ebru_ru.loc | ✅    |
-| Dialog/NPC_Ede_ru.loc | ✅    |
-| Dialog/NPC_Elgar_ru.loc | ✅    |
-| Dialog/NPC_Ella_ru.loc | ✅    |
-| Dialog/NPC_Elnea_ru.loc | ✅    |
-| Dialog/NPC_Emko_ru.loc | ✅    |
-| Dialog/NPC_Emre_ru.loc | ✅    |
-| Dialog/NPC_Enya_ru.loc | ✅    |
-| Dialog/NPC_Eoin_ru.loc | ✅    |
-| Dialog/NPC_Esdert_ru.loc | ✅    |
-| Dialog/NPC_Ester_ru.loc | Машинный перевод    |
-| Dialog/NPC_Etzel_ru.loc | ✅    |
-| Dialog/NPC_Eugen_ru.loc | ✅    |
-| Dialog/NPC_Evi_ru.loc | ✅    |
-| Dialog/NPC_Faol_ru.loc | Машинный перевод    |
-| Dialog/NPC_Farina_ru.loc | ✅    |
-| Dialog/NPC_Farlan_ru.loc | Машинный перевод    |
-| Dialog/NPC_Farona_ru.loc | ✅    |
-| Dialog/NPC_Fawini_Bodyguard_ru.loc | ✅    |
-| Dialog/NPC_Fawini_ru.loc | ✅    |
-| Dialog/NPC_Femke_ru.loc | ✅    |
-| Dialog/NPC_Fester_ru.loc | ✅    |
-| Dialog/NPC_Fia_ru.loc | ✅    |
-| Dialog/NPC_Finlay_ru.loc | ✅    |
-| Dialog/NPC_Florin_ru.loc | ✅    |
-| Dialog/NPC_Flunka_ru.loc | ✅    |
-| Dialog/NPC_Friedel_ru.loc | Машинный перевод    |
-| Dialog/NPC_Frithjof_ru.loc | ✅    |
-| Dialog/NPC_Fulk_ru.loc | Машинный перевод    |
-| Dialog/NPC_Fygen_ru.loc | ✅    |
-| Dialog/NPC_Gawan_ru.loc | Машинный перевод    |
-| Dialog/NPC_Geli_ru.loc | ✅    |
-| Dialog/NPC_Georg_ru.loc | Машинный перевод    |
-| Dialog/NPC_Gera_ru.loc | Машинный перевод    |
-| Dialog/NPC_Gerdwin_ru.loc | Машинный перевод    |
-| Dialog/NPC_Gerion_ru.loc | ✅    |
-| Dialog/NPC_Gero_ru.loc | Машинный перевод    |
-| Dialog/NPC_Gilwar_ru.loc | ✅    |
-| Dialog/NPC_Gradan_ru.loc | ✅    |
-| Dialog/NPC_Gra_ru.loc | ✅    |
-| Dialog/NPC_Grit_ru.loc | ✅    |
-| Dialog/NPC_Hadewin_ru.loc | Машинный перевод    |
-| Dialog/NPC_Hailey_ru.loc | ✅    |
-| Dialog/NPC_Hajo_ru.loc | ✅    |
-| Dialog/NPC_Harald_ru.loc | ✅    |
-| Dialog/NPC_Harvey_ru.loc | Машинный перевод    |
-| Dialog/NPC_Hasso_ru.loc | Машинный перевод    |
-| Dialog/NPC_Helma_ru.loc | Машинный перевод    |
-| Dialog/NPC_Henik_ru.loc | Машинный перевод    |
-| Dialog/NPC_Humbert_ru.loc | Машинный перевод    |
-| Dialog/NPC_Ida_ru.loc | ✅    |
-| Dialog/NPC_Idefix_ru.loc | ✅    |
-| Dialog/NPC_IdleGuy_ru.loc | ✅    |
-| Dialog/NPC_Inja_ru.loc | ✅    |
-| Dialog/NPC_Irmina_ru.loc | ✅    |
-| Dialog/NPC_Ismar_ru.loc | ✅    |
-| Dialog/NPC_Ivera_ru.loc | ✅    |
-| Dialog/NPC_Jalina_ru.loc | ✅    |
-| Dialog/NPC_Jarmon_ru.loc | ✅    |
-| Dialog/NPC_Jean_ru.loc | ✅    |
-| Dialog/NPC_Jendra_ru.loc | Машинный перевод    |
-| Dialog/NPC_Jendrik_ru.loc | ✅    |
-| Dialog/NPC_Jennifer_ru.loc | ✅    |
-| Dialog/NPC_Jero_ru.loc | Машинный перевод    |
-| Dialog/NPC_Jerzy_ru.loc | ✅    |
-| Dialog/NPC_Jesko_ru.loc | ✅    |
-| Dialog/NPC_Jimmy_ru.loc | ✅    |
-| Dialog/NPC_Jola_ru.loc | Машинный перевод    |
-| Dialog/NPC_Joris_ru.loc | ✅    |
-| Dialog/NPC_Josi_ru.loc | ✅    |
-| Dialog/NPC_Junali_ru.loc | ✅    |
-| Dialog/NPC_Jurek_ru.loc | ✅    |
-| Dialog/NPC_Juri_ru.loc | ✅    |
-| Dialog/NPC_Kara_ru.loc | ✅    |
-| Dialog/NPC_Karim_ru.loc | ✅    |
-| Dialog/NPC_Karmi_ru.loc | ✅    |
-| Dialog/NPC_Karotte_ru.loc | Машинный перевод    |
-| Dialog/NPC_Kati_ru.loc | ✅    |
-| Dialog/NPC_Katsa_ru.loc | ✅    |
-| Dialog/NPC_Kellan_ru.loc | ✅    |
-| Dialog/NPC_Kendrick_ru.loc | ✅    |
-| Dialog/NPC_Kerr_ru.loc | ✅    |
-| Dialog/NPC_Kessia_ru.loc | ✅    |
-| Dialog/NPC_Kilian_ru.loc | Машинный перевод    |
-| Dialog/NPC_Kolina_ru.loc | ✅    |
-| Dialog/NPC_Kora_ru.loc | ✅    |
-| Dialog/NPC_Lanzo_ru.loc | ✅    |
-| Dialog/NPC_Larea_ru.loc | ✅    |
-| Dialog/NPC_Laric_ru.loc | Машинный перевод    |
-| Dialog/NPC_Laudine_ru.loc | Машинный перевод    |
-| Dialog/NPC_Laurin_ru.loc | Машинный перевод    |
-| Dialog/NPC_Leru_ru.loc | Машинный перевод    |
-| Dialog/NPC_Levin_ru.loc | Машинный перевод    |
-| Dialog/NPC_Leyna_ru.loc | Машинный перевод    |
-| Dialog/NPC_Liandra_ru.loc | Машинный перевод    |
-| Dialog/NPC_Lindon_ru.loc | Машинный перевод    |
-| Dialog/NPC_Lio_ru.loc | Машинный перевод    |
-| Dialog/NPC_Lobo_ru.loc | Машинный перевод    |
-| Dialog/NPC_Locke_ru.loc | Машинный перевод    |
-| Dialog/NPC_Lore_ru.loc | Машинный перевод    |
-| Dialog/NPC_Lothar_ru.loc | Машинный перевод    |
-| Dialog/NPC_Lukan_ru.loc | Машинный перевод    |
-| Dialog/NPC_Luten_ru.loc | Машинный перевод    |
-| Dialog/NPC_Mairin_ru.loc | Машинный перевод    |
-| Dialog/NPC_Mali_ru.loc | Машинный перевод    |
-| Dialog/NPC_Manes_ru.loc | Машинный перевод    |
-| Dialog/NPC_Mareno_ru.loc | Машинный перевод    |
-| Dialog/NPC_Margitte_ru.loc | Машинный перевод    |
-| Dialog/NPC_Marten_ru.loc | Машинный перевод    |
-| Dialog/NPC_Melf_ru.loc | Машинный перевод    |
-| Dialog/NPC_Meluna_ru.loc | Машинный перевод    |
-| Dialog/NPC_Merik_ru.loc | Машинный перевод    |
-| Dialog/NPC_Merlind_ru.loc | Машинный перевод    |
-| Dialog/NPC_Mikesch_ru.loc | Машинный перевод    |
-| Dialog/NPC_MiningChef_ru.loc | Машинный перевод    |
-| Dialog/NPC_Miraculix_ru.loc | Машинный перевод    |
-| Dialog/NPC_Miranda_ru.loc | Машинный перевод    |
-| Dialog/NPC_Mog_ru.loc | Машинный перевод    |
-| Dialog/NPC_Molvina_ru.loc | Машинный перевод    |
-| Dialog/NPC_Mombert_ru.loc | Машинный перевод    |
-| Dialog/NPC_Monko_ru.loc | Машинный перевод    |
-| Dialog/NPC_Morvin_ru.loc | Машинный перевод    |
-| Dialog/NPC_Mottek_ru.loc | Машинный перевод    |
-| Dialog/NPC_Muc_ru.loc | Машинный перевод    |
-| Dialog/NPC_Mumme_ru.loc | Машинный перевод    |
-| Dialog/NPC_Mursel_ru.loc | Машинный перевод    |
-| Dialog/NPC_Myrte_ru.loc | Машинный перевод    |
-| Dialog/NPC_Niala_ru.loc | Машинный перевод    |
-| Dialog/NPC_NPC_GuardRedTower_ru.loc | Машинный перевод    |
-| Dialog/NPC_Oksana_ru.loc | Машинный перевод    |
-| Dialog/NPC_Olaf_ru.loc | Машинный перевод    |
-| Dialog/NPC_Olga_ru.loc | Машинный перевод    |
-| Dialog/NPC_Oskar_ru.loc | Машинный перевод    |
-| Dialog/NPC_Owain_ru.loc | Машинный перевод    |
-| Dialog/NPC_Palina_ru.loc | Машинный перевод    |
-| Dialog/NPC_Piglet_Cay_ru.loc | ✅    |
-| Dialog/NPC_Piglet_Chris_ru.loc | ✅    |
-| Dialog/NPC_Piglet_Han_ru.loc | ✅    |
-| Dialog/NPC_Piglet_Julian_ru.loc | ✅    |
-| Dialog/NPC_Piglet_Kai_ru.loc | ✅    |
-| Dialog/NPC_Pwyll_ru.loc | ✅    |
-| Dialog/NPC_Raya_ru.loc | ✅    |
-| Dialog/NPC_Reija_ru.loc | На переводе    |
-| Dialog/NPC_Roarke_ru.loc | Машинный перевод    |
-| Dialog/NPC_Roisin_ru.loc | Машинный перевод    |
-| Dialog/NPC_Ruhan_ru.loc | Машинный перевод    |
-| Dialog/NPC_RuinenlagerGuard_ru.loc | Машинный перевод    |
-| Dialog/NPC_Rura_ru.loc | Машинный перевод    |
-| Dialog/NPC_Ruslan_ru.loc | Машинный перевод    |
-| Dialog/NPC_Sagar_ru.loc | Машинный перевод    |
-| Dialog/NPC_Sean_ru.loc | Машинный перевод    |
-| Dialog/NPC_Senga_ru.loc | Машинный перевод    |
-| Dialog/NPC_Sheep_Liesl_ru.loc | Машинный перевод    |
-| Dialog/NPC_Shona_ru.loc | Машинный перевод    |
-| Dialog/NPC_Sine_ru.loc | Машинный перевод    |
-| Dialog/NPC_Slawa_ru.loc | Машинный перевод    |
-| Dialog/NPC_Sorcha_ru.loc | Машинный перевод    |
-| Dialog/NPC_Swenn_ru.loc | Машинный перевод    |
-| Dialog/NPC_Tadhg_ru.loc | Машинный перевод    |
-| Dialog/NPC_Taron_ru.loc | Машинный перевод    |
-| Dialog/NPC_Teigen_ru.loc | Машинный перевод    |
-| Dialog/NPC_Tiaa_ru.loc | Машинный перевод    |
-| Dialog/NPC_Tristan_ru.loc | Машинный перевод    |
-| Dialog/NPC_Tuz_ru.loc | Машинный перевод    |
-| Dialog/NPC_Vik_ru.loc | Машинный перевод    |
-| Dialog/NPC_Willi_ru.loc | Машинный перевод    |
-| Dialog/NPC_Wind_ru.loc | Машинный перевод    |
-| Dialog/NPC_Zoltan_ru.loc | Машинный перевод    |
-| Dialog/Obsidian_CentralStation_ru.loc | Машинный перевод    |
-| Dialog/Poo_Liesl_ru.loc | Машинный перевод    |
-| Dialog/RuinenlagerGreetPlayerNemeton_ru.loc | Машинный перевод    |
-| Dialog/RuinenlagerHauerFinishedWork_ru.loc | Машинный перевод    |
-| Dialog/RuinenlagerWorldDialog_ru.loc | Машинный перевод    |
-| Dialog/Ruinenlager_Guards_ru.loc | ✅    |
-| Dialog/SheepPost_Liesl_ru.loc | ✅    |
-| Dialog/SheepTrace_ru.loc | ✅    |
-| Dialog/SheepWool_ru.loc | ✅    |
-| Dialog/Table_Brutus_ru.loc | ✅    |
-| Dialog/Teaching_ru.loc | ✅    |
-| Dialogue/Critter_Cats_ru.loc           | ✅    |
-| Dialogue/Critter_Dogs_ru.loc           | ✅    |
-| Dialogue/RedTowerPedestral_ru.loc     | ✅    |
-| Dialogues/BanditExpedition_ru.loc            | ✅    |
-| Dialogues/BanditRuins_ru.loc                 | ✅    |
-| Dialogues/Brutus_ru.loc                      | ✅    |
-| Dialogues/Comments_ru.loc                    | ✅    |
-| Dialogues/CrimesAftermath_ru.loc             | ✅    |
-| Dialogues/CrimesOpenReactions_ru.loc         | ✅    |
-| Dialogues/Dylara_ru.loc                      | ✅    |
-| Dialogues/Global_Busy_ru.loc                 | ✅    |
-| Dialogues/Global_GreetAndGoodbye_ru.loc      | ✅    |
-| Dialogues/Global_Insults_ru.loc              | ✅    |
-| Dialogues/Global_Perceptible_ru.loc          | ✅    |
-| Dialogues/Global_PwyllConvo_ru.loc           | ✅    |
-| Dialogues/Global_ru.loc                       | ✅    |
-| Dialogues/Mirron_ru.loc                       | ✅    |
-| Dialogues/PlayerComments_ru.loc               | ✅    |
-| Dialogues/PlayerThoughts_ru.loc               | ✅    |
-| Dialogues/Sleep_ru.loc                        | ✅    |
-| Dialogues/Tests_ru.loc                        | ✅    |
-| Dialogues/WorldDialogueGreatTusk_ru.loc      | ✅    |
-| Dialogues/WorldDialogue_ru.loc                | ✅    |
-| GUI/AbilityMenu_ru.loc          | ✅                  |
-| GUI/ChapterProgress_ru.loc      | ✅                  |
-| GUI/CharacterCreation_ru.loc     | ✅                  |
-| GUI/Fishing_ru.loc              | ✅    |
-| GUI/GameOver_ru.loc             | ✅                  |
-| GUI/Generic_ru.loc              | ✅    |
-| GUI/Input_ru.loc                | ✅                  |
-| GUI/Journal_ru.loc              | ✅    |
-| GUI/Learn_ru.loc                | ✅    |
-| GUI/LoadingScreens_ru.loc       | ✅    |
-| GUI/Lockpick_ru.loc             | ✅    |
-| GUI/LootMenu_ru.loc             | ✅    |
-| GUI/MainMenu_ru.loc             | ✅    |
-| GUI/Map_ru.loc                  | ✅    |
-| GUI/MenuShortcuts_ru.loc        | ✅    |
-| GUI/Merchant_ru.loc             | ✅    |
-| GUI/Mining_ru.loc               | ✅    |
-| GUI/PauseMenu_ru.loc            | ✅    |
-| GUI/PlayerInventory_ru.loc      | ✅    |
-| GUI/PlayerMenu_ru.loc           | ✅    |
-| GUI/RuneDrawing_ru.loc          | ✅    |
-| GUI/SaveMenu_ru.loc             | ✅    |
-| GUI/SleepMenu_ru.loc            | ✅    |
-| GUI/Stats_ru.loc                | ✅    |
-| GUI/TalentMenu_ru.loc           | ✅    |
-| GUI/UserReport_ru.loc           | ✅    |
-| HUD/PopUps_ru.loc                           | ✅    |
-| Journal/AlcoholForSecretReveal_ru.loc       | ✅    |
-| Journal/AlrauneForAidan_ru.loc              | ✅    |
-| Journal/AnOldRecipe_ru.loc                  | ✅    |
-| Journal/Armor_ru.loc                         | ✅    |
-| Journal/AttackWoodcamp_ru.loc                | ✅    |
-| Journal/AufnahmezeremonieRuinenlager_ru.loc | ✅    |
-| Journal/AuwaldDungeon_ru.loc                 | ✅    |
-| Journal/BanditMine_ru.loc                   | ✅    |
-| Journal/BanditsOnTheBridge_ru.loc           | ✅    |
-| Journal/BeautySleep_ru.loc                   | ✅    |
-| Journal/BertinesRevenge_ru.loc              | ✅    |
-| Journal/BetThat_ru.loc                       | ✅    |
-| Journal/BirkasNewLife_ru.loc                | ✅    |
-| Journal/BrokenTrust_ru.loc                   | ✅    |
-| Journal/Brutus_ru.loc                       | ✅    |
-| Journal/ButterfliesAllAround_ru.loc         | ✅    |
-| Journal/CityDungeon_ru.loc                  | ✅    |
-| Journal/DAS_WayToArenaMaster_ru.loc         | ✅    |
-| Journal/Debt_ru.loc                          | ✅    |
-| Journal/DeepInTheAkademie_ru.loc            | ✅    |
-| Journal/DeepInTheMine_ru.loc                | ✅    |
-| Journal/DeepInTheSwamp_ru.loc               | ✅    |
-| Journal/DoroNemetonEscort_ru.loc            | ✅    |
-| Journal/Dreams_ru.loc                        | ✅    |
-| Journal/EnteringRedTowerML_ru.loc           | ✅    |
-| Journal/EntranceToShadyDistrict_ru.loc      | ✅    |
-| Journal/EverybodyUnderstandsThat_ru.loc     | ✅    |
-| Journal/ExpeditionNemeton_ru.loc            | ✅    |
-| Journal/ExpeditionRuinenlager_ru.loc        | ✅    |
-| Journal/FavourOfCraftsmenGardeners_ru.loc   | ✅    |
-| Journal/FavourOfCraftsmenSmith_ru.loc      | ✅    |
-| Journal/FeedingTheSheep_ru.loc              | ✅    |
-| Journal/FireFestival_ru.loc                  | ✅    |
-| Journal/FishingForDunja_ru.loc              | ✅    |
-| Journal/FoodForFarmers_ru.loc               | ✅    |
-| Journal/FoodInTheMine_ru.loc                | ✅    |
-| Journal/FreedomForThePiglets_ru.loc         | ✅    |
-| Journal/FrogsAndRustmoss_ru.loc             | ✅    |
-| Journal/GettingInvolved_ru.loc              | ✅    |
-| Journal/Graffiti_ru.loc                     | ✅    |
-| Journal/HauerNemeton_ru.loc                 | ✅    |
-| Journal/HuntTheRippers_ru.loc                | ✅    |
-| Journal/INeedToWorkAgain_ru.loc             | ✅    |
-| Journal/InsideRedTower_ru.loc               | ✅    |
-| Journal/ItPaidOff_ru.loc                    | ✅    |
-| Journal/JobForBoris_ru.loc                  | ✅    |
-| Journal/JournalGeneric_ru.loc               | ✅    |
-| Journal/Journal_IronForFarmers_ru.loc       | ✅    |
-| Journal/Journal_LostShoes_ru.loc            | ✅    |
-| Journal/JourneyToTheRoots_ru.loc            | ✅    |
-| Journal/KarottesWeapon_ru.loc               | ✅    |
-| Journal/LetterToAsmus_ru.loc                | ✅    |
-| Journal/LoadCrystals_ru.loc                 | ✅    |
-| Journal/LucrativeBusiness_ru.loc            | ✅    |
-| Journal/ManpowerForTheBridge_ru.loc         | ✅    |
-| Journal/NothingIsFree_ru.loc                | ✅    |
-| Journal/OldMan_ru.loc                       | ✅    |
-| Journal/OneFaction_ru.loc                   | ✅    |
-| Journal/OnlyOneThingHelps_ru.loc           | ✅    |
-| Journal/PaperChase_ru.loc                   | ✅    |
-| Journal/PartOfTheRuinenlager_ru.loc         | ✅    |
-| Journal/Rats_ru.loc                         | ✅    |
-| Journal/ReturnOrKeepTheRing_ru.loc          | ✅    |
-| Journal/RipperAmbush_ru.loc                 | ✅    |
-| Journal/ShotsForRipper_ru.loc               | ✅    |
-| Journal/ShowMeWhatYouGot_ru.loc             | ✅    |
-| Journal/SomeoneHasToDoIt_ru.loc             | ✅    |
-| Journal/StalkerFlussbett_ru.loc             | ✅    |
-| Journal/StolenWeapons_ru.loc                | ✅    |
-| Journal/TaronsLastPiglet_ru.loc             | ✅    |
-| Journal/TheBlackhead_ru.loc                 | ✅    |
-| Journal/TheCuriousRelic_ru.loc              | ✅    |
-| Journal/TheDoppelgangers_ru.loc             | ✅    |
-| Journal/TheFallowField_ru.loc               | ✅    |
-| Journal/TheLiesOfLocke_ru.loc               | ✅    |
-| Journal/TheOutcast_ru.loc                   | ✅    |
-| Journal/ThePoorSheep_ru.loc                 | ✅    |
-| Journal/TheRenegadeFriend_ru.loc            | ✅    |
-| Journal/TheSecretPlace_ru.loc               | ✅    |
-| Journal/TheWayToTheLeuchtwald_ru.loc        | ✅    |
-| Journal/TheWayToTheMine_ru.loc              | ✅    |
-| Journal/TiaasEintopf_ru.loc                 | ✅    |
-| Journal/TraderLostItem_ru.loc               | ✅    |
-| Journal/Traps_ru.loc                        | ✅    |
-| Journal/TrustTest_ru.loc                    | ✅    |
-| Journal/VoteFromBoris_ru.loc                | ✅    |
-| Journal/VoteFromEugen_ru.loc                | ✅    |
-| Journal/WayIntoTheCraftsHouse_ru.loc        | ✅    |
-| Journal/WayToTheLibrary_ru.loc              | ✅    |
-| Journal/WoodForAdwin_ru.loc                 | ✅    |
-| Journal/WorkerWorkerWorker_ru.loc            | ✅    |
-| Journal/WorkOnFarm_ru.loc                   | ✅    |
-| Journal/YouBetterKeepMeSafe_ru.loc          | ✅    |
-| Journal/YouDoNotFitHere_ru.loc              | ✅    |
-| Journal/YourOwnRunestone_ru.loc             | ✅    |
-| Letters/Asmus_ru.loc           | ✅                  |
-| Letters/AtlanterShrine_ru.loc  | ✅                  |
-| Letters/Atlanter_ru.loc        | ✅                  |
-| Letters/AuwaldDungeon_ru.loc    | ✅                  |
-| Letters/BanditMine_ru.loc       | ✅                  |
-| Letters/Blackboard_ru.loc       | ✅                  |
-| Letters/Boris_ru.loc            | ✅                  |
-| Letters/Celts_ru.loc            | ✅                  |
-| Letters/CityDungeonNEW_ru.loc   | ✅                  |
-| Letters/CityDungeon_ru.loc      | ✅                  |
-| Letters/DebtorList_ru.loc       | ✅                  |
-| Letters/EntryMine_ru.loc        | ✅                  |
-| Letters/Etzel_ru.loc            | ✅                  |
-| Letters/InformationMine_ru.loc   | ✅                  |
-| Letters/Kendrick_ru.loc         | ✅                  |
-| Letters/Kora_ru.loc             | ✅                  |
-| Letters/Library_ru.loc          | ✅                  |
-| Letters/MehlunaToBady_ru.loc    | ✅                  |
-| Letters/Merik_ru.loc            | ✅                  |
-| Letters/Mikesch_ru.loc          | ✅                  |
-| Letters/OlafAboutBrutus_ru.loc   | ✅                  |
-| Letters/Redtower_ru.loc         | ✅                  |
-| Letters/Reija_ru.loc            | ✅                  |
-| Letters/RuinenlagerBandit_ru.loc | ✅                  |
-| Letters/Shrines_ru.loc          | ✅                  |
-| Letters/SickSister_ru.loc       | ✅                  |
-| Letters/Table_Brutus_ru.loc      | ✅                  |
-| NPC_Names/WellLadder_ru.loc    | ✅                  |
-| Achievements_ru.loc            | ✅                  |
-| AreaNames_ru.loc               | ✅                  |
-| BeehiveDialogue_ru.loc         | ✅                  |
-| BrawlReactions_ru.loc          | ✅                  |
-| Buffs_ru.loc                   | ✅                  |
-| CookingFire_ru.loc             | ✅                  |
-| Crafting_ru.loc                | ✅                  |
-| Credits_ru.loc                 | ❌                  |
-| CrimesReactions_ru.loc         | ✅                  |
-| Gates_ru.loc                   | ✅                  |
-| IntroCutscene_ru.loc           | ✅                  |
-| IntroWorldDialog_ru.loc        | ✅                  |
-| Intro_ru.loc                   | ✅    |
-| ItemChooser_ru.loc             | ✅                  |
-| Items_ru.loc                   | ✅                  |
-| LastWorldDialogues_ru.loc      | ✅                  |
-| LeruDreams_ru.loc              | ✅    |
-| LerusDreams_ru.loc             | ✅    |
-| NemetonWorldDialog_ru.loc      | ✅    |
-| NewWorldDialog_ru.loc          | ✅    |
-| NPC_Names_ru.loc               | ✅    |
-| Option_GUI_ru.loc              | ✅    |
-| Playtest_Temp_ru.loc           | ❌                  |
-| RedTower_EndSequence_ru.loc    | ✅    |
-| RestWorldDialogue_ru.loc       | ✅                  |
-| Talents_ru.loc                 | ✅                  |
-| TavernQuests_ru.loc            | ✅                 |
-| TooltipSettings_ru.loc         | ✅                 |
-| TutorialNew_ru.loc             | ✅                  |
-| Tutorial_ru.loc                | ✅                 |
-| WoodcampWorldDialogue_ru.loc   | ✅                 |
-| WorldDialogueCombat_ru.loc     | ✅                 |
-| WorldDialog_RedTower_ru.loc    | ✅                 |
+| Файл                                          | Статус           |
+| --------------------------------------------- | ---------------- |
+| Dialog/Corpses/Aldo_ru.loc                    | Машинный перевод |
+| Dialog/Corpses/Anselm_ru.loc                  | ✅               |
+| Dialog/Corpses/Baldo_ru.loc                   | ✅               |
+| Dialog/Corpses/CityDungeon_0_ru.loc           | ✅               |
+| Dialog/Corpses/Cobweb_Wall_ru.loc             | ✅               |
+| Dialog/Corpses/Fleur_ru.loc                   | ✅               |
+| Dialog/Corpses/Generic_ru.loc                 | ✅               |
+| Dialog/Footprint/HumanFight_ru.loc            | ✅               |
+| Dialog/Objects/Armorstand_Bady_ru.loc         | ✅               |
+| Dialog/Perceptible/NPC_Farlan_Corpse_ru.loc   | ✅               |
+| Dialog/Perceptible/Perceptible_Generic_ru.loc | ✅               |
+| Dialog/Perceptible/Signpost_Generic_ru.loc    | ✅               |
+| Dialog/Perceptible/Vorago_Lightning_ru.loc    | ✅               |
+| Dialog/Alraune_ru.loc                         | ✅               |
+| Dialog/AuwaldDungeonFaction_ru.loc            | ✅               |
+| Dialog/Beard_Red_ru.loc                       | ✅               |
+| Dialog/BlaanKarimBattleBuddies_ru.loc         | ✅               |
+| Dialog/BluePoo_ru.loc                         | ✅               |
+| Dialog/BlueVomit_ru.loc                       | ✅               |
+| Dialog/BrokenPlant_ru.loc                     | ✅               |
+| Dialog/BrokenSheepFence_ru.loc                | ✅               |
+| Dialog/BrutusMineDays_ru.loc                  | ✅               |
+| Dialog/BrutusMineWorldDialog_ru.loc           | ✅               |
+| Dialog/Canary_ru.loc                          | ✅               |
+| Dialog/Corpses_ru.loc                         | ✅               |
+| Dialog/Frog_Friendly_ru.loc                   | ✅               |
+| Dialog/GenericSheep_ru.loc                    | ✅               |
+| Dialog/GrowthEnhancer_ru.loc                  | ✅               |
+| Dialog/HauerWorldDialogs_ru.loc               | ✅               |
+| Dialog/Lever_Generic_ru.loc                   | ✅               |
+| Dialog/MadWoman_ru.loc                        | ✅               |
+| Dialog/MusicMachine_ru.loc                    | ✅               |
+| Dialog/MysteriousLantern_ru.loc               | ✅               |
+| Dialog/NPC_Adalgis_ru.loc                     | ✅               |
+| Dialog/NPC_Ada_ru.loc                         | ✅               |
+| Dialog/NPC_Adela_ru.loc                       | ✅               |
+| Dialog/NPC_Adwin_ru.loc                       | ✅               |
+| Dialog/NPC_Afrin_ru.loc                       | ✅               |
+| Dialog/NPC_Agilo_ru.loc                       | ✅               |
+| Dialog/NPC_Agnessa_ru.loc                     | ✅               |
+| Dialog/NPC_Aidan_ru.loc                       | ✅               |
+| Dialog/NPC_Aiko_ru.loc                        | ✅               |
+| Dialog/NPC_Albrecht_ru.loc                    | ✅               |
+| Dialog/NPC_Aldrik_ru.loc                      | ✅               |
+| Dialog/NPC_Aleka_ru.loc                       | ✅               |
+| Dialog/NPC_Almar_ru.loc                       | ✅               |
+| Dialog/NPC_Amella_ru.loc                      | ✅               |
+| Dialog/NPC_Andarta_ru.loc                     | ✅               |
+| Dialog/NPC_Andrick_ru.loc                     | ✅               |
+| Dialog/NPC_Angus_ru.loc                       | ✅               |
+| Dialog/NPC_Asmus_ru.loc                       | ✅               |
+| Dialog/NPC_Augis_ru.loc                       | ✅               |
+| Dialog/NPC_Babsi_ru.loc                       | ✅               |
+| Dialog/NPC_Bady_ru.loc                        | ✅               |
+| Dialog/NPC_Baldo_ru.loc                       | ✅               |
+| Dialog/NPC_Baltus_ru.loc                      | На переводе      |
+| Dialog/NPC_BanditBridge1_ru.loc               | ✅               |
+| Dialog/NPC_BanditBridge2_ru.loc               | ✅               |
+| Dialog/NPC_Banner_ru.loc                      | ✅               |
+| Dialog/NPC_Bardok_ru.loc                      | ✅               |
+| Dialog/NPC_Berni_ru.loc                       | На переводе      |
+| Dialog/NPC_Bernold_ru.loc                     | ✅               |
+| Dialog/NPC_Bertine_ru.loc                     | ✅               |
+| Dialog/NPC_Birka_ru.loc                       | ✅               |
+| Dialog/NPC_Blaan_ru.loc                       | ✅               |
+| Dialog/NPC_Blanda_ru.loc                      | ✅               |
+| Dialog/NPC_Bombus_ru.loc                      | ✅               |
+| Dialog/NPC_Bonny_ru.loc                       | ✅               |
+| Dialog/NPC_BorisBandit_A_ru.loc               | ✅               |
+| Dialog/NPC_BorisBandit_B_01_ru.loc            | ✅               |
+| Dialog/NPC_BorisBandit_C_01_ru.loc            | ✅               |
+| Dialog/NPC_Boris_ru.loc                       | ✅               |
+| Dialog/NPC_Bruna_ru.loc                       | Машинный перевод |
+| Dialog/NPC_Caspara_ru.loc                     | ✅               |
+| Dialog/NPC_Cengiz_ru.loc                      | ✅               |
+| Dialog/NPC_Chunnaic_ru.loc                    | ✅               |
+| Dialog/NPC_Conor_ru.loc                       | ✅               |
+| Dialog/NPC_Cord_ru.loc                        | ✅               |
+| Dialog/NPC_Cuna_ru.loc                        | ✅               |
+| Dialog/NPC_Dalin_ru.loc                       | ✅               |
+| Dialog/NPC_Dark_ru.loc                        | ✅               |
+| Dialog/NPC_Darwin_ru.loc                      | Машинный перевод |
+| Dialog/NPC_Delani_ru.loc                      | Машинный перевод |
+| Dialog/NPC_Der Ripper_ru.loc                  | ✅               |
+| Dialog/NPC_Diemo_ru.loc                       | ✅               |
+| Dialog/NPC_Doro_ru.loc                        | ✅               |
+| Dialog/NPC_Drax_ru.loc                        | ✅               |
+| Dialog/NPC_Dunja_ru.loc                       | ✅               |
+| Dialog/NPC_Dylan_ru.loc                       | ✅               |
+| Dialog/NPC_Ebru_ru.loc                        | ✅               |
+| Dialog/NPC_Ede_ru.loc                         | ✅               |
+| Dialog/NPC_Elgar_ru.loc                       | ✅               |
+| Dialog/NPC_Ella_ru.loc                        | ✅               |
+| Dialog/NPC_Elnea_ru.loc                       | ✅               |
+| Dialog/NPC_Emko_ru.loc                        | ✅               |
+| Dialog/NPC_Emre_ru.loc                        | ✅               |
+| Dialog/NPC_Enya_ru.loc                        | ✅               |
+| Dialog/NPC_Eoin_ru.loc                        | ✅               |
+| Dialog/NPC_Esdert_ru.loc                      | ✅               |
+| Dialog/NPC_Ester_ru.loc                       | Машинный перевод |
+| Dialog/NPC_Etzel_ru.loc                       | ✅               |
+| Dialog/NPC_Eugen_ru.loc                       | ✅               |
+| Dialog/NPC_Evi_ru.loc                         | ✅               |
+| Dialog/NPC_Faol_ru.loc                        | Машинный перевод |
+| Dialog/NPC_Farina_ru.loc                      | ✅               |
+| Dialog/NPC_Farlan_ru.loc                      | Машинный перевод |
+| Dialog/NPC_Farona_ru.loc                      | ✅               |
+| Dialog/NPC_Fawini_Bodyguard_ru.loc            | ✅               |
+| Dialog/NPC_Fawini_ru.loc                      | ✅               |
+| Dialog/NPC_Femke_ru.loc                       | ✅               |
+| Dialog/NPC_Fester_ru.loc                      | ✅               |
+| Dialog/NPC_Fia_ru.loc                         | ✅               |
+| Dialog/NPC_Finlay_ru.loc                      | ✅               |
+| Dialog/NPC_Florin_ru.loc                      | ✅               |
+| Dialog/NPC_Flunka_ru.loc                      | ✅               |
+| Dialog/NPC_Friedel_ru.loc                     | Машинный перевод |
+| Dialog/NPC_Frithjof_ru.loc                    | ✅               |
+| Dialog/NPC_Fulk_ru.loc                        | Машинный перевод |
+| Dialog/NPC_Fygen_ru.loc                       | ✅               |
+| Dialog/NPC_Gawan_ru.loc                       | Машинный перевод |
+| Dialog/NPC_Geli_ru.loc                        | ✅               |
+| Dialog/NPC_Georg_ru.loc                       | Машинный перевод |
+| Dialog/NPC_Gera_ru.loc                        | Машинный перевод |
+| Dialog/NPC_Gerdwin_ru.loc                     | Машинный перевод |
+| Dialog/NPC_Gerion_ru.loc                      | ✅               |
+| Dialog/NPC_Gero_ru.loc                        | Машинный перевод |
+| Dialog/NPC_Gilwar_ru.loc                      | ✅               |
+| Dialog/NPC_Gradan_ru.loc                      | ✅               |
+| Dialog/NPC_Gra_ru.loc                         | ✅               |
+| Dialog/NPC_Grit_ru.loc                        | ✅               |
+| Dialog/NPC_Hadewin_ru.loc                     | Машинный перевод |
+| Dialog/NPC_Hailey_ru.loc                      | ✅               |
+| Dialog/NPC_Hajo_ru.loc                        | ✅               |
+| Dialog/NPC_Harald_ru.loc                      | ✅               |
+| Dialog/NPC_Harvey_ru.loc                      | Машинный перевод |
+| Dialog/NPC_Hasso_ru.loc                       | Машинный перевод |
+| Dialog/NPC_Helma_ru.loc                       | Машинный перевод |
+| Dialog/NPC_Henik_ru.loc                       | Машинный перевод |
+| Dialog/NPC_Humbert_ru.loc                     | Машинный перевод |
+| Dialog/NPC_Ida_ru.loc                         | ✅               |
+| Dialog/NPC_Idefix_ru.loc                      | ✅               |
+| Dialog/NPC_IdleGuy_ru.loc                     | ✅               |
+| Dialog/NPC_Inja_ru.loc                        | ✅               |
+| Dialog/NPC_Irmina_ru.loc                      | ✅               |
+| Dialog/NPC_Ismar_ru.loc                       | ✅               |
+| Dialog/NPC_Ivera_ru.loc                       | ✅               |
+| Dialog/NPC_Jalina_ru.loc                      | ✅               |
+| Dialog/NPC_Jarmon_ru.loc                      | ✅               |
+| Dialog/NPC_Jean_ru.loc                        | ✅               |
+| Dialog/NPC_Jendra_ru.loc                      | Машинный перевод |
+| Dialog/NPC_Jendrik_ru.loc                     | ✅               |
+| Dialog/NPC_Jennifer_ru.loc                    | ✅               |
+| Dialog/NPC_Jero_ru.loc                        | Машинный перевод |
+| Dialog/NPC_Jerzy_ru.loc                       | ✅               |
+| Dialog/NPC_Jesko_ru.loc                       | ✅               |
+| Dialog/NPC_Jimmy_ru.loc                       | ✅               |
+| Dialog/NPC_Jola_ru.loc                        | Машинный перевод |
+| Dialog/NPC_Joris_ru.loc                       | ✅               |
+| Dialog/NPC_Josi_ru.loc                        | ✅               |
+| Dialog/NPC_Junali_ru.loc                      | ✅               |
+| Dialog/NPC_Jurek_ru.loc                       | ✅               |
+| Dialog/NPC_Juri_ru.loc                        | ✅               |
+| Dialog/NPC_Kara_ru.loc                        | ✅               |
+| Dialog/NPC_Karim_ru.loc                       | ✅               |
+| Dialog/NPC_Karmi_ru.loc                       | ✅               |
+| Dialog/NPC_Karotte_ru.loc                     | Машинный перевод |
+| Dialog/NPC_Kati_ru.loc                        | ✅               |
+| Dialog/NPC_Katsa_ru.loc                       | ✅               |
+| Dialog/NPC_Kellan_ru.loc                      | ✅               |
+| Dialog/NPC_Kendrick_ru.loc                    | ✅               |
+| Dialog/NPC_Kerr_ru.loc                        | ✅               |
+| Dialog/NPC_Kessia_ru.loc                      | ✅               |
+| Dialog/NPC_Kilian_ru.loc                      | Машинный перевод |
+| Dialog/NPC_Kolina_ru.loc                      | ✅               |
+| Dialog/NPC_Kora_ru.loc                        | ✅               |
+| Dialog/NPC_Lanzo_ru.loc                       | ✅               |
+| Dialog/NPC_Larea_ru.loc                       | ✅               |
+| Dialog/NPC_Laric_ru.loc                       | Машинный перевод |
+| Dialog/NPC_Laudine_ru.loc                     | Машинный перевод |
+| Dialog/NPC_Laurin_ru.loc                      | Машинный перевод |
+| Dialog/NPC_Leru_ru.loc                        | Машинный перевод |
+| Dialog/NPC_Levin_ru.loc                       | Машинный перевод |
+| Dialog/NPC_Leyna_ru.loc                       | Машинный перевод |
+| Dialog/NPC_Liandra_ru.loc                     | Машинный перевод |
+| Dialog/NPC_Lindon_ru.loc                      | Машинный перевод |
+| Dialog/NPC_Lio_ru.loc                         | Машинный перевод |
+| Dialog/NPC_Lobo_ru.loc                        | Машинный перевод |
+| Dialog/NPC_Locke_ru.loc                       | Машинный перевод |
+| Dialog/NPC_Lore_ru.loc                        | Машинный перевод |
+| Dialog/NPC_Lothar_ru.loc                      | Машинный перевод |
+| Dialog/NPC_Lukan_ru.loc                       | Машинный перевод |
+| Dialog/NPC_Luten_ru.loc                       | Машинный перевод |
+| Dialog/NPC_Mairin_ru.loc                      | Машинный перевод |
+| Dialog/NPC_Mali_ru.loc                        | Машинный перевод |
+| Dialog/NPC_Manes_ru.loc                       | Машинный перевод |
+| Dialog/NPC_Mareno_ru.loc                      | Машинный перевод |
+| Dialog/NPC_Margitte_ru.loc                    | Машинный перевод |
+| Dialog/NPC_Marten_ru.loc                      | Машинный перевод |
+| Dialog/NPC_Melf_ru.loc                        | Машинный перевод |
+| Dialog/NPC_Meluna_ru.loc                      | Машинный перевод |
+| Dialog/NPC_Merik_ru.loc                       | Машинный перевод |
+| Dialog/NPC_Merlind_ru.loc                     | Машинный перевод |
+| Dialog/NPC_Mikesch_ru.loc                     | Машинный перевод |
+| Dialog/NPC_MiningChef_ru.loc                  | Машинный перевод |
+| Dialog/NPC_Miraculix_ru.loc                   | Машинный перевод |
+| Dialog/NPC_Miranda_ru.loc                     | Машинный перевод |
+| Dialog/NPC_Mog_ru.loc                         | Машинный перевод |
+| Dialog/NPC_Molvina_ru.loc                     | Машинный перевод |
+| Dialog/NPC_Mombert_ru.loc                     | Машинный перевод |
+| Dialog/NPC_Monko_ru.loc                       | Машинный перевод |
+| Dialog/NPC_Morvin_ru.loc                      | Машинный перевод |
+| Dialog/NPC_Mottek_ru.loc                      | Машинный перевод |
+| Dialog/NPC_Muc_ru.loc                         | Машинный перевод |
+| Dialog/NPC_Mumme_ru.loc                       | Машинный перевод |
+| Dialog/NPC_Mursel_ru.loc                      | Машинный перевод |
+| Dialog/NPC_Myrte_ru.loc                       | Машинный перевод |
+| Dialog/NPC_Niala_ru.loc                       | Машинный перевод |
+| Dialog/NPC_NPC_GuardRedTower_ru.loc           | Машинный перевод |
+| Dialog/NPC_Oksana_ru.loc                      | Машинный перевод |
+| Dialog/NPC_Olaf_ru.loc                        | Машинный перевод |
+| Dialog/NPC_Olga_ru.loc                        | Машинный перевод |
+| Dialog/NPC_Oskar_ru.loc                       | Машинный перевод |
+| Dialog/NPC_Owain_ru.loc                       | Машинный перевод |
+| Dialog/NPC_Palina_ru.loc                      | Машинный перевод |
+| Dialog/NPC_Piglet_Cay_ru.loc                  | ✅               |
+| Dialog/NPC_Piglet_Chris_ru.loc                | ✅               |
+| Dialog/NPC_Piglet_Han_ru.loc                  | ✅               |
+| Dialog/NPC_Piglet_Julian_ru.loc               | ✅               |
+| Dialog/NPC_Piglet_Kai_ru.loc                  | ✅               |
+| Dialog/NPC_Pwyll_ru.loc                       | ✅               |
+| Dialog/NPC_Raya_ru.loc                        | ✅               |
+| Dialog/NPC_Reija_ru.loc                       | На переводе      |
+| Dialog/NPC_Roarke_ru.loc                      | Машинный перевод |
+| Dialog/NPC_Roisin_ru.loc                      | Машинный перевод |
+| Dialog/NPC_Ruhan_ru.loc                       | Машинный перевод |
+| Dialog/NPC_RuinenlagerGuard_ru.loc            | Машинный перевод |
+| Dialog/NPC_Rura_ru.loc                        | Машинный перевод |
+| Dialog/NPC_Ruslan_ru.loc                      | Машинный перевод |
+| Dialog/NPC_Sagar_ru.loc                       | Машинный перевод |
+| Dialog/NPC_Sean_ru.loc                        | Машинный перевод |
+| Dialog/NPC_Senga_ru.loc                       | Машинный перевод |
+| Dialog/NPC_Sheep_Liesl_ru.loc                 | Машинный перевод |
+| Dialog/NPC_Shona_ru.loc                       | Машинный перевод |
+| Dialog/NPC_Sine_ru.loc                        | Машинный перевод |
+| Dialog/NPC_Slawa_ru.loc                       | Машинный перевод |
+| Dialog/NPC_Sorcha_ru.loc                      | Машинный перевод |
+| Dialog/NPC_Swenn_ru.loc                       | Машинный перевод |
+| Dialog/NPC_Tadhg_ru.loc                       | Машинный перевод |
+| Dialog/NPC_Taron_ru.loc                       | Машинный перевод |
+| Dialog/NPC_Teigen_ru.loc                      | Машинный перевод |
+| Dialog/NPC_Tiaa_ru.loc                        | Машинный перевод |
+| Dialog/NPC_Tristan_ru.loc                     | Машинный перевод |
+| Dialog/NPC_Tuz_ru.loc                         | Машинный перевод |
+| Dialog/NPC_Vik_ru.loc                         | Машинный перевод |
+| Dialog/NPC_Willi_ru.loc                       | Машинный перевод |
+| Dialog/NPC_Wind_ru.loc                        | Машинный перевод |
+| Dialog/NPC_Zoltan_ru.loc                      | Машинный перевод |
+| Dialog/Obsidian_CentralStation_ru.loc         | Машинный перевод |
+| Dialog/Poo_Liesl_ru.loc                       | Машинный перевод |
+| Dialog/RuinenlagerGreetPlayerNemeton_ru.loc   | Машинный перевод |
+| Dialog/RuinenlagerHauerFinishedWork_ru.loc    | Машинный перевод |
+| Dialog/RuinenlagerWorldDialog_ru.loc          | Машинный перевод |
+| Dialog/Ruinenlager_Guards_ru.loc              | ✅               |
+| Dialog/SheepPost_Liesl_ru.loc                 | ✅               |
+| Dialog/SheepTrace_ru.loc                      | ✅               |
+| Dialog/SheepWool_ru.loc                       | ✅               |
+| Dialog/Table_Brutus_ru.loc                    | ✅               |
+| Dialog/Teaching_ru.loc                        | ✅               |
+| Dialogue/Critter_Cats_ru.loc                  | ✅               |
+| Dialogue/Critter_Dogs_ru.loc                  | ✅               |
+| Dialogue/RedTowerPedestral_ru.loc             | ✅               |
+| Dialogues/BanditExpedition_ru.loc             | ✅               |
+| Dialogues/BanditRuins_ru.loc                  | ✅               |
+| Dialogues/Brutus_ru.loc                       | ✅               |
+| Dialogues/Comments_ru.loc                     | ✅               |
+| Dialogues/CrimesAftermath_ru.loc              | ✅               |
+| Dialogues/CrimesOpenReactions_ru.loc          | ✅               |
+| Dialogues/Dylara_ru.loc                       | ✅               |
+| Dialogues/Global_Busy_ru.loc                  | ✅               |
+| Dialogues/Global_GreetAndGoodbye_ru.loc       | ✅               |
+| Dialogues/Global_Insults_ru.loc               | ✅               |
+| Dialogues/Global_Perceptible_ru.loc           | ✅               |
+| Dialogues/Global_PwyllConvo_ru.loc            | ✅               |
+| Dialogues/Global_ru.loc                       | ✅               |
+| Dialogues/Mirron_ru.loc                       | ✅               |
+| Dialogues/PlayerComments_ru.loc               | ✅               |
+| Dialogues/PlayerThoughts_ru.loc               | ✅               |
+| Dialogues/Sleep_ru.loc                        | ✅               |
+| Dialogues/Tests_ru.loc                        | ✅               |
+| Dialogues/WorldDialogueGreatTusk_ru.loc       | ✅               |
+| Dialogues/WorldDialogue_ru.loc                | ✅               |
+| GUI/AbilityMenu_ru.loc                        | ✅               |
+| GUI/ChapterProgress_ru.loc                    | ✅               |
+| GUI/CharacterCreation_ru.loc                  | ✅               |
+| GUI/Fishing_ru.loc                            | ✅               |
+| GUI/GameOver_ru.loc                           | ✅               |
+| GUI/Generic_ru.loc                            | ✅               |
+| GUI/Input_ru.loc                              | ✅               |
+| GUI/Journal_ru.loc                            | ✅               |
+| GUI/Learn_ru.loc                              | ✅               |
+| GUI/LoadingScreens_ru.loc                     | ✅               |
+| GUI/Lockpick_ru.loc                           | ✅               |
+| GUI/LootMenu_ru.loc                           | ✅               |
+| GUI/MainMenu_ru.loc                           | ✅               |
+| GUI/Map_ru.loc                                | ✅               |
+| GUI/MenuShortcuts_ru.loc                      | ✅               |
+| GUI/Merchant_ru.loc                           | ✅               |
+| GUI/Mining_ru.loc                             | ✅               |
+| GUI/PauseMenu_ru.loc                          | ✅               |
+| GUI/PlayerInventory_ru.loc                    | ✅               |
+| GUI/PlayerMenu_ru.loc                         | ✅               |
+| GUI/RuneDrawing_ru.loc                        | ✅               |
+| GUI/SaveMenu_ru.loc                           | ✅               |
+| GUI/SleepMenu_ru.loc                          | ✅               |
+| GUI/Stats_ru.loc                              | ✅               |
+| GUI/TalentMenu_ru.loc                         | ✅               |
+| GUI/UserReport_ru.loc                         | ✅               |
+| HUD/PopUps_ru.loc                             | ✅               |
+| Journal/AlcoholForSecretReveal_ru.loc         | ✅               |
+| Journal/AlrauneForAidan_ru.loc                | ✅               |
+| Journal/AnOldRecipe_ru.loc                    | ✅               |
+| Journal/Armor_ru.loc                          | ✅               |
+| Journal/AttackWoodcamp_ru.loc                 | ✅               |
+| Journal/AufnahmezeremonieRuinenlager_ru.loc   | ✅               |
+| Journal/AuwaldDungeon_ru.loc                  | ✅               |
+| Journal/BanditMine_ru.loc                     | ✅               |
+| Journal/BanditsOnTheBridge_ru.loc             | ✅               |
+| Journal/BeautySleep_ru.loc                    | ✅               |
+| Journal/BertinesRevenge_ru.loc                | ✅               |
+| Journal/BetThat_ru.loc                        | ✅               |
+| Journal/BirkasNewLife_ru.loc                  | ✅               |
+| Journal/BrokenTrust_ru.loc                    | ✅               |
+| Journal/Brutus_ru.loc                         | ✅               |
+| Journal/ButterfliesAllAround_ru.loc           | ✅               |
+| Journal/CityDungeon_ru.loc                    | ✅               |
+| Journal/DAS_WayToArenaMaster_ru.loc           | ✅               |
+| Journal/Debt_ru.loc                           | ✅               |
+| Journal/DeepInTheAkademie_ru.loc              | ✅               |
+| Journal/DeepInTheMine_ru.loc                  | ✅               |
+| Journal/DeepInTheSwamp_ru.loc                 | ✅               |
+| Journal/DoroNemetonEscort_ru.loc              | ✅               |
+| Journal/Dreams_ru.loc                         | ✅               |
+| Journal/EnteringRedTowerML_ru.loc             | ✅               |
+| Journal/EntranceToShadyDistrict_ru.loc        | ✅               |
+| Journal/EverybodyUnderstandsThat_ru.loc       | ✅               |
+| Journal/ExpeditionNemeton_ru.loc              | ✅               |
+| Journal/ExpeditionRuinenlager_ru.loc          | ✅               |
+| Journal/FavourOfCraftsmenGardeners_ru.loc     | ✅               |
+| Journal/FavourOfCraftsmenSmith_ru.loc         | ✅               |
+| Journal/FeedingTheSheep_ru.loc                | ✅               |
+| Journal/FireFestival_ru.loc                   | ✅               |
+| Journal/FishingForDunja_ru.loc                | ✅               |
+| Journal/FoodForFarmers_ru.loc                 | ✅               |
+| Journal/FoodInTheMine_ru.loc                  | ✅               |
+| Journal/FreedomForThePiglets_ru.loc           | ✅               |
+| Journal/FrogsAndRustmoss_ru.loc               | ✅               |
+| Journal/GettingInvolved_ru.loc                | ✅               |
+| Journal/Graffiti_ru.loc                       | ✅               |
+| Journal/HauerNemeton_ru.loc                   | ✅               |
+| Journal/HuntTheRippers_ru.loc                 | ✅               |
+| Journal/INeedToWorkAgain_ru.loc               | ✅               |
+| Journal/InsideRedTower_ru.loc                 | ✅               |
+| Journal/ItPaidOff_ru.loc                      | ✅               |
+| Journal/JobForBoris_ru.loc                    | ✅               |
+| Journal/JournalGeneric_ru.loc                 | ✅               |
+| Journal/Journal_IronForFarmers_ru.loc         | ✅               |
+| Journal/Journal_LostShoes_ru.loc              | ✅               |
+| Journal/JourneyToTheRoots_ru.loc              | ✅               |
+| Journal/KarottesWeapon_ru.loc                 | ✅               |
+| Journal/LetterToAsmus_ru.loc                  | ✅               |
+| Journal/LoadCrystals_ru.loc                   | ✅               |
+| Journal/LucrativeBusiness_ru.loc              | ✅               |
+| Journal/ManpowerForTheBridge_ru.loc           | ✅               |
+| Journal/NothingIsFree_ru.loc                  | ✅               |
+| Journal/OldMan_ru.loc                         | ✅               |
+| Journal/OneFaction_ru.loc                     | ✅               |
+| Journal/OnlyOneThingHelps_ru.loc              | ✅               |
+| Journal/PaperChase_ru.loc                     | ✅               |
+| Journal/PartOfTheRuinenlager_ru.loc           | ✅               |
+| Journal/Rats_ru.loc                           | ✅               |
+| Journal/ReturnOrKeepTheRing_ru.loc            | ✅               |
+| Journal/RipperAmbush_ru.loc                   | ✅               |
+| Journal/ShotsForRipper_ru.loc                 | ✅               |
+| Journal/ShowMeWhatYouGot_ru.loc               | ✅               |
+| Journal/SomeoneHasToDoIt_ru.loc               | ✅               |
+| Journal/StalkerFlussbett_ru.loc               | ✅               |
+| Journal/StolenWeapons_ru.loc                  | ✅               |
+| Journal/TaronsLastPiglet_ru.loc               | ✅               |
+| Journal/TheBlackhead_ru.loc                   | ✅               |
+| Journal/TheCuriousRelic_ru.loc                | ✅               |
+| Journal/TheDoppelgangers_ru.loc               | ✅               |
+| Journal/TheFallowField_ru.loc                 | ✅               |
+| Journal/TheLiesOfLocke_ru.loc                 | ✅               |
+| Journal/TheOutcast_ru.loc                     | ✅               |
+| Journal/ThePoorSheep_ru.loc                   | ✅               |
+| Journal/TheRenegadeFriend_ru.loc              | ✅               |
+| Journal/TheSecretPlace_ru.loc                 | ✅               |
+| Journal/TheWayToTheLeuchtwald_ru.loc          | ✅               |
+| Journal/TheWayToTheMine_ru.loc                | ✅               |
+| Journal/TiaasEintopf_ru.loc                   | ✅               |
+| Journal/TraderLostItem_ru.loc                 | ✅               |
+| Journal/Traps_ru.loc                          | ✅               |
+| Journal/TrustTest_ru.loc                      | ✅               |
+| Journal/VoteFromBoris_ru.loc                  | ✅               |
+| Journal/VoteFromEugen_ru.loc                  | ✅               |
+| Journal/WayIntoTheCraftsHouse_ru.loc          | ✅               |
+| Journal/WayToTheLibrary_ru.loc                | ✅               |
+| Journal/WoodForAdwin_ru.loc                   | ✅               |
+| Journal/WorkerWorkerWorker_ru.loc             | ✅               |
+| Journal/WorkOnFarm_ru.loc                     | ✅               |
+| Journal/YouBetterKeepMeSafe_ru.loc            | ✅               |
+| Journal/YouDoNotFitHere_ru.loc                | ✅               |
+| Journal/YourOwnRunestone_ru.loc               | ✅               |
+| Letters/Asmus_ru.loc                          | ✅               |
+| Letters/AtlanterShrine_ru.loc                 | ✅               |
+| Letters/Atlanter_ru.loc                       | ✅               |
+| Letters/AuwaldDungeon_ru.loc                  | ✅               |
+| Letters/BanditMine_ru.loc                     | ✅               |
+| Letters/Blackboard_ru.loc                     | ✅               |
+| Letters/Boris_ru.loc                          | ✅               |
+| Letters/Celts_ru.loc                          | ✅               |
+| Letters/CityDungeonNEW_ru.loc                 | ✅               |
+| Letters/CityDungeon_ru.loc                    | ✅               |
+| Letters/DebtorList_ru.loc                     | ✅               |
+| Letters/EntryMine_ru.loc                      | ✅               |
+| Letters/Etzel_ru.loc                          | ✅               |
+| Letters/InformationMine_ru.loc                | ✅               |
+| Letters/Kendrick_ru.loc                       | ✅               |
+| Letters/Kora_ru.loc                           | ✅               |
+| Letters/Library_ru.loc                        | ✅               |
+| Letters/MehlunaToBady_ru.loc                  | ✅               |
+| Letters/Merik_ru.loc                          | ✅               |
+| Letters/Mikesch_ru.loc                        | ✅               |
+| Letters/OlafAboutBrutus_ru.loc                | ✅               |
+| Letters/Redtower_ru.loc                       | ✅               |
+| Letters/Reija_ru.loc                          | ✅               |
+| Letters/RuinenlagerBandit_ru.loc              | ✅               |
+| Letters/Shrines_ru.loc                        | ✅               |
+| Letters/SickSister_ru.loc                     | ✅               |
+| Letters/Table_Brutus_ru.loc                   | ✅               |
+| NPC_Names/WellLadder_ru.loc                   | ✅               |
+| Achievements_ru.loc                           | ✅               |
+| AreaNames_ru.loc                              | ✅               |
+| BeehiveDialogue_ru.loc                        | ✅               |
+| BrawlReactions_ru.loc                         | ✅               |
+| Buffs_ru.loc                                  | ✅               |
+| CookingFire_ru.loc                            | ✅               |
+| Crafting_ru.loc                               | ✅               |
+| Credits_ru.loc                                | ❌               |
+| CrimesReactions_ru.loc                        | ✅               |
+| Gates_ru.loc                                  | ✅               |
+| IntroCutscene_ru.loc                          | ✅               |
+| IntroWorldDialog_ru.loc                       | ✅               |
+| Intro_ru.loc                                  | ✅               |
+| ItemChooser_ru.loc                            | ✅               |
+| Items_ru.loc                                  | ✅               |
+| LastWorldDialogues_ru.loc                     | ✅               |
+| LeruDreams_ru.loc                             | ✅               |
+| LerusDreams_ru.loc                            | ✅               |
+| NemetonWorldDialog_ru.loc                     | ✅               |
+| NewWorldDialog_ru.loc                         | ✅               |
+| NPC_Names_ru.loc                              | ✅               |
+| Option_GUI_ru.loc                             | ✅               |
+| Playtest_Temp_ru.loc                          | ❌               |
+| RedTower_EndSequence_ru.loc                   | ✅               |
+| RestWorldDialogue_ru.loc                      | ✅               |
+| Talents_ru.loc                                | ✅               |
+| TavernQuests_ru.loc                           | ✅               |
+| TooltipSettings_ru.loc                        | ✅               |
+| TutorialNew_ru.loc                            | ✅               |
+| Tutorial_ru.loc                               | ✅               |
+| WoodcampWorldDialogue_ru.loc                  | ✅               |
+| WorldDialogueCombat_ru.loc                    | ✅               |
+| WorldDialog_RedTower_ru.loc                   | ✅               |
