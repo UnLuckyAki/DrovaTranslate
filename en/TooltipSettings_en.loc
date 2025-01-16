@@ -38,7 +38,7 @@ unknownteacher { Unknown }
 
 talentnotknown { You haven't discovered this talent yet. }
 
-foodText { Slowly regenerates health until [MaxStack] health has been healed. If your health bar is full healing is put on hold. }
+foodText { Regenerates [HealValue] health every [StackTime] seconds until [MaxStack] health has been healed. If your health bar is full healing is put on hold. }
 
 recipe_requirements { Required: }
 

@@ -1258,7 +1258,7 @@ item_sealstone_past_description { An intricately adorned stone with an embedded 
 
 item_brutus_seal_inactive_name { Inactive Seal of Drivanius }
 
-item_brutus_seal_inactive_description { Not all the embedded crystals in the seven signet stones are active. }
+item_brutus_seal_inactive_description { Only $GVAR:QuestVars_Brutus.ActivateShrine$ out of the seven embedded crystals are glowing so far. }
 
 item_shell_01_name { Clam }
 
