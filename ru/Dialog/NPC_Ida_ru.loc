@@ -40,7 +40,7 @@ Plh_26 { Верни мне $GVAR:EVars_Ida.RustmossPicked$ стеблей Ржа
 
 Plh_27 { Почему? Я нашел их здесь. }
 
-Plh_28 { Успокойся. Возьми эту штуку. (отдать $GVAR:EVars_Ida.RustmossPicked$x стеблей Ржавого корня) }
+Plh_28 { Успокойся. Возьми их. (отдать $GVAR:EVars_Ida.RustmossPicked$x стеблей Ржавого корня) }
 
 Plh_29 { Забудь! Они теперь мои. }
 
