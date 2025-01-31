@@ -101,7 +101,7 @@
 | Dialog/NPC_Enya_ru.loc | ✅    |
 | Dialog/NPC_Eoin_ru.loc | ✅    |
 | Dialog/NPC_Esdert_ru.loc | ✅    |
-| Dialog/NPC_Ester_ru.loc | Машинный перевод    |
+| Dialog/NPC_Ester_ru.loc | ✅    |
 | Dialog/NPC_Etzel_ru.loc | ✅    |
 | Dialog/NPC_Eugen_ru.loc | ✅    |
 | Dialog/NPC_Evi_ru.loc | ✅    |
