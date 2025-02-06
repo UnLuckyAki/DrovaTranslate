@@ -1474,7 +1474,7 @@ recipe_woodenarrow_name { Рецепт: Каменная Стрела }
 
 ring_tuz_name_name { Грязное Кольцо }
 
-ring_tuz_name_description { Воняет. Я нашел его на пустоши. }
+ring_tuz_name_description { Воняет. Найдено мной на Пустоши. }
 
 item_letterfromolafaboutBrutus_name { Письмо Дриваниуса }
 
