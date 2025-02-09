@@ -22,7 +22,7 @@ item_meat_raw_name { Сочное мясо }
 
 item_meat_raw_description { Все еще сырое. Не пригодно для употребления в пищу. }
 
-item_farmersFood_name { Фермерский обед }
+item_farmersFood_name { Фермерское Рагу }
 
 item_bogIron_name { Болотное железо }
 
@@ -582,7 +582,7 @@ item_rubble_name { Щебень }
 
 Note_BanditMine_name { Реликвия Прошлого }
 
-item_spiritVessel_greatTusk_name { Сосуд Луха }
+item_spiritVessel_greatTusk_name { Сосуд Духа }
 
 item_atlanterRune_name { Странная Руна }
 
@@ -1258,7 +1258,7 @@ item_sealstone_past_description { Изысканно украшенный кам
 
 item_brutus_seal_inactive_name { Неактивная Печать Дриваниуса }
 
-item_brutus_seal_inactive_description { Не все встроенные кристаллы в семи отверстиях активны. }
+item_brutus_seal_inactive_description { Из семи встроенных кристаллов пока светится только $GVAR:QuestVars_Brutus.ActivateShrine$. }
 
 item_shell_01_name { Моллюск }
 
@@ -1372,7 +1372,7 @@ recipe_elixier_spirit_name { Рецепт: Эликсир Разума }
 
 recipe_elixier_strength_name { Рецепт: Эликсир Силы }
 
-recipe_farmersmeal_name { Рецепт: Обед Фермера }
+recipe_farmersmeal_name { Рецепт: Фермерское Рагу }
 
 recipe_fishpan_name { Рецепт: Жареная Рыбка }
 
@@ -1512,13 +1512,13 @@ armor_chest_druid_atlanter_name { Руническое Одеяние Проше
 
 armor_chest_druid_atlanter_description { Вновь выкованные, древние доспехи. Один только вид говорит об их могуществе. }
 
-item_letter_library_0_name { История рунной магии I }
+item_letter_library_0_name { История магии рун I }
 
-item_letter_library_1_name { История рунной магии II }
+item_letter_library_1_name { История магии рун II }
 
-item_letter_library_2_name { История рунной магии III }
+item_letter_library_2_name { История магии рун III }
 
-item_letter_library_3_name { История рунной магии IV }
+item_letter_library_3_name { История магии рун IV }
 
 item_letter_library_circleRoom_note1_name { Круг Телепортации }
 
@@ -1990,7 +1990,7 @@ item_Map_Treasure_Forest_name { Сокровище: Хвойный Лес }
 
 item_Map_Treasure_Garden_name { Сокровище: Руины }
 
-item_Map_Treasure_GeorgsFarm_name { Сокровище: Джорджфарм }
+item_Map_Treasure_GeorgsFarm_name { Сокровище: Ферма Георга }
 
 item_Map_Treasure_Heath_name { Сокровище: Пустошь }
 

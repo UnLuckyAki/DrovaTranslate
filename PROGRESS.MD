@@ -83,8 +83,8 @@
 | Dialog/NPC_Cuna_ru.loc | ✅    |
 | Dialog/NPC_Dalin_ru.loc | ✅    |
 | Dialog/NPC_Dark_ru.loc | ✅    |
-| Dialog/NPC_Darwin_ru.loc | Машинный перевод    |
-| Dialog/NPC_Delani_ru.loc | Машинный перевод    |
+| Dialog/NPC_Darwin_ru.loc | ✅    |
+| Dialog/NPC_Delani_ru.loc | ✅    |
 | Dialog/NPC_Der Ripper_ru.loc | ✅    |
 | Dialog/NPC_Diemo_ru.loc | ✅    |
 | Dialog/NPC_Doro_ru.loc | ✅    |
@@ -101,7 +101,7 @@
 | Dialog/NPC_Enya_ru.loc | ✅    |
 | Dialog/NPC_Eoin_ru.loc | ✅    |
 | Dialog/NPC_Esdert_ru.loc | ✅    |
-| Dialog/NPC_Ester_ru.loc | Машинный перевод    |
+| Dialog/NPC_Ester_ru.loc | ✅    |
 | Dialog/NPC_Etzel_ru.loc | ✅    |
 | Dialog/NPC_Eugen_ru.loc | ✅    |
 | Dialog/NPC_Evi_ru.loc | ✅    |
@@ -121,9 +121,9 @@
 | Dialog/NPC_Frithjof_ru.loc | ✅    |
 | Dialog/NPC_Fulk_ru.loc | Машинный перевод    |
 | Dialog/NPC_Fygen_ru.loc | ✅    |
-| Dialog/NPC_Gawan_ru.loc | Машинный перевод    |
+| Dialog/NPC_Gawan_ru.loc | ✅    |
 | Dialog/NPC_Geli_ru.loc | ✅    |
-| Dialog/NPC_Georg_ru.loc | Машинный перевод    |
+| Dialog/NPC_Georg_ru.loc | ✅    |
 | Dialog/NPC_Gera_ru.loc | Машинный перевод    |
 | Dialog/NPC_Gerdwin_ru.loc | На переводе    |
 | Dialog/NPC_Gerion_ru.loc | ✅    |
@@ -196,7 +196,7 @@
 | Dialog/NPC_Luten_ru.loc | На переводе    |
 | Dialog/NPC_Mairin_ru.loc | Машинный перевод    |
 | Dialog/NPC_Mali_ru.loc | Машинный перевод    |
-| Dialog/NPC_Manes_ru.loc | Машинный перевод    |
+| Dialog/NPC_Manes_ru.loc | ✅    |
 | Dialog/NPC_Mareno_ru.loc | ✅    |
 | Dialog/NPC_Margitte_ru.loc | ✅    |
 | Dialog/NPC_Marten_ru.loc | ✅    |
@@ -214,7 +214,7 @@
 | Dialog/NPC_Monko_ru.loc | Машинный перевод    |
 | Dialog/NPC_Morvin_ru.loc | Машинный перевод    |
 | Dialog/NPC_Mottek_ru.loc | Машинный перевод    |
-| Dialog/NPC_Muc_ru.loc | Машинный перевод    |
+| Dialog/NPC_Muc_ru.loc | ✅    |
 | Dialog/NPC_Mumme_ru.loc | На переводе    |
 | Dialog/NPC_Mursel_ru.loc | Машинный перевод    |
 | Dialog/NPC_Myrte_ru.loc | На переводе    |
@@ -225,7 +225,7 @@
 | Dialog/NPC_Olga_ru.loc | На переводе    |
 | Dialog/NPC_Oskar_ru.loc | Машинный перевод    |
 | Dialog/NPC_Owain_ru.loc | Машинный перевод    |
-| Dialog/NPC_Palina_ru.loc | Машинный перевод    |
+| Dialog/NPC_Palina_ru.loc | ✅    |
 | Dialog/NPC_Piglet_Cay_ru.loc | ✅    |
 | Dialog/NPC_Piglet_Chris_ru.loc | ✅    |
 | Dialog/NPC_Piglet_Han_ru.loc | ✅    |
@@ -236,9 +236,9 @@
 | Dialog/NPC_Reija_ru.loc | На переводе    |
 | Dialog/NPC_Roarke_ru.loc | ✅    |
 | Dialog/NPC_Roisin_ru.loc | Машинный перевод    |
-| Dialog/NPC_Ruhan_ru.loc | Машинный перевод    |
+| Dialog/NPC_Ruhan_ru.loc | ✅    |
 | Dialog/NPC_RuinenlagerGuard_ru.loc | Машинный перевод    |
-| Dialog/NPC_Rura_ru.loc | Машинный перевод    |
+| Dialog/NPC_Rura_ru.loc | ✅    |
 | Dialog/NPC_Ruslan_ru.loc | Машинный перевод    |
 | Dialog/NPC_Sagar_ru.loc | Машинный перевод    |
 | Dialog/NPC_Sean_ru.loc | Машинный перевод    |
