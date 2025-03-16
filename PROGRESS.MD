@@ -105,7 +105,7 @@
 | Dialog/NPC_Etzel_ru.loc | ✅    |
 | Dialog/NPC_Eugen_ru.loc | ✅    |
 | Dialog/NPC_Evi_ru.loc | ✅    |
-| Dialog/NPC_Faol_ru.loc | Машинный перевод    |
+| Dialog/NPC_Faol_ru.loc | ✅    |
 | Dialog/NPC_Farina_ru.loc | ✅    |
 | Dialog/NPC_Farlan_ru.loc | Машинный перевод    |
 | Dialog/NPC_Farona_ru.loc | ✅    |
@@ -182,7 +182,7 @@
 | Dialog/NPC_Laric_ru.loc | Машинный перевод    |
 | Dialog/NPC_Laudine_ru.loc | ✅    |
 | Dialog/NPC_Laurin_ru.loc | Машинный перевод    |
-| Dialog/NPC_Leru_ru.loc | Машинный перевод    |
+| Dialog/NPC_Leru_ru.loc | ✅    |
 | Dialog/NPC_Levin_ru.loc | Машинный перевод    |
 | Dialog/NPC_Leyna_ru.loc | Машинный перевод    |
 | Dialog/NPC_Liandra_ru.loc | Машинный перевод    |
@@ -197,10 +197,10 @@
 | Dialog/NPC_Mairin_ru.loc | Машинный перевод    |
 | Dialog/NPC_Mali_ru.loc | Машинный перевод    |
 | Dialog/NPC_Manes_ru.loc | ✅    |
-| Dialog/NPC_Mareno_ru.loc | Машинный перевод    |
-| Dialog/NPC_Margitte_ru.loc | Машинный перевод    |
-| Dialog/NPC_Marten_ru.loc | Машинный перевод    |
-| Dialog/NPC_Melf_ru.loc | Машинный перевод    |
+| Dialog/NPC_Mareno_ru.loc | ✅    |
+| Dialog/NPC_Margitte_ru.loc | ✅    |
+| Dialog/NPC_Marten_ru.loc | ✅    |
+| Dialog/NPC_Melf_ru.loc | ✅    |
 | Dialog/NPC_Meluna_ru.loc | Машинный перевод    |
 | Dialog/NPC_Merik_ru.loc | Машинный перевод    |
 | Dialog/NPC_Merlind_ru.loc | Машинный перевод    |
@@ -221,7 +221,7 @@
 | Dialog/NPC_Niala_ru.loc | ✅    |
 | Dialog/NPC_NPC_GuardRedTower_ru.loc | Машинный перевод    |
 | Dialog/NPC_Oksana_ru.loc | ✅    |
-| Dialog/NPC_Olaf_ru.loc | Машинный перевод    |
+| Dialog/NPC_Olaf_ru.loc | ✅    |
 | Dialog/NPC_Olga_ru.loc | ✅    |
 | Dialog/NPC_Oskar_ru.loc | ✅    |
 | Dialog/NPC_Owain_ru.loc | Машинный перевод    |
@@ -234,7 +234,7 @@
 | Dialog/NPC_Pwyll_ru.loc | ✅    |
 | Dialog/NPC_Raya_ru.loc | ✅    |
 | Dialog/NPC_Reija_ru.loc | На переводе    |
-| Dialog/NPC_Roarke_ru.loc | Машинный перевод    |
+| Dialog/NPC_Roarke_ru.loc | ✅    |
 | Dialog/NPC_Roisin_ru.loc | Машинный перевод    |
 | Dialog/NPC_Ruhan_ru.loc | ✅    |
 | Dialog/NPC_RuinenlagerGuard_ru.loc | Машинный перевод    |
@@ -245,7 +245,7 @@
 | Dialog/NPC_Senga_ru.loc | Машинный перевод    |
 | Dialog/NPC_Sheep_Liesl_ru.loc | Машинный перевод    |
 | Dialog/NPC_Shona_ru.loc | Машинный перевод    |
-| Dialog/NPC_Sine_ru.loc | Машинный перевод    |
+| Dialog/NPC_Sine_ru.loc | ✅   |
 | Dialog/NPC_Slawa_ru.loc | ✅    |
 | Dialog/NPC_Sorcha_ru.loc | Машинный перевод    |
 | Dialog/NPC_Swenn_ru.loc | ✅    |
@@ -253,8 +253,8 @@
 | Dialog/NPC_Taron_ru.loc | Машинный перевод    |
 | Dialog/NPC_Teigen_ru.loc | ✅    |
 | Dialog/NPC_Tiaa_ru.loc | Машинный перевод    |
-| Dialog/NPC_Tristan_ru.loc | Машинный перевод    |
-| Dialog/NPC_Tuz_ru.loc | Машинный перевод    |
+| Dialog/NPC_Tristan_ru.loc | ✅    |
+| Dialog/NPC_Tuz_ru.loc | ✅    |
 | Dialog/NPC_Vik_ru.loc | Машинный перевод    |
 | Dialog/NPC_Willi_ru.loc | ✅    |
 | Dialog/NPC_Wind_ru.loc | Машинный перевод    |
