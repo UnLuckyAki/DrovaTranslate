@@ -57,7 +57,7 @@
 | Dialog/NPC_Babsi_ru.loc | ✅    |
 | Dialog/NPC_Bady_ru.loc | ✅    |
 | Dialog/NPC_Baldo_ru.loc | ✅    |
-| Dialog/NPC_Baltus_ru.loc | На переводе    |
+| Dialog/NPC_Baltus_ru.loc | ✅    |
 | Dialog/NPC_BanditBridge1_ru.loc | ✅    |
 | Dialog/NPC_BanditBridge2_ru.loc | ✅    |
 | Dialog/NPC_Banner_ru.loc | ✅    |
