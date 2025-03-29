@@ -252,7 +252,7 @@
 | Dialog/NPC_Tadhg_ru.loc | Машинный перевод    |
 | Dialog/NPC_Taron_ru.loc | Машинный перевод    |
 | Dialog/NPC_Teigen_ru.loc | ✅    |
-| Dialog/NPC_Tiaa_ru.loc | Машинный перевод    |
+| Dialog/NPC_Tiaa_ru.loc | ✅    |
 | Dialog/NPC_Tristan_ru.loc | ✅    |
 | Dialog/NPC_Tuz_ru.loc | ✅    |
 | Dialog/NPC_Vik_ru.loc | Машинный перевод    |
