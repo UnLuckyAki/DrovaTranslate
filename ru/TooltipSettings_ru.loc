@@ -38,7 +38,7 @@ unknownteacher { Неизвестно }
 
 talentnotknown { Вы еще не открыли этот талант. }
 
-foodText { Медленно восстанавливает здоровье, пока не будет исцелено [MaxStack] здоровья. Если полоска здоровья заполнена, исцеление приостанавливается. }
+foodText { Восстанавливает [HealValue] здоровья каждые [StackTime] секунд, пока не восстановиться [MaxStack] здоровья. Если полоска здоровья заполнена, исцеление приостанавливается. }
 
 recipe_requirements { Требуется: }
 
@@ -98,7 +98,7 @@ stat_change_str { +$STATCHANGE:PhysDmg$ физ. урон }
 
 stat_change_dex { +$STATCHANGE:CritChance$ крит. шанс }
 
-stat_change_mind { +$STATCHANGE:MagDmg$ маг. урон + $STATCHANGE:Focus$ базовый фокус }
+stat_change_mind { +$STATCHANGE:MagDmg$ маг. урона + +$STATCHANGE:Focus$ Базового Фокуса }
 
 helmet_cosmetics { (Шлемы исключительно косметические и не оказывают никакого влияния на вашего персонажа.) }
 
@@ -114,7 +114,7 @@ drug_description { Притупляет ваши чувства }
 
 LearnSpell { Обучает оружейным способностям }
 
-flowText { Генерирует [HealValue] фокус в течение [StackTime] секунд. }
+flowText { Генерирует [HealValue] Фокуса в течение [StackTime] секунд. }
 
 needrunestone { Требуется рунный камень }
 
@@ -123,3 +123,5 @@ strength_value { Сила [VALUE] }
 dex_value { Ловкость [VALUE] }
 
 mind_value { Разум [VALUE] }
+
+trinket_equipable { Даже если у вас есть несколько идентичных предметов, единовременно вы можете экипировать только один. }

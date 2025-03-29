@@ -1,6 +1,6 @@
 Achievement_ImmersiveMod_name { Погружение }
 
-Achievement_ImmersiveMod_desc { Закончите игру с режимом сохранения Погружение. }
+Achievement_ImmersiveMod_desc { Закончить Дрова с режимом сохранения Погружение. }
 
 Achievement_CengizWoodcampQuest_name { Хорошее начало }
 
@@ -12,7 +12,7 @@ Achievement_LeftDeepMine_desc { Сбегите из Глубокой шахты 
 
 Achievement_HelpedGeorg_name { О схватках и хитростях }
 
-Achievement_HelpedGeorg_desc { Помогите каждому человеку на ферме Джорджа. }
+Achievement_HelpedGeorg_desc { Помогите каждому человеку на Ферме Георга. }
 
 Achievement_JoinNemeton_name { Часть Семьи }
 
@@ -54,7 +54,7 @@ Achievement_FirstDeath_name { Добро пожаловать в Дрову }
 
 Achievement_FirstDeath_desc { Первая смерть. }
 
-Achievement_FirstArenaFight_name { Я вас не веселю? }
+Achievement_FirstArenaFight_name { Я Вас Не Веселю? }
 
 Achievement_FirstArenaFight_desc { Выиграйте свой первый бой на арене. }
 
@@ -88,7 +88,7 @@ Achievement_LastManStandingFeuertaufe_desc { Станьте последним, 
 
 Achievement_CompletedBrutusMine_name { Свобода! }
 
-Achievement_CompletedBrutusMine_desc { Освободите заключенных. }
+Achievement_CompletedBrutusMine_desc { Освободите заключенных в Яме. }
 
 Achievement_KilledRipperWoodcampAct1_name { Права рука Дженгиз }
 
@@ -188,12 +188,16 @@ Achievement_AllAchievements_desc { Получить все Достижения.
 
 Achievement_ExplorerMode_name { Исследователь }
 
-Achievement_ExplorerMode_desc {  Завершить игру в режиме исследователя. }
+Achievement_ExplorerMode_desc {  Завершить Дрова в режиме исследователя. }
 
 Achievement_HardcoreMode_name { Хардкор }
 
-Achievement_HardcoreMode_desc { Завершите игру в режиме сохранений Hardcore. }
+Achievement_HardcoreMode_desc { Завершите Дрова в режиме сохранений "Хардкор". }
 
 Achievement_ClassicMode_name { Классика }
 
-Achievement_ClassicMode_desc { Завершите игру в классическом режиме. }
+Achievement_ClassicMode_desc { Завершить Дрову в Классическом режиме. }
+
+Achievement_InsaneMode_name { Безумие }
+
+Achievement_InsaneMode_desc { Завершите Дрова в режиме "Безумие". Не засчитывается в базовые достижения. }

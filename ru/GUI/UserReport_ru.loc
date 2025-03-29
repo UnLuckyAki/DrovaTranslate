@@ -22,21 +22,11 @@ dsgvo_accept { Принять }
 
 dsgvo_cancel { Отклонить }
 
-DSGVO_Text { Используя наш инструмент обратной связи, вы даете согласие на обработку следующих данных. 
-Отправляемые данные используются для максимального улучшения игры Drova. 
-Для этого нам нужна некоторая информация, которую мы суммируем в следующем обзоре, а также объясним ее назначение <br><br>. 
-При отправке отчета нам отправляется следующая информация <br>1.1 Скриншот игрового клипа на момент отправки отчета.
-<br>1.2. Ваше текущее сохранение из игры, а также ваше последнее выполненное автосохранение.
-<br>1.3. Информация о вашей системе (операционная система, оперативная память, процессор, видеокарта, разрешение, используемые устройства ввода (мышь, клавиатура, контроллер, ...))
-<br>1.4. Файл журнала, созданный игрой. Он может содержать имя, используемое вашей операционной системой 
-<br>1.5. Введенные вами данные, а также ваш адрес электронной почты, который вы указываете в форме.  
-<br><br>
-2. Эта информация будет использоваться только для целей внутренней оценки и для уведомления отправителя и не будет передана третьим лицам или иным образом использована в коммерческих целях. 
-<br>Когда отправленные данные больше не требуются, они будут удалены. Информация отправляется на наш сервер и хранится там. Сервер размещен на Netcup GmbH.}
+DSGVO_Text { By using our feedback tool, you agree to the processing of the following data. In order to use the submitted data for the purposes of improving the game Drova, require some information,  which is listed and explained in the following summary.<br><br>1. When you submit a report, the following information will be submitted to us:<br>1.1. A screenshot of your game taken at the moment you submit your report;<br>1.2. Your current savegame as well as your latest autosave;<br>1.3. Information about your system (OS, RAM, CPU, GPU, resolution, input devices such as mouse, keyboard, controller);<br>1.4. The log file created by the game. This log file might contain the username associated with your operating system;<br>1.5. The data and the email address you've entered into this form.<br><br>2. This information shall be used for internal analyses as well as for notifying the sender, and shall not be shared with any third parties. Nor shall the information be utilized commercially.<br>As soon as the submitted information is no longer needed, it shall be deleted. The information shall be transferred to our server and stored there. Our server is hosted by Netcup GmbH. }
 
-DSGVO_Title { GDPR }
+DSGVO_Title { GDPR Notice }
 
-Popup_InvalidEmail { Ваш адрес электронной почты имеет недопустимый формат. Проверьте свой адрес электронной почты, чтобы убедиться, что он имеет допустимый формат (name@email.com). }
+Popup_InvalidEmail { Invalid email address format. Please be sure to enter the email address in the format (name@email.com), }
 
-Email_Header { Ваш адрес электронной почты, чтобы мы могу отправить вам восстановленную сохраненную игру. }
+Email_Header { Your email address. That's where we'll send your fixed savegame. }
 

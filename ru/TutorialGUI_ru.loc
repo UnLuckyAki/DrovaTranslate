@@ -1,0 +1,78 @@
+Title { Обучение }
+
+IsTrader { Торговец }
+
+Category_Basics { Основы }
+
+Category_Journal { Журнал }
+
+Category_Combat { Бой }
+
+Category_Items { Предметы }
+
+Name_Movement { Передвижение }
+
+Name_Perception_01 { Режим исследования: Осмотр }
+
+Name_Perception_02 { Режим исследования: Обнаружение }
+
+Name_Perception_03 { Режим исследования: Изучение }
+
+Name_Interact { Взаимодействие }
+
+Name_Stealing { Воровство }
+
+Name_Crafting { Ремесло }
+
+Name_LevelUp { Повышение уровня }
+
+Name_ChangeStance { Изменение стойки }
+
+Name_StatusEffects { Состояния }
+
+Name_UsedHealItem { Лечение }
+
+Name_Journal { Записи в журнале }
+
+Name_FirstNote { Заметки }
+
+Name_FirstTreasure { Карты сокровищ }
+
+Name_Dodge { Уклонение }
+
+Name_SecondWeapon { Смена оружия }
+
+Name_Abilities_02 { Способности }
+
+Name_BattleBuddies_Blocks { Блоки }
+
+Name_BattleBuddies_Combos { Комбинации }
+
+Name_BattleBuddies_GetFlow { Фокус }
+
+Name_BattleBuddies_Spell { Заклинания }
+
+Name_NeedMunition { Боеприпасы }
+
+Name_Secondaries { Действия вне боя }
+
+Name_PoiseBreak { Стойка }
+
+Name_LookDirectionCombat { Линия обзора в бою }
+
+Name_FirstHeal { Лечение }
+
+Name_FirstFood { Еда }
+
+Name_FirstGoodFood { Богатая еда }
+
+Name_FirstWeapon { Типы оружия }
+
+Name_FirstRangeWeapon { Дальнобойное оружие }
+
+Name_FirstConsFlow { Свитки }
+
+Name_FirstThrow { Расходники }
+
+Name_FistRecipe { Рецепты }
+

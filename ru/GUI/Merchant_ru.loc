@@ -1,18 +1,18 @@
 title_splitstack { Разделить товары }
 
-popup_balanceMoney { Заплатить монетами }
+popup_balanceMoney { Уровнять монетами }
 
 popup_giveForFree { Вы уверены, что не хотите ничего взамен? }
 
 popup_valueAboveTrader { Стоимость ваших товаров выше, чем предлагает торговец. <br><br>Вы бы хотели сделать торговцу подарок или вы бы хотели, чтобы он компенсировал разницу монетами? }
 
-popup_valueBelowTrader { Торговец ожидает компенсацию в размере не менее $TRADEVAR:RightTableValue$ монет. }
+popup_valueBelowTrader { Торговец ожидает компенсацию в размере $TRADEVAR:RightTableValue$ монет. }
 
 popup_generic { Хотите ли вы завершить обмен? }
 
-title { Обмен }
+title { Торговля }
 
-Value { Стоимость товара }
+Value { Стоимость товаров }
 
 Trader { Торговец }
 
@@ -22,9 +22,10 @@ Exchange { Обмен }
 
 ExchangeOnly { Только обмен }
 
-popup_valueAboveTrader_NoCurrency { Стоимость ваших товаров выше, чем предлагает торговец. <br><br>Вы бы хотели сделать торговцу подарок? }
+popup_valueAboveTrader_NoCurrency { Ваши товары стоят дороже, чем готов заплатить торговец. <br><br>Желаете просто подарить ему разницу? }
 
 Comment_NoCoins { Я не принимаю монеты. }
 
-SellWholeStack { Добавить/Удалить стопки предметов для обмена. }
+SellWholeStack { Добавить/убрать весь стек предметов для продажи. }
 
+Sell_Ten { Добавить/убрать 10 предметов для продажи. }
