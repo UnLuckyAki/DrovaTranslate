@@ -74,7 +74,7 @@
 | Dialog/NPC_BorisBandit_B_01_ru.loc | ✅    |
 | Dialog/NPC_BorisBandit_C_01_ru.loc | ✅    |
 | Dialog/NPC_Boris_ru.loc | ✅    |
-| Dialog/NPC_Bruna_ru.loc | Машинный перевод    |
+| Dialog/NPC_Bruna_ru.loc | ✅    |
 | Dialog/NPC_Caspara_ru.loc | ✅    |
 | Dialog/NPC_Cengiz_ru.loc | ✅    |
 | Dialog/NPC_Chunnaic_ru.loc | ✅    |
@@ -137,7 +137,7 @@
 | Dialog/NPC_Hajo_ru.loc | ✅    |
 | Dialog/NPC_Harald_ru.loc | ✅    |
 | Dialog/NPC_Harvey_ru.loc | ✅    |
-| Dialog/NPC_Hasso_ru.loc | Машинный перевод    |
+| Dialog/NPC_Hasso_ru.loc | ✅    |
 | Dialog/NPC_Helma_ru.loc | ✅    |
 | Dialog/NPC_Henik_ru.loc | ✅    |
 | Dialog/NPC_Humbert_ru.loc | ✅    |
