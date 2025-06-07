@@ -1,8 +1,8 @@
-SleepBuff { Отдохнувший }
+SleepBuff { Бодрость }
 
 SleepBuffDescription { Увеличивает скорость передвижения на [MovementPercent]. }
 
-Poison { Отравлен }
+Poison { Отравление }
 
 PoisonDescription { Уменьшает вашу скорость передвижения на [MovementPercent] и вашу броню на [ArmorReduce]. }
 
@@ -10,15 +10,15 @@ Bleeding { Кровотечение }
 
 BleedingDescription { Вы периодически теряете здоровье. }
 
-SleepBuff_T2 { Хорошо отдохнувший }
+SleepBuff_T2 { Прилив сил }
 
 Veil_Name { Чёрное пламя }
 
 Veil_Desc { Вы постоянно получаете урон. }
 
-Intoxicated_Name { Пьян }
+Intoxicated_Name { Опьянение }
 
-Intoxicated_Desc { Все выглядит как-то нечетко... }
+Intoxicated_Desc { Всё выглядит как-то нечетко... }
 
 NoFood_Name { Пустой желудок }
 
@@ -27,3 +27,9 @@ NoFood_Desc { Съешьте что-нибудь, чтобы наполнить 
 waterbarrel { Вода }
 
 waterbarrel_description { Восстанавливает здоровье за ​​короткий промежуток времени. }
+
+HealReduction { Страдания Болот }
+
+HealReduction_Desc { Получаемое лечение снижено на [ValuePercent]. }
+
+BlackPuddle_Name { Кровь Болот }

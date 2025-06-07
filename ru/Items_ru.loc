@@ -80,7 +80,7 @@ item_alraune_name { Мандрагора }
 
 item_alraune_description { Кричащий корень. Интересно, для чего он... }
 
-item_callashroom_name { Калла Гриб }
+item_callashroom_name { Каллагриб }
 
 item_callashroom_description { Гриб с болота. }
 
@@ -94,7 +94,7 @@ item_beer_description { Простое пиво. Чем больше пьешь,
 
 item_apple_name { Яблоко }
 
-item_callashroom_extract_name { Экстракт Калла Грибов }
+item_callashroom_extract_name { Экстракт Каллагрибов }
 
 item_callashroom_extract_description { Экстракт, который нужен для талисмана Хелмы. }
 
@@ -342,7 +342,7 @@ weapon_spear_spear_name { Копье Вепря }
 
 weapon_spear_deathRitualSpear_name { Ржавое Копье }
 
-weapon_spear_partisan_name { Партизан }
+weapon_spear_partisan_name { Протазан }
 
 weapon_spear_pilum_name { Пилум }
 
@@ -482,7 +482,7 @@ item_shinyStone_name { Таинственный Кристалл }
 
 item_shinyStone_description { Получено от друида. Мне нужно отнести его в Неметон. }
 
-cons_flow_energyProjectile_name { Магическая Ракета }
+cons_flow_energyProjectile_name { Магический Снаряд }
 
 cons_flow_energyProjectile_description { Вы запускаете магический снаряд по линии видимости, который взрывается при столкновении и наносит [DamageFlexAbs] магического урона. }
 
@@ -580,15 +580,15 @@ item_mineRelic_description { Древняя реликвия Прошедших 
 
 item_rubble_name { Щебень }
 
-Note_BanditMine_name { Реликвия Прошлого }
+Note_BanditMine_name { Реликвия Прошедших }
 
 item_spiritVessel_greatTusk_name { Сосуд Духа }
 
 item_atlanterRune_name { Странная Руна }
 
-item_runestone_name { Рунный Камень }
+item_runestone_name { Камень Рун }
 
-item_runestone_empty_name { Пустой Рунный Камень }
+item_runestone_empty_name { Пустой Камень Рун }
 
 item_packageBrutusMineWeapons_name { Набор Оружия }
 
@@ -598,7 +598,7 @@ key_chest_mineBanditEntry_name { Ржавый Ключ }
 
 key_chest_mineBanditEntry_description { Найден у бандита. }
 
-item_runestone_description { Этот рунный камень обеспечивает прямую связь с магическими силами Могучего Вепря. Используя его, я могу творить заклинания в любое время. }
+item_runestone_description { Этот рунический камень обеспечивает прямую связь с магическими силами Могучего Вепря. Используя его, я могу творить заклинания в любое время. }
 
 cons_Familiar_Firefly_name { Искра }
 
@@ -810,7 +810,7 @@ item_BanditsOnTheBridge_name { Уведомление: Освободите Мо
 
 cons_flow_dash_name { Рывок }
 
-cons_flow_dash_description { Вы стремительно мчитесь по своей линии видимости. }
+cons_flow_dash_description { Вы стремительно перемещаетесь по своей линии видимости. }
 
 cons_flow_aggressiveCry_name { Агрессивный Крик }
 
@@ -956,7 +956,7 @@ item_foodpile_name { Рыбный Омлет}
 
 item_fishpan_name { Жареная Рыба}
 
-item_roastedcallamushroom_name { Жареные Калла Грибы }
+item_roastedcallamushroom_name { Жареные Каллагрибы }
 
 item_roastofthepast_name { Жаркое Прошедших }
 
@@ -1018,7 +1018,7 @@ helmet_antlers_name_name { Шлем Оленя }
 
 helmet_draugr_silver_name_name { Шлем Прошедших }
 
-helmet_earprotection_name_name { Наушники }
+helmet_earprotection_name_name { Беруши }
 
 helmet_ironwings_name_name { Шлем с Железными Крыльями }
 
@@ -1304,7 +1304,7 @@ recipe_flow_conflagration_name { Заклинание: Пламя }
 
 recipe_flow_dash_name { Способность: Рывок }
 
-recipe_flow_energyProjectile_name { Заклинание: Магическая Ракета}
+recipe_flow_energyProjectile_name { Заклинание: Магический Снаряд }
 
 recipe_flow_execute_name { Способность: Кровавое безумие }
 
@@ -1428,7 +1428,7 @@ recipe_potion_windwalker_name { Рецепт: Зелье Блуждающего 
 
 recipe_rivercharm_name { Рецепт: Амулет Реки }
 
-recipe_roastedcallamushroom_name { Рецепт: Жареные Калла Грибы }
+recipe_roastedcallamushroom_name { Рецепт: Жареные Каллагрибы }
 
 recipe_roastofthepast_name { Рецепт: Жаркое Прошедших }
 
@@ -1524,7 +1524,7 @@ item_letter_library_circleRoom_note1_name { Круг Телепортации }
 
 item_letter_library_circleRoom_note2_name { Темное Серебро }
 
-item_letter_library_energyRoom_note_name { Рунные Камни }
+item_letter_library_energyRoom_note_name { Рунические Камни }
 
 item_letter_library_golemRoom_note1_name { Исследование: Магия Природы }
 
@@ -2020,7 +2020,7 @@ item_ironore_description { Нужно переплавить в печи. }
 
 item_trinket_pureDmg_name { Месть Ремесленника }
 
-item_trinket_pureDmg_description { Увеличивает урон наносимый ловушками и метательным на [DamageValuePercent]. }
+item_trinket_pureDmg_description { Увеличивает урон наносимый ловушками и метательным оружием на [DamageValuePercent]. }
 
 item_VoragoFragment_0_name { Фрагмент Эмблемы }
 
@@ -2046,11 +2046,11 @@ item_potion_respec_name { Зелье Забвения }
 
 item_potion_respec_description { Напиток с крепким алкоголем. Говорят, что тот, кто выпьет его, потом об этом уже не вспомнит.<br>(Сбрасывает таланты, изученные за Очки Обучения) }  
 
-weapon_sling_legendarySlingshot_name { Вихрь }  
+weapon_sling_legendarySlingshot_name { Ураган }  
 
-weapon_sling_legendarySlingshot_description { Рогатка окружена ветром, который усиливает её импульс. }  
+weapon_sling_legendarySlingshot_description { Эта праща окружена ветром, который усиливает её импульс. }  
 
-item_letterCelts_Spark_name { Искра Бертина }  
+item_letterCelts_Spark_name { Искра Бертины }  
 
 item_letterCelts_Spark_description { item_letterCelts_Spark_description }  
 
@@ -2058,3 +2058,82 @@ item_letter_library_soundRoom_note2_name { Рога Резонанса }
 
 item_letter_library_soundRoom_note2_description { item_letter_library_soundRoom_note2_description }  
 
+weapon_dagger_draugr_name { Кинжалы Драугра }
+
+weapon_axe_draugr_name { Топор Драугра }
+
+weapon_bow_draugr_name { Лук Драугра }
+
+cons_flow_magicNuke_name { Удар Молнии }
+
+cons_flow_magicNuke_description { Могущественное заклинание, которое наносит [DamageFlexAbs] магического урона и [PoiseDamageAbs] урона стойкости. }
+
+flow_sunder_name { Кара }
+
+flow_sunder_description { Широкий взмах мечом, который наносит [WeaponDamagePercent] магического урона от оружия. Урон зависит от характеристик Силы и Разума. }
+
+flow_ballista_name { Баллиста }
+
+flow_ballista_description { Атака копьём с большой дальностью и отдачей, которая наносит [WeaponDamagePercent] магического урона от оружия. Урон зависит от характеристик Силы и Разума. }
+
+flow_cyclone_name { Вихрь }
+
+flow_cyclone_description { Круговая атака топором, которая наносит [WeaponDamagePercent] магического урона от оружия. Урон зависит от характеристик Силы и Разума. }
+
+flow_dashStab_name { Теневой Рывок }
+
+flow_dashStab_description { Вы стремительно перемещаетесь по линии своего взора, игнорируя столкновения с другими существами и нанося [WeaponDamagePercent] магического урона от оружия. Урон зависит от характеристик Силы и Разума. }
+
+flow_blast_name { Порыв Листа }
+
+flow_blast_description { Вы фокусируете первичную магическую энергию и разряжаете её в направлении вашего взора. Заклинание наносит [DamageFlexAbs] магического урона. }
+
+flow_graspingRoots_name { Зов Корней }
+
+flow_graspingRoots_description { Вы фокусируете первичную магическую энергию, чтобы заставить магические корни выстрелить из земли. Корни удерживают противников в течение [TimeAbs] секунд. }
+
+flow_travelForm_name { Дар Волка }
+
+flow_travelForm_description { Вы фокусируете первичную магическую энергию, чтобы превратить себя в дух волка. Увеличивает скорость передвижения на [MovementPercent]. }
+
+flow_natureTouch_name { Объятия Природы }
+
+flow_natureTouch_description { Вы фокусируете первичную магическую энергию, чтобы исцелять себя на [HealValueAbsolut] в течение [TimeAbs] секунд. Размер лечения зависит от характеристики Разума. }
+
+flow_conjure_spiritCall_name { Зов Первобытного Леса }
+
+flow_conjure_spiritCall_description { Вы фокусируете первичную магическую энергию, чтобы призвать духов Первобытного Леса, которые будут сражаться на вашей стороне в битве. }
+
+key_extractor_name { Ключ-экстрактор }
+
+key_extractor_description { Состоит из трёх частей, которые соединяются в верхней части и открыты в нижней. }
+
+flow_spiritShot_name { Рывок Вепря }
+
+flow_spiritShot_description { Вы фокусируете первичную магическую энергию, чтобы призвать дух кабана, который совершает рывок в противника и наносит [DamageFlexAbs] магического урона. }
+
+helmet_atlanter_champion_name { Лик Чемпиона }
+
+helmet_atlanter_champion_description { Особый шлем Прошедших, вручаемый за выдающиеся подвиги в сражениях. }
+
+recipe_flow_magicnuke_name { Заклинание: Удар Молнии }
+
+recipe_flow_dashstab_name { Заклинание: Теневой Рывок }
+
+recipe_flow_sunder_name { Заклинание: Кара }
+
+recipe_flow_cyclone_name { Заклинание: Вихрь }
+
+recipe_flow_ballista_name { Заклинание: Баллиста }
+
+weapon_sword_ancientRitualSword_name { Древний Ритуальный Меч }
+
+weapon_sword_ancientRitualSword_description {  }
+
+weapon_sword_ancientSword_name { Древний Меч }
+
+weapon_sword_ancientSword_description {  }
+
+weapon_axe_ancientAxe_name { Древний Топор }
+
+weapon_axe_ancientAxe_description {  }
