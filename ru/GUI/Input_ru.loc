@@ -190,7 +190,7 @@ rightshift { RShift }
 
 action_uiSubmit { Применить графический интерфейс }
 
-action_minigameSubmit { Minigame Action }
+action_minigameSubmit { Действие в мини-игре }
 
 action_PrevNavigation { Прошлая вкладка }
 
