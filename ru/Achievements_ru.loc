@@ -1,6 +1,6 @@
-Achievement_ImmersiveMod_name { Погружение }
+Achievement_ImmersiveMod_name { Железо }
 
-Achievement_ImmersiveMod_desc { Закончить Дрова с режимом сохранения Погружение. }
+Achievement_ImmersiveMod_desc { Завершите Дрову в режиме сохранений "Железо". }
 
 Achievement_CengizWoodcampQuest_name { Хорошее начало }
 
@@ -16,15 +16,15 @@ Achievement_HelpedGeorg_desc { Помогите каждому человеку 
 
 Achievement_JoinNemeton_name { Часть Семьи }
 
-Achievement_JoinNemeton_desc { Вступить в Неметон. }
+Achievement_JoinNemeton_desc { Вступите к Неметонцам. }
 
-Achievement_JoinRuinenlager_name { Присоединится к Отступникам }
+Achievement_JoinRuinenlager_name { Вступление к Отступникам }
 
-Achievement_JoinRuinenlager_desc { Присоединится к Отступникам. }
+Achievement_JoinRuinenlager_desc { Вступите к Отступникам. }
 
-Achievement_GotFamiliar_name { Моя искрящаяся маленькая Искорка }
+Achievement_GotFamiliar_name { Моя искрящаяся маленькая Искра }
 
-Achievement_GotFamiliar_desc { Искорка выбрала вас. }
+Achievement_GotFamiliar_desc { Искра выбрала вас. }
 
 Achievement_CaughtBoar_name { Божественность — наша! }
 
@@ -36,7 +36,7 @@ Achievement_GotYourRunestone_desc { Получите ваш Рунный Кам�
 
 Achievement_CompletedLibrary_name { Книжный червь }
 
-Achievement_CompletedLibrary_desc { Заполните Библиотеку. }
+Achievement_CompletedLibrary_desc { Завершите исследование Библиотеки. }
 
 Achievement_CompletedAuwald_name { Один в Лесу }
 
@@ -68,7 +68,7 @@ Achievement_BloodborneAchievement_desc { Охотник должен охоти�
 
 Achievement_BertineRevenge_name { Око за Око, Зуб за Зуб }
 
-Achievement_BertineRevenge_desc { Помогите Бертине отомстить в последний раз. }
+Achievement_BertineRevenge_desc { Помогите Бертине свершить свою последнюю месть. }
 
 Achievement_Schnitzeljagd_name { Охота за сокровищами }
 
@@ -90,9 +90,9 @@ Achievement_CompletedBrutusMine_name { Свобода! }
 
 Achievement_CompletedBrutusMine_desc { Освободите заключенных в Яме. }
 
-Achievement_KilledRipperWoodcampAct1_name { Права рука Дженгиз }
+Achievement_KilledRipperWoodcampAct1_name { Права рука Дженгиза }
 
-Achievement_KilledRipperWoodcampAct1_desc { Убейте вожака стаи потрошителей возле Лагеря Дровосеков в первом акте. }
+Achievement_KilledRipperWoodcampAct1_desc { Убейте вожака стаи Потрошителей возле Лагеря Лесорубов в первом акте. }
 
 Achievement_HelpedSickSister_name { Самаритянин }
 
@@ -104,11 +104,11 @@ Achievement_KilledBearBeforeAct2_desc { Убейте медведя в перв�
 
 Achievement_KilledOlafRipper_name { Вредителем меньше }
 
-Achievement_KilledOlafRipper_desc { Позаботьтесь о проблеме Олафа Потрошителя. }
+Achievement_KilledOlafRipper_desc { Решите проблему Олфа с Потрошителями. }
 
 Achievement_KilledDiemo_name { Без выбора }
 
-Achievement_KilledDiemo_desc { Встретьтесь с местью Димо. }
+Achievement_KilledDiemo_desc { Столкнитесь с местью Диемо. }
 
 Achievement_GaveCayFamiliar_name { Поросенок по имени Кей }
 
@@ -116,7 +116,7 @@ Achievement_GaveCayFamiliar_desc { Отдайте часть себя, чтоб�
 
 Achievement_StoppedMurtaghAndMursel_name { Я - закон }
 
-Achievement_StoppedMurtaghAndMursel_desc { Восстанови справедливость в Яме в лагере Отступников. }
+Achievement_StoppedMurtaghAndMursel_desc { Восстановите справедливость в Яме в лагере Отступников. }
 
 Achievement_LeftMine100Silver_name { Это Мое Серебро! }
 
@@ -124,7 +124,7 @@ Achievement_LeftMine100Silver_desc { Покиньте Яму в Лагере О�
 
 Achievement_UndertookJourneyToRoots_name { Един с Древним Лесом }
 
-Achievement_UndertookJourneyToRoots_desc { Отправься в путь к корням Матери. }
+Achievement_UndertookJourneyToRoots_desc { Отправьтесь в путешествие к корням Матери. }
 
 Achievement_FedMikesch10Fish_name { Микеш Пожиратель }
 
@@ -132,15 +132,15 @@ Achievement_FedMikesch10Fish_desc { Накормите Микеша 10 рыба�
 
 Achievement_InteractedWithAllUniqueCritters_name { Заклинатель Животных }
 
-Achievement_InteractedWithAllUniqueCritters_desc { Пообщайтесь с каждым уникальным животным в Дрова. }
+Achievement_InteractedWithAllUniqueCritters_desc { Пообщайтесь с каждым уникальным животным в Дрове. }
 
 Achievement_LearnedFromBady_name { Покоритель Арены }
 
-Achievement_LearnedFromBady_desc { Победить Бади в честном бою. }
+Achievement_LearnedFromBady_desc { Победитьте Бади в честном бою. }
 
 Achievement_TookAllDrugs_name { Затянуться по полной }
 
-Achievement_TookAllDrugs_desc { Попробуй все наркотики в Дрове. }
+Achievement_TookAllDrugs_desc { Попробуйте все наркотики в Дрове. }
 
 Achievement_GotRelicFromRuinenraeuber_name { Скрыто, но не Забыто }
 
@@ -148,35 +148,35 @@ Achievement_GotRelicFromRuinenraeuber_desc { Завершите реликвию
 
 Achievement_FinishedPwyllConversation_name { Все началось, когда... }
 
-Achievement_FinishedPwyllConversation_desc { Получить уникальный подарок от Пвилла. }
+Achievement_FinishedPwyllConversation_desc { Получитьте уникальный подарок от Пуйла. }
 
 Achievement_FoundAtlanterWeapon_name { Наследие Прошедших }
 
-Achievement_FoundAtlanterWeapon_desc { Найти древнее оружие. }
+Achievement_FoundAtlanterWeapon_desc { Найдите древнее оружие. }
 
-Achievement_CraftedEpicArmor_name { Ничто не навредит! }
+Achievement_CraftedEpicArmor_name { Ничто не навредит вам! }
 
-Achievement_CraftedEpicArmor_desc { Получить доспех прошедших. }
+Achievement_CraftedEpicArmor_desc { Получите комплект доспехов Прошедших. }
 
 Achievement_WonAgainstBrutus_name { Последний Владыка Прошедших }
 
-Achievement_WonAgainstBrutus_desc { Победить Дриваниуса. }
+Achievement_WonAgainstBrutus_desc { Победитьте Дриваниуса. }
 
 Achievement_JoinedRustmossBusiness_name { Часть сделки }
 
-Achievement_JoinedRustmossBusiness_desc { Торговать Ржавым Мхом. }
+Achievement_JoinedRustmossBusiness_desc { Начните торговлю Ржавым Мохом. }
 
 Achievement_TrustedGawan_name { Полное доверие }
 
-Achievement_TrustedGawan_desc { Поверь Гавану и его деловому чутью. }
+Achievement_TrustedGawan_desc { Поверьте Гавану и его деловому чутью. }
 
 Achievement_DefaultEnding_name { Всё кончается }
 
-Achievement_DefaultEnding_desc { Пережить историю до горького конца. Ты вызвал гнев Божеств и развеял Туман Смерти. }
+Achievement_DefaultEnding_desc { Вы испытали историю вплоть до её горького конца. Вы пробудили гнев Божеств и рассеяли Смертоносный туман. }
 
 Achievement_OptionalEnding_name { Новые пути }
 
-Achievement_OptionalEnding_desc { Пережить историю до горького конца. Ты успокоил Божеств и развеял Туман Смерти. }
+Achievement_OptionalEnding_desc { Вы испытали историю вплоть до её горького конца. Вы умиротворили Божеств и рассеяли Смертоносный туман. }
 
 Achievement_EnteredNemeton_name { Я найду путь! }
 
@@ -184,15 +184,15 @@ Achievement_EnteredNemeton_desc { Найдите путь в Неметон. }
 
 Achievement_AllAchievements_name { Дровастично! }
 
-Achievement_AllAchievements_desc { Получить все Достижения. }
+Achievement_AllAchievements_desc { Получитьтне все Достижения. }
 
 Achievement_ExplorerMode_name { Исследователь }
 
-Achievement_ExplorerMode_desc {  Завершить Дрова в режиме исследователя. }
+Achievement_ExplorerMode_desc { Завершите Дрову в режиме исследователя. }
 
 Achievement_HardcoreMode_name { Хардкор }
 
-Achievement_HardcoreMode_desc { Завершите Дрова в режиме сохранений "Хардкор". }
+Achievement_HardcoreMode_desc { Завершите Дрову в режиме сохранений "Хардкор". }
 
 Achievement_ClassicMode_name { Классика }
 
@@ -200,4 +200,9 @@ Achievement_ClassicMode_desc { Завершить Дрову в Классиче
 
 Achievement_InsaneMode_name { Безумие }
 
-Achievement_InsaneMode_desc { Завершите Дрова в режиме "Безумие". Не засчитывается в базовые достижения. }
+Achievement_InsaneMode_desc { Завершите Дрову в режиме "Безумие". Не учитывается при получении базовых достижений. }
+
+Achievement_DefeatedFleshBoss_name { Освободите Божество в Гнилом Болоте. }
+
+Achievement_DefeatedFleshBoss_desc { Обеспечьте восстановление Гнилого Болота. Не учитывается при получении базовых достижений. }
+
