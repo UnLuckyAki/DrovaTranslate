@@ -104,7 +104,7 @@ Achievement_KilledBearBeforeAct2_desc { Убейте медведя в перв�
 
 Achievement_KilledOlafRipper_name { Вредителем меньше }
 
-Achievement_KilledOlafRipper_desc { Решите проблему Олфа с Потрошителями. }
+Achievement_KilledOlafRipper_desc { Решите проблему Олафа с Потрошителями. }
 
 Achievement_KilledDiemo_name { Без выбора }
 
@@ -136,7 +136,7 @@ Achievement_InteractedWithAllUniqueCritters_desc { Пообщайтесь с к�
 
 Achievement_LearnedFromBady_name { Покоритель Арены }
 
-Achievement_LearnedFromBady_desc { Победитьте Бади в честном бою. }
+Achievement_LearnedFromBady_desc { Победите Бади в честном бою. }
 
 Achievement_TookAllDrugs_name { Затянуться по полной }
 
@@ -148,7 +148,7 @@ Achievement_GotRelicFromRuinenraeuber_desc { Завершите реликвию
 
 Achievement_FinishedPwyllConversation_name { Все началось, когда... }
 
-Achievement_FinishedPwyllConversation_desc { Получитьте уникальный подарок от Пуйла. }
+Achievement_FinishedPwyllConversation_desc { Получите уникальный подарок от Пуйла. }
 
 Achievement_FoundAtlanterWeapon_name { Наследие Прошедших }
 
@@ -160,7 +160,7 @@ Achievement_CraftedEpicArmor_desc { Получите комплект доспе
 
 Achievement_WonAgainstBrutus_name { Последний Владыка Прошедших }
 
-Achievement_WonAgainstBrutus_desc { Победитьте Дриваниуса. }
+Achievement_WonAgainstBrutus_desc { Победите Дриваниуса. }
 
 Achievement_JoinedRustmossBusiness_name { Часть сделки }
 
@@ -184,7 +184,7 @@ Achievement_EnteredNemeton_desc { Найдите путь в Неметон. }
 
 Achievement_AllAchievements_name { Дровастично! }
 
-Achievement_AllAchievements_desc { Получитьтне все Достижения. }
+Achievement_AllAchievements_desc { Получите все Достижения. }
 
 Achievement_ExplorerMode_name { Исследователь }
 

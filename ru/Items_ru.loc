@@ -20,7 +20,7 @@ item_redHerb_description { Растет на болоте. }
 
 item_meat_raw_name { Сочное мясо }
 
-item_meat_raw_description { Все ещё сырое. Не пригодно для употребления в пищу. }
+item_meat_raw_description { Все ещё сырое. Непригодно для употребления в пищу. }
 
 item_farmersFood_name { Фермерское Рагу }
 
@@ -820,7 +820,7 @@ cons_flow_battleCry_name { Боевой Крик }
 
 cons_flow_battleCry_description { Увеличивает наносимый урон на [DamagePercent], скорость передвижения и атаки на [MovePercent], но вы также получите на [ReceiveDamagePercent] больше урона. Эффект длится [TimeAbs] секунд. }
 
-cons_flow_bullRush_name { Заряд }
+cons_flow_bullRush_name { Рывок }
 
 cons_flow_bullRush_description { Вы бросаетесь вперёд, нанося [DamageFlexAbs] физического урона. }
 
@@ -1302,7 +1302,7 @@ recipe_flow_bullRush_name { Способность: Заряд }
 
 recipe_flow_conflagration_name { Заклинание: Пламя }
 
-recipe_flow_dash_name { Способность: Рывок }
+recipe_flow_dash_name { Способность: Порыв }
 
 recipe_flow_energyProjectile_name { Заклинание: Магический Снаряд }
 
