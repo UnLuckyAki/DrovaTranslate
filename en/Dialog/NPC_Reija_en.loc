@@ -84,15 +84,15 @@ Plh_11 { You should be careful about where you wander off. Pride goeth before a 
 
 Plh_413 { I am Reija, the resident Ruin Raider down here. What's up? }
 
-Plh_260 { Hey, Reija, are you coming from the tavern? Is it true what I've heard? That the Forest Primeval has been destroyed? }
+Plh_260 { On your way to the ruin again, Reija? Oh, and not alone this time, I see? }
 
-Plh_352 { Yes, Babsi, it's all true. And it is... It's just terrible. The tavern is full of wounded. }
+Plh_352 { The camps need assistance again, because they can't get anything done on their own. }
 
-Plh_353 { Still... You're traveling with someone from the Nemeton? I'd never have expected that of you. }
+Plh_353 { Still, I never expected you to travel with someone from Nemeton. }
 
-Plh_422 { These are unprecedented times. For all of us. }
+Plh_422 { If we don't help each other out in difficult times, we might as well wander back into the fog. }
 
-Plh_264 { Well, good luck then! And don't venture in too deep. }
+Plh_264 { You've got a point there. Well, good luck with your mysterious tasks. }
 
 Plh_265 { See you, Babsi. }
 
@@ -358,19 +358,19 @@ Plh_218 { Pretty awesome what the Bygones came up with. Crazy and fascinating...
 
 Plh_219 { Fortunately, we've gotten out. }
 
-Plh_220 { I'll stay here and rest for a bit. I always tell Olaf that it's worth working with the factions, but the pigheaded fool doesn't want to. He thinks he knows better. }
+Plh_220 { I'll stay here and rest for a bit. I always tell Olaf that it's worth working with the factions, but the pigheaded fool doesn't want to. Huh. }
 
 Plh_221 { You're working with Olaf? }
 
-Plh_222 { Why doesn't he want to work with the factions? }
+Plh_222 { Why doesn't he want to? }
 
 Plh_506 { Well, I belong to you at least as much as to my faction. }
 
-Plh_224 { *bites her lips* Well, I wouldn't call that "working with." I do hang out in the tavern a lot — that's how we meet and talk. }
+Plh_224 { *bites her lips* I wouldn't call that "working with." Well, I do hang out in the tavern a lot — that how we meet and talk. }
 
-Plh_225 { He's staying out of the conflict between the Nemeton and the Remnants — at least for now. But after the destruction of the Forest Primeval, he's going to have to choose sides. }
+Plh_225 { He keeps out of the conflict between the Nemeton and the Remnants. But after the destruction of the Forest Primeval, let's hope he'll soon understand that he cannot remain neutral. }
 
-Plh_507 { I hear you're doing a good job for both sides. I'm curious to know where that's going to lead you. }
+Plh_507 { Yeah, I hear you're doing a good job for both sides. I'm curious where that's going to lead you. }
 
 Plh_508 { See you at the hideout. }
 
@@ -441,328 +441,4 @@ Plh_513 { Did you discover something else? }
 Plh_514 { I found an interesting document. Take a look at this... }
 
 Plh_518 { I don't know exactly what this means, but one day we'll know. }
-
-Plh_569 { Have you managed to form an opinion about the events in the Forest Primeval? }
-
-Plh_568 { I'm not sure yet. If it's true what you say about the Boar's plan... }
-
-Plh_570 { But why would a Divinity relinquish itself and its forest? Doesn't sound like something Divinities usually aspire to... }
-
-Plh_571 { Should it be true, then momentous things will happen in Drova. And the Mighty Boar will be needed to bring them forth... }
-
-Plh_572 { Could the Boar know about the factions' plans and want them to enter the Red Tower? }
-
-Plh_573 { And if so... To what end? }
-
-Plh_574 { We are mere mortals. We will never fully comprehend the Divinities. }
-
-Plh_575 { Hm... I can only make a guess... }
-
-Plh_576 { Ha! Spoken like a true Druid... }
-
-Plh_699 { You've given me enough food for thought for now. Let's continue this conversation later. }
-
-Plh_577 { Well? }
-
-Plh_578 { Maybe the Divinity has realized that with its help, we can empower Nemeton and bring peace to Drova? }
-
-Plh_579 { Maybe the Divinity lost all hope for Drova and wants to escape it as much as we do? }
-
-Plh_580 { Maybe it has something to do with Drivanius's research? }
-
-Plh_581 { Maybe it realized that others could use its power for a better cause? }
-
-Plh_582 { I don't know... It doesn't feel right to speculate. }
-
-Plh_583 { Sounds exactly like what I've come to expect from followers of the Nemeton... }
-
-Plh_585 { That wouldn't be a great prospect. For anyone. But what else can you expect from the Remnants... }
-
-Plh_584 { Maybe. Hm... Interesting. That would be consistent with the goal of entering the Red Tower. }
-
-Plh_586 { Hard to imagine. Divine power belongs to the Divinities. }
-
-Plh_587 { Speculation is the first step to insight. But I understand your reluctance. }
-
-Plh_603 { Would you like to tell me about the faction's goal, after all? }
-
-Plh_557 { With the Divinity's help, we'll enter the Red Tower and escape Drova. }
-
-Plh_558 { We'll use the spirit vessel to enter the Red Tower, so we can discover the means to make Drova safe for everyone. }
-
-Plh_600 { No. Our goals are nobody's business. }
-
-Plh_601 { The Red Tower... interesting. }
-
-Plh_602 { Hm. Suit yourself. }
-
-Plh_694 { Honestly... no. }
-
-Plh_590 { Your faction did exactly what they thought was right. And it can't be taken back. }
-
-Plh_589 { The consequences are terrible for the inhabitants of the Forest Primeval. I feel sorry for them. }
-
-Plh_591 { You want to enter the Red Tower. Uncover the secrets of the Bygones. No matter the cost. }
-
-Plh_592 { They say it contains tremendous knowledge and great treasures... }
-
-Plh_593 { But does this justify the path your faction decided to take? }
-
-Plh_597 { Sometimes, you must move forward more recklessly in order to effect change. }
-
-Plh_604 { I hope so. Only the future will tell. }
-
-Plh_605 { I don't know. It could lead into the Red Tower... }
-
-Plh_606 { You could have been a bit less reckless and still achieved your goal. }
-
-Plh_607 { Had the people of Drova been warned about what's going to happen, a lot of pain could have been prevented. }
-
-Plh_612 { I warned the people of the Refuge! }
-
-Plh_613 { It can't be helped now. }
-
-Plh_611 { No one could have foreseen what this would do to the Forest Primeval. }
-
-Plh_615 { And they still didn't flee? }
-
-Plh_673 { The Mighty Boar allowed the expedition to proceed. No one is questioning its decision. }
-
-Plh_674 { I don't think they expected the consequences to be quite so dire. The Mighty Boar allowed the expedition to proceed, after all. }
-
-Plh_542 { The Mighty Boar WANTED it to happen? That makes no sense... }
-
-Plh_552 { I don't quite understand it either. }
-
-Plh_553 { I went to see the Boar... together with Diemo from the Refuge. }
-
-Plh_647 { It's the Divinities. Many tried to make sense of them, but they're completely alien beings... They're not human. }
-
-Plh_556 { You met it? Before all this unfolded? What happened then? }
-
-Plh_684 { The Mighty Boar indicated that we are not to interfere. }
-
-Plh_685 { Apparently, the Mighty Boar planned for everything to happen. }
-
-Plh_686 { That's... remarkable... }
-
-Plh_687 { Not only did you see the Divinity, you even communed with it. That's amazing. }
-
-Plh_689 { That's what it... told you? }
-
-Plh_690 { Rather, it... insinuated. }
-
-Plh_691 { It answered our questions. But it wasn't using words. }
-
-Plh_697 { That's right. But it's still important to reflect upon it. }
-
-Plh_698 { We need to learn from our mistakes, lest we repeat them. }
-
-Plh_614 { Nobody? I'm sure the druid had some semblance of an idea what might happen. They might have been willing to accept that in order to further your faction's cause. }
-
-Plh_608 { It will indeed. And then you'll learn whether hope is going to be enough. }
-
-Plh_609 { At least you have doubts, instead of just blindly obeying. All actions have consequences. We'll see how things will unfold. }
-
-Plh_595 { It's terrible, what has happened. And how the people of the Forest Primeval are suffering. }
-
-Plh_596 { If I knew more about what motivated your faction's acts, I could certainly comprehend them better. }
-
-Plh_702 { In the ruins atop the knoll in the Floodplain Forest, I found a remarkably rude man. I think it's Monko. }
-
-Plh_703 { I've found a body in the ruins atop the knoll in the Floodplain Forest. It was Monko. }
-
-Plh_704 { That does sound like Monko. Well, he's alive then. He indeed found a way to the top of the knoll. He's even crazier than I am. }
-
-Plh_708 { But it was his decision to venture there by himself. To his ruin. I only hope he'll return alive and well. }
-
-Plh_705 { It's dangerous what we do, but now at least I know that he's dead. Pity, he didn't deserve this... The best always die first. }
-
-Plh_707 { Thank you. }
-
-Plh_651 { I've met them before. While I was searching for Drivanius. }
-
-Plh_652 { Good. Well, for us. In that case, you probably know how to best deal with them. }
-
-Plh_655 { Take point. I'll watch your back. }
-
-Plh_618 { Before we continue on... I was thinking about the Forest Primeval. }
-
-Plh_619 { I believe we should indeed attempt to enter the Red Tower. Its secrets are crucial to Drova's fate. }
-
-Plh_620 { If only you abide by the Mighty Boar's wishes — who am I to argue? }
-
-Plh_623 { Then the Divinity needed to be captured. But this means only that the Boar is playing along, not that it's pursuing the same goal. }
-
-Plh_624 { So, now everyone needs to just acquiesce? Even me? Even though I don't believe in the path your faction took? }
-
-Plh_625 { I'm certain that Drivanius's research is the key to to Drova's future. }
-
-Plh_628 { I trust the way of the Remnants. }
-
-Plh_629 { I trust the way of the Nemeton. }
-
-Plh_630 { If only I could see another path. }
-
-Plh_634 { I, too, put my hopes into Drivanius's research. He alone could have found a way to unite Drova. }
-
-Plh_631 { Well, you're part of them. And you've gotten so far. So, good for you. But I cannot believe in that. I can only hope that you're right. }
-
-Plh_633 { Enough chitchat. We're getting close. }
-
-Plh_632 { I'm sure it exists... }
-
-Plh_635 { We won't know until you've reached the Red Tower. }
-
-Plh_626 { We need to find out more about Drivanius's research. It could still turn Drova's fate around. }
-
-Plh_627 { We cannot turn back, but... would you like to change the path that has been taken? }
-
-Plh_621 { The Remnants set in motion events that can't be reversed. Now we'll all have to live with the consequences. Everyone in all of Drova. }
-
-Plh_622 { The Nemeton set in motion events that can't be reversed. Now we'll all have to live with the consequences. Everyone in all of Drova. }
-
-Plh_653 { I've faced one of them before. Near the entrance to Drivanius's chamber. They're dangerous. }
-
-Plh_654 { Oh, it's quite peaceful — never mind, forget it! }
-
-Plh_519 { Wounded? What happened? }
-
-Plh_520 { All life left the Forest Primeval. The Heath was overrun. The people fled from the Refuge. Shadowrippers appeared directly outside the tavern... }
-
-Plh_521 { Oh no, that's horrible ... what ... Evi! What about Evi! Is she all right? }
-
-Plh_524 { She was injured, but she's already up and about. I treated her wounds as best as I could. }
-
-Plh_523 { Oh, what a relief! I don't particularly care for the Remnants, but... You seem to be good people. Somewhat. }
-
-Plh_527 { But... What happened to the Forest Primeval? Isn't it being protected by a Divinity? }
-
-Plh_528 { Apparently not. The Divinity is either weakened or has disappeared. Could have something to do with the Remnants' expedition into the Forest Primeval... *gives you side eye* }
-
-Plh_530 { Horrible... I hope the Divinity shows up again, otherwise Drova will become quite dangerous. }
-
-Plh_665 { Usually you're on your own, aren't you? }
-
-Plh_531 { $GVAR:EVars_Player.Name$ needs my help. The Remnants are looking for something in the ruins. }
-
-Plh_532 { And you're helping? I didn't know you were that altruistic. }
-
-Plh_534 { Well, there's something in it for me, too. And four eyes see better than two. }
-
-Plh_535 { $GVAR:EVars_Player.Name$ needs my help. The Nemeton are looking for something in the ruins. }
-
-Plh_529 { Apparently not. The Divinity is either weakened or has disappeared. Could have something to do with the Nemetons' expedition into the Forest Primeval... *gives you side eye* }
-
-Plh_526 { That's reassuring. Perhaps not everything people say about the Nemeton is false. }
-
-Plh_522 { Yes, she'll survive. But she's hurt, and she'll need to stay in the tavern a while longer. }
-
-Plh_525 { What a relief. I'll go look after her. }
-
-Plh_536 { Wait... Before we go in... }
-
-Plh_683 { There's one question that's been bugging me... }
-
-Plh_537 { The expedition into the Forest Primeval... The people from the Refuge were living there. They said the Divinity disappeared. Is that really true? }
-
-Plh_549 { I can't speak to that. }
-
-Plh_550 { We've captured the Divinity. }
-
-Plh_540 { *raises an eyebrow* You can't? Or you won't? }
-
-Plh_658 { I can't. }
-
-Plh_659 { I won't. }
-
-Plh_656 { You enjoy doing what others tell you, don't you? }
-
-Plh_660 { All right, let's move on. }
-
-Plh_657 { Hmph... sheer stubbornness. }
-
-Plh_548 { You did WHAT? Did you have anything to do with that? }
-
-Plh_538 { I really can't talk about that. }
-
-Plh_539 { Yes, I was with the group. }
-
-Plh_541 { *looks at you expectantly* }
-
-Plh_554 { We did it for Nemeton! }
-
-Plh_555 { We did it for the Remnants! }
-
-Plh_544 { I didn't want to, but there was nothing I could do. }
-
-Plh_545 { The expedition has the blessing of the Mighty Boar. }
-
-Plh_547 { What did your faction hope to accomplish? }
-
-Plh_559 { That's none of your business. }
-
-Plh_560 { If you say so... Let's move on. }
-
-Plh_561 { *furrows her brow* The Red Tower... which nobody has ever entered. You captured the Divinity in order to gain entrance. Was that worth the Forest Primeval? }
-
-Plh_563 { I'm not sure. The Red Tower is a mystery. }
-
-Plh_566 { We shouldn't have done it. It was too high a price. }
-
-Plh_564 { Using the Red Tower, the druids will be able to enhance Nemeton's ascendency. Everyone in Drova would benefit. }
-
-Plh_565 { If it leads to our leaving Drova, every sacrifice will have been worth it. }
-
-Plh_562 { It was, indeed. I hope that one day we'll uncover its secrets and gain the knowledge it contains. Oh, and I'm sure there are treasures, too. }
-
-Plh_567 { Enough of this. Let's move on. The Library awaits! }
-
-Plh_700 { A moment ago, you said the Mighty Boar itself wanted it all to happen. I'm sure it was aware of the kind of sacrifice expected of it. }
-
-Plh_648 { Looks like it. }
-
-Plh_649 { A nice thought. But nothing more than that for now. Will it come to pass...? }
-
-Plh_650 { I guess the people from the Refuge would disagree. }
-
-Plh_551 { Surely, it's a hard thing to bear — having decisions made about you. And you don't get a say in them. }
-
-Plh_546 { I guess that's the freedom you relinquish once you've joined a faction... }
-
-Plh_692 { But I wonder... }
-
-End_MussLos { I should break with my faction... }
-
-Plh_636 { Yes. The factions aren't the only ones studying the Bygones. Olaf, a few others, and I are trying to learn more about them as well. }
-
-Plh_681 { You question the acts of your faction. You want to walk your own path. }
-
-Plh_682 { We can help you. We might have exactly what you're looking for. }
-
-Plh_637 { Talk to Olaf. I'm not allowed to tell you anything, but he's on to something big. Maybe he'll find an alternative to the factions' plans. }
-
-Plh_640 { He doesn't trust the factions. He tries to stay out of their business as much as possible. }
-
-Plh_641 { The destruction of the Forest Primeval illustrates the ruthlessness with which they are pursuing their goals... }
-
-Plh_642 { But we'll gain entrance to the Red Tower only if we can manage to come to an arrangement with the factions. }
-
-Plh_643 { Olaf could probably use allies from the camps. }
-
-Plh_638 { I'm glad you're not blindly pursuing your faction's goals. And I hope you'll be there when your camp enters the Red Tower. }
-
-Plh_639 { I'd be a bit less worried if I knew that the people entering had a modicum of common sense. Who knows what awaits you in there. }
-
-Plh_644 { For now, you'd better find the rest of the relics. Otherwise we'll never know whether placing our hope onto Drivanius has been in vain. }
-
-Plh_645 { With the knowledge gained from Drivanius's research, I'm sure you'll be able to effectuate something in there. }
-
-Plh_667 { I understand that thought. Really, I do. But still... You shouldn't do it. }
-
-Plh_668 { Think about it. Who's capable of entering the Red Tower? Only the factions. }
-
-Plh_678 { We Ruin Raiders don't have the means. We're really lucky to have you. }
-
-Plh_680 { Someone who doesn't just blindly pursue their faction's goals — that's the kind of person we need in the Red Tower to make the best use of the knowledge it contains. }
 

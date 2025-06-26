@@ -654,7 +654,7 @@ R_Working_RunIntoRoom_326 { What is this? }
 
 R_Working_RunIntoRoom_327 { There could be something here. Help us look around. }
 
-R_Working_RunIntoRoom_WarningPlayer_328 { Watch out! Don't want to be surprised by the guard! }
+R_Working_RunIntoRoom_WarningPlayer_328 { Watch out! Don't want to be surprised be the guard! }
 
 GoToEggs_329 { This way! }
 

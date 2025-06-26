@@ -34,7 +34,7 @@ Plh_323 { Here are the coins from Leyna. }
 
 Plh_335 { I want to fight in the arena. But Proximus won't let me. }
 
-Plh_337 { I wouldn't be Boris if I couldn't help you with that. *grins* }
+Plh_337 { I wouldn't be Boris if I couldn't help you with that. *smirks* }
 
 Plh_338 { But first, you help me. Then I'll work on Proximus. }
 
@@ -62,7 +62,7 @@ Plh_300 { There are two Blades of Jero here in the camp. To have any chance of j
 
 Plh_301 { And the other, smarter, more handsome, and more popular of them... }
 
-Plh_302 { ... is me. *grins* }
+Plh_302 { ... is me. *smirks* }
 
 Plh_303 { What exactly does "win you over" mean? }
 
@@ -100,7 +100,7 @@ Plh_261 { Don't worry, Boris. After all, you're sending your best. Me. }
 
 Plh_266 { Once I'm back from this damn expedition, we'll get back to taking care of business. }
 
-Plh_267 { And that's why you're the best member of my team, Lindon. *smiles* }
+Plh_267 { And that's why you're the best member of my team, Lindon. *smirks* }
 
 Plh_286 { Lindon, you old scumbag... }
 
@@ -272,7 +272,7 @@ Plh_334 { Now go and do whatever it is you do. }
 
 Plh_333 { If you want to earn some easy coin... Proximus is always looking for skilled people to fight in the arena. I'll put in a good word for you, then he should let you battle. }
 
-Plh_331 { Yes, that's Leyna. You always have to give her enough to keep her curious, but not enough to enable her to really know anything. *smirks* }
+Plh_331 { Yes, that's Leyna. You always have to give her enough to keep her curious, but too little to enable her to really know anything. *smirks* }
 
 Plh_69 { I've dealt all the stuff. Here are your $GVAR:QuestVars_JobForBoris_Config.NeededMoney$ coins. }
 
@@ -290,11 +290,11 @@ Plh_253 { You can always count on me for a small donation. Partners in crime. }
 
 Plh_252 { Maybe I'll be one of you someday. And then you won't want me as your enemy. }
 
-Plh_254 { *grins* You know what? I like you. }
+Plh_254 { *smirks* You know what? I like you. }
 
 Plh_255 { Here's a little bonus. I could use someone like you in my squad. This camp can never have enough hustlers. *winks* }
 
-Plh_345 { You've got my vote. I'm a man of my word. If you want to join the Remnants, this vote is worth its weight in gold. *smiles* }
+Plh_345 { You've got my vote. I'm a man of my word. If you want to join the Remnants, this vote is worth its weight in gold. *smirks* }
 
 Plh_256 { You think I'm scared of someone like you? If you were Eugen, that line might work, but a wimp like you has no business being here. }
 
@@ -302,7 +302,7 @@ Plh_79 { Seems like you've got a talent for it. Don't you want to get into the b
 
 Plh_221 { We can always use someone like you. }
 
-Plh_222 { Stick with good old Boris, here. You won't regret it. *grins* }
+Plh_222 { Stick with good old Boris, here. You won't regret it. *smirks* }
 
 Plh_219 { Those coins aren't enough. Don't come back to me until you've got more. }
 
@@ -356,7 +356,7 @@ Plh_66 { Just a moment. I ought to get $GVAR:QuestVars_LucrativeBusiness_Config.
 
 Plh_68 { So, here are your $GVAR:QuestVars_LucrativeBusiness_Config.BorisPackagePriceTrick$ coins. As contracted with Asmus. }
 
-Plh_248 { Then Asmus can really and truly torch off at the "Festival of Fire," eh? *grins mischievously* }
+Plh_248 { Then Asmus can really and truly torch off at the "Festival of Fire," eh? *smirks mischievously* }
 
 Plh_67 { Just wanted to test your memory. Here are your $GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$ coins, as agreed with Asmus. }
 
@@ -370,7 +370,7 @@ Plh_348 { What do I have to do so that you'll accept me into your squad? }
 
 Plh_347 { If you want to join my squad, you'll have to win over two of my people. If that happens, I'll tell Kilian. Then he'll have to decide whether you're really accepted. But I've got another idea... }
 
-Plh_174 { *grins* Check it out. If you bring me $GVAR:QuestVars_VoteFromBoris_Config.VoteMoneyValue$ coins, I'll accept you immediately. Now. Right here and now. You won't have to prove anything to anyone. }
+Plh_174 { *smirks* Check it out. If you bring me $GVAR:QuestVars_VoteFromBoris_Config.VoteMoneyValue$ coins, I'll accept you immediately. Now. Right here and now. You won't have to prove anything to anyone. }
 
 Plh_245 { Of course, that'll be an exception — because I like you. And not because I wanted to steal coins from you, or anything as despicable as that. }
 
@@ -400,7 +400,7 @@ Plh_293 { If you change your mind, you know where to find me. }
 
 Plh_189 { Deal my Rustmoss, then we can talk further. }
 
-Plh_191 { Ester told me about you. That's saying something. *smiles* She seemed happy, somehow. I wonder what you did to her... }
+Plh_191 { Ester told me about you. That's saying something. *smirks* She seemed happy, somehow. I wonder what you did to her... }
 
 Plh_192 { Gera advised me to accept you. Strange thing — it's been ages since anyone has convinced her. Anyway, you've got her vote. }
 
@@ -408,7 +408,7 @@ Plh_193 { For the last few days, Lindon looked like something the cat dragged in
 
 Plh_294 { Eugen mentioned your name to me. Not bad. Only a few people manage that. }
 
-Plh_194 { Enough people want you to join us. I don't want to stand in the way. I would have preferred the coins, though. *smiles* Welcome, then. }
+Plh_194 { Enough people want you to join us. I don't want to stand in the way. I would have preferred the coins, though. *smirks* Welcome, then. }
 
 Plh_196 { Go see Kilian in the Upper Quarter. I'll let him know you have my support. }
 
@@ -418,7 +418,7 @@ Plh_195 { Well, you could just cough up the coins, then at least you wouldn't ha
 
 Plh_295 { Eugen hasn't yet mentioned you to me. And if he doesn't say anything about you, we can't use you here. }
 
-Plh_134 { But I know that, of course. *grins* The question is — how much is this information worth to YOU? Let's hear it. }
+Plh_134 { But I know that, of course. *smirks* The question is — how much is this information worth to YOU? Let's hear it. }
 
 Plh_137 { $GVAR:QuestVars_ShotsForRipper_Config.LowMoneyForBoris$ coins (hand over) }
 
@@ -444,7 +444,7 @@ Plh_150 { Somewhere in the warehouse, you should find something that nobody is k
 
 Plh_152 { Bernold sells the swill in the tavern. Lately he's been moaning about some problem in the cellar. Maybe you can help him with that. }
 
-Plh_151 { Then you'll know what to do. Pleasure doing business with you. *smiles* Oh, and Eugen isn't the sole Blade of Jero, by the way. So is your good friend Boris. }
+Plh_151 { Then you'll know what to do. Pleasure doing business with you. *smirks* Oh, and Eugen isn't the sole Blade of Jero, by the way. So is your good friend Boris. }
 
 Plh_163 { And you know... No matter what you need, Boris will procure it for you. And no matter what you want done, Boris will dispatch it. Don't think you'll get so much with Eugen. A hunched back and a clammy handshake. Maybe }
 
@@ -456,7 +456,7 @@ Plh_146 { Here, bring him this beer, it'll loosen up his tongue. Well, not after
 
 Plh_144 { Here, buy him a few beers, then give him this. It'll put him in a good mood. And when Eugen's in a good mood, he wants to go hunting. Believe me, it always happens. }
 
-Plh_166 { Whatever you say. If you're desperate, you know where to find me. *grins* }
+Plh_166 { Whatever you say. If you're desperate, you know where to find me. *smirks* }
 
 Plh_118 { Ah, someone wants to get out of their debt. *smirks* Of course, I COULD ensure that the list winds up in your hands. But what's it worth to you? }
 
@@ -474,11 +474,11 @@ Plh_122 { Very funny! Wait — you mean that's not a joke? Who do you think you 
 
 Plh_124 { Hmph. Pathetic. I could reveal to you where Friedel keeps the list. But you'll have to get it yourself. }
 
-Plh_129 { All right. *grins* Friedel keeps the list in her desk. Search the drawers, and you'll find it. But don't do it until she's either asleep or away. If she catches you... I know nothing! }
+Plh_129 { All right. *smirks* Friedel keeps the list in her desk. Search the drawers, and you'll find it. But don't do it until she's either asleep or away. If she catches you... I know nothing! }
 
 Plh_132 { Come back once you have enough coins! }
 
-Plh_130 { Now that's how we do business! *grins* Come back in a day or two, and I'll have the list ready. Count on it. }
+Plh_130 { Now that's how we do business! *smirks* Come back in a day or two, and I'll have the list ready. Count on it. }
 
 Plh_126 { All right, then. Come back when you want to do business. }
 
@@ -518,7 +518,7 @@ Plh_361 { All right, Since it's you. $GVAR:QuestVars_TheCuriousRelic_Config.Pric
 
 Plh_362 { Always a pleasure doing business with you. }
 
-Plh_368 { I knew that it's worth something! *grins* }
+Plh_368 { I knew that it's worth something! *smirks* }
 
 Plh_370 { Who knows for how long I'm going to keep it, now that I know what it's worth. You shouldn't wait too long. }
 
@@ -528,9 +528,9 @@ Plh_373 { I've found this letter on a body in the moor. }
 
 Plh_374 { Let me see it... }
 
-Plh_375 { Oh. On a body, you say? There's really no winning... }
+Plh_375 { Oh, On a body, you say? There's really no winning... }
 
 Plh_376 { Poor Peter... I really wanted to help him to get into Nemeton. He never really managed to make friends around here. He was a good guy, actually. }
 
-Plh_377 { Well, then I've got one favor left, at least. *smiles* Thanks for bringing me this. Here are a few coins for your trouble. }
+Plh_377 { Well, then I've got one favor left, at least. *smirks* Thanks for bringing me this. Here are a few coins for your trouble. }
 

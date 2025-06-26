@@ -24,7 +24,7 @@ Plh_65 { Say... I'm looking for Hansi. You didn't happen to find a corpse where 
 
 Plh_72 { Wait, what's it about? }
 
-Plh_8 { Hansi and I were on our way to Nemeton from the Remnants' camp. We did some good business there. *grins* }
+Plh_8 { Hansi and I were on our way to Nemeton from the Remnants' camp. We did some good business there. *smirks* }
 
 Plh_56 { We were attacked by rippers on the way. I was barely able to defend myself, but... }
 
@@ -90,9 +90,9 @@ Plh_121 { There you are! I am true to my word, or my name isn't Gawan. }
 
 Plh_132 { I sold the glyph stone. It yielded as many coins as I'd hoped. I invested them straightaway into a new business, which will make them multiply. }
 
-Plh_133 { Do something worthwhile with your share too. *smiles* }
+Plh_133 { Do something worthwhile with your share too. *smirks* }
 
-Plh_122 { Ran into quite a few problems. Not everything went exactly the way I wanted, but I still have a very nice chunk of change for you. *smiles* }
+Plh_122 { Ran into quite a few problems. Not everything went exactly the way I wanted, but I still have a very nice chunk of change for you. *smirks* }
 
 Plh_123 { So I'll get my coins now? }
 
@@ -206,7 +206,7 @@ Plh_101 { Let me think about it. }
 
 Plh_102 { I don't want anything to do with it. I'm out. }
 
-Plh_106 { We're going to be making coins faster than we can spend them. I'll tell you when it's time to harvest. *smiles* }
+Plh_106 { We're going to be making coins faster than we can spend them. I'll tell you when it's time to harvest. *smirks* }
 
 Plh_103 { Don't take too long. The offer won't be on the table forever. }
 
@@ -217,4 +217,3 @@ Plh_100 { I'm in. (Give $GVAR:QuestVars_RipperAmbush.SheepCosts$ coins) }
 Plh_155 { *spits on the ground* I want nothing to do with you. Get lost. }
 
 Plh_156 { I had a new business idea, but I couldn't find you anywhere. Had to invest my own coins. }
-

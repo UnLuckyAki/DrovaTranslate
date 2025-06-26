@@ -18,7 +18,7 @@ Plh_10 { It was a young bear. }
 
 Plh_11 { Where are my coins? }
 
-Plh_8 { I am so grateful. Take the coins out of the bag. I can't see them. }
+Plh_8 { I am so grateful. Take the coins out of a bag. I can't see them. }
 
 Plh_12 { (Take all $GVAR:QuestVars_OldMan_Config.AllMoney$ coins from the bag) }
 

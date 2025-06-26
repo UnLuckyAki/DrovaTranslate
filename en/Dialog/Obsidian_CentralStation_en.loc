@@ -1,4 +1,4 @@
-Plh_0 { *You notice a peculiar device with three empty sockets. It's vibrating slightly and emitting an intermittent hum. Three empty sockets have been inserted into the middle of the device.* }
+Plh_0 { *You see a peculiar device with three empty sockets.* }
 
 Plh_2 { (insert Floodplain Forest Crystal) }
 
@@ -9,12 +9,4 @@ Plh_4 { (insert Divine Crystal) }
 Plh_7 { *You insert the Divine Crystal into the socket and hear a soft click.* }
 
 Plh_8 { *You hear a loud crack — and the machine stirs to life.* }
-
-Plh_13 { *Much like the device, the crystals start to vibrate. Not much else seems to be happening, though. As opposed to the rest of the apparatus, the conduits on the ground appear to be inactive.* }
-
-Plh_9 { *The device has gone silent now. The sockets are empty.* }
-
-Plh_11 { (insert extractor key) }
-
-Plh_10 { *The key fits into the sockets perfectly. The machine starts to hum, and you sense a slight pull.* }
 

@@ -78,7 +78,7 @@ Plh_169 { Aldrik is dead. He won't be coming over here anymore. }
 
 Plh_171 { Oh? Well, that's reason enough. }
 
-Plh_172 { You and Aldrik kidnapped people and made them dig something up in the mine. }
+Plh_172 { You and Aldrik kidnapped people and made them dig something up in the Pit. }
 
 Plh_173 { Aldrik is the reason people have been disappearing. He kidnapped them and had them excavate some ruins in the moor. }
 
@@ -90,7 +90,7 @@ Plh_182 { I have it with me. (show relic) }
 
 Plh_185 { *looks at the relic and frowns* That could actually be interesting. All right, listen... }
 
-Plh_186 { You took on Aldrik. So you've probably got something on the ball. Here's a key for the back door. Go straight through the kitchen. There's a cave entrance behind the tavern. Meet Ede there and tell him I sent you. }
+Plh_186 { You took on Aldrik. So you're probably got something on the ball. Here's a key for the back door. Go straight through the kitchen. There's a cave entrance behind the tavern. Meet Ede there and tell him I sent you. }
 
 Plh_187 { What's the story with the relic? }
 
@@ -110,9 +110,9 @@ Plh_308 { I've heard you're working with the Ruin Raiders? }
 
 Plh_309 { Now, who'd have told you that? I must have served them one beer too many. }
 
-Plh_310 { Reija. }
+Plh_310 { Reija did. }
 
-Plh_314 { Don't try to deny it. I know it's true. }
+Plh_314 { A reliable source. You've got to admit that. }
 
 Plh_311 { *gives you a serious look* What do you want? }
 
@@ -120,9 +120,9 @@ Plh_312 { I want to join you. }
 
 Plh_313 { I'd like to learn more about the Bygones. }
 
-Plh_315 { The last guy who wanted to do that never returned. Just like the ones who were wandering around the Red Moor afterwards. }
+Plh_315 { Forget it. Bad experiences with walk-in patrons. The last guy who wanted to do business never returned. Same thing with the ones who were wandering around the Red Moor afterward. }
 
-Plh_316 { As far as you're concerned, I just tend the bar in the tavern. You should be content with that. }
+Plh_316 { I'll just tend bar for you in the tavern. }
 
 Plh_319 { I'm looking for one Lorthiz. He came by the tavern and then disappeared. }
 
@@ -182,7 +182,7 @@ Plh_264 { We'll uncover Drivanius' secret. He wanted to save this world... And w
 
 Plh_265 { We need more of these relics. }
 
-Plh_266 { Personally, I don't have any stake in any of the factions or their bickering. Let them do their thing. We just rummage through the ruins. Really innocuous. *smiles* }
+Plh_266 { I personally have no stakes in any of the factions or their bickering. Let them do their thing. We just go through the ruins. Really innocuous. *smirks* }
 
 Plh_267 { Stick with your faction. I don't want you to renounce them. But you can join us as well. If you want. You're not obligated to. }
 
@@ -192,7 +192,7 @@ Plh_269 { I work only for coins. }
 
 Plh_271 { Your loyalty just warms my heart. We've got good people here. They can teach you things. And Ede here can provide you with everything you desire. }
 
-Plh_272 { And, since you're now one of us, you can sleep here for free, of course. Take the key. You don't have to pay anymore. *smiles* }
+Plh_272 { And, since you're now one of us, you can sleep here for free, of course. Take the key. You don't have to pay anymore. *smirks* }
 
 Plh_273 { I have to get back to work... }
 
@@ -304,7 +304,7 @@ Plh_57 { A cool brewski at Olaf's after a hard day of labor! }
 
 Plh_58 { That's the life! Good work. }
 
-Plh_59 { That should cover a beer or two. *smiles* }
+Plh_59 { That should cover a beer or two. *smirks* }
 
 Plh_60 { Pah, you know what it's like when it's that crowded in here. No jug remains empty and no coin with its owner. }
 
@@ -318,7 +318,7 @@ Plh_282 { Just make sure that she gets her work done. I guarantee you, she's sla
 
 Plh_8 { Ah, good. Liesl keeps getting away, and I've told Evi a THOUSAND TIMES that she needs to watch that sheep extra carefully! }
 
-Plh_9 { The other day, I came out of the tavern, and I saw Liesl grazing there right in front of it, not a care in the world. }
+Plh_9 { The other day, I come out of the tavern, and I saw Liesl grazing there right in front of it, not a care in the world. }
 
 Plh_284 { She had gotten away again without Evi noticing it. }
 
@@ -358,7 +358,7 @@ Plh_107 { Then I guess you'll have to find that many coins. }
 
 Plh_108 { Just ask around among the other patrons if they need help with something. }
 
-Plh_106 { *smiles* Fine. Here's the key. Always nice doing business with you. It's the first room right upstairs. }
+Plh_106 { *smirks* Fine. Here's the key. Always nice doing business with you. It's the first room right upstairs. }
 
 Plh_101 { Did you fall and hit your head? Why would you think I'd hand the keys to my room to every Tom, Dick, and Harry who comes down the pike? No one would ever want to rent a room from me! }
 
@@ -420,29 +420,7 @@ Plh_341 { No clue. It's been a while since he was here. He was with some guy fro
 
 Plh_342 { *whispers* Since you've helped me so much, here's a little piece of advice... }
 
-Plh_343 { I know that Teigen talked about his "hidden" stash from time to time. It must be somewhere outside of Nemeton, maybe after the bridge and along the river to the south? }
+Plh_343 { I know that Teigen talked about his "hidden" stash from time to time. It must be somewhere outside of Nemeton, maybe after the bridge along the river in the south? }
 
 Plh_344 { *raises his voice again* You have no idea what kind of things you hear when you're running an inn. }
-
-Plh_349 { I've heard that you and the Ruin Raiders are on the brink of a great discovery? }
-
-Plh_354 { Ah. Of course. }
-
-Plh_355 { *narrows his eyes* Really? }
-
-Plh_351 { All right. Reija seems to trust you. That's good enough for me. But... }
-
-Plh_350 { It's not going to be that easy. Bad experiences with walk-in patrons, you see. The last guy who wanted to do that never returned. Just like the ones who were wandering around the Red Moor afterwards. }
-
-Plh_352 { Somewhere in the southern part of the moor, there's the bandits' hideout. Once in a blue moon I do business with them. But I haven't heard from them in quite a while. Go check what's going on with them. If you find something, bring it here. }
-
-Plh_353 { Should you find something I like, then I might consider telling you more. }
-
-Plh_356 { Who doesn't? }
-
-Plh_357 { Yes, we are. }
-
-Plh_358 { You could help us with that. Find relics. Bring them here. }
-
-Plh_359 { If you do that, I'll bring you into the loop. But don't take too much time. Problems keep piling up in Drova. }
 

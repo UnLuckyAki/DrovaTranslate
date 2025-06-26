@@ -6,13 +6,11 @@ Entry_03A { I convinced Afrin to talk to Asmus. He told me that I can find the p
 
 Entry_03B { Sometimes, fists speak louder than words. The package has been buried in the apple grove, near the tree next to the stack of wood. }
 
-Entry_03C { Afrin offered to simply sell the package to me. }
+Entry_03C { Afrin offered to simply buy the package from me. }
 
 Entry_03D { I bought the clue from Afrin. The package has been buried in the apple grove, near the tree next to the stack of wood. }
 
 Entry_04 { The package is finally in my hands. Now I just need to take it back to Asmus. }
-
-Entry_04_Afrin { The package is finally in my hands. I should let Afrin know. He's waiting for me at Asmus' hut, north of Nemeton. }
 
 Entry_05 { Asmus has his package back, and I've been duly rewarded. }
 

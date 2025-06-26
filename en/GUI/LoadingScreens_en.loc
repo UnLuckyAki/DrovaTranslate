@@ -20,7 +20,7 @@ LoadingScreen_14 { If you carry a spear, you can fish in special places. You'll 
 
 LoadingScreen_15 { If you carry a lockpick, you can open locks. Just don't get caught! }
 
-LoadingScreen_16 { Be careful when you pick up items — no one likes a thief, after all! Sometimes, the hand icon will turn red, indicating that the item you're trying to pick up already belongs to someone else. }
+LoadingScreen_16 { Be careful when you pick up items — no one likes a thief, after all! Sometimes, the hand icon will turn red, indicating that the item you’re trying to pick up already belongs to someone else. }
 
 LoadingScreen_17 { In combat, you can dodge $INPUT:Dodge$ attacks. But keep an eye on your Stamina bar! }
 

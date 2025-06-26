@@ -120,7 +120,7 @@ Plh_218 { Thanks for congratulating me. }
 
 Plh_222 { Mushroom soup? }
 
-Plh_220 { *smiles* You're welcome. }
+Plh_220 { *smirks* You're welcome. }
 
 Plh_221 { I've already added all the ingredients. Well, except for the mushrooms. Which is why... }
 
@@ -180,7 +180,7 @@ Plh_341 { I'm not interested in you — leave me alone. }
 
 Plh_346 { I hope we'll find a new home... }
 
-Plh_15 { *smiles at you and seems proud* }
+Plh_15 { *smirks at you and seems proud* }
 
 Plh_14 { There you are, the wayward soul that was never wayward! }
 
@@ -262,7 +262,7 @@ Plh_70 { What about a real reward? }
 
 Plh_71 { Cut to the chase, old man. }
 
-Plh_72 { *smiles* I'm sure the Mighty Boar has already noticed your deed. }
+Plh_72 { *smirks* I'm sure the Mighty Boar has already noticed your deed. }
 
 Plh_37 { We'll provide you with a roof over your head, plenty of hot food, and a purpose. Be part of the forest and live in harmony with the Divinity. }
 
@@ -272,7 +272,7 @@ Plh_100 { How can I become one of you? }
 
 Plh_101 { I can't wait to leave you and this weird place behind. }
 
-Plh_102 { *smiles* It's nice to see that you're open to our ways. }
+Plh_102 { *smirk* It's nice to see that you're open to our ways. }
 
 Plh_104 { Here in the Forest Primeval, we live by three virtues, so the Divinity may accept us as part of its forest and its world. Listen and learn about one of the virtues. }
 
@@ -322,7 +322,7 @@ Plh_209 { And now we feast! }
 
 Plh_210 { You've outdone yourself, Roarke. If Anatoli were still here, he'd have eaten half the cauldron all by himself. }
 
-Plh_212 { I had competent help! Someone is quick on the uptake! *grins* }
+Plh_212 { I had competent help! Someone is quick on the uptake! *smirks* }
 
 Plh_214 { *to you* Anatoli would have gotten along with you nicely. }
 
@@ -468,7 +468,7 @@ Plh_5 { All right, thanks. }
 
 Plh_3 { Four portions? Taron mentioned only three piglets. }
 
-Plh_7 { The piglets are going to love you for this. *smiles* }
+Plh_7 { The piglets are going to love you for this. *smirks* }
 
 Plh_6 { Hm? He told me that he needs something invigorating for a litter of four piglets. You'd better ask Taron to make sure. }
 
@@ -578,9 +578,9 @@ Plh_351 { I don't need anything like that. }
 
 Plh_354 { Of course! You're one of us. }
 
-Plh_353 { *smiles* I'll just give it to you, anyway. You can do with it whatever you want. }
+Plh_353 { *smirks* I'll just give it to you, anyway. You can do with it whatever you want. }
 
-Plh_357 { I'm here to warn you. My faction is on its way to the Mighty Boar! }
+Plh_357 { I'm here to warn you. My camp wants to catch the Mighty Boar! }
 
 Plh_356 { No one can harm the Mighty Boar. He is one with this forest. We sense neither fear nor worries from it. Don't fret. }
 
@@ -592,7 +592,7 @@ Plh_359 { You're right. We can base our decisions only on the knowledge we posse
 
 Plh_360 { ... and who could have imagined? }
 
-Plh_361 { A mistake remains a mistake only if you don't fight to correct it. *smiles tiredly* }
+Plh_361 { A mistake remains a mistake only if you don't fight to correct it. *smiles tired* }
 
 Plh_362 { I hope you can turn this around somehow, $GVAR:EVars_Player.Name$. }
 

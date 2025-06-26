@@ -40,15 +40,15 @@ Plh_255 { ...weaken, fade, and... disappear. }
 
 Plh_256 { Everything's connected to the Divinity. It is the one who allows the forest to breathe... }
 
-Plh_257 { Are we actually doing the right thing? }
+Plh_257 { Are we doing the right thing? }
 
 Plh_258 { But what'll happen to the people living in the Forest Primeval? }
 
-Plh_259 { I don't know what to make of all that... }
+Plh_259 { I'm beginning to have my doubts about this expedition... }
 
 Plh_270 { We can't think about anything but our goal! }
 
-Plh_297 { Right? Are we even capable of knowing while we're doing it? }
+Plh_297 { What's right and wrong... Hard to say. We're doing what we think is right. But does that make it so? }
 
 Plh_298 { You know, $GVAR:EVars_Player.Name$, I believe in Jero. And that we can escape this world — with the aid of the Mighty Boar. }
 
@@ -68,9 +68,9 @@ Plh_267 { Now, people here are definitely not going to have it any easier. But t
 
 Plh_268 { At the end of the day, they shall achieve a better life, one in which they will be able to decide for themselves what's good for them. Just like we do. They'll see that. }
 
-Plh_269 { Having doubts is part of life. It's good that you're asking these questions. }
+Plh_269 { Having doubt is part of life. It's good that you're asking these questions. But you need to find your own answers. }
 
-Plh_273 { Maybe you should take some time to reflect upon some of the answers. }
+Plh_273 { Just... hold your tongue before speaking to anybody else about these doubts. }
 
 Plh_275 { I should get some rest. }
 
@@ -223,104 +223,4 @@ Plh_228 { I hope Boris appreciates what Lindon has done. }
 Plh_315 { Good, get us out of here. }
 
 Plh_330 { What exactly was the Red Tower's significance? I can feel the Divinities' energies. }
-
-Plh_352 { And what if they can't come to terms with it? }
-
-Plh_353 { They'll have to adapt. }
-
-Plh_354 { Granted. They'll have a rough time with it. Sadly, not everyone can live like that, even though they seem to be happy. }
-
-Plh_355 { Whoever succumbs to a Divinity needs to shape their entire life according to its needs. In every situation. They do that in the Refuge. But would you want to do that? Do you think everyone in Drova is willing to do that? }
-
-Plh_358 { In the Refuge I felt safe and welcome. Their way of life works. }
-
-Plh_359 { Then why are the people in the Refuge doing that? }
-
-Plh_360 { It may work for some. Especially if they band together with like-minded people. Together they lead secluded but hopefully happy lives. }
-
-Plh_356 { But this happiness won't last... }
-
-Plh_357 { Hang on... But... At the moment, the people of the Refuge might be able to live like that while the rest of Drova is struggling to get by. But Drova is dying — slowly but surely. }
-
-Plh_361 { The more time elapses, the more dangerous it gets. The black fog is only one sign of this. }
-
-Plh_386 { Anyone who wants to live here in peace will understand eventually. Drova cannot provide them with what they're hoping for. }
-
-Plh_362 { Using the knowledge of the Bygones, we have a chance to escape Drova and lead self-determined live, free from the Divinities' ascendancy. }
-
-Plh_363 { Is there no way to accomplish that without capturing a Divinity? }
-
-Plh_365 { It just doesn't feel right to make the people in the Refuge pay for this... }
-
-Plh_366 { If it's really best for Drova... }
-
-Plh_367 { Sadly, there isn't. Else we wouldn't have to do this. Even though we want to forge our own fates, it doesn't mean that we don't respect them. }
-
-Plh_368 { They're powerful... they greatly influence this world... }
-
-Plh_371 { Only if we detach ourselves from their ascendancy and harness their power for ourselves will we be able to accomplish our goal. }
-
-Plh_369 { I understand that, really, I do. But we can't abandon our goals for the sake of a small group of people who are hiding away from the rest of Drova. }
-
-Plh_334 { I can see that you like them. That won't change our plans, but... }
-
-Plh_348 { You can still go to the Refuge and tell them that a change is coming. That they'll need to seek shelter. }
-
-Plh_374 { But be back on time. Eugen won't want to wait for you... }
-
-Plh_370 { It is. For all people in Drova. Not for this world. It cannot be saved. }
-
-Plh_372 { The black fog and the ruins of the Bygones are proof of that. We'll need to escape from Drova, otherwise we'll perish just like they did. }
-
-Plh_373 { And if that means having to accelerate Drova's demise, then so be it. If we can escape, then it was worth it. }
-
-Plh_331 { However, regardless of your own conclusions, we won't abandon our plans. }
-
-Plh_335 { We've come too far already. }
-
-Plh_389 { I'll look around some more. }
-
-Plh_390 { You do that. It could be your last chance to take in this wonderful place. }
-
-Plh_391 { I, too, shall enjoy the silence some more before preparing for tomorrow. }
-
-Plh_375 { (sink to your knees) }
-
-Plh_376 { We did it! For Jero! }
-
-Plh_339 { The forest... I didn't want it to die... is this our fault? }
-
-Plh_340 { The boars... they wanted only to protect the Mighty Boar... }
-
-Plh_333 { (stand up) }
-
-Plh_377 { It's... bad. Worse than I would have anticipated... }
-
-Plh_378 { So much death. So much pain. But... We did it?! }
-
-Plh_337 { $GVAR:EVars_Player.Name$... you did nothing! You were just standing there! }
-
-Plh_343 { I wanted no part of this. }
-
-Plh_344 { I couldn't... }
-
-Plh_345 { (say nothing) }
-
-Plh_342 { During one of the most important expeditions ever? }
-
-Plh_381 { I'm connected with the forest and the Boar. It didn't feel right. }
-
-Plh_380 { I'm belong to the Bonded. Our virtues prohibit us from inflicting harm upon the forest or the Mighty Boar. }
-
-Plh_384 { But... }
-
-Plh_382 { Leave it be, Farlan. }
-
-Plh_351 { Remember, without $GVAR:EVars_Player.Name$, we'd never have made it through the Blackflame. We don't have this kind of connection to the Mighty Boar. }
-
-Plh_346 { And you call yourself a warrior of the Remnants? }
-
-Plh_347 { Hmph! }
-
-Plh_336 { The forest... It's dead... }
 

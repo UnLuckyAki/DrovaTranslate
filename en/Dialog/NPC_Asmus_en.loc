@@ -208,7 +208,7 @@ Plh_397 { Wait. We'll talk in a minute. }
 
 Plh_330 { I hope you've brought along the crystals imbued with magic. }
 
-Plh_444 { Well, you don't need any introduction. Welcome to the fighters. *smiles proudly* }
+Plh_444 { Well, you don't need any introduction. Welcome to the fighters. *smirks proudly* }
 
 Plh_445 { At last! That was a major trek. }
 
@@ -224,11 +224,11 @@ Plh_23 { Hey! Everything all right? }
 
 Plh_402 { Well, we've resolved the Afrin issue. He claimed he was attacked, but there's no proof. I can't do a thing about that. But now you've earned yourself a big fat reward. Good work. }
 
-Plh_403 { Who knows how things would've panned out if you hadn't been around. And right here, I've got your next opportunity to make some easy coin. *smiles* }
+Plh_403 { Who knows how things would've panned out if you hadn't been around. And right here, I've got your next opportunity to make some easy coin. *smirks* }
 
 Plh_345 { Hey! You're back! }
 
-Plh_346 { There are people waiting at the Festival of Fire! You've got to see this! Come along! }
+Plh_346 { There are people waiting at Festival of Fire! You've got to see this! Come along! }
 
 Plh_22 { Debug: Test }
 
@@ -290,7 +290,7 @@ Plh_231 { Honest work yields honest coins. }
 
 Plh_235 { Plus, once you've joined Nemeton, I can teach you how to fight better with daggers. They're perfect whenever you've got to be quick. }
 
-Plh_36 { Then get cracking. }
+Plh_36 { Then watch and learn. }
 
 Plh_228 { Hmpf. If you find the package, let me know. }
 
@@ -300,7 +300,7 @@ Plh_212 { Huh? Show me. Well, it looks right. }
 
 Plh_65 { Not bad. *Asmus opens the package and peers inside* }
 
-Plh_401 { Yep. That's it. *grins* }
+Plh_401 { Yep. That's it. *smirks* }
 
 Plh_412 { Who had the damn package? }
 
@@ -348,17 +348,17 @@ Plh_145 { I'm talking bandits! }
 
 Plh_147 { Hm. That's what Afrin always used to say. What kind of bandits were they? }
 
-Plh_148 { No idea — maybe they were some of Boris's henchmen. But I can't prove that. }
+Plh_148 { No idea — maybe they were some of Boris's henchmen. But I can't proof that. }
 
 Plh_149 { Could they also have been highwaymen? }
 
 Plh_150 { I found something on them. Don't trust your so-called friend Boris too much. }
 
-Plh_158 { As long as I haven't got any proof, my hands are tied, unfortunately. Where the $GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$ coins come from is irrelevant. You owe them to me. }
+Plh_158 { As long as I haven't got any proof, my hands are tied, unfortunately. Where the $GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$ coins come is irrelevant. You owe them to me. }
 
 Plh_406 { But bring any proof you find anyway. We might be able to use it to restore Afrin's reputation in the camp. }
 
-Plh_151 { No, this is Boris's handwriting. That dirtbag! He's been attacking my runners?! }
+Plh_151 { No. this is Boris's handwriting. That dirtbag! He's been attacking my runners?! }
 
 Plh_152 { Probably Afrin too... }
 
@@ -398,7 +398,7 @@ Plh_407 { Is there any news? }
 
 Plh_230 { Haha, well, despite the ambush, you still managed to finish the mission. And you know why you're doing it. I like that! }
 
-Plh_161 { Anyway, yeah, I think I owe you a favor. Trust me, my word carries some weight around here if I want it to. *smiles* }
+Plh_161 { Anyway, yeah, I think I owe you a favor. Trust me, my word carries some weight around here if I want it to. *smirks* }
 
 Plh_297 { See you later. }
 
@@ -416,7 +416,7 @@ Plh_118 { Are you trading with the other faction? }
 
 Plh_299 { Exactly. Well, more or less. Of course I'll pay you. Hard work shall be rewarded! }
 
-Plh_121 { It's a small world, and I've got good contacts in the Remnants' camp. That's all you need to know. }
+Plh_121 { It's small world, and I've got good contacts in the Remnants' camp. That's all you need to know. }
 
 Plh_122 { *frowns* Do you really need to worry about that? Don't overcomplicate everything for us. Just hand the package over to me, plus the coins. Then we'll both be happy. }
 
@@ -518,7 +518,7 @@ Plh_471 { So I really am in Drova? }
 
 Plh_472 { I've got to go and see the druids in Nemeton... }
 
-Plh_470 { Where else would you be? Of course you're in Drova, the Land of Legends. But don't think that fairies will spoon-feed you around here... }
+Plh_470 { Where else would you be? Of course you're in Drova. the Land of Legends. But don't think that fairies will spoon-feed you around here... }
 
 Plh_339 { What do you want from the druids, anyway? }
 

@@ -160,7 +160,7 @@ Plh_596 { Yeah, I've got to accept the fact that Molvina's right. Sending an exp
 
 Plh_599 { At the most, we could send a single individual to sneak past the Remnants' troops and snatch the crystal... }
 
-Plh_592 { Why don't you just say that I'm supposed to do that? }
+Plh_592 { Why don't you just say that I'm supposed to do that. }
 
 Plh_593 { Who could probably be suited to do that... }
 
@@ -310,7 +310,7 @@ Plh_272 { So many... the Bygones must have settled all over Drova. }
 
 Plh_271 { *places his hand on a wall* I really wish I knew how they lived here. Who the Bygones were... What they thought... Why they disappeared. }
 
-Plh_274 { They say they were one with the Divinities. Lived in harmony with them. But... how is that possible? }
+Plh_274 { They say they lived in harmony with the Divinities. But... how? }
 
 Plh_313 { Mombert... }
 
@@ -390,7 +390,7 @@ Plh_813 { (get up) ...what? Did I oversleep? }
 
 Plh_814 { Hurry, come along. }
 
-Plh_815 { *smiles* Not as long as you have me. }
+Plh_815 { *smirks* Not as long as you have me. }
 
 Plh_163 { Sure? Once you're rested, we face the Divinity. No turning back now... }
 
@@ -480,25 +480,25 @@ Plh_447 { *exhales with relief* We've left the Forest Primeval behind us! It won
 
 Plh_448 { *eyes the rune vessel* Molvina will be pleased. And we won't forget Gradan's name. }
 
-Plh_449 { With the power of the Divinity, we'll finally shape Nemeton and Drova into what they should always have been! }
+Plh_449 { With the power of the Divinity, we shall obliterate the Remnants once and for all... }
 
 Plh_450 { *whispers* The forest... What's this? What have we done? }
 
 Plh_722 { We've driven the darkness from the forest. }
 
-Plh_720 { We killed the forest and everything around here... This was a mistake... }
+Plh_720 { The forest is dead... I don't know... }
 
 Plh_721 { Whatever. The main thing is, we're out of here. }
 
 Plh_451 { Everything's dead here, as though monsters had gone on a rampage... }
 
-Plh_723 { How could we have known that it would be that bad? We need to tell Molvina about it... }
+Plh_723 { I don't know what happened here, but we need to report it to Molvina... }
 
 Plh_452 { Was this the right thing to do, Mombert...? }
 
 Plh_453 { The Nemeton and the Heiress of the Moor are expecting the rune vessel. That's all that matters. }
 
-Plh_454 { Let go of what lies behind us. Move on. }
+Plh_454 { Forget what lies behind. }
 
 Plh_377 { Wait! Something's up ahead! }
 
@@ -570,25 +570,25 @@ Plh_671 { All for Nemeton, all for the Land of Legends! }
 
 Plh_687 { I'm not sure whether that's a good plan... }
 
-Plh_664 { We cannot sit idly by just for their sake. Think of all the other people in Drova. After all, we want everyone to prosper. }
+Plh_664 { We cannot worry about them. They will have to adapt. After all, this is about creating the Land of Legends. }
 
-Plh_665 { Exactly! }
+Plh_665 { A victory for us all, right? }
 
 Plh_666 { That's what we've been fighting to achieve for a long time. }
 
-Plh_667 { What if they don't want to adapt? }
+Plh_667 { The people in the Refuge are living in harmony with the forest... What's going to happen to them? }
 
 Plh_693 { Everyone will benefit from the Land of Legends. }
 
 Plh_694 { Then let's get the Divinity. }
 
-Plh_668 { They will have to adapt. But life in Drova will get easier for EVERYONE. Maybe they were able to live in harmony with the Forest Primeval, but not everyone has that option. }
+Plh_668 { This harmony first had to be found. Once we have the Mighty Boar, a new balance will emerge. }
 
 Plh_675 { We're not doing this just for ourselves. We're doing it for all of Drova! }
 
 Plh_676 { And if it doesn't work? }
 
-Plh_700 { If you say so... }
+Plh_700 { That's probably true... }
 
 Plh_677 { Why shouldn't it work? }
 
@@ -602,9 +602,9 @@ Plh_682 { But... }
 
 Plh_683 { It will be. }
 
-Plh_686 { You're still worrying, $GVAR:EVars_Player.Name$. I sympathize. The future is uncertain. }
+Plh_686 { Enough for today. }
 
-Plh_681 { Right. Rest up. I'll take the first watch. }
+Plh_681 { Right, Gradan. Rest up. I'll take the first watch. }
 
 Plh_684 { Hey, Karotte, shall I show you a few more combat moves? }
 
@@ -612,7 +612,7 @@ Plh_685 { Always! }
 
 Plh_710 { I need some rest now... }
 
-Plh_696 { I see doubt in your eyes. That's good. This is a crucial moment for Drova. We must not act blindly. We need to reflect on our actions. }
+Plh_696 { I see doubt in your eyes. So I'm asking for your trust. }
 
 Plh_692 { I don't even know what a Divinity looks like... }
 
@@ -630,7 +630,7 @@ Plh_702 { Hit the hay and gather strength for tomorrow. }
 
 Plh_698 { Henik speaks the truth. }
 
-Plh_699 { Rest up. I'll take first watch. }
+Plh_699 { Gather your strength. }
 
 Plh_673 { I am pleased! I can hardly wait for the fight! }
 
@@ -895,174 +895,4 @@ Plh_878 { I'll have to prepare myself. }
 Plh_879 { Hurry up and join me once you're ready. }
 
 Plh_880 { There's no turning back now. Are you ready? }
-
-Plh_885 { Say... I saw you sneak off during the night, $GVAR:EVars_Player.Name$... where did you go? }
-
-Plh_886 { I warned the people in the Refuge of what we were planning to do. }
-
-Plh_887 { Just needed to take a leak. }
-
-Plh_888 { None of your business. }
-
-Plh_889 { *narrows his eyes* You did? }
-
-Plh_892 { Well... }
-
-Plh_893 { Why? }
-
-Plh_894 { They're my friends! }
-
-Plh_895 { They should be allowed to prepare for the consequences! }
-
-Plh_897 { Being loyal to your friends is a good thing. Says something about you. }
-
-Plh_896 { I'm glad you did. Who knows what will happen, once we've captured the Mighty Boar. }
-
-Plh_990 { Hopefully, they'll seize the opportunity to flee from the Forest Primeval. }
-
-Plh_898 { I'm glad you returned. You're a vital part of the expedition. }
-
-Plh_900 { The Refuge is on its own now. Its fate is our of our hands by now. }
-
-Plh_941 { Soon, we'll face the Divinity. Are you ready? }
-
-Plh_961 { Yeah! Let's get going! }
-
-Plh_942 { I think so... }
-
-Plh_943 { Can one ever be ready for something like this? }
-
-Plh_960 { That's the way I like it! The waiting is driving me nuts. Me and my axe. }
-
-Plh_959 { *swallows* Let's do this. }
-
-Plh_962 { We'll take care of you, Karotte. Don't do anything stupid, and we'll be just fine. }
-
-Plh_946 { We'll do what must be done. Don't you forget that. }
-
-Plh_965 { How should one feel prepared for this... }
-
-Plh_966 { We'll take care of you! Don't mess around. Just follow directions, and we'll all go home in one piece! }
-
-Plh_944 { We'll make it. Let's get started already. My axe is twitching. }
-
-Plh_945 { *grins* Hardly. }
-
-Plh_967 { We don't know what awaits us during the battle. Ready? Well... }
-
-Plh_890 { Hm. You went pretty far for that. }
-
-Plh_901 { Do what you want. Just don't interfere with our expedition. }
-
-Plh_917 { Enough with the reluctance! I don't want to hear anything about that anymore! Today, we'll make history! }
-
-Plh_918 { We've caused irreparable harm... (swallow) }
-
-Plh_970 { But it's up to us what we'll make of it. }
-
-Plh_971 { Once we've accomplished our goals, we'll have repaid our debt to Drova. }
-
-Plh_919 { Sometimes, you have to bear guilt in order to achieve great things... }
-
-Plh_969 { We'll speak with Molvina. But we do have the rune vessel. That's what's important. }
-
-Plh_947 { Don't forget that we'll use it to turn the world into a more peaceful place. One where we'll have a future. Where we can start a family. }
-
-Plh_904 { I didn't... I didn't expect so much... that it'd be... Who could have seen that coming? }
-
-Plh_902 { (sink to your knees) }
-
-Plh_903 { We were victorious! For Nemeton! }
-
-Plh_907 { The forest... Everything is dying... Is this our fault? }
-
-Plh_908 { The boars... They wanted only to protect the Mighty Boar... }
-
-Plh_909 { (stand up) }
-
-Plh_905 { I'm afraid... but... There was no other way... }
-
-Plh_906 { So much death... but... We got it. We've done it. And that's what's important... isn't it? }
-
-Plh_929 { $GVAR:EVars_Player.Name$! You didn't lift a finger! What's up with that? }
-
-Plh_934 { I wanted no part of this. }
-
-Plh_935 { I just couldn't do it... }
-
-Plh_936 { (say nothing) }
-
-Plh_991 { But you know why we're doing this! }
-
-Plh_984 { I'm part of the Bonded. Our virtues forbid us to inflict harm upon the forest or upon the Mighty Boar. }
-
-Plh_985 { I'm connected with the forest and the Boar. It just didn't feel right... }
-
-Plh_983 { Without $GVAR:EVars_Player.Name$, we wouldn't even be here. Don't you forget that, Henik. }
-
-Plh_987 { Only thanks to the connection between the Mighty Boar and $GVAR:EVars_Player.Name$ were we able to pass through the Blackflame. }
-
-Plh_986 { But Gradan... Maybe he'd still be... }
-
-Plh_940 { We don't know that. But... *swallows* }
-
-Plh_937 { Craven. Useless. Hrmpf. }
-
-Plh_939 { Yeah, you better shut it... }
-
-Plh_928 { The forest... We did that? }
-
-Plh_881 { I'm sure they, too, will find their place in the new world that we're about to create. The Land of Legends is supposed to unify everyone. }
-
-Plh_973 { I lived there in harmony with the Divinity, and it worked just fine. Maybe this can be an option for everyone in Drova. }
-
-Plh_974 { I, too, felt a connection to the Mighty Boar. I don't want to lose it. }
-
-Plh_949 { It worked for your people, yes. For you, Henik, Gradan, and Karotte, it might work as well. You are young and strong. You'd persevere and adapt. }
-
-Plh_950 { But what about the elderly? Gilwar and Dunja? Would you demand that they, too, adapt to the Mighty Boar and live in the Forest Primeval? }
-
-Plh_975 { Shadowrippers everywhere, death lurking behind every bush, the forest shrouded in eternal gloom. The weak and the old won't survive very long. }
-
-Plh_952 { But is there no way to accomplish our goal without capturing the Mighty Boar? }
-
-Plh_953 { It just doesn't feel right to make the people in the Refuge suffer the consequences of our actions... }
-
-Plh_980 { If it's really best for Drova... }
-
-Plh_955 { Drova is a marked land. The Bygones brought about something that made Drova into what it is today. }
-
-Plh_978 { Without a Divinity's power, it's impossible to change Drova enough so that all people can live here in peace. }
-
-Plh_882 { But Drova will change. It's in our hands to effect that change. }
-
-Plh_883 { We've worked towards accomplishing this goal for a long time. Tomorrow, we'll make it happen. For everyone. }
-
-Plh_932 { I worry for the people in the Refuge. }
-
-Plh_933 { (nod) }
-
-Plh_931 { If they're that important to you, go to them and tell them to seek shelter. If you must. I cannot promise that our actions won't have any consequences. }
-
-Plh_948 { But be back on time and go to sleep. We need to be prepared for anything. }
-
-Plh_884 { Let's leave it at that. Rest up. I'll take the first watch. }
-
-Plh_994 { With the Divinity's help, we will create the Land of Legends for EVERYONE. }
-
-Plh_993 { Henik is right. }
-
-Plh_954 { It's just a small group that separated itself from everyone else. }
-
-Plh_979 { I understand that you took a shine to them. But we must not let that constrain our decisions. If we want to change Drova for the better, then we're going to need to think about the bigger picture. }
-
-Plh_951 { Trust me — we've talked about that endlessly. Molvina and I agree that there is no other way. }
-
-Plh_982 { We need the Divinity. Only with his power can we make Drova into a land where we can ALL live in peace. }
-
-Plh_976 { Listen... I know our plan sounds callous. But the Mighty Boar won't die. It can't die. Its power will prevail. We'll just be able to harness it differently. }
-
-Plh_977 { For ALL people in Drova. Not only for those dwelling in the Refuge. }
-
-Plh_981 { For elderly people, such as Dunja or Gilwar, Nemeton is the only hope. They're not up to living in an environment like the Forest Primeval. }
 
