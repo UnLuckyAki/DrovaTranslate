@@ -1,0 +1,6 @@
+Title { Bog Iron for the Farmers }
+
+Entry_01 { When I arrived, Jurek and Jerzy were locking horns. I'm supposed to help them gather $GVAR:QuestVars_IronForFarmers.NumItemsNeeded$ pieces of bog iron. It can be found all over the fields around here. }
+
+Entry_02 { I delivered the bog iron to the two cockerels. They're happy with my work. They will tell Georg about it. }
+

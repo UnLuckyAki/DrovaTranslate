@@ -1,0 +1,388 @@
+Plh_184 { About the storage pits... }
+
+Plh_147 { How come you have to cook, anyway? }
+
+Plh_148 { Why are people taking off from here? }
+
+Plh_9 { About Gero... }
+
+Plh_10 { I met Gero. }
+
+Plh_34 { I'm looking for Kora. Do you know where she is? }
+
+Plh_263 { I tried the thing with the earthroot... }
+
+Plh_149 { I don't HAVE TO cook. But I'm the only one whose food doesn't end up returning from whence it came. You're either puking or working, as they say. }
+
+Plh_150 { We share close ties with Nemeton. But then the earthquake hit, the bridge broke, and we're cut off from each other. And you think Nemeton is still sending help? No way... }
+
+Plh_307 { A few of us didn't want to end up ripper food, so they took off for the Remnants' camp. Anyone who works there without kicking up a ruckus is very welcome... }
+
+Plh_193 { Better go speak to Cengiz. You'll find him in the big tent. He'll tell you how you can best help us. }
+
+Plh_346 { Gero and I gab here more often now. So far, it's not bad at all — as long as I keep paying Mursel for a place to sleep. }
+
+Plh_347 { Let's see how I'll do in the Pit. Maybe I'll meet Gero! }
+
+Plh_318 { What a load of crap! If this goes on, nobody from Nemeton will be here next time around — and we'll all be ripper food! }
+
+Plh_319 { I don't want to even imagine it... }
+
+Plh_100 { The Remnants need more Hewers. Do you want to talk to Jola? }
+
+Plh_320 { Other than that, are you doing all right? }
+
+Plh_323 { Perhaps you could cook something for everyone? To relax. }
+
+Plh_321 { Other than that? As if I ever had been doing all right! Actually, I couldn't do worse! I need my arm for chopping wood! }
+
+Plh_324 { *gives you a nasty look* I'm never standing at that cooking pot again. I'd rather work through my pain. }
+
+Plh_326 { *breathes heavily, holding his arm* I need a break. }
+
+Plh_317 { We've got to finish off these creatures. There's bound to be more. }
+
+Plh_88 { *grinds teeth* Ever since the attack, it really hasn't been safe here. And if they're already looking for people... }
+
+Plh_89 { You could make your own coins with Jola... just for yourself. }
+
+Plh_92 { There's something to that. So many have fled. And they aren't worse off, I hear. Quite the contrary... }
+
+Plh_94 { Good! It is decided! *gulps and arches his back* }
+
+Plh_348 { I'll talk to Jola! Cengiz will hate me, but I must start a new chapter! Just for myself! }
+
+Plh_140 { What is it now? I told you it won't be ready for — }
+
+Plh_188 { *looks up* Who in a thousand howling rippers are you? }
+
+Plh_141 { Don't be afraid. I'm not going to hurt you. }
+
+Plh_142 { My name is $GVAR:EVars_Player.Name$. }
+
+Plh_313 { Afraid? You think YOU scare me? }
+
+Plh_143 { New around here, eh? You're looking around like a dolt. }
+
+Plh_189 { I'm Agilo. Woodcutter by trade. Well, I used to be. Now I'm a cook. *mumbles to self* Someone's got to make sure we all don't starve to death. }
+
+Plh_284 { Actually, Gero is supposed to do the cooking. The little weasel. One tiny little quake, and he's vanished into thin air! }
+
+Plh_285 { And now who's got to wield the chopping knife instead of an axe? ME! }
+
+Plh_144 { *stares dreamily into the distance* I could chop so much wood — so much wood... }
+
+Plh_191 { And what's cooking? }
+
+Plh_192 { Curses, the stuff is burning again! Stop distracting me! If it doesn't taste right, I'll get a big earful of everybody's whining! }
+
+Plh_136 { Cengiz says you're supposed to help with the bridge. }
+
+Plh_194 { *smirks* And the longer you distract him, the longer he'll leave me in peace. }
+
+Plh_314 { You made that up, didn't you? Well, everyone needs to be called something. }
+
+Plh_196 { *snorts* What am I supposed to do now, haul all the wood to Nemeton myself? And snag myself a Divinity while I'm at it? }
+
+Plh_197 { He can forget about it. People here need their grub. }
+
+Plh_198 { Need any help? }
+
+Plh_199 { But the bridge is in dire need of repairs, too... }
+
+Plh_202 { The last of Larea's meat is already sizzling in the pot. We can speed up the cooking. Go up the hill to our storage pits. You know what those are, don't you? Hm. Maybe not, judging by that blank expression of yours... }
+
+Plh_286 { A pit. To store things in. Built in the ground. Go up the hill, and you'll find the storage pits. Most of them are empty, but one's still got some apples in it. Bring them to me. Then I too can go to the bridge. }
+
+Plh_349 { Write it in your journal if you're worried that you'll forget. It's always good to keep track of things, anyway. You can always check your journal to see what you need to do. }
+
+Plh_203 { What's a storage pit again? }
+
+Plh_204 { And I'm allowed to just take something out of the storage pits? }
+
+Plh_205 { I'll take care of it. }
+
+Plh_206 { I don't have time for that. }
+
+Plh_137 { Here are $GVAR:QuestVars_SomeoneHasToDoIt_Config.AmountOfApples$ apples. }
+
+Plh_114 { I've already told you. A damned HOLE IN THE GROUND. With food in it. Do you need some visual aids? }
+
+Plh_115 { So, one more time: Go up the hill east of here, and you will find the storage pits. If not, then just open your eyes. Take out some apples. Bring them to me. Shouldn't be too much to ask... }
+
+Plh_208 { Of course not! But now I've given you permission. So we won't have to chop your hand off. Probably. }
+
+Plh_116 { Very well, then... Move it! }
+
+Plh_207 { Oh, have we got more important things to do? Guess I WON'T be going to the bridge then. Cengiz probably won't like that either. So think long and hard about whether you're going to bring me those apples. }
+
+Plh_351 { What? So, you just helped yourself to the storage pits. Anyway. The main thing is, it's here now. }
+
+Plh_210 { $GVAR:QuestVars_SomeoneHasToDoIt_Config.AmountOfApples$ apples? }
+
+Plh_329 { What am I supposed to do with these? These few apples might keep the healer away, but they hardly make a meal. }
+
+Plh_211 { I've done what you asked me to do. }
+
+Plh_212 { What am I supposed to do? There weren't any more in the storage pits. Have a look for yourself. }
+
+Plh_214 { Curses. Cengiz suspected someone of stealing from the storage pits. He's probably right. Yesterday, there was a lot more in them... }
+
+Plh_219 { A thief? }
+
+Plh_221 { What should I do now? }
+
+Plh_220 { Doesn't matter — I've taken care of it. Cengiz wants you to go to the bridge now. }
+
+Plh_222 { Cengiz said someone has been skulking around at night. But who would be despicable enough to steal from the community? Unbelievable. }
+
+Plh_223 { A thousand howling rippers, what a disaster! }
+
+Plh_224 { Let me think... }
+
+Plh_288 { I've got it! The berries nearby! Gero has always collected some. Of course, they don't make a full meal, but they're better than nothing. }
+
+Plh_225 { First apples, now berries? }
+
+Plh_226 { Gero can't cook either? }
+
+Plh_229 { That head of yours is good for more than just filling a helmet! }
+
+Plh_227 { I expect you'll be needing to bring me... $GVAR:QuestVars_SomeoneHasToDoIt_Config.AmountOfPlants$ berries. There'll even be some left over for you. }
+
+Plh_230 { *sighs* Fine. And where do I find these berries? }
+
+Plh_138 { Here are your berries. Will there be anything else, chef-man? }
+
+Plh_231 { I'll take care of it. }
+
+Plh_232 { Anywhere outside the camp. They're not hard to find. But be careful when venturing south. There's a pack of rippers, and you don't want to mess with them. We leave them alone, and they do the same. }
+
+Plh_127 { At last! Food! }
+
+Plh_283 { *throws the berries into the pot* In you go! }
+
+Plh_235 { Uh, shouldn't you chop them up first? }
+
+Plh_237 { And you're sure they're all edible? }
+
+Plh_236 { (...) }
+
+Plh_239 { I know what I'm doing! I watched Gero often enough, and I'm sure he did it exactly the same way. }
+
+Plh_238 { *stirs pot with the ladle* Smells good. Should taste good, too. And if nobody keels over, then I did it correctly. }
+
+Plh_240 { *takes the ladle and licks some off it* Mmmm... *coughs* Okay, at least it's hot... }
+
+Plh_290 { Phew! Uhh... Well, that turned out really well. Causes only a minor stomach ache. Want to try some? }
+
+Plh_245 { *offers you the ladle filled with a dark brown liquid that smells like swamp water* }
+
+Plh_242 { No thanks, I've just eaten. }
+
+Plh_243 { Sure. Down the hatch! (drink up the liquid) }
+
+Plh_244 { Oh, think you're too good for my food? Hmph. Means more for us then. }
+
+Plh_327 { Here you go. Thanks for your help. }
+
+Plh_328 { It's Gero's recipe. I don't think I've done it right. But it tastes good. If you're near a campfire you can make this for yourself, too. }
+
+Plh_357 { Remember: You can heal yourself quickly using healing ointments, plants or potions, but a full stomach does wonders for your health. It doesn't work as fast, but it's actually more sustainable in the long run. Some food also invigorates you — depending on what you cook. }
+
+Plh_252 { All right, then. I can't do any more. I'll pack my gear and head for the bridge. You can go tell Cengiz. }
+
+Plh_246 { Well? }
+
+Plh_247 { Just right! }
+
+Plh_248 { Could do with some more clove. }
+
+Plh_249 { I think I'm going to throw up... }
+
+Plh_250 { Hm. Could I be a really good cook, and should I maybe...? No, I could never do that! My heart belongs to my axe! }
+
+Plh_251 { I don't want to hear any complaints! As long as you wake up tomorrow morning, the food has served its purpose! }
+
+Plh_234 { *tosses the berries and apple into the pot* In you go! }
+
+Plh_228 { Gero is one of the cowards who've fled to the Remnants. Why do you think I have to keep stirring this crappy pot, instead of chopping wood — all that gorgeous wood... }
+
+Plh_201 { And food isn't? If I say that cooking is going on, then cooking is going on. }
+
+Plh_200 { Better make yourself useful. Otherwise, everyone around here's going to end up with an empty stomach! }
+
+Plh_355 { I've been to the storage pits. }
+
+Plh_356 { Then stop jabbering, and give me what you've found. }
+
+Plh_209 { The storage pits were empty. }
+
+Plh_216 { What?! Did you look properly? Into EVERY storage pit? }
+
+Plh_217 { Well... I found $GVAR:QuestVars_SomeoneHasToDoIt_Config.AmountOfApples$ apples. }
+
+Plh_218 { The storage pits I found were empty. }
+
+Plh_12 { Gero's food was always delicious. I don't know how he pulled it off... }
+
+Plh_261 { Hey, do me a favor. You'll be passing the Remnants' camp. Maybe they won't let you in anyway, but if they do... }
+
+Plh_291 { Gero and I were good friends, and I'd be glad to hear how he's doing now. Can you check on him? It's gotten quite dangerous here ever since... }
+
+Plh_13 { What's in it for me? }
+
+Plh_255 { Can you tell me more about the Remnants? }
+
+Plh_14 { Where can I find the Remnants? }
+
+Plh_15 { Dangerous? }
+
+Plh_16 { I'll keep an eye out for him. }
+
+Plh_262 { When I get to the Remnants' camp, I'll ask around. }
+
+Plh_18 { What do you think a simple woodcutter like myself has to offer? Hmph. I've already given you Gero's secret recipe. I don't have anything else. Deal with it. }
+
+Plh_256 { You know, not everyone in Drova is so sure that Nemeton can become the Land of Legends. Anyone who doesn't believe that anymore has run off to the Remnants' camp. }
+
+Plh_292 { Maybe I would also be better off there. I've heard that if you really put your back into it, you can have a pretty good life. And we enjoy hard work — me and my axe, that is. }
+
+Plh_19 { Head west. Just follow the path. If you see ruins, you're on the right track. }
+
+Plh_293 { Again: stay on the path! Do not traipse through the wilderness! Unless you don't want to come out alive. }
+
+Plh_20 { Exactly! For all the idiots out there, at least! I still don't know whether you're one of them. }
+
+Plh_22 { Good. It would put my mind at ease if I heard from Gero again... }
+
+Plh_23 { If you get there, you'll probably find him near some cauldron, whipping something up — just like he used to do here. }
+
+Plh_26 { Well? Is he still with the Remnants? What did he say? How is he? }
+
+Plh_27 { He busts his ass in the Pit in the Remnants' camp. }
+
+Plh_28 { Busts his ass? So... He doesn't cook? He actually uses his hands? That's funny. In fact, all he ever wanted to do was cook. }
+
+Plh_29 { He said that he wanted to earn a few coins first. }
+
+Plh_30 { Coins? What would Gero — oh, just a minute. He was always talking about how he wanted to eventually own his own tavern and kitchen. It's probably easier to achieve at the Remnants' camp than around here... }
+
+Plh_294 { Anyway, thanks for checking in on him. Maybe I should bail from here if there's ever a chance... }
+
+Plh_176 { You're back. Let's see what's going on here. }
+
+Plh_281 { Ah, Larea... Poor thing. But what can you do — I've got to keep on working. }
+
+Plh_153 { Did you take the stuff out of the storage pits? }
+
+Plh_174 { Finally, doing real work again! No more fooling around at the cauldron! }
+
+Plh_4 { *grumbles* Not a good time. What is it now? }
+
+Plh_36 { Actually I'm looking for Kora, but Cengiz said you could help me with something... }
+
+Plh_37 { Kora? She's not here. She's taken off to the Remnants' camp. Hmph. Maybe I should do that too... }
+
+Plh_39 { Do you know how to treat wounds properly? }
+
+Plh_40 { I've got a question about a wound. Do you know anything about these things? }
+
+Plh_41 { Sure, I know everything about wounds. The answer is... }
+
+Plh_297 { Yes...? }
+
+Plh_298 { Beer! }
+
+Plh_309 { What!? }
+
+Plh_300 { Oh, I've got no idea how to treat wounds properly. But I reset a shoulder a few times, so I can show you how to do that. First we just need to dislocate your shoulder, but that's easy. }
+
+Plh_44 { Let's say — hypothetically — that someone was bitten by a ripper. What can be done for that? }
+
+Plh_48 { Larea got injured. But she doesn't want to return to the camp, because then everyone will see her injury. }
+
+Plh_45 { Bitten by a ripper? That's pretty painful. You'll just have to tough it out. And anyone stupid enough to get that close to a ripper had it coming. }
+
+Plh_46 { What can help alleviate the pain? }
+
+Plh_47 { Larea is in SEVERE pain — and she urgently needs something done about it. }
+
+Plh_50 { A ripper? Damned creatures, with their razor-sharp claws. Hmmm... }
+
+Plh_51 { There was this one thing... }
+
+Plh_53 { One time, Kora made this ointment that worked well on wounds. I don't know what went into it... Earthroot was one of the ingredients, that much I do know. So it must help with something like that. }
+
+Plh_52 { You can tie some earthroot to the wound. That might help. Seems likely, since it's in the ointment, too. }
+
+Plh_55 { Are you certain about that? }
+
+Plh_60 { Where can I find earthroot? }
+
+Plh_56 { Thanks. We'll see... }
+
+Plh_57 { How could I possibly be certain? All I can do is reset bones. And I'm hungry! Larea better hurry up with the meat! }
+
+Plh_62 { All I can say is that Kora was fiddling around with earthroot while making the ointment. I don't know what the stuff does, and I'm not willing to try it on myself. }
+
+Plh_61 { Wherever there's water. You could cut some off and tie it to the wound. Heals pretty quickly. I think. }
+
+Plh_58 { Go do it, then. }
+
+Plh_59 { Not so fast. Something's not quite right here... I can smell a rat. So spill it! }
+
+Plh_63 { I was just curious. }
+
+Plh_64 { None of your damned business. }
+
+Plh_65 { Larea is injured, but she doesn't want anyone to find out about it. }
+
+Plh_67 { Curiosity is dangerous in Drova. Curiosity will get you killed. So... be careful where you go around sticking your nose in. }
+
+Plh_66 { Hey, slow down. You asked ME, remember? Hmph. }
+
+Plh_49 { Larea? She doesn't feel pain. She just ignores things like that. She better hurry up with the meat. }
+
+Plh_54 { Then she should swallow her pride and come here. Otherwise, nobody will be able to help her. An injury really isn't anything to be ashamed of... }
+
+Plh_70 { Then go. }
+
+Plh_38 { Depends on what you want. }
+
+Plh_266 { Well? Did it work? }
+
+Plh_267 { I've treated Larea with earthroot, but... It didn't work. She's dead. }
+
+Plh_268 { I did what you recommended. Now Larea is dead. Because of you! }
+
+Plh_269 { It didn't do anything. The earthroot had no effect. }
+
+Plh_270 { Wh-what? Larea is — dead? How...? }
+
+Plh_311 { Are you sure earthroot was the right medicine? }
+
+Plh_303 { Yeah! Well — at least I thought so... But why didn't she come to us if she was in such terrible shape? }
+
+Plh_275 { It was important to her that nobody saw how badly injured she was... }
+
+Plh_276 { The wound inflicted on her by the ripper looked horrendous. Maybe there was simply no way to save her... }
+
+Plh_277 { *looks down* It's an unforgiving world. She could have come to us for help. No, Larea has only herself to blame. I... I've got to get back to work... }
+
+Plh_278 { You don't want to talk about it? }
+
+Plh_280 { No. Now, go. Leave me in peace. }
+
+Plh_271 { Don't you dare try to shift the blame onto ME! I'm not a healer! }
+
+Plh_312 { You're the one who told me to use earthroot. }
+
+Plh_305 { And I also told you that I didn't know what its effects are! How could she just die from it... }
+
+Plh_306 { Someone would have indeed helped her — if she had come to us... }
+
+Plh_272 { Hm. Well, I'm no healer. Strange, though, that it had no effect at all... }
+
+Plh_358 { Gero is at the Remnants' camp, too. I met him there. }
+

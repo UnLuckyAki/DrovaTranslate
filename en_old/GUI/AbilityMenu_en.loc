@@ -1,0 +1,20 @@
+Title_MainSpells { Abilities }
+
+Title_ConsSpells { Spell scrolls }
+
+header_physicalAbilities { Abilities }
+
+header_magicalAbilities { Spells }
+
+header_memory { Memory }
+
+Orientationpoint_Label { Base Focus: }
+
+Orientationpointtooltip_Header { Base Focus }
+
+Orientationpointtooltip_Description { Over time, Focus will regenerate up to this point. }
+
+MaxLeben { Max. Health }
+
+StaminaCosts { Stamina Cost }
+

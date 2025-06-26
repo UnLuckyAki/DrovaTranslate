@@ -1,0 +1,362 @@
+Plh_7 { I've returned from the Forest Primeval. Now I know how to get past the Blackflame. }
+
+Plh_69 { I'm ready for the Red Tower. }
+
+Plh_225 { I've returned from the Forest Primeval, and I brought the Divine Crystal. }
+
+Plh_237 { *examines the Divine Crystal* Looks like it's just as depleted as the others. Mombert was right — we need to charge it. }
+
+Plh_226 { You alone decided to do so. As Heiress of the Moor, I cannot condone this. You might have had our well-being in mind, but we need to work together. }
+
+Plh_227 { I will show you something. Come. }
+
+Plh_228 { (follow) }
+
+Plh_232 { The rune vessel of the Raven. The wellspring of peace in Nemeton. The Raven creates all you can see. }
+
+Plh_233 { That which we have created is fragile. But we are closer to our goal than ever before... }
+
+Plh_240 { The people in the Forest Primeval won't get their old lives back... }
+
+Plh_241 { Nemeton can soon be home to everyone. }
+
+Plh_242 { Not all ends justify the means. }
+
+Plh_243 { I don't think it would have been easy for me. But what we did to the Mighty Boar was necessary. }
+
+Plh_244 { Once we enter the Red Tower, the past shall become irrelevant. The power of the Divinities shall prevail, and all Drova will be transformed. It shall become the Land of Legends for all to live in peace... }
+
+Plh_245 { Sacrifices will have to be made, but we must never lose sight of our goal. }
+
+Plh_234 { And the Divine Crystals will take us there. Mombert was right. We need to charge them so that they might help us reach the Red Tower. }
+
+Plh_248 { Take the Divine Crystal to Mombert. He's on the Red Moor, looking for the Divinity. There must be a place where we can imbue all the crystals with magical power. }
+
+Plh_249 { *reaches for her neck and loosens her necklace* I wear the symbol of Nemeton. This necklace was passed down to me by my father, Dorian. It was he who founded Nemeton... and with it, the dream of our future. }
+
+Plh_251 { A dream that might now come true. Take the symbol. It shall protect you. }
+
+Plh_252 { Once you have charged the Divine Crystals, we'll be ready to do our part. We shall prepare the ritual by means of which we will enter the Red Tower. }
+
+Plh_255 { I won't disappoint you. }
+
+Plh_246 { Would you tell that to someone who's starving? Someone who's being torn apart by monsters... because I hesitated? }
+
+Plh_247 { No. I must not shrink back. }
+
+Plh_75 { Come along. }
+
+Plh_217 { I need some peace and quiet. }
+
+Plh_155 { First thing, go to Lio and fetch your runestone. Then we'll talk. }
+
+Plh_224 { I'm giving you one final chance. If you retrieve the Divine Crystal, we'll forgive your betrayal. }
+
+Plh_318 { Molvina, I did it for Nemeton. }
+
+Plh_319 { Mombert made me do it. }
+
+Plh_320 { I don't care why you did it. Now's your chance. Seize it. }
+
+Plh_313 { I've already heard from Mombert that your expedition was successful. So Gradan didn't die in vain... }
+
+Plh_315 { Meanwhile, we've prepared the Festival of Fire. We trusted you'd all be successful. And we were right. }
+
+Plh_314 { Now you've earned the right to celebrate. }
+
+Plh_45 { The Festival of Fire is held only once a year. You should enjoy it. }
+
+Plh_39 { Find a way to get through the Blackflame. }
+
+Plh_321 { We lost Gradan, but we gained you and Karotte. }
+
+Plh_322 { Creating a peaceful Drova was always important to Gradan. Find out where the other Divine Crystals are. That way, we'll get closer to his Gradan's goal. }
+
+Plh_164 { *smiles* Well, I hope you partied hard. Today's your big day. }
+
+Plh_165 { It's time that you got your runestone. Lio and Karotte are already awaiting you. }
+
+Plh_257 { I knew that it was dangerous there. But I still underestimated the danger. We've got to dispatch new warriors. }
+
+Plh_276 { I'm setting up a new expedition, but to do it, I'm going to need... }
+
+Plh_259 { I've imbued the Divine Crystals with magic. (hand over) }
+
+Plh_260 { What? You alone? I can sense the power. That's... }
+
+Plh_261 { No way! You made it out alive? First the mandragora, and now you've survived the Knawd Moor? Crazy! }
+
+Plh_265 { I, too, can sense the magical power. It should work. We've got the power of the Mighty Boar, plus the Divine Crystals... it could be enough. I'll prepare everything right away. }
+
+Plh_264 { $GVAR:EVars_Player.Name$, get Mombert here. Right away. He's needed in the Red Tower. }
+
+Plh_266 { But Mombert's... He's... indisposed. I doubt he's ready for what's coming down the pike. }
+
+Plh_267 { We can't wait. But then again, we can't do without him. Aside from that, there's nobody who longs more fervently to gain entry into the Red Tower. }
+
+Plh_262 { Henik, you prepare your warriors. We'll put the Divine Crystals in place, and then — we'll enter the Red Tower. }
+
+Plh_263 { But... }
+
+Plh_268 { *juts out chin* For Nemeton! }
+
+Plh_269 { $GVAR:EVars_Player.Name$, go to Mombert. He's probably resting with the druids. Tell him he's needed here. }
+
+Plh_271 { Maybe Henik is right, and Mombert is too weak. }
+
+Plh_275 { Once Mombert's here, we're good to go. }
+
+Plh_273 { We won't enter the Red Tower without Mombert. Not only because we're going to need his knowledge, but if we leave him behind, he'll rip us all a new one. }
+
+Plh_5 { Halt! I am Molvina, Heiress of the Moor. What gives you the notion you have any right to be here? }
+
+Plh_9 { Angus sent me. I seek to join the Nemeton. }
+
+Plh_10 { I'm worthy of becoming part of the Nemeton. }
+
+Plh_11 { So you're here to take your oath and become part of the family. }
+
+Plh_14 { Well, you did convince Angus with your skills. Tell me — why do you want to join us? }
+
+Plh_15 { I seek power and wish to make something happen. }
+
+Plh_16 { Solidarity is important. I want to be part of a community. }
+
+Plh_17 { Power and influence? That's something the fighters can offer you. }
+
+Plh_19 { You wish to belong to us? You must take the oath of loyalty. }
+
+Plh_20 { Repeat what the first Heiress of the Moor once said... }
+
+Plh_21 { I swear to serve the Nemeton and to place the family's well-being above my own. }
+
+Plh_23 { The word of the Heiress of the Moor is my law. }
+
+Plh_25 { I swear eternal loyalty. }
+
+Plh_27 { The Heiress of the Moor has heard your words. Your oath now binds you to the Nemeton. Forever. }
+
+Plh_159 { Now you are finally worthy of wearing the armor with Nemeton's insignia, for all in Drova to see. Speak! Do you fight with light or heavy armor? }
+
+Plh_160 { What's the difference? }
+
+Plh_161 { I'd like the light armor. <br>(29 armor, 12 magic resistance, stamina cost -30%) }
+
+Plh_162 { I'd like the heavy armor. <br>(48 armor, 14 magic resistance, stance damage -50%) }
+
+Plh_163 { Heavy armor offers better protection against blows, but light armor makes dodging easier. }
+
+Plh_29 { Remember, the Nemeton are your family now. If you harm one member, you harm the whole family. For any transgression, there is but one punishment: Death. }
+
+Plh_316 { I'm Mombert, the high druid of Nemeton. Welcome to our family. }
+
+Plh_183 { So... I've got this stone that I'm supposed to bring to the druids in Nemeton. (hand it over) }
+
+Plh_184 { A... stone? }
+
+Plh_185 { *raises an eyebrow* Is this a crystal of the Bygones? }
+
+Plh_186 { It looks just like the drawings in the ancient texts. Doesn't it, Mombert? }
+
+Plh_187 { A relic of the Bygones... with this, we could... *Molvina and he exchange glances* }
+
+Plh_188 { But not without a Divinity. This crystal... we can deploy it to focus the magic of a Divinity. The Mighty Boar— }
+
+Plh_30 { Quiet. Pure fantasy. We've already lost too many good people to the Blackflame. }
+
+Plh_31 { Blackflame? }
+
+Plh_193 { West of here, near the Headless Ripper Inn, that's where the Forest Primeval begins. That's where the Blackflame burns. }
+
+Plh_194 { *gazes into the distance* It blazes deep within the Forest Primeval. That's where we searched for the Mighty Boar. Many have perished there... my friends. }
+
+Plh_195 { Diemo and his people do in fact live very close to the Blackflame. He's a rogue druid. I'd be keen to know how they manage to survive. }
+
+Plh_197 { Rumor has it that a trader named Tristan barters with Diemo regularly. So perhaps he could help us... }
+
+Plh_198 { It must be a sign that you are now bringing us this crystal. And your opportunity to prove your skills to us... }
+
+Plh_199 { Find Tristan at the inn. Ask him how Diemo's group manages to survive in the Forest Primeval amid the Blackflame. }
+
+Plh_200 { I know Diemo well. Smart, but misguided. He must've found a way to subdue the Blackflame. }
+
+Plh_34 { Could he be using magic? }
+
+Plh_201 { Maybe. It could be a spell, a specific ritual... Or they know safe pathways through the flames. That's exactly what you need to find out. }
+
+Plh_36 { Talk to Tristan. If he's really reaching the people in the Forest Primeval, then it must be possible for us as well. }
+
+Plh_190 { I've already been to the Forest Primeval — I know how to get through the Blackflame. }
+
+Plh_191 { What?! }
+
+Plh_43 { Don't enter the Forest Primeval unless you're prepared. Check in with Chunnaic in the Crafters' Quarter. If you tell her I sent you, she'll furnish you with a good weapon. }
+
+Plh_192 { Angus is always on the hunt for people who can get the job done. Check the bulletin board. As a Nemeton fighter, you'll find jobs there. }
+
+Plh_38 { And now go with the blessing of the Heiress of the Moor. You're part of the Nemeton. Show it. Live it. }
+
+Plh_18 { We're a community. And we're convinced that only united can we build something in Drova which — until now — has been reported only in legends. }
+
+Plh_13 { This isn't for you to decide. Only the Heiress of the Moor can do that. }
+
+Plh_40 { You have no business being here! }
+
+Plh_209 { What sort of creature is that by your side? }
+
+Plh_210 { It's a spark. A Link to the Divinity. Its light repels the Blackflame. }
+
+Plh_152 { *leans in toward the spark* I've sensed this power before... back then, in the Forest Primeval... }
+
+Plh_216 { With this being, we could reach the Divinity. It could shield us from the Blackflame — assuming $GVAR:EVars_Player.Name$ is telling the truth. Molvina? }
+
+Plh_204 { I've got doubts. I shudder when I think back on how many people we've lost. And now we're supposed to believe that this... spark is enough to prevent history from repeating itself? }
+
+Plh_205 { We can't just wait and see. No, we've got to look forward. Another expedition is a daring venture, sure, but we must undertake it. Give me your blessing, Molvina. Please. }
+
+Plh_153 { *sighs* You have my blessing. If you think it can be done, I won't stand in your way, Mombert. Get in touch with Angus. He shall gather a squad of warriors for you. }
+
+Plh_206 { You harbor doubts. But I shall not disappoint you, Heiress of the Moor! This is our once-in-a-lifetime opportunity to reach the Divinity. And bring peace to Drova. }
+
+Plh_207 { FOR NEMETON! }
+
+Plh_220 { *blinks* For Nemeton. }
+
+Plh_221 { FOR NEMETON! }
+
+Plh_222 { For Nemeton... }
+
+Plh_208 { Mombert... just be careful. Turn around if the spark doesn't have any effect. I don't want to lose any more people. But if you really can reach the Divinity... }
+
+Plh_211 { I'll be careful. }
+
+Plh_44 { And you... you're joining the expedition. Only with your knowledge about the Blackflame and your spark you can succeed. }
+
+Plh_213 { I won't let you down. For Nemeton. }
+
+Plh_214 { And what happens when we find the Divinity? }
+
+Plh_218 { What's going to happen on this expedition? }
+
+Plh_42 { Report to Angus in the Fighters' Quarter. Be prepared! Well prepared! }
+
+Plh_219 { The Divinity created the Forest Primeval. We must study its power and learn how to... be able to harness it. }
+
+Plh_215 { Mombert's leading a band of warriors, including you, into the Forest Primeval. Together you will find the Divinity. }
+
+Plh_145 { What did you find out? }
+
+Plh_147 { The people there live in harmony with the Divinity. It grants them a protective spark. }
+
+Plh_148 { A spark? What's that? }
+
+Plh_203 { It's a link to the Divinity. The spark buzzes around a person and repels the Blackflame. }
+
+Plh_150 { So, a spark could allow us to reach the Divinity unscathed? }
+
+Plh_151 { Yeah, I've got one already. spark! }
+
+Plh_291 { Jero! That can't be! }
+
+Plh_370 { How could this even happen...? We were so close... }
+
+Plh_307 { The battle was unavoidable! }
+
+Plh_282 { My brother — the traitor of Nemeton — is dead... The Divinities have guided my hand... }
+
+Plh_285 { Jero, YOU drove me to this... it had to be done. For everyone. For Drova. }
+
+Plh_312 { Now a peaceful life awaits us... A community... }
+
+Plh_306 { The rune circle — has it been extinguished?! The magical power no longer flows... Your battle must have disturbed it... }
+
+Plh_371 { Jero is defeated. I've got the law on my side. You must see that too, Darwin. }
+
+Plh_283 { Molvina — our leader! }
+
+Plh_286 { Jero... our leader... How can this be the will of the Divinities?! }
+
+Plh_288 { Eugen, leave it... }
+
+Plh_289 { My warriors have seized the Remnants' camp. You have lost. }
+
+Plh_284 { Kneel before me. Swear your loyalty to me. }
+
+Plh_290 { Or step into the ring, if you dare challenge my authority — and join Jero with the Divinities! I trust your judgment. }
+
+Plh_279 { I challenge you! The Divinities are to pass judgment! }
+
+Plh_280 { (kneel down) }
+
+Plh_308 { What happened to the rune circle? It no longer glows. }
+
+Plh_299 { What in the name of the Divinities are you doing there? Have you lost your mind? }
+
+Plh_300 { Someone's rising up against Molvina?! }
+
+Plh_301 { You really dare? Then so be it. May the Divinities pronounce another judgment! }
+
+Plh_303 { *whispers* I, the Heiress of the Moor, shall prevail... }
+
+Plh_294 { Fulk... $GVAR:EVars_Player.Name$... What are you doing there? }
+
+Plh_295 { The judgment of the Divinities has been decided. Molvina shall now lead us. }
+
+Plh_292 { For Molvina! The Heiress of the Moor is the ruler of Drova! }
+
+Plh_296 { The rune vessels are now under my power. Drova shall become the Land of Legends. Arise, people of Nemeton. As of today, we are all one again. }
+
+Plh_297 { Follow me, Nemeton! We shall get the rune vessels. }
+
+Plh_309 { This isn't good, it may be that — }
+
+Plh_310 { Silence! }
+
+Plh_311 { Kneel, and swear allegiance to me! Accept me as your leader. Then we shall command the rune vessels. Drova shall become the Land of Legends that was foretold! }
+
+Plh_70 { Are you sure? Once we begin our mission, there won't be any going back. }
+
+Plh_71 { I am sure. }
+
+Plh_72 { I'm going to need a moment. }
+
+Plh_73 { Let's begin! Everyone in position! }
+
+Plh_324 { Henik, Mombert, Asmus, and $GVAR:EVars_Player.Name$... the finest warriors of Nemeton. }
+
+Plh_372 { We'll go to the Red Tower together. We shall bring peace to Drova! }
+
+Plh_325 { FOR NEMETON! }
+
+Plh_328 { For Drova! }
+
+Plh_329 { BEGIN! }
+
+Plh_373 { We're ready. We won't be able to sustain it for long, you must... }
+
+Plh_374 { Get started, we're ready! }
+
+Plh_323 { We don't know exactly what's awaiting us in the Red Tower. Keep alert. Be ready for anything. }
+
+Plh_375 { We — we can't hold it! }
+
+Plh_376 { DRAW YOUR WEAPONS! }
+
+Plh_377 { Get ready! }
+
+Plh_74 { Prepare yourself well. And finish everything you still want to finish. }
+
+Plh_378 { What are you doing?! }
+
+Plh_379 { Jero, there's something wrong with the rune circle! }
+
+Plh_381 { I've got no choice... }
+
+Plh_382 { WE MUST BREAK FREE! }
+
+Plh_383 { Nice try... }
+
+Plh_384 { I'm just warming up! }
+
+Plh_385 { You leave me no choice, brother. }
+

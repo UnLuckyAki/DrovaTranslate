@@ -1,0 +1,42 @@
+Entry_Created { New journal entry }
+
+Entry_Updated { Journal updated }
+
+OthersUpdated { +$JOURNAL:Others$ Miscellaneous }
+
+Tab_Quests_Finished { Completed }
+
+Tab_Quests_Running { Current }
+
+Tab_Letters { Letters }
+
+Group_Bandits { Ruin Raiders }
+
+Group_Nemeton { Nemeton }
+
+Group_RuinCamp { Remnants }
+
+Group_Tavern { Tavern }
+
+Group_Woodcamp { Woodcutter }
+
+Group_World { World }
+
+Group_Unsorted { Unsorted }
+
+Group_Magielager { Refuge }
+
+Group_RedTower { The Red Tower }
+
+Group_Mine { The Pit }
+
+Group_MainQuest { Main Quest }
+
+Group_Dungeon_Library { Library }
+
+Group_Dungeon_City { Town in the Forest Primeval }
+
+Group_Dungeon_Auwald { Knoll in the Floodplain Forest }
+
+Group_TreasureMaps { Treasure Maps }
+

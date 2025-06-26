@@ -1,0 +1,82 @@
+LoadingScreen_01 { Before you can interact with people or items, you need to stow your weapon. }
+
+LoadingScreen_02 { Press $INPUT:DrawWeapon$ to draw or stow your weapon. }
+
+LoadingScreen_05 { You can use $INPUT:PerceptionMode$ to take a closer look at your surroundings. There are some things you can discover only that way! }
+
+LoadingScreen_06 { You can attack only once you draw your weapon. First press $INPUT:DrawWeapon$ and then $INPUT:Attack_Primary$. }
+
+LoadingScreen_07 { Sleep in beds to recover. The better the bed in which you sleep, the better rested you will be. }
+
+LoadingScreen_08 { Grab everything you can find. You can craft things using other things. }
+
+LoadingScreen_09 { You can fry meat or cook meals using a campfire. }
+
+LoadingScreen_11 { When someone is lying on the ground you can help them get back on their feet. }
+
+LoadingScreen_12 { Different merchants sell different goods. Keep an eye out for good deals! }
+
+LoadingScreen_14 { If you carry a spear, you can fish in special places. You'll recognize fishing spots by the circling fish. }
+
+LoadingScreen_15 { If you carry a lockpick, you can open locks. Just don't get caught! }
+
+LoadingScreen_16 { Be careful when you pick up items — no one likes a thief, after all! Sometimes, the hand icon will turn red, indicating that the item you’re trying to pick up already belongs to someone else. }
+
+LoadingScreen_17 { In combat, you can dodge $INPUT:Dodge$ attacks. But keep an eye on your Stamina bar! }
+
+LoadingScreen_18 { If you've committed a crime, people no longer want anything to do with you. In Nemeton, Gerdwin can forgive a crime. In the Remnants' camp, you'll have to work it out with the person who's angry with you. }
+
+LoadingScreen_19 { Your character takes notes of all important events. Should you get stuck, consult your journal. }
+
+LoadingScreen_20 { Should you run into enemies who are still too difficult for you, you might want to consider going somewhere else first. }
+
+LoadingScreen_21 { Prowess is the sum of your attribute scores. Weapons, in order to be wielded, require a certain amount of prowess. }
+
+LoadingScreen_22 { People don't like it if you walk around brandishing your weapon. When you're around people, stow your weapon with $INPUT:DrawWeapon$. }
+
+LoadingScreen_23 { Some people want to go places with you. They'll usually wait for you if you're moving too far away from them. }
+
+LoadingScreen_24 { Think carefully about which faction you want to join. Once you've made your choice, there's no turning back. }
+
+LoadingScreen_25 { You can extract claws from certain animals, or skin them. But first you'll have to learn the respective talents. }
+
+LoadingScreen_26 { If you want to learn a talent or raise your attribute scores, you'll have to find a teacher. }
+
+LoadingScreen_28 { Hold $INPUT:RingMenu$ to open the wheel menu. From there, you can select an active ability. }
+
+LoadingScreen_29 { Abilities from scrolls can be used only once. These can be helpful, so use them wisely. }
+
+LoadingScreen_30 { Using an ability consumes Focus. You generate Focus by attacking, and you lose Focus if you get hit or haven't attacked for a long time. }
+
+LoadingScreen_32 { With $INPUT:SwapWeaponSet$, you can switch between two weapon sets in combat. Press $INPUT:MENU-Inventory$ to configure your two weapon sets. }
+
+LoadingScreen_34 { You can communicate with some animals. Why don't you try talking to one? }
+
+LoadingScreen_35 { In order to craft certain items, you need the proper work space. }
+
+LoadingScreen_36 { You don't enjoy fighting? Stick to the paths, and you should be relatively safe. }
+
+LoadingScreen_37 { Depending on your Focus, the secondary dagger attack inflicts exponentially higher damage. }
+
+LoadingScreen_38 { You can place markers on all your maps. First you'll have to find some ink, of course. }
+
+LoadingScreen_39 { You can use $INPUTANIM:MarkAsGarbage$ to mark as junk any items that are of no value to you. You can hide and unhide junk in your inventory. In the barter menu, add junk to the trade by using only one click. }
+
+LoadingScreen_40 { Critical hits cause Bleed. (Bleed inflicts damage over time that's equivalent to the initial attack damage.) }
+
+LoadingScreen_41 { Poison reduces movement speed and the affected targets' armor. }
+
+LoadingScreen_42 { Over time, eating food heals you. However, while you're at full health, regeneration is put on hold. As long as you're sated, many dishes grant passive effects. Should you then eat something, the current satiety effect will be overwritten. }
+
+LoadingScreen_43 { Using a healing item, you'll apply "healing" onto yourself, causing you to recover health periodically. Multiple healing effects can be active simultaneously, but only one per distinct healing item. }
+
+LoadingScreen_44 { Check the options menu! We've added additional features and settings that might be helpful for your gameplay. }
+
+LoadingScreen_45 { Opponents possess varying resistances to physical and magical damage. Some spells might be particularly effective against opponents in heavy armor! }
+
+LoadingScreen_46 { Each weapon offers a secondary attack that you can execute using $INPUTANIM:Block$. If you're wielding a one-handed weapon, you can use the secondary attack only if your off-hand is empty. }
+
+LoadingScreen_47 { Join our Discord to give feedback, contact us, or just to have a chat. We're looking forward to talking to you! }
+
+LoadingScreen_48 { Consumables such as traps, bombs, and throwing knives pierce opponents' armor. }
+

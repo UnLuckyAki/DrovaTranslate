@@ -1,0 +1,120 @@
+Plh_49 { I need to take a break... }
+
+Plh_33 { Have you gathered enough bog iron? }
+
+Plh_35 { That should be enough. (Give bog iron) }
+
+Plh_58 { I took it to Rura. }
+
+Plh_34 { I'm still on it. (end conversation) }
+
+Plh_36 { Chunnaic will be pleased about that. I'll give it to Muc once he's back, and I'll let Georg know, should he ask about you. }
+
+Plh_37 { Got any more work for me? }
+
+Plh_70 { Who's Chunnaic? }
+
+Plh_40 { See you later. (end conversation) }
+
+Plh_38 { No. But you can ask Dylara. She almost certainly needs help with the bridge. }
+
+Plh_41 { Where can I find Dylara? }
+
+Plh_42 { Follow the path west, then head north. She's supervising the bridge repairs. }
+
+Plh_44 { Why's the bridge out? }
+
+Plh_43 { A few nights ago, a quake struck. Now the bridge is gone, so we can no longer reach the Woodcutter Camp. Too bad for us, and for the Nemeton... }
+
+Plh_71 { The finest blacksmith far and wide. There's no blade she can't forge. }
+
+Plh_72 { If you find yourself in Nemeton, be sure to pay her a visit. }
+
+Plh_57 { Ah, good. That's exactly where the bog iron needed to go anyway. Now Muc won't have to kill himself lugging it around. }
+
+IronForFarmers_Start { I'm always stuck doing this crap for Georg. I've had it up to here! }
+
+Plh_2 { Now, now, don't exaggerate. Sometimes we've got to do unpleasant things, but it's the goal that counts. }
+
+Plh_3 { Easy for you to say, you're part of the Nemeton. "Unpleasant things"? We're busting our asses here for nothing! }
+
+Plh_4 { I could put in a good word for you with the Nemeton... }
+
+Plh_5 { They can all kiss my grits! I'd rather go to the Remnants' camp... }
+
+IronForFamers_Question02 { What are you arguing about? }
+
+End { (end conversation) }
+
+Plh_6 { Arguing? We're just talking. I'm Jerzy. That blockhead there is Jurek. }
+
+Plh_9 { At least that blockhead sees things the way they are. Ever since the split, it's been downhill for Nemeton. They might as well shut it all down. }
+
+TalkAboutAndrick { They always promise the Land of Legends, a land in harmony with the Divinities. But set one foot into the moor, and the bloodflies will eat you alive. }
+
+Plh_11 { How is anyone supposed to trust the Nemeton? Keep kidding yourself now that they've accepted you, but I don't see a peaceful life on the horizon! }
+
+Plh_13 { What's the problem with Nemeton? }
+
+Plh_14 { Why didn't you join the Nemeton too? }
+
+FoodForFarmers_JurekJerzyFood { I brought you both some food. }
+
+Plh_15 { The Nemeton are the largest faction in Drova, and Georgefarm is part of it. The creatures in the moor are getting more and more aggressive, but the Nemeton are sending fewer and fewer fighters. }
+
+Plh_16 { We're just talking about what a peaceful life we're going to have one day, but I hardly dare even taking a dump outside anymore. Nemeton is going downhill... }
+
+Plh_68 { Jurek, what do you expect the Nemeton to do? More and more people are running off to the Remnants' camp. }
+
+Plh_69 { Yeah, and whose fault is that? Nemeton's! People know they're better off elsewhere. I'm starting to believe it myself... }
+
+Plh_17 { They don't accept just anyone. And I don't want to be accepted anymore, anyway. I'm sick of being shunned by them. They'd let you rot in the moor... }
+
+Plh_18 { Things will get better again, Jurek. }
+
+Plh_19 { Maybe for you — you can hide behind their big fat palisades... }
+
+Plh_12 { Food! There's nothing better! }
+
+Plh_61 { Come on, Jurek. Let's eat in peace. }
+
+Plh_63 { *grumbles* We'll continue this conversation some other time... }
+
+Plh_7 { Phew, dammit, I'm hungry... }
+
+Plh_64 { Eating is the highlight of the day. They definitely don't have anything this tasty in Nemeton. }
+
+Plh_65 { Thanks for bringing us the food. }
+
+Plh_60 { Wait, this isn't enough... We need two portions... }
+
+Plh_22 { Not now. Jurek and I must sort something out. }
+
+Plh_24 { Got any work for me? Georg sent me. }
+
+Plh_25 { Don't think so. We're managing just fine on our own. }
+
+Plh_23 { Just fine? We? Nonsense. If the geezer sent you, you might as well work. Just gather some bog iron on those fields ahead. }
+
+Plh_26 { Ha, good idea. Muc always fetches bog iron from us for Chunnaic the blacksmith. Gather some and bring it to me. }
+
+Plh_27 { What does bog iron look like? }
+
+Plh_30 { What is bog iron? }
+
+Plh_28 { All right, I'll bring you bog iron. (end conversation) }
+
+Plh_29 { Small, brownish lumps. They always get plowed up to the surface. }
+
+Plh_31 { Chunnaic refines it into iron. It's not as good as the stuff from the mines, but it's usable. }
+
+Plh_32 { Bring me $GVAR:QuestVars_IronForFarmers.NumItemsNeeded$ pieces. I'll give to Muc at the next opportunity. }
+
+Plh_51 { Why don't you just go to Nemeton? }
+
+Plh_52 { You don't know what I mean! }
+
+Plh_53 { Don't be like that! }
+
+Plh_54 { Come on, just leave me alone! }
+

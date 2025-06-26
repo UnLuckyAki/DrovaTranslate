@@ -1,0 +1,304 @@
+Plh_0 { Jola sent me. Can you take me to the Pit? }
+
+Plh_193 { I'm ready for the Pit. }
+
+Plh_170 { What do you mean, Levin rewards diligent workers? }
+
+Plh_172 { Levin's in the Pit. He's in charge of the silver. So you've got to stand out there. No matter how. Levin needs to see that you are valuable. }
+
+Plh_171 { If you want to make it in this place, you'll need Levin's endorsement. That will open up a lot of doors. The one to the Upper Quarter, for instance. }
+
+Plh_146 { I need some time for myself. I'll be quick. }
+
+Plh_3 { Stay close. It's dangerous here. }
+
+Plh_97 { *glances at you grumpily* What do you want? }
+
+Plh_54 { Thanks for bringing me here. }
+
+Plh_55 { Everything all right with you? }
+
+Plh_56 { About those bandits... here's my share. (hand over $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$ coins) }
+
+Plh_99 { You're welcome. }
+
+Plh_102 { Sure. Just busy. }
+
+Plh_103 { Is everything really all right with you? }
+
+Plh_104 { I'll leave you alone. }
+
+Plh_100 { I, too, detest the way Adalgis takes everyone's coins like that — and nobody's doing anything about it! But I thought we stick together! }
+
+Plh_105 { But I wasn't supposed to say anything! }
+
+Plh_107 { Here is my share of the coins. ($GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$) }
+
+Plh_106 { I guess you were mistaken. }
+
+Plh_108 { ... }
+
+Plh_110 { Forget it. }
+
+Plh_109 { Oh, well... I guess I was mistaken, then. Sorry. In this place, you've got to be careful about whom you trust. I've already seen a friend turn foe. }
+
+Plh_111 { I'm sure you're right. I need to get back to work... }
+
+Plh_101 { You should have just stayed. Because of you, I lost all my coins. But I thought we're sticking together! }
+
+Plh_113 { *looks away* }
+
+Plh_165 { Look at that — the arena fighters train here. }
+
+Plh_166 { One of these days, it's going to be me standing there. Sword in hand. From Hewer to fighter. }
+
+Plh_168 { You were a Hewer once? }
+
+Plh_167 { *smirks* I discovered the Deep Mine. Levin rewards Hewers who work hard. And now, I advanced to a real fighter. }
+
+Plh_159 { I was the best Hewer ever to set foot in the Remnants' camp. I could hew entire mountains until there was nothing left. }
+
+Plh_160 { But I'm through with that. I'm no Hewer anymore, but a fighter for the Remnants. }
+
+Plh_192 { Follow me, then. }
+
+Plh_174 { Ah, someone new for the Pit! I can take you there. It's a bit of a hike. }
+
+Plh_175 { I've got to drop by Jola for a sec before we go. Do you have everything you need in the Pit? }
+
+Plh_189 { I'm ready. }
+
+Plh_190 { I'm going to need a moment. I'll be right back. }
+
+Plh_191 { I'll wait. }
+
+Plh_177 { Ah, Hewers for the Pit! When I took a few Hewers to the mine the other day, the bandits weren't around. Let's see about today. }
+
+Plh_176 { Jola, are we the only ones here? }
+
+Plh_178 { No woodcutter comes here anymore. And anyone else who does is now working in the Pit as a Hewer. }
+
+Plh_179 { I went to Cengiz. He's got everything under control. }
+
+Plh_180 { I was there, but almost nobody was left. }
+
+Plh_184 { Glad to hear that. But we could still use the workers. }
+
+Plh_186 { We offered them our help, but they preferred working with the Nemeton. They've made their bed, so now they can go lie in it. }
+
+Plh_182 { We're leaving. Stay with me. }
+
+Plh_183 { Take care of yourselves. }
+
+Plh_185 { Rely on anyone in Nemeton and you're screwed. }
+
+Plh_5 { We're outside the Remnants' camp. Now we've got to be careful. }
+
+Plh_81 { I'm still in awe about what the Bygones built here. They tunneled into the mountains and erected these statues. How could a civilization like that simply vanish? }
+
+Plh_82 { That's what I love about hanging around in the mines. I kinda miss it. It's probably been too long since I was last down there. }
+
+Plh_83 { Why do you miss the mines? }
+
+Plh_84 { How did you manage to rise from Hewer to fighter? }
+
+Plh_85 { Let's move on. }
+
+Plh_87 { I've worked in the mines all my life. That was my routine, and I enjoyed it. I did something I was good at. One of the best. *smirks* }
+
+Plh_88 { I think I got lucky. In the Pit, I discovered an accessway leading to a tunnel with a huge vein of silver. That's one of the reasons why we've got that much silver in the first place. }
+
+Plh_89 { Word got out, then Levin got wind of it, and he sent me to Kilian. And now, here I am. *smirks* }
+
+Plh_86 { We've still got a long way ahead of us. }
+
+Plh_8 { Here's a piece of advice: Do not follow the road heading north. A lot of those snaptors are roaming around there. Without decent equipment, you won't last long. }
+
+Plh_90 { Are the snaptors that strong? }
+
+Plh_91 { What's with the shrine here? }
+
+Plh_92 { Let's move on. }
+
+Plh_95 { I can take on a single snaptor. Two or more could get dicey. Too bad that they're always traveling in packs. }
+
+Plh_94 { No clue. It's from the Bygones. }
+
+Plh_139 { While I don't know what this shrine is for, exactly, I usually leave an offering to the gods of the Bygones so they protect me in the mines. So far, nothing's ever happened to me. }
+
+Plh_187 { I heard that if you leave just the right offering, you'll win the favor of these past gods... But I don't know what I need to sacrifice for that to happen. It might be a lie, anyway. }
+
+Plh_140 { Almost done. Just look around for a bit, if you like. }
+
+Plh_117 { We got lucky. Sometimes there are bandits nearby, trying to relieve you of some coins. Let's get a move on. }
+
+Plh_9 { Ah, crap. Watch out. Stay behind me. I'll take care of that. }
+
+Plh_14 { What's up? }
+
+Plh_15 { All right. }
+
+Plh_17 { Just stay quiet, and don't say anything. }
+
+Plh_12 { Oh, if it isn't Mottek! Fancy meeting you here. Heard you've made a name for yourself. And that you're part of the Remnants now. Not hewing anymore? *smirks* }
+
+Plh_18 { Hey, Adalgis, whatcha doin' here. Uh... I don't want any trouble. I brought the $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$ coins with me. I'll give them to you. }
+
+Plh_19 { You thought we'd be gone, didn't you? *sighs* Trust me, I'd rather not be here either. }
+
+Plh_114 { You know how it goes. As long as you pay up, we won't hurt you. But you brought someone with you, I see. That'll be $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottekAndPlayer$ coins total. }
+
+Plh_119 { Hey, Adalgis... if that face doesn't look familiar... }
+
+Plh_120 { Hm? }
+
+Plh_121 { *looks to you* I'd, uh... I'd say we move on. You'll never hear from us again. }
+
+Plh_122 { I don't know what you did to them, but it must have been something. }
+
+Plh_21 { We're not going to pay anything. }
+
+Plh_22 { Uh, you've never wanted more than 50 coins before. }
+
+Plh_24 { Everything is getting more expensive. And you're with the Remnants. So you've got to be a lot more solvent. And you're not alone... }
+
+Plh_26 { Here's my share. (hand over $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$ coins) }
+
+Plh_27 { We're not going to pay anything to thieves like you. }
+
+Plh_115 { I've already paid you coins. }
+
+Plh_29 { Uh, sure. $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottekAndPlayer$ coins. That's a lot, but... yeah. *looks to you* }
+
+Plh_35 { Get to it. Hand over the coins or we'll come get them! }
+
+Plh_36 { Ah, here they are. Fortunately, I've got enough coins on me. }
+
+Plh_31 { Here are the coins. Now let us pass. }
+
+Plh_32 { Easy. I'll keep my word. I just got to check if it's really $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottekAndPlayer$ coins. }
+
+Plh_39 { *sighs* Looks legit. I'm really sorry, Mottek, but we desperately need those coins. Good luck in the Pit. }
+
+Plh_40 { Hm. Uh, thanks... }
+
+Plh_41 { *whispers to you* Let's hurry on. }
+
+Plh_30 { All right, thanks. I'll take care of it. }
+
+Plh_79 { Then we'll come get the coins. }
+
+Plh_80 { Hey, we don't want any — }
+
+Plh_195 { Ugh. Should've seen that coming. Don't worry, I'll handle it. }
+
+Plh_116 { Did you now? I guess my memory really isn't so terrific. Why don't you pay me again, just to be sure? Otherwise we'll come get them. }
+
+Plh_28 { Hey, what gives you the idea we're talking to you? }
+
+Plh_78 { Hey, it's all right. But usually you don't want more than $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$ coins, right? }
+
+Plh_133 { Wow, what a fight. I didn't think we would make it. Let's move on quickly. Before more of them show up. }
+
+Plh_134 { We took our share. You may pass. }
+
+Plh_135 { *frowns and grumbles* We'll... be going. }
+
+Plh_10 { Here we are. Finally. This is the Pit. }
+
+Plh_43 { *yawns* No way! Mottek! What are you doing here? I thought we'd never see you again! You're part of us now, I see. }
+
+Plh_123 { Nice seeing you. We made it here safely. Obviously, you've taken care of the bandits. }
+
+Plh_127 { I passed through there before and defeated the bandits. }
+
+Plh_130 { I'm really looking forward to the Pit. Finally, to be underground once again... }
+
+Plh_60 { First I'll take you to Levin. See you around, Esdert. }
+
+Plh_61 { *looks to you* Well, Welcome to the Pit then. Don't screw around, don't cause any cave-ins, and then we'll all remain friends here. }
+
+Plh_52 { My company here has already roughed up the bandits. They'll never show their faces again! }
+
+Plh_63 { *looks at you surprised* Well done. That's a load off my shoulders. People can say what they will about you, Mottek, but a great fighter you ain't. You got lucky! }
+
+Plh_131 { If you defeat them, you'll also get a reward. }
+
+Plh_66 { Here are a few coins for your trouble. If you help us we'll pay you. }
+
+Plh_67 { Well, if that isn't an auspicious start. I'm really looking forward to the Pit. It's been far too long since I was down there. }
+
+Plh_69 { Thank you. }
+
+Plh_70 { Where do I have to go next? }
+
+Plh_64 { I hardly did anything. But back in the day, there used to be a reward. Whatever happened to that? *smirks* }
+
+Plh_65 { Just a moment... }
+
+Plh_46 { Nice seeing you, Esdert. On the way over here, we were attacked by bandits. I thought you took care of them. }
+
+Plh_47 { What? We did, but apparently they came back? Dammit, this cannot be happening... }
+
+Plh_132 { They bolted the second they spotted us! *smirks* They won't be coming back any time soon. }
+
+Plh_62 { As I see, you haven't come alone. Who's that? }
+
+Plh_49 { *his smile fades* Someone to hew. And to get hewed. }
+
+Plh_53 { We're there. I've done my part. You're in the Pit now. *turns away from you* }
+
+Plh_50 { Someone to hew. And to get hewed. Saved my ass when the bandits were after my coins. }
+
+Plh_71 { Levin's just ahead. He's the one in charge here, and you oughta get on his good side. If you want to join the Remnants at some point, you'll need his vote. }
+
+Plh_72 { How do I get Levin's vote? }
+
+Plh_75 { Thanks. I'll go talk to Levin. }
+
+Plh_73 { That's the problem. He's going to think you as nothing more than just another run-of-the-mill Hewer. I discovered the Deep Mine, and Levin got wind of that. That's why I'm wearing this armor now. *smirks* }
+
+Plh_74 { You do that. Oh, and here's another piece of advice. }
+
+Plh_188 { Once you're down in the Pit, watch the way you wield your axe. You don't want to destroy the precious silver. Strike carefully and maintain a steady pace. }
+
+Plh_76 { Thanks for the tip. }
+
+Plh_141 { Are you ready? }
+
+Plh_142 { Let's go to the Pit. }
+
+Plh_151 { What do these words about the Bygones mean? }
+
+Plh_143 { I need some more time. }
+
+Plh_93 { We'll follow the road and then make our way across a beaten path, then ford the water. The bridge has collapsed a while ago. Come, follow me. }
+
+Plh_152 { My mother taught them to me. We did say this to our Divinities, but it cannot be wrong to speak the same words to the Bygones' gods. }
+
+Plh_144 { All right, I'll wait here. }
+
+Plh_136 { Left, right, both of us, let's keep time! Those bandits won't mess with us again. }
+
+Plh_137 { Everything hurts, and it's all your fault. What do you want? }
+
+Plh_157 { Can you show me some tricks about mining? }
+
+Plh_162 { That'll cost you a pretty coin. $GVAR:EVars_Mottek.PriceToLearnMining$ coins. }
+
+Plh_163 { Here, take it. (hand over $GVAR:EVars_Mottek.PriceToLearnMining$ coins) }
+
+Plh_145 { The mine is waiting for me. }
+
+Plh_150 { I am at your service. }
+
+Plh_149 { I keep you. }
+
+Plh_148 { Watch over me. }
+
+Plh_147 { Protect me. }
+
+Plh_196 { Why would I want to go into the Upper Quarter? }
+
+Plh_197 { Without access to the Upper Quarter, it's impossible to join the Remnants. Kilian decided you'll get accepted, and he never leaves. }
+

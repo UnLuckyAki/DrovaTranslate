@@ -24,7 +24,7 @@ Plh_75 { Stubborn critter... }
 
 Plh_79 { When I saw him earlier, he looked pretty hungry. }
 
-Plh_80 { Give something to feed him! }
+Plh_80 { Give me something to feed him! }
 
 Plh_76 { Here, feed him a few berries. He loves those. You can't find them in here, but I still had a few lying around. }
 
@@ -32,9 +32,9 @@ Plh_77 { Merik is supposed to get me more. }
 
 Plh_78 { Get a move on. Go to Falco before he croaks from hunger! }
 
-Plh_42 { Make sure there's not going to be a riot in here! }
+Plh_42 { Making sure there's not going to be a riot in here! }
 
-Plh_86 { I was just joking, but you're kind of right. I provide good food. That helps keep up morale. *smirks happy* }
+Plh_86 { I was just joking, but you're kind of right. I provide good food. That helps keep up morale. *grins happily* }
 
 Plh_44 { Not too long... something shy of two years. Before that I was on some kind of farm, but I didn't like it there very much. }
 
@@ -74,7 +74,7 @@ Plh_30 { It's only a matter of time before you come around. }
 
 Plh_24 { Then your nose must be broken. }
 
-Plh_7 { You want to help me after all? I only need $GVAR:QuestVars_FoodInTheMine_Config.AmountOfFoodNeeded$ pieces raw meat in order to try the new recipe. }
+Plh_7 { You want to help me after all? I only need $GVAR:QuestVars_FoodInTheMine_Config.AmountOfFoodNeeded$ pieces of raw meat in order to try the new recipe. }
 
 Plh_39 { Why aren't you hunting the digpigs yourself? }
 
@@ -164,5 +164,5 @@ Plh_51 { Okay, fine. }
 
 Plh_52 { No, really not. }
 
-Plh_66 { Well, suit yourself. The others will be delighted. *smirks* }
+Plh_66 { Well, suit yourself. The others will be delighted. *grins* }
 

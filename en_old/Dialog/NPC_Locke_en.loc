@@ -1,0 +1,202 @@
+Plh_52 { Is that the relic you were talking about? (hand over) }
+
+Plh_54 { Could it be that you meant this diamond? (hand over) }
+
+Plh_56 { A certain piece of jewelry found its way into my pockets... (hand over Iron Triskelion) }
+
+Plh_167 { About the stuff I was supposed to obtain... I changed my mind. }
+
+Plh_168 { We're glad to hear that. *smirks* }
+
+Plh_6 { Get lost. I've got nothing to say to you. }
+
+Plh_8 { You don't have any place to stay other than here, do you? We thought you were one of the Crafters... }
+
+Plh_11 { (get up) Where am I? }
+
+Plh_157 { (get up) Who are you people? }
+
+Plh_78 { (get up) I was just tired. }
+
+Plh_13 { In the Lost Quarter. Anyone who doesn't really have a place in Nemeton ends up here. }
+
+Plh_14 { We were promised a better life. As were you, probably. }
+
+Plh_15 { I'm Locke. This is Jean. }
+
+Plh_16 { Hey, sorry that we ambushed you like that. }
+
+Plh_80 { What are you doing here? }
+
+Plh_81 { For a moment I thought you wanted to mug me. }
+
+Plh_84 { We just wanted to talk to a kindred spirit. Nothing more. }
+
+Plh_17 { By now, you've probably realized how harsh life in Nemeton can be if you're not a member of any of the families or don't have enough coins. }
+
+Plh_85 { Yeah. I'm being ignored. }
+
+Plh_86 { I'll get by somehow. }
+
+Plh_20 { Same here. And how we tried to be part of them... }
+
+Plh_87 { We don't want to yield to our fate — we want to change it... }
+
+Plh_88 { And we can help with that... }
+
+Plh_89 { How? }
+
+Plh_162 { Hard to imagine. }
+
+Plh_91 { We're all in the same boat. }
+
+Plh_22 { The guards know our faces and give us dirty looks. But they don't know yours yet... }
+
+Plh_158 { You could make sure that a bunch of valuables, uh, go missing in the camp without a trace... }
+
+Plh_23 { We know how to fence them. Then we'll split the coins, and each of us will be better off. So? }
+
+Plh_94 { Sounds good. }
+
+Plh_92 { You want me to swipe something for you? }
+
+Plh_93 { Forget it. I'm not going to steal anything. }
+
+Plh_95 { Looks like I judged you correctly. We can really help each other out here! }
+
+Plh_28 { Do you know Enya? The merchant at the Market Square? }
+
+Plh_29 { Yeah, I've talked to her before. }
+
+Plh_30 { I've never heard of her. }
+
+Plh_164 { I don't want any part of this. I'll be going now. }
+
+Plh_165 { Hey, no worries. As you wish. We're here, if you should change your mind. }
+
+Plh_97 { What, swiping? Of course not, that's a crime! }
+
+Plh_100 { But when things find their way into pockets... Well, these things happen. }
+
+Plh_99 { We're not talking about STEALING. }
+
+Plh_163 { Hear us out, first... }
+
+Plh_21 { Like us. But we didn't get very far. }
+
+Plh_82 { Mugging people? We haven't stooped that low. Yet. }
+
+Plh_83 { Also, there no one here worth mugging. Not even you... }
+
+Plh_79 { Oh, no worries. We're all feeling it. }
+
+Plh_10 { Looks like there's a new face among us. What fate led you here? }
+
+Plh_31 { Enya sells useless trinkets. But there's one thing... Jean? }
+
+Plh_32 { An ancient mug. Supposedly from the Bygones. That thing must be worth a hell of a lot. If we could only get our hands on it... }
+
+Plh_75 { Well, YOUR hands, for starters... You could hand it over to us. }
+
+Plh_171 { Bring us the relic, and we'll sell it for you. Oh, and if you want me to show you a few tricks about lockpicking... or teach you some antics with your dagger? That's my specialty. *smirks* }
+
+Plh_72 { You dirty rat, you've betrayed us! Now we're being forced to work in this godforsaken mine! Get lost! }
+
+Plh_71 { Thanks to you, we've got a chance to build a life for ourselves. }
+
+Plh_73 { I knew you could help us. Finally, we've got a real roof over our heads. }
+
+Plh_51 { Let us know when you do find any of these things. }
+
+Plh_62 { Just look at how it shimmers, Jean! }
+
+Plh_101 { I can almost hear the coins jingling... }
+
+Plh_102 { What about my cut? }
+
+Plh_103 { First, we've got to fence the stuff, then you'll get your cut. Like, duh! }
+
+Plh_104 { And we've already got someone who might be interested. As soon as they buy the relic from us, you'll get your share. }
+
+Plh_36 { In the meantime, you could investigate a... rumor. }
+
+Plh_105 { Chunnaic — the blacksmith in the Crafters' Quarter — often works with gemstones. Now if one of those were to, say, disappear, she wouldn't necessarily notice, would she? }
+
+Plh_37 { One stone more or fewer... She has so many, missing one would hardly matter... }
+
+Plh_38 { Maybe one will fall into your hands? *winks* }
+
+Plh_65 { A real diamond! Hardly anyone notices what sticky fingers you've got! }
+
+Plh_108 { And you saw it sitting there, just like this... What a weird coincidence! *smirks* }
+
+Plh_112 { So, now your lives will take a turn for the better? }
+
+Plh_106 { You still owe me my cut from the relic. }
+
+Plh_107 { I'm just doing you a favor. }
+
+Plh_109 { Oh, of course. However, the relic wasn't nearly as valuable as we thought, so we didn't get as much for it as we had hoped... }
+
+Plh_110 { Only a measly $GVAR:QuestVars_TheLiesOfLocke_Config.RewardForRelic$ coins... }
+
+Plh_111 { But of course you'll get your share. }
+
+Plh_114 { It won't be enough to start a new life... But now we've got this diamond! It's going to make all three of us rich! }
+
+Plh_39 { But you could do us an even bigger favor. }
+
+Plh_116 { It's about a piece of jewelry. Worth a bunch of coins. I was about to sell it when this guard caught me... and took it away from me. }
+
+Plh_41 { The guards are definitely still keeping it somewhere. Could you perhaps... }
+
+Plh_117 { I'll retrieve that piece. }
+
+Plh_118 { You want me to tangle with the guards? }
+
+Plh_119 { I could ask Gerdwin about it. }
+
+Plh_123 { Forget it. I stole enough. }
+
+Plh_120 { You're really dependable. Bring us the piece of jewelry, and you'll get your share from the money we got for the diamond that we'll have sold by then. }
+
+Plh_125 { Just come see us once the jewelry has found its way into your hands, will ya? By the way, it's a ring. In the meantime, we'll sell the diamond. }
+
+Plh_121 { Not at all. They're not supposed to notice anything. }
+
+Plh_122 { Gerdwin? Are you nuts? When Gerdwin gets wind of this thing, he's going to make things too hot for us in Nemeton! Then we'll never get back in! }
+
+Plh_124 { It's your choice, but you're forfeiting a shot at a better life... Maybe you want to change your mind... }
+
+Plh_113 { And we're really grateful to you. We sold the relic to someone, but... }
+
+Plh_66 { Unbelievable. You really pulled it off. }
+
+Plh_128 { Swiped the piece from right under the guards' noses. Crazy. }
+
+Plh_127 { Nah, that was nothing. }
+
+Plh_129 { Would you happen to have some... information? }
+
+Plh_130 { You still owe me my cut. }
+
+Plh_131 { And so modest! }
+
+Plh_132 { That's for sure! }
+
+Plh_133 { Sorry, no. But you've been a great help. }
+
+Plh_134 { Oh, by the way, we sold the diamond! }
+
+Plh_136 { The diamond was really valuable! With that kind of cash, we can finally start over. }
+
+Plh_159 { Finally, we can lead a better life! Thanks to you. }
+
+Plh_160 { Yes, thanks. }
+
+Plh_161 { And who knows? What is it they say? You always meet twice in this life. }
+
+Plh_137 { You're right. And we sold the diamond. }
+
+Plh_173 { I can teach you how to fight better with your spear. I might not be the best of fighters, but I've got a few tricks up my sleeve. }
+

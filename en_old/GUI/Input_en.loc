@@ -1,0 +1,198 @@
+Key_Shift { Shift }
+
+control_mousebutton_left { Mouse left }
+
+control_mousebutton_right { Mouse right }
+
+control_keycode_space { SPACE }
+
+control_keycode_control { Ctrl }
+
+control_keycode_tab { TAB }
+
+control_keycode_return { ENTER }
+
+control_keycode_alt { Alt }
+
+control_keycode_up { Up }
+
+control_keycode_down { Down }
+
+control_keycode_left { Left }
+
+control_keycode_right { Right }
+
+action_MoveX_Pos { Move right }
+
+action_MoveX_Neg { Move left }
+
+action_MoveY_Pos { Move up }
+
+action_MoveY_Neg { Move down }
+
+action_LookX_Pos { Look right }
+
+action_LookX_Neg { Look left }
+
+action_LookY_Pos { Look up }
+
+action_LookY_Neg { Look down }
+
+action_Attack_Primary { Attack }
+
+action_Block { Offhand Action }
+
+action_Attack_And_Interaction { Interact (normal stance) / <br>Attack (fighting stance) }
+
+action_Block_And_Perception { Investigation Mode (normal stance) / <br> Offhand Action (fighting stance) }
+
+action_Dodge { Dodge }
+
+action_DrawWeapon { Draw/Stow weapon }
+
+action_GameMenu { Game Menu }
+
+action_PauseMenu { Pause }
+
+action_Interact { Interact }
+
+action_Inventory { Inventory }
+
+action_LootAll { Take all }
+
+action_Journal { Journal }
+
+action_PerceptionMode { Investigation Mode }
+
+action_QuickSave { Quicksave }
+
+action_QuickLoad { Quickload }
+
+action_SwapWeaponSet { Change weapon set }
+
+action_Walk { Walk }
+
+action_Trade_All { Barter everything }
+
+action_Trade_Ten { Barter ten }
+
+action_Screenshot { Screenshot }
+
+action_ReportBug { Report bug }
+
+action_UseSpell { Use Ability }
+
+action_RingMenu { Wheel Menu }
+
+action_OpenMap { Map }
+
+action_MarkObject { Tag Object }
+
+action_TalentMenu { Talents }
+
+action_MarkAsGarbage { Mark as Junk }
+
+action_Flow_1 { Ability 1 }
+
+action_Flow_2 { Ability 2 }
+
+action_Flow_3 { Ability 3 }
+
+action_Flow_4 { Ability 4 }
+
+action_Flow_5 { Ability 5 }
+
+action_Flow_6 { Ability 6 }
+
+action_Flow_7 { Ability 7 }
+
+action_Flow_8 { Ability 8 }
+
+action_Quickbar_1 { Quickbar 1 }
+
+action_Quickbar_2 { Quickbar 2 }
+
+action_Quickbar_3 { Quickbar 3 }
+
+action_Quickbar_4 { Quickbar 4 }
+
+action_QuickslotAssignment { Assign to quickbar }
+
+action_DeleteQuickbarItem { Empty quickbar }
+
+action_PrevPanel { Previous category }
+
+action_NextPanel { Next category }
+
+action_Lockpick_Left { Minigame left }
+
+action_Lockpick_Right { Minigame right }
+
+action_GuiScrollY { Scroll Interface }
+
+action_PlayNote_1 { Lyra Note 1 }
+
+action_PlayNote_2 { Lyra Note 2 }
+
+action_PlayNote_3 { Lyra Note 3 }
+
+action_PlayNote_4 { Lyra Note 4 }
+
+action_MoveX { Movement }
+
+action_MoveY { Movement }
+
+action_LookX { Look Around }
+
+action_lookY { Look Around }
+
+action_HelpUp { Help Out }
+
+action_Abilities { Abilities }
+
+action_Squat { Crouch }
+
+action_DialogSkip { Continue Dialogue }
+
+action_CraftingMenu { Crafting Menu }
+
+action_ToggleGarbageVisibility { Display Junk on/off }
+
+action_UIDelete { Close GUI }
+
+action_CamZoom { Toggle Zoom }
+
+action_toggleCraftables { Toggle: Display only craftable recipes }
+
+dialogoption_1 { Dialogue option 1 }
+
+dialogoption_2 { Dialogue option 2 }
+
+dialogoption_3 { Dialogue option 3 }
+
+dialogoption_4 { Dialogue option 4 }
+
+dialogoption_5 { Dialogue option 5 }
+
+dialogoption_6 { Dialogue option 6 }
+
+leftcontrol { LCtrl }
+
+leftalt { LAlt }
+
+leftshift { LShift }
+
+rightcontrol { RCtrl }
+
+rightalt { RAlt }
+
+rightshift { RShift }
+
+action_uiSubmit { GUI Confirm }
+
+action_minigameSubmit { Minigame Action }
+
+action_PrevNavigation { Previous tab }
+
+action_NextNavigation { Next tab }
+

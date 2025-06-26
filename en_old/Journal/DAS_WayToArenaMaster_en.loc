@@ -1,0 +1,44 @@
+Title { Blood and Iron in the Arena }
+
+Entry_00_Eugen { Eugen tells me that I can earn both glory and coins in the arena. If interested, I'm supposed to report to Antonius Proximus. }
+
+Entry_00_Boris { Boris tells me that I can earn both glory and coins in the arena. If interested, I'm supposed to report to Antonius Proximus. }
+
+Entry_00_Nemeton { There's an arena in the Remnants' camp. If I want to fight, I should report to Angus. }
+
+Entry_00_Nemeton_Start { Angus will let me fight in the arena only after I've defeated Kati and Fester. }
+
+Entry_00_Nemeton_Kati { Kati was no problem for me. }
+
+Entry_00_Nemeton_Fester { I fought more doggedly than Fester did. He didn't stand a chance. }
+
+Entry_01_Nemeton { I'm allowed to fight for Nemeton in the arena. The battles are being organized by Antonius Proximus. I'm supposed to report to him if I want to fight. }
+
+Entry_01_A { Before I'm allowed to fight for Proximus in the arena, I shall have to prove to him that I've got something on the ball. I'm supposed to defeat Mog. He's usually training somewhere. }
+
+Entry_01_AA { Proximus wants me as a fighter. After the evening fight, I'm supposed to meet him outside the arena. }
+
+Entry_01_B { Now I belong to Proximus's fighters. I'm allowed to fight in the arena only after I've defeated Carima, Blaan, and Dark. }
+
+Entry_02 { Blaan's two-handed weapon didn't pack enough of a punch. Victory was mine. }
+
+Entry_03 { Carima couldn't hide behind her shield. I won. }
+
+Entry_04 { I've defeated Mog. I should tell Proximus. }
+
+Entry_05 { I defeated Dark. }
+
+Entry_07 { Finally! I'm allowed to fight in the arena — in front of spectators! I'm supposed to fight Ebru and pay my entry fee to Proximus. It's $GVAR:QuestVars_DAS_WayToArenaMaster_Config.FighterStartPrice$ coins. }
+
+Entry_08 { My first victory. And everyone saw it! My next opponent is Liandra. I should prepare well and pay Proximus my entry fee. It's $GVAR:QuestVars_DAS_WayToArenaMaster_Config.FighterStartPrice$ coins. }
+
+Entry_09 { I defeated Liandra, and now I'm supposed to face Sinistra. One more opponent before I challenge the arena champion. Proximus is expecting my entry fee of $GVAR:QuestVars_DAS_WayToArenaMaster_Config.FighterStartPrice$ coins. }
+
+Entry_10 { The crowd was cheering! Finally — I shall face Ada, the arena champion. I can do it. Proximus is demanding entry fees of $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EndFightPrice$ coins for this final battle. }
+
+Entry_11 { I am arena champion, and I have beaten the Undefeated Ada. Now I'm on top of the world! }
+
+Entry_07_AcceptArenaFight { I've paid Proximus my entry fee. I'm supposed to be at the arena the next evening at nine. }
+
+Entry_06_RepeatLose { I lost, and I'm supposed to report to Proximus for a rematch. }
+

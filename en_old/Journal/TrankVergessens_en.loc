@@ -1,0 +1,6 @@
+Title { Potion of Forgetfulness }
+
+Entry_01 { Aidan in the Remnants' camp is experimenting with potions. He says he can brew me a potion of forgetfulness. For that he'll need $GVAR:QuestVars_TrankVergessens_Config.AmountMats$ ruin blossoms, which — according to Aidan — grow near ruins. The potion will allow me to forget everything I've learned so far. }
+
+Entry_02 { I've obtained the potion. }
+

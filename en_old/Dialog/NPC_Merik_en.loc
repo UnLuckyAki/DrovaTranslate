@@ -1,0 +1,208 @@
+Plh_25 { About your offer for that pickaxe... }
+
+Plh_29 { The pickaxe is busted... }
+
+Plh_1 { Do you have something that makes less noise? }
+
+Plh_106 { Are you selling anything besides that Silver Smasher? }
+
+Plh_107 { Well, of course! At Merik's, you'll get whatever your Hewer's heart desires! }
+
+Plh_98 { Remember: If your life's been stinking like a sewer, Merik's got your back as a Hewer. }
+
+Plh_93 { Do you happen to have something — something special in stock? }
+
+Plh_94 { Me? Well, only what you can see here. I'm not allowed to sell anything I want, after all. *glances left and right over his shoulder* }
+
+Plh_95 { Well, then, I'll spend my silver somewhere else... }
+
+Plh_96 { Fine. Thanks anyway. }
+
+Plh_97 { *lowers his voice* But obviously I also don't want to disappoint people and let them leave empty-handed. }
+
+Plh_99 { For you, I've got a few, eh, other items. Just take a closer look. }
+
+Plh_4 { I'm not selling anything right now. Come back tonight. }
+
+Plh_81 { Hey. I'm Merik, but I'm really busy right now. Drop by my stall later on. I can sell you something then. }
+
+Plh_84 { You can use that to hew stone as though it were wood. Trust me! Hewing has never been better! }
+
+Plh_85 { Hm. Really? }
+
+Plh_86 { Do I hear disbelief? You can trust my goods! }
+
+Plh_87 { All right, then I'll take one of those things. }
+
+Plh_88 { Gladly! And come see me if you need more equipment! }
+
+Plh_26 { Well, have you changed your mind? The Silver Smasher is eagerly waiting for you to use it! }
+
+Plh_13 { Damn pricy... }
+
+Plh_15 { What makes the Silver Smasher superior to any conventional pickaxe? }
+
+Plh_18 { The Silver Smasher is just another pickaxe in a different color, isn't it? }
+
+Plh_20 { What's the catch? }
+
+Plh_6 { All right, I'll take the pickaxe. (Pay $GVAR:QuestVars_BluntHoe_Config.PriceForPickaxe$ silver) }
+
+Plh_28 { All right, I'll take the pickaxe. (Pay $GVAR:QuestVars_BluntHoe_Config.ReducedPriceForPickaxe$ silver) }
+
+Plh_7 { I don't want to. }
+
+Plh_22 { No thanks. I'll be going now. (end conversation) }
+
+Plh_14 { Come off it, just do the math. You're going to need only half as much force for each blow, so you'll be able to hew twice as much silver. I oughta charge double! }
+
+Plh_16 { Everything! Everything is better! The previous model had a bad reaction to the silver, but we've gotten a grip on that! }
+
+Plh_19 { What? That's the result of eons of research. What are you insinuating? *a single drop of sweat runs down his forehead* }
+
+Plh_21 { I sell no catches — only hatches, hahaha! Maybe you'll have to get settled in here... }
+
+Plh_112 { And that'd be far easier with the Silver Smasher! But you'll realize that soon enough. }
+
+Plh_8 { A wise choice! *smirks widely and flashes a piece of gold on one of his teeth* }
+
+Plh_10 { We've got a deal. *smirks* Happy hewing! }
+
+Plh_11 { Hold on, you ain't got enough silver! Come back when you can pay me. }
+
+Plh_27 { Listen. I like you, so I'll make an exception. I'll make you a deal on the Silver Smasher. $GVAR:QuestVars_BluntHoe_Config.ReducedPriceForPickaxe$ silver! }
+
+Plh_23 { *grinds his teeth* Fine, you obviously think you know better. Just come crawling back here, after you've worked yourself half to death and changed your mind. }
+
+Plh_89 { Ah, I don't think we've had the pleasure of doing business so far! *smirks widely* }
+
+Plh_0 { Welcome to my stall! I'm Merik! Here you'll get whatever your Hewer's heart desires! You won't find a better offer anywhere — not in the Pit or anywhere else in all of Drova! }
+
+Plh_117 { Here in the Pit, we don't accept coins. We barter goods. }
+
+Plh_5 { Well, you look sturdy, but isn't hewing exhausting? Isn't it draining your strength? There is another way! }
+
+Plh_90 { Just use one of MY new and improved pickaxes! *holds out a pickaxe* }
+
+Plh_12 { I present: THE SILVER SMASHER! Featuring an extra-hardened tip that has been magically coated under a full moon. It smashes silver like a knife through butter! }
+
+Plh_114 { Its nightwood handle fits snugly in your palm. With the Silver Smasher, you need only half the stamina for every blow! The same amount of work, but twice as much silver! }
+
+Plh_115 { Forget about yesterday's pickaxe — get the Silver Smasher! Today! }
+
+Plh_91 { And only for the one-time-only discounted price of $GVAR:QuestVars_BluntHoe_Config.PriceForPickaxe$ silver! And at that price, I'm cutting me own throat! So, how about it? }
+
+Plh_57 { Sorry, I'm really busy right now. I'll be back later to sell you something. }
+
+Plh_60 { Are you swiping stuff here? }
+
+Plh_61 { I've got to go. }
+
+Plh_63 { Get lost. That's none of your business. }
+
+Plh_65 { Levin would be interested to know what you're going here... }
+
+Plh_66 { What's going on here? }
+
+Plh_108 { You want a piece of me? Better watch it... }
+
+Plh_70 { *looks to Katsa* }
+
+Plh_71 { We ensure that you Hewers get enough equipment. Merik picks it up here and sells it to you. }
+
+Plh_72 { So you're smuggling items into the Pit? }
+
+Plh_73 { Can I help you? }
+
+Plh_109 { *stares at you grimly* Just stay out of this. }
+
+Plh_76 { *Continues working* }
+
+Plh_77 { Nobody needs to know what we're up to here. How about you shut your piehole, and I owe you one? }
+
+Plh_79 { Levin wouldn't like that. }
+
+Plh_78 { I won't see anything, assuming you won't see anything next time I want to leave. }
+
+Plh_68 { Think long and hard what you're going to say, and to whom... }
+
+Plh_80 { *smirks* Fine, it's a deal. But you can leave for free only ONCE. And if Levin figures out what you saw, I'll know who's responsible. }
+
+Plh_51 { I believe we've had a little misunderstanding. Let's start over. *smirks* }
+
+Plh_50 { Argh. My arm... }
+
+Plh_53 { You messed with me, and now you're going to pay with silver. }
+
+Plh_54 { Hand over the silver, or I'll beat you to a pulp. }
+
+Plh_55 { *holds up both hands* Hey, hey, easy. We can work this out. Here, take it. }
+
+Plh_56 { I actually shouldn't do business with you at all. But I got to make a living too... }
+
+Plh_83 { You've already taken everything I had! }
+
+Plh_3 { Ho there! What's it going to be this time? }
+
+Plh_37 { The pickaxe is busted again! }
+
+Plh_38 { It can't be! Are you using it correctly? This has never happened before — I swear, I've got no clue about what's going on there! }
+
+Plh_31 { Maybe I did something wrong... }
+
+Plh_32 { Are you freaking kidding me? You ripped me off! }
+
+Plh_33 { I oughtta just punch your lights out. (start brawl) }
+
+Plh_34 { Nah, no harm done. For only $GVAR:QuestVars_BluntHoe_Config.PriceForPickaxe$ silver I'll get you a new one! You just need to use it correctly. }
+
+Plh_42 { All right. Here. (Pay $GVAR:QuestVars_BluntHoe_Config.PriceForPickaxe$) }
+
+Plh_43 { Forget it. }
+
+Plh_44 { Very, very good. And this time, don't hold the thing upside down! }
+
+Plh_45 { You don't have enough silver! }
+
+Plh_47 { Suit yourself. Plenty of my customers swear by the Silver Smasher. But if you'd rather toil away harder... }
+
+Plh_35 { Easy now. I value my customers' opinions. But I don't have to take that kind of insinuation lying down. }
+
+Plh_39 { Your Smashers are lemons! }
+
+Plh_40 { Let's settle this another way. With our fists. (start brawl) }
+
+Plh_41 { You scumbag. Just forget it. (end conversation) }
+
+Plh_46 { We need to work on our business relationship. }
+
+Plh_113 { How about a discount? The next Silver Smasher I'll sell you for $GVAR:QuestVars_BluntHoe_Config.LowestPriceForPickaxe$ silver. One-time offer! }
+
+Plh_82 { All right. Here. (Pay $GVAR:QuestVars_BluntHoe_Config.LowestPriceForPickaxe$) }
+
+Plh_48 { Do you really think I'd buy another one, you scumbag? I'll teach you some manners now. (start brawl) }
+
+Plh_49 { Oh yeah? That's a language I can understand! }
+
+Plh_36 { Your pickaxe busted almost instantly! }
+
+Plh_30 { Impossible! Did you hold it upside down or something? Did you take good care of it? Did you hew at the proper angle? These things last a lifetime! }
+
+Plh_2 { The noise in the Pit, huh? Yeah, all that clamoring can drive you nuts. Luckily, I've got some ear protection in stock. }
+
+Plh_116 { That will protect your ears. And your nerves. And it doesn't cost that much! }
+
+Plh_24 { Show me your goods. }
+
+Plh_100 { The Hewer's heart beats strongly here! Get it while you can! }
+
+Plh_101 { Pickaxe worn out? No problem! Come to Merik's! }
+
+Plh_102 { Savings, savings, savings! }
+
+Plh_103 { Two pickaxes for the price of three! }
+
+Plh_104 { Merik's stall! There's only one! Come on by! }
+
+Plh_111 { When the Hewer's life is getting you down, come to Merik's, turn that frown upside down! }
+

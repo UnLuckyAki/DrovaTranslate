@@ -1,0 +1,426 @@
+Plh_87 { Do you still have a room where I can sleep? }
+
+Plh_157 { A person is missing who was last seen in your tavern. }
+
+Plh_33 { Did you put up that note about hunting rippers? }
+
+Plh_54 { Faol and I took care of the rippers. Here's the head. }
+
+Plh_34 { The problem with the rippers has been resolved. Here's the head. }
+
+Plh_13 { I'm looking for work. }
+
+Plh_6 { I brought Liesl back to Evi. She ran away again. }
+
+Plh_302 { I went to Evi. Liesl got away... and died. }
+
+Plh_14 { I'm looking for one Tristan here. }
+
+Plh_29 { Here's the money for my tab. (Pay $GVAR:QuestVars_TheWayToTheLeuchtwald_Config.Bill$ coins) }
+
+Plh_220 { You all right though? }
+
+Plh_221 { Me? Yeah. Lots of wounded here. Fortunately, the people from the Forest Primeval know their healing arts... }
+
+Plh_222 { Oh, the Divinity! Lucky for us they arrived just in time. The entire Forest Primeval was chasing after them. They barely made it to safety. They would have all died out there. }
+
+Plh_199 { I found the sheep. Except for Liesl, none of the sheep survived. }
+
+Plh_299 { None of the sheep survived. Even Liesl didn't make it... }
+
+Plh_233 { I found Liesl. She's alive. }
+
+Plh_234 { Ah, little Liesl! Taron is outside taking care of the little piglet. Thanks, I think Liesl is better off with him than with Evi. }
+
+Plh_236 { Please find all the other sheep as well. A total of five got away. }
+
+Plh_84 { I'm on my way to Nemeton. }
+
+Plh_85 { Well, you're almost there. Just follow the path east through the Red Moor. }
+
+Plh_86 { But be careful. The Red Moor isn't exactly safe. And in the evenings, it's deadly. A few people have already disappeared into the dark. We found only parts of them. }
+
+Plh_88 { You'll find a bed upstairs. It'll cost you $GVAR:EVars_Olaf.BedCosts$ coins. }
+
+Plh_277 { Why wouldn't I just sleep outside somewhere instead? }
+
+Plh_89 { Here are the coins. }
+
+Plh_278 { Well, c'mon! }
+
+Plh_279 { You COULD sleep outside. If you don't mind the wind and the cold! But it's not going to be a peaceful slumber, though. And if you're really unlucky, a ripper might chew your ear off. Literally! }
+
+Plh_280 { None of this is of any concern in one of my rooms! Just go upstairs, take a load off, and get a good night's sleep. And tomorrow, your adventure continues. }
+
+Plh_91 { Just go upstairs. Take the room all the way to the left. You can get some rest there. }
+
+Plh_297 { But remember... Once you've gone upstairs and are finished sleeping, that key comes back to me! }
+
+Plh_92 { If you don't have enough coins, you can sleep outside in the hay. But it's more restful to sleep in a bed. You'll wake up a lot more refreshed, and with your strength replenished. Your choice. }
+
+Plh_136 { Forget it. I'm really swamped here. Every Tom, Dick, and Harry wants to bunk at my place. I'm sure you can find some space in a quiet corner somewhere to crash. }
+
+Plh_239 { Ede asked me to tell you that we're tracking Drivanius. }
+
+Plh_240 { Really?! Finally, some good news! So, if Ede sends you, does that mean you're somehow involved...? }
+
+Plh_241 { Yes. I found some relics that are connected with the whole thing. }
+
+Plh_242 { We need to talk. Let's go over to the fire, where it's a bit cozier. I'll grab us some brewskis. }
+
+Plh_162 { Does the name Aldrik ring a bell? }
+
+Plh_159 { *frowns* We get a steady stream of all kinds of people passing through here. Usually all I serve them is a quick beer. Ask Sine, my daughter. }
+
+Plh_163 { *frowns* Does Aldrik send people now or what? }
+
+Plh_169 { Aldrik is dead. He won't be coming over here anymore. }
+
+Plh_171 { Oh? Well, that's reason enough. }
+
+Plh_172 { You and Aldrik kidnapped people and made them dig something up in the Pit. }
+
+Plh_173 { Aldrik is the reason people have been disappearing. He kidnapped them and had them excavate some ruins in the moor. }
+
+Plh_175 { What are you talking about? I've got nothing to do with Aldrik. The guy just waltzed in here one day and asked what I'd pay for Bygones' relics. How am I supposed to know that he's kidnapping people? }
+
+Plh_176 { But about that relic... }
+
+Plh_182 { I have it with me. (show relic) }
+
+Plh_185 { *looks at the relic and frowns* That could actually be interesting. All right, listen... }
+
+Plh_186 { You took on Aldrik. So you're probably got something on the ball. Here's a key for the back door. Go straight through the kitchen. There's a cave entrance behind the tavern. Meet Ede there and tell him I sent you. }
+
+Plh_187 { What's the story with the relic? }
+
+Plh_188 { What's in the cave? }
+
+Plh_189 { Maybe... }
+
+Plh_190 { No idea. I've never seen it before. Ede's the one who knows about these things. }
+
+Plh_191 { Answers to your questions. }
+
+Plh_177 { That riffraff! Had I known that he's acquiring relics this way, I'd have kicked him out of my tavern right away. Good thing you got out of there in one piece. }
+
+Plh_180 { He had it coming. }
+
+Plh_308 { I've heard you're working with the Ruin Raiders? }
+
+Plh_309 { Now, who'd have told you that? I must have served them one beer too many. }
+
+Plh_310 { Reija did. }
+
+Plh_314 { A reliable source. You've got to admit that. }
+
+Plh_311 { *gives you a serious look* What do you want? }
+
+Plh_312 { I want to join you. }
+
+Plh_313 { I'd like to learn more about the Bygones. }
+
+Plh_315 { Forget it. Bad experiences with walk-in patrons. The last guy who wanted to do business never returned. Same thing with the ones who were wandering around the Red Moor afterward. }
+
+Plh_316 { I'll just tend bar for you in the tavern. }
+
+Plh_319 { I'm looking for one Lorthiz. He came by the tavern and then disappeared. }
+
+Plh_321 { Lorthiz? Never heard of him. }
+
+Plh_322 { He came to this tavern. }
+
+Plh_323 { I know many in Drova, and I know EVERYONE in my tavern. There's no Lorthiz here. }
+
+Plh_4 { Welcome to my humble tavern. I'm Olaf. I've never seen you before. But you look like you're in desperate need of a break — and a brewski! }
+
+Plh_73 { I'm Olaf. Welcome to the Headless Ripper Inn! Just come talk to me if you need a beer or a bed. For enough coins, of course. }
+
+Plh_293 { Slept well? Did you get some rest? }
+
+Plh_298 { Then you won't be needing that key anymore. If you need to rest up again, please let me know. }
+
+Plh_243 { Here it's a bit quieter. Come on, let's have a seat. I've got to show you something. }
+
+Plh_244 { (sit down) }
+
+Plh_245 { Have a beer. On the house. But only this once. }
+
+Plh_247 { I won't say no to that. }
+
+Plh_246 { I don't want any beer. }
+
+Plh_248 { Cut to the chase. What do you want from me? }
+
+Plh_250 { Enjoy. If you convinced Ede it's worth it. }
+
+Plh_252 { The others call us Ruin Raiders because we rummage through the ruins of the Bygones. We don't care what they call us, but we don't raid these ruins, either. We're looking for one thing in particular. We found a letter in the ruins of the old cities. }
+
+Plh_253 { Look. }
+
+Plh_254 { *stares into the fire* }
+
+Plh_255 { What does all of this mean? }
+
+Plh_256 { What was Drivanius' solution? }
+
+Plh_257 { We don't know either. Not yet. But Drivanius knew about the Blackflame, the monolith, the Red Tower, and the Divinities. And we don't. }
+
+Plh_258 { We have to tell Jero of the Remnants! }
+
+Plh_259 { We have to tell Molvina in Nemeton! }
+
+Plh_260 { What are we going to do now? }
+
+Plh_261 { I did. All the former leaders didn't want anything to do with this. They don't care about the history of the Bygones. Huh. }
+
+Plh_262 { We'll take our fate into our own hands. Thanks to my tavern, I know a lot of people. And I hear a lot of things... }
+
+Plh_263 { I knew whom to trust in order to assemble the Ruin Raiders. }
+
+Plh_264 { We'll uncover Drivanius' secret. He wanted to save this world... And we'll find out how. }
+
+Plh_265 { We need more of these relics. }
+
+Plh_266 { I personally have no stakes in any of the factions or their bickering. Let them do their thing. We just go through the ruins. Really innocuous. *smirks* }
+
+Plh_267 { Stick with your faction. I don't want you to renounce them. But you can join us as well. If you want. You're not obligated to. }
+
+Plh_268 { I'm part of you Ruin Raiders now. And that's a good thing. }
+
+Plh_269 { I work only for coins. }
+
+Plh_271 { Your loyalty just warms my heart. We've got good people here. They can teach you things. And Ede here can provide you with everything you desire. }
+
+Plh_272 { And, since you're now one of us, you can sleep here for free, of course. Take the key. You don't have to pay anymore. *smirks* }
+
+Plh_273 { I have to get back to work... }
+
+Plh_274 { Well, back to chasing down relics... }
+
+Plh_275 { It's good to have you with us, $GVAR:EVars_Player.Name$. }
+
+Plh_270 { Well, then. As long as you deliver relics, you'll receive coins. And there's a little something extra in it for you. }
+
+Plh_249 { Haha, that's the way I like it. All right... }
+
+Plh_192 { I have some old leather armor sitting around somewhere. It might be of use to someone who's new around here... Maybe you? }
+
+Plh_193 { What do you want for it? }
+
+Plh_194 { Sure, I'll take it off your hands. }
+
+Plh_195 { I don't need it. }
+
+Plh_196 { You're quick on the uptake. But this time, I don't want anything for it. }
+
+Plh_198 { All right, here it is. It used to serve me well, back in the day. }
+
+Plh_197 { All right. }
+
+Plh_52 { Those rippers pose an increasingly dangerous threat. If this keeps up, I'll have to close down soon. }
+
+Plh_137 { Another one...? }
+
+Plh_119 { Things aren't going so smoothly these days, I take it? }
+
+Plh_122 { We're in deep shit! }
+
+Plh_124 { Ever since the Forest Primeval got destroyed, more and more people have been coming here in search of safety. Then the critters came out of the woodwork — literally — and started attacking us. }
+
+Plh_126 { I'm looking for Reija. }
+
+Plh_216 { Can I help you in any way? }
+
+Plh_205 { She's helping Birka with the wounded. Just follow the screaming. }
+
+Plh_208 { I'll go look for her. }
+
+Plh_211 { Oh, as long as you're going outside — could you check on my sheep? Five of them are missing. I hope they're still alive. }
+
+Plh_209 { The Heath used to be so tranquil. But not anymore. Supposedly, Evi even got attacked by a bear. }
+
+Plh_217 { Evi was attacked. I don't know whether any sheep survived out there. }
+
+Plh_218 { I own five sheep. I hope they're still alive. They've got to be somewhere on the Heath. }
+
+Plh_51 { Have at it! }
+
+Plh_63 { *sizes you up* YOU want to take care of this? Then it's luck you'll need. }
+
+Plh_37 { Whoever eliminates the threat will receive $GVAR:QuestVars_HuntTheRippers_Config.Reward$ coins. Honest work for honest coins! }
+
+Plh_305 { "The Headless Ripper Inn"... And you're having trouble with rippers? }
+
+Plh_40 { Where can I find those rippers? }
+
+Plh_39 { I'll see what I can do. }
+
+Plh_306 { Oh, haha, you're truly the first one to come up with this very funny joke... }
+
+Plh_307 { Live up to my tavern's name! Bring me the beast's head! }
+
+Plh_41 { On your way back to the Remnants' camp, you'll reach a crossroads in the North. It leads to a knoll. As far as I know, Faol wanted to go hunting somewhere around there. }
+
+Plh_43 { A while ago, Faol came here because of this notice. Same as you. }
+
+Plh_110 { You can go find him and help him hunt down those rippers. He's been gone far too long. Usually, he gets his work done pretty swiftly. }
+
+Plh_281 { I hope he's all right. He's good people. And one of my best customers. }
+
+Plh_289 { And bring me the head of the largest of the beasts as proof! }
+
+Plh_112 { If it's that dangerous, I could use some help. }
+
+Plh_113 { Well, I'd join you, but I can't get away. But I can offer you a piece of fried meat that I hope will enhance your pugnacity. }
+
+Plh_115 { That should be helpful. I'll get back to you. }
+
+Plh_116 { Would you also happen to have a weapon for me there? }
+
+Plh_117 { *frowns* You want fries with that, too? Maybe a spell to vanquish all rippers in all of Drova? }
+
+Plh_292 { If you want a weapon, then go buy one — like everyone else. And now make sure you get rid of those rippers. }
+
+Plh_294 { You took care of it? }
+
+Plh_231 { Mauled-up drunks are bad for business. }
+
+Plh_45 { The only good ripper is a dead ripper — and the fewer there are, the less trouble they make for all of us. }
+
+Plh_46 { This was some hard-earned coin. }
+
+Plh_47 { I had to put in some real effort to earn those coins. }
+
+Plh_48 { But you did earn them! }
+
+Plh_50 { I'll see you around. }
+
+Plh_49 { Is that right? Then you should work for me more often. }
+
+Plh_55 { Good work. I'll pay you once Faol gets here. }
+
+Plh_57 { A cool brewski at Olaf's after a hard day of labor! }
+
+Plh_58 { That's the life! Good work. }
+
+Plh_59 { That should cover a beer or two. *smirks* }
+
+Plh_60 { Pah, you know what it's like when it's that crowded in here. No jug remains empty and no coin with its owner. }
+
+Plh_290 { All right. This should be a warning to the next rippers. They need to make a wide berth around my tavern. }
+
+Plh_276 { You mean except for the ripper hunt? Hm... }
+
+Plh_62 { If you want to make a few coins, you should go find Evi and give her a hand. She should be somewhere around the Heath with the sheep. She's always got some issue with them. }
+
+Plh_282 { Just make sure that she gets her work done. I guarantee you, she's slacking around somewhere again... }
+
+Plh_8 { Ah, good. Liesl keeps getting away, and I've told Evi a THOUSAND TIMES that she needs to watch that sheep extra carefully! }
+
+Plh_9 { The other day, I come out of the tavern, and I saw Liesl grazing there right in front of it, not a care in the world. }
+
+Plh_284 { She had gotten away again without Evi noticing it. }
+
+Plh_10 { Anyway, good coins for good work. Here's your reward. }
+
+Plh_11 { Thanks. Be seeing you. }
+
+Plh_303 { Liesl is... dead? Poor little Liesl... }
+
+Plh_304 { Dammit, Evi! What am I paying you for, anyway? You just let Liesl slip past you, and then that... }
+
+Plh_93 { Hm. Let me think. }
+
+Plh_97 { Yes, exactly. Tristan. He rented a room, and in the evenings, he'd sit by the fire with his book. He was constantly writing down or drawing all kinds of stuff. Well, and then he was gone. }
+
+Plh_228 { Without paying his tab. *grumbles* }
+
+Plh_94 { He showed me a map that he had just drawn. He didn't strike me as the type who just bails without paying his tab. Also, all his stuff is still upstairs in his room. }
+
+Plh_95 { I've really got to find him. May I take a look at his things? }
+
+Plh_229 { Maybe something's happened to him. Help me find him. }
+
+Plh_96 { Yes, of course. I'll give you the key, and you can take a look around in his room. And while we're at it, I'll also give you the key to the other rooms, my cellar, and the outhouse. }
+
+Plh_99 { Gotcha. What do you want for the key? }
+
+Plh_98 { That's awfully nice of you. }
+
+Plh_100 { I can give you his key if you pay the rest of his tab. That'll be $GVAR:QuestVars_TheWayToTheLeuchtwald_Config.Bill$ coins. }
+
+Plh_103 { I don't have that many coins. }
+
+Plh_104 { Here are the $GVAR:QuestVars_TheWayToTheLeuchtwald_Config.Bill$ coins for Tristan's tab. }
+
+Plh_107 { Then I guess you'll have to find that many coins. }
+
+Plh_108 { Just ask around among the other patrons if they need help with something. }
+
+Plh_106 { *smirks* Fine. Here's the key. Always nice doing business with you. It's the first room right upstairs. }
+
+Plh_101 { Did you fall and hit your head? Why would you think I'd hand the keys to my room to every Tom, Dick, and Harry who comes down the pike? No one would ever want to rent a room from me! }
+
+Plh_102 { I need information from Tristan. And if something happened to him, I need to find out what. }
+
+Plh_230 { Just tell me what your help would cost me. }
+
+Plh_201 { ... crap. CRAP. }
+
+Plh_301 { Liesl was a really good animal... poor Liesl... }
+
+Plh_144 { My poor sheep! It's not just that they were useful to us with the milk and everything... They were also — friends. }
+
+Plh_145 { I swear, once all of this is over, we're going to have sheep again, and they will be HAPPY! }
+
+Plh_153 { But that'll hardly interest you. Here, your payment. }
+
+Plh_300 { But at least Liesl didn't get it. }
+
+Plh_295 { Very well. A wonderful trophy for the Headless Ripper Inn! }
+
+Plh_296 { Very well. A wonderful trophy for the Headless Ripper Inn! }
+
+Plh_291 { Welcome to the "Headless Ripper Inn!" }
+
+Plh_288 { Welcome to Olaf's tavern! }
+
+Plh_328 { I know that you joined a faction. }
+
+Plh_329 { Whichever faction you decide to join — you're always welcome here. If you want. No obligation. }
+
+Plh_324 { *grumbles* If she's slacking around somewhere instead of working, kick her ass, will you? }
+
+Plh_325 { But good. She's had it coming. }
+
+Plh_326 { But don't overdo it! I just need her to get back to work. }
+
+Plh_330 { I think we're scraping by. I know that Reija wanted something from you. Go talk to her. }
+
+Plh_331 { Reija said I'm supposed to help you. }
+
+Plh_332 { Then help me. Go find my sheep. }
+
+Plh_333 { I entered Drivanius's chamber and found this nexus helmet. }
+
+Plh_334 { Hey, wait... }
+
+Plh_335 { Not here. Tell that to Ede. I need to tend to the tavern. }
+
+Plh_336 { Good work, $GVAR:EVars_Player.Name$. }
+
+Plh_338 { Do you happen to know a guy named Teigen? He must have come through here not too long ago. }
+
+Plh_339 { Isn't he one of the traveling merchants? I like the others better. But yeah, I know him. }
+
+Plh_340 { Do you know where he went? }
+
+Plh_341 { No clue. It's been a while since he was here. He was with some guy from the Remnants' camp and his cat. That much I remember. They were on their way to Nemeton. }
+
+Plh_342 { *whispers* Since you've helped me so much, here's a little piece of advice... }
+
+Plh_343 { I know that Teigen talked about his "hidden" stash from time to time. It must be somewhere outside of Nemeton, maybe after the bridge along the river in the south? }
+
+Plh_344 { *raises his voice again* You have no idea what kind of things you hear when you're running an inn. }
+

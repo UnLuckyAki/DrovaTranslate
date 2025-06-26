@@ -1,0 +1,260 @@
+Plh_67 { Let's bust out. }
+
+Plh_46 { Kora's told me about you. She's with the Remnants, and she's doing fine. }
+
+Plh_50 { Can we bust out of here? You've already got a plan? }
+
+Plh_51 { Do you know anything about this place? }
+
+Plh_54 { What can we do? }
+
+Plh_65 { Kora!? I wish I could see her again... But first we've got to bust out. }
+
+Plh_47 { *smiles* Oh, that's nice to hear. I wish I'd stayed there... }
+
+Plh_52 { Forget about it. They've taken everything from us. There have already been some attempts. And those who tried either died or got beaten within an inch of their lives. }
+
+Plh_53 { It's a den of the Bygones. They're looking for some relic. They keep talking about it. They'll excavate the entire ruin, if necessary. So they want us to do it for them. }
+
+Plh_55 { I don't know. I've given up by now. Maybe you'll have an idea, or the others ... until then, I'll just keep digging and hope it all comes to an end at some point. }
+
+Plh_151 { Do you know why Lanzo came at Bruna? }
+
+Plh_150 { Because he's a swine who takes it all out on the weak. He made everyone work without food. Bruna tried to persuade him that everyone ought to work less today... }
+
+Plh_153 { How did Lanzo respond to that? }
+
+Plh_154 { And he didn't put up with it. }
+
+Plh_155 { Did you see? He beat her to a pulp. Especially Bruna — who's always so friendly... }
+
+Plh_157 { Things can't go on like this! }
+
+Plh_158 { Is there any way we can help Bruna? }
+
+Plh_159 { Shh! If a guard catches us talking about something like this, we'll be in for it too! }
+
+Plh_163 { *whisper* But you must have some idea what we can do. }
+
+Plh_165 { No! Ask the others, for all I care. But I'm staying the hell out of it! }
+
+Plh_161 { *whispers* ... unless something comes up... }
+
+Plh_160 { She needs to regain her strength. Taking care of the food might already help her. You know she cares about us the most. }
+
+Plh_152 { He didn't. He hates it when someone gives him advice. Instantly freaks out. }
+
+Plh_156 { She tried to calm him down, but that made him even angrier and... The swine beat her up ... }
+
+Plh_126 { Are you enjoying your freedom? }
+
+Plh_127 { Oh yes! Finally, some fresh air again and nary a pickaxe in sight. I've got only a few coins left. How about a game of dice? I'm sure I'll have a winning streak! }
+
+Plh_130 { Don't you remember what happened during your last winning streak? }
+
+Plh_131 { *mutters* This time I'll quit while I'm ahead. }
+
+Plh_82 { Hey, who are you? Are you one of the guards? }
+
+Plh_84 { Take it easy. I'm $GVAR:EVars_Player.Name$. I'm not a guard. }
+
+Plh_89 { *sizes you up* They got you too? Like they did me? Then soon you'll probably have to dig with us too... }
+
+Plh_90 { I'm looking for people who have disappeared from the tavern and have gone missing. }
+
+Plh_91 { That's probably us. Well, those of us who are still alive. They're keeping us here! }
+
+Plh_137 { I came from the tavern too. I was there with Hasso before they dragged us here... But he's already dead... }
+
+Plh_95 { *glances around suspiciously* We want to get out of here... If you can get us out... Please... }
+
+Plh_83 { Then get out! }
+
+Plh_97 { Wait, I've still got to look around. }
+
+Plh_76 { The guards are distracted, and we're going to bust out. Muster your strength and fight! }
+
+Plh_77 { Back into the sun! }
+
+Plh_78 { For freedom! }
+
+Plh_80 { Now we'll show them how hard we can strike... And especially Lanzo should feel it... }
+
+Plh_122 { Take point, $GVAR:EVars_Player.Name$. We're right behind you — we'll fight with you. }
+
+Plh_79 { I'll fight as best I can! }
+
+Plh_96 { Hurry up! }
+
+Plh_94 { What? I stumbled across the cave by chance. Why don't you just leave? }
+
+Plh_68 { You got the weapons? Bruna and Wind are ready. }
+
+Plh_117 { Here are the weapons. Let's bust out. }
+
+Plh_119 { At last! Come on, everyone grab a weapon. And then it's going to be payback time... }
+
+Plh_121 { Maybe we really do have a chance. }
+
+Plh_168 { Bruna, you can barely lift your pickaxe. Let us take point. }
+
+Plh_120 { I... I'm fine... }
+
+Plh_169 { That goddamn Lanzo... All right, I've got your back. }
+
+Plh_72 { We can't get going until we're strong enough. }
+
+Plh_70 { Wind is still missing. He doesn't like fighting, but he's good at hewing rocks and would be a major help... }
+
+Plh_71 { We aren't going anywhere without Bruna. She was our only glimmer of bright light in this damned hole. }
+
+Plh_66 { Let's discuss this calmly. Come with me. }
+
+Plh_59 { Let me sleep. }
+
+Plh_167 { Leave me alone. I'm wiped out. Just want to crash. }
+
+Plh_182 { Free at last. }
+
+Plh_183 { Thanks, $GVAR:EVars_Player.Name$. I'll go back to Kora and never drink again. I swear! }
+
+Plh_144 { What's up? }
+
+Plh_63 { Hey, I heard they found the relic... What are they going to do with us now? }
+
+Plh_100 { Maybe we'll be allowed to go? }
+
+Plh_101 { Definitely. They don't need us anymore. }
+
+Plh_102 { You really believe that? There are more collapsed passages! They're going to make us keep digging here until we drop. Unless... }
+
+Plh_104 { We need to bust out NOW. Lanzo and the boss have gone to see Aldrik... }
+
+Plh_105 { Right. NOW is our best chance! }
+
+Plh_106 { What, us going up against the guards? And how about Wind and Bruna? This is not going to end well... }
+
+Plh_107 { We need weapons! }
+
+Plh_108 { Crap, that's true... }
+
+Plh_171 { Without weapons, we don't stand a chance. But where do we get some? }
+
+Plh_109 { Hmm... I saw Mali with weapons. In the supply room south of our sleeping quarters. They're locked up in there. But even if we get our hands on some... We are badly outnumbered. }
+
+Plh_110 { If we want to bust out, It's now or never, Dalin. There's more of us! }
+
+Plh_112 { I'm telling you — TODAY is OUR chance. We've got to try, otherwise we'll never get out of here! }
+
+Plh_111 { I'll take care of Wind and Bruna. If we get them on board, we'll be strong enough. }
+
+Plh_115 { I'll persuade Dalin. And you've got to get into the supply room. Maybe Wind can give you something to pick the lock... }
+
+Plh_116 { We'll wait here for you. }
+
+Plh_61 { Hey, what happened in there?! }
+
+Plh_172 { The chamber was packed with traps. I got through and deactivated them. }
+
+Plh_173 { The chamber is heavily secured... Hasso got caught by one of the traps. }
+
+Plh_174 { Dammit! And what about the relic?! }
+
+Plh_178 { The bandits snatched it. }
+
+Plh_179 { It was nothing special to look at, but at least Boss was happy. }
+
+Plh_180 { Hmm... They're probably going to withdraw and talk to their leader. That means we could... Come on, we need to meet up with the others! }
+
+Plh_181 { Hasso... Dammit... Isn't the body count high enough around here already? If those scumbags had only a shred of conscience... }
+
+Plh_44 { You're new here. Better hurry, it's your turn to work. }
+
+Plh_5 { *grumbles and mumbles to himself* What did I do to deserve this? Why me? Why ME? }
+
+Plh_7 { What's up? }
+
+Plh_10 { (slowly back away) (end conversation) }
+
+Plh_6 { I just can't go on any longer. Dig, dig, dig. Should've stayed with Cengiz. It went all downhill from there... }
+
+Plh_12 { Cengiz? Are you a woodcutter? }
+
+Plh_22 { *looks up at you* Yeah, exactly! I'm a woodcutter. Have you come from Cengiz too? }
+
+Plh_23 { I was with the woodcutters, and I worked for Cengiz. }
+
+Plh_145 { I've never been there. }
+
+Plh_25 { Is there another woodcutter... }
+
+Plh_26 { I'm Baltus. Maybe you've heard of me? }
+
+Plh_27 { Yes... of course, Baltus, terror of the forests. }
+
+Plh_28 { No, nobody there mentioned you. }
+
+Plh_85 { Kora spoke of you. She's looking for you. }
+
+Plh_30 { *smirks* }
+
+Plh_39 { Jendrik, Agilo, and I... We bet on who can fell more trees. Guess who always won? }
+
+Plh_31 { Jendrik, of course. }
+
+Plh_33 { Agilo's quick, so he probably did. }
+
+Plh_32 { Obviously it was YOU! }
+
+Plh_34 { A few summers ago, Jendrik might've stood a chance, but now he's too old to compete. }
+
+Plh_37 { In the end, I ALWAYS won. Of course. *smirks* }
+
+Plh_45 { How did you wind up here? }
+
+Plh_14 { I went to the Remnants' camp. The bridge collapsed, and it was too dangerous. You can make some quick coins there, they said. Ha. }
+
+Plh_13 { Itches like hell! }
+
+Plh_15 { Kora and I hit the tavern. Gambled with some guy, and the dice were on my side. Well... at first. }
+
+Plh_16 { Kora left, but I kept playing. I had a winning streak. I just HAD to keep going. You know what I mean! }
+
+Plh_185 { Just one more round, and I would've been set for life! }
+
+Plh_17 { ... and then you lost everything. }
+
+Plh_18 { ... and then your luck ran out. }
+
+Plh_19 { Of course I lost! Otherwise, I wouldn't be here! }
+
+Plh_21 { I was cheated, for sure. I really didn't deserve that... }
+
+Plh_20 { *sighs and scratches even harder* Yeah, right... Who'd have thought it would just abscond like that... }
+
+Plh_36 { He's pretty nimble, when he works. Well, WHENEVER he's working instead of just moaning. }
+
+Plh_184 { If he was unable to fell a tree, naturally it was always the tree's fault. }
+
+Plh_35 { Naturally! Those were the days, my friend... }
+
+Plh_38 { They forgot me that quickly?! }
+
+Plh_86 { Kora? Then there's still hope. }
+
+Plh_87 { I should've never gone away... }
+
+Plh_146 { They don't have any gold, but they're good, honest people all the same. I should have never left. }
+
+Plh_147 { I'm Baltus. I would've preferred to make your acquaintance over a beer at the tavern rather than, well, here. }
+
+Plh_186 { Get out! I've already wasted some of the bandits. }
+
+Plh_187 { ... is that true? We're really getting out of here? Finally! }
+
+Plh_188 { I hope this scum Lanzo is face down in the dirt! }
+
+Plh_189 { Oh, how I'm looking forward to freedom! }
+
+Plh_190 { Let's get moving! }
+

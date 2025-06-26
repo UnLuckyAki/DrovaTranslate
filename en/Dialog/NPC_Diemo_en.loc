@@ -238,7 +238,7 @@ Plh_156 { I can hardly believe it. }
 
 Plh_157 { Let's get to the point. What do you want me to do? }
 
-Plh_158 { *smirks* You may not feel it, but still... The Mighty Boar has blessed you. }
+Plh_158 { *smiles* You may not feel it, but still... The Mighty Boar has blessed you. }
 
 Plh_162 { You must show your respect to the Mighty Boar. To do so, you must sacrifice a talisman to the Mother — a talisman that was touched by your blood. }
 
@@ -326,7 +326,7 @@ Plh_282 { Take a closer look at the tree here, and affix the talisman. The Boar 
 
 Plh_41 { *Diemo looks satisfied* }
 
-Plh_40 { Here's our new arrival. I didn't trust you, but I do trust the Mighty Boar. It says you're one of us. So I'll accept you. *smirks* }
+Plh_40 { Ah, here's our new arrival. I didn't trust you, but I do trust the Mighty Boar. It says you're one of us. So I'll welcome you. *smiles* }
 
 Plh_43 { Honor the Boar, my Bonded. }
 
@@ -394,15 +394,15 @@ Plh_32 { *shouts* BONDED! GATHER AT THE GROVE OF SPARKS! BIRKA'S RITE OF PASSAGE
 
 Plh_83 { The Mighty Boar shall take her back once she's ready. }
 
-Plh_303 { The Divinity guides each path and decides what's going to happen. We, mere humans, cannot hope to understand the Mighty Boar, let alone imprison it. }
+Plh_303 { The Divinity guides each step and decides the future. We, mere humans, cannot hope to understand the Mighty Boar — let alone imprison it. }
 
-Plh_301 { I'm here to warn you. My camp wants to catch the Mighty Boar! }
+Plh_301 { My camp wants to catch the Mighty Boar. They want to harness its power for their own purposes. }
 
 Plh_302 { The Divinities know more than we do. It is not up to us to question them, only to trust in them. Whatever happens, the Mighty Boar guides each of our paths. }
 
-Plh_321 { So, the camps actually mustered their strength and risked it. Those fools. }
+Plh_321 { So they'll just try again... those fools. }
 
-Plh_322 { My trust in the nature of the Mighty Boar is unwavering. It chose you, and whatever fate you shall meet in the heart of the forest... I am certain it will be in the Divinities' best interest. }
+Plh_322 { It chose you. The Mother trusts you. Whatever you do constitutes the right path. }
 
 Plh_310 { You... How could you...?! }
 
@@ -426,11 +426,163 @@ Plh_304 { Leave the Refuge and turn north. Once you see the stone circle, contin
 
 Plh_305 { In order to reach the other root, leave the camp heading eastward. You need to pass the hill with the ruins on top of it and go deeper into the forest. Turn southwest after you've reached the meadow where you fought the Wayward. You'll find the root there. }
 
-Plh_307 { Are you ready for this? The spark will light up the entire forest, and everyone in Drova will see the radiance. *smirks* }
+Plh_307 { Are you ready for this? The spark will light up the entire forest, and everyone in Drova will see the radiance. }
 
 Plh_306 { I still need some more time. }
 
 Plh_308 { You've helped us, and we'd like you to be a part of it. We're ready when you are. Just let us know. }
 
 Plh_309 { Plh_309 }
+
+Plh_329 { The Mighty Boar is more powerful than they think. Everything bends to its will. }
+
+Plh_350 { But they're trying to capture the Mighty Boar! }
+
+Plh_353 { Are you sure? I've got a bad feeling about this... }
+
+Plh_354 { These might be your camp's plans — but they're impossible to realize. }
+
+Plh_351 { Don't worry about us. }
+
+Plh_355 { They tried before... and failed. }
+
+Plh_356 { Your camp isn't powerful enough to affect the Mighty Boar's fate. The Divinity guides our steps. Even though we don't know its ambitions. }
+
+Plh_323 { Diemo, I mean it... The expedition will reach the Mighty Boar. }
+
+Plh_360 { Diemo, I mean it... The expedition will fight and capture the Mighty Boar! }
+
+Plh_325 { *cocks his head* You're like a dog with a bone, aren't you? }
+
+Plh_363 { The Mighty Boar has thwarted every attempt so far. }
+
+Plh_362 { What's different this time? Why should it allow this to happen? }
+
+Plh_348 { Maybe he can't do anything about it? }
+
+Plh_364 { Because this time, my spark and I can take others through the Blackflame. }
+
+Plh_349 { I don't know. But I worry that something might happen to you. }
+
+Plh_367 { Impossible. The Divinities' power is above all else. The Mighty Boar would never allow its forest to suffer. }
+
+Plh_368 { But is there truly no danger to us or to the forest? How can I be sure that the Mighty Boar is still guiding our steps? }
+
+Plh_365 { Why should the Boar have granted you a spark if you could use it to lead the expedition to the Divinity? }
+
+Plh_369 { That doesn't make any sense. What's your role in all of this? What did the Boar see that he's willing to allow it this time? }
+
+Plh_366 { Remember: The Boar protects those who are close to it. }
+
+Plh_370 { I share your concern. We need to continue following in its footsteps. Is everything happening right now consistent with the future the Mighty Boar seeks? For Drova? }
+
+Plh_373 { Should we truly be in danger, the Boar will let its Bonded know. }
+
+Plh_372 { Come with me! }
+
+Plh_421 { What are you doing? }
+
+Plh_422 { Where are we going? }
+
+Plh_420 { You'll see. Now come! }
+
+Plh_411 { The Mighty Boar has confirmed it. It'll tolerate your expedition. So shall it come to pass. }
+
+Plh_412 { Thanks for your warning. }
+
+Plh_326 { Here, within the Grove of Sparks, our connection to the Boar is strongest. }
+
+Plh_374 { Give me a moment... I need to gather my thoughts. }
+
+Plh_375 { *inhales deeply* }
+
+Plh_334 { Am I supposed to do something? }
+
+Plh_335 { (say nothing) }
+
+Plh_332 { Don't speak. }
+
+Plh_376 { *He turns away from you while seeming to focus, then mumbles something unintelligible.* }
+
+Plh_377 { *turns back to you* Done. I sent out my mind and sensed it touching the Mighty Boar. Now it knows of our worries. Let's hope it blesses us with a reply. }
+
+Plh_379 { Have you done something like this before? }
+
+Plh_380 { Is there something I need to be aware of? }
+
+Plh_418 { This was the first time. The Mighty Boar is a sublime being whose attention one should not demand lightly. }
+
+Plh_415 { It sends us signs through its forest and its boars. We interpret these signs and act accordingly. }
+
+Plh_416 { Through our connection, we sense whether we have interpreted its signs correctly and acted accordingly... Or not. }
+
+Plh_417 { This time, we cannot wait to be certain whether our interpretation of the signs is correct. The boar did not make it known to us that it wishes our protection. }
+
+Plh_413 { But never before has a single event posed such great danger for the Forest Primeval. }
+
+Plh_383 { Remember the virtues. Keep them close to your heart. This way, we'll strengthen our connection to the Mighty Boar. }
+
+Plh_384 { Look around you. The Boar affects the light and the shadows of the forest. }
+
+Plh_385 { I... I can sense its presence... It's drawing closer... }
+
+Plh_386 { *whispers to himself* It really came! Truly! I never would have dreamed... }
+
+Plh_388 { (whisper) It's so dark... }
+
+Plh_394 { *whispers* That's part of its essence. }
+
+Plh_390 { *raises his voice* O Mighty Boar! Your Bonded are worried! An expedition is on its way to you. They seek to harness your power for their purposes! }
+
+Plh_397 { $GVAR:EVars_Player.Name$ is part of this expedition, but they're also part of the Bonded. They're filled with doubt. The forest could be in danger. We're wondering... }
+
+Plh_333 { Is it your intention to let this expedition pass? }
+
+Plh_336 { Really? You're willing to let them pass? We're your Bonded — we could chase them away in your name! }
+
+Plh_391 { But... I don't understand... Why? Why would you allow them to reach the Mother? }
+
+Plh_392 { *takes a deep breath* The forest... The boars... Everything is at stake... }
+
+Plh_393 { If this is what you truly want, then we'll... follow. We'll follow your path. }
+
+Plh_339 { But what will happen to the forest? }
+
+Plh_340 { Please protect the boars and the piglets! }
+
+Plh_341 { It's my fault. I guided them through the Blackflame. }
+
+Plh_342 { The Boar isn't replying. }
+
+Plh_399 { We'll have to find our own answers... }
+
+Plh_343 { That must mean that the boars aren't in danger... }
+
+Plh_345 { Look. The sparks...! }
+
+Plh_414 { The Boar... It wants to tell us something... This must be a sign... }
+
+Plh_402 { I can sense the Mighty Boar's trust. Trust in you. That means everything will be all right... Doesn't it? }
+
+Plh_403 { The Mighty Boar granted us answers. Now it knows about our worries. Whatever happens next is up to us. }
+
+Plh_405 { It seems to have plans for you. You should pursue them. }
+
+Plh_347 { Continue to assist the expedition and guide them to the Mighty Boar. I don't know why it's allowing this, and I don't know what's going to happen next. But everything is following its path. }
+
+Plh_408 { What's going to become of you? }
+
+Plh_409 { Thank you. For everything. }
+
+Plh_406 { Whatever will happen after you'll meet the Mighty Boar is shrouded in darkness. I'll have to confer with the others. }
+
+Plh_410 { I appreciate that you've tried to warn us. }
+
+Plh_344 { I think he wants to say that it's not your fault. }
+
+Plh_398 { If that's true, then you're following the path he laid out for you. }
+
+Plh_357 { You should place more trust in the Mighty Boar. It has granted you a spark. It wouldn't have done that if you could harm it. }
+
+Plh_359 { Its might will guide us toward a bright future for Drova. In this we must trust. Without a doubt. }
 

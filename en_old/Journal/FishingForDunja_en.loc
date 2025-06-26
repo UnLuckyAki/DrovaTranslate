@@ -1,0 +1,8 @@
+Title { Fish for Dunja }
+
+Entry_01 { For her fish soup, Dunja needs $GVAR:QuestVars_FishingForDunja_Config.AmountFish$ fish of the same kind. Supposedly, there are some near the apple grove. }
+
+Entry_02 { I've brought Dunja her fish. Tomorrow, I'll get my fish soup in exchange. }
+
+Entry_03 { The fish soup is ready. }
+

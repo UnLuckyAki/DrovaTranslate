@@ -1,0 +1,32 @@
+Level { Level: }
+
+LearningPoints { Learning Points: }
+
+Category_Sword { Sword }
+
+Category_Unknown { ??? }
+
+Category_Spear { Spear }
+
+Category_Axe { Axe }
+
+Category_Daggers { Daggers }
+
+Category_Bow { Bow }
+
+Category_Crafting { Craft }
+
+Category_Hunting { Stuff }
+
+CombatStrength { Prowess }
+
+Category_Slingshot { Slingshot }
+
+Category_Shield { Shield }
+
+requirement { Prerequisite: }
+
+Category_Preparation { Preparation }
+
+Category_Mining { Prospecting }
+

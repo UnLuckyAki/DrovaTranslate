@@ -1,0 +1,218 @@
+Plh_57 { Weren't you a Hewer with the Remnants? }
+
+Plh_32 { Don't you want some Rustmoss? You might like the stuff. }
+
+Plh_1 { Time to pay your debt to Friedel. }
+
+Plh_50 { Proximus hasn't accepted you yet? You're not one of us. }
+
+Plh_51 { He wants to test me. }
+
+Plh_52 { Hm? Proximus says we should fight. You and I. Let's go! }
+
+Plh_54 { Ah, so I'm a... Test! I'll do my best! }
+
+Plh_53 { All right, let's go then. }
+
+Plh_59 { Yeah, and you offered me that damned rustroot or whatever the hell it's called. }
+
+Plh_58 { I used to be a Hewer. Now I fight in the arena. Well, not quite yet. I'm still training for it. }
+
+Plh_0 { Hey, I'm Mog. No offense, but I'm really thrashed right now. All I want is some peace and quiet. }
+
+Plh_110 { Blanda! You screwed us over! Did really you think we wouldn't notice? }
+
+Plh_111 { Hey, that was a simple misunderstanding! }
+
+Plh_119 { A misunderstanding? A... MISUNDERSTANDING? You screwed us over! Both of us! }
+
+Plh_112 { Now you're done! }
+
+Plh_114 { Give back our coins! }
+
+Plh_113 { I couldn't care less about any of that nonsense. }
+
+Plh_118 { You asked for it! }
+
+Plh_115 { Hey, easy, easy. I'm sure we can work something out here. Hold on... }
+
+Plh_117 { Everything all right, yes? And now leave me alone. }
+
+Plh_124 { You better not do this again, or else... }
+
+Plh_125 { Easy! Never again! }
+
+Plh_116 { Uh, do whatever you want... }
+
+Plh_126 { But I'm going to get my coins back now! }
+
+Plh_91 { What the hell is this? That's MY bed! I paid for it! }
+
+Plh_102 { I paid Blanda $GVAR:EVars_Blanda.PriceBed$ coins for this bed! }
+
+Plh_103 { What?! I also paid Blanda $GVAR:EVars_Blanda.PriceBed$ coins! }
+
+Plh_104 { What? We should talk to Blanda about that... }
+
+Plh_93 { Piss off, I'm in no mood for your rigmarole. }
+
+Plh_97 { That bed belongs to me! (scuffle) }
+
+Plh_94 { Never mind. I don't want any trouble. You take the bed. }
+
+Plh_108 { Wait, she screwed both of us over? I'll take that up with her... }
+
+Plh_96 { That's no rigmarole! I really don't want any trouble, but I paid for it, dammit! }
+
+Plh_98 { No way, that's mine! }
+
+Plh_99 { That's right. And now get lost. }
+
+Plh_100 { All right, the bed is yours. You win. }
+
+Plh_101 { That's my bed — get lost! }
+
+Plh_87 { Your battle with Ada was absolutely unbelievable. }
+
+Plh_62 { You know something about fighting. Report to Proximus. He's sure to take people like you. And then I could learn from you, on top of everything. }
+
+Plh_33 { Hm? Nah, never mind. }
+
+Plh_34 { As I was saying... }
+
+Plh_36 { *sniff on some Rustmoss* Give it a try. Take a snort. That's pure relaxation. }
+
+Plh_37 { I can see that. Just forget it, then. }
+
+Plh_38 { *takes a deep breath* Mhhhh. That smells really great. But I don't know what I'm supposed to do with it. }
+
+Plh_39 { Fill your pipe with it, and the night is yours. Trust me. }
+
+Plh_40 { You better keep your hands off it. I'm sure to find a buyer for it. }
+
+Plh_42 { Now that actually does sound intriguing... }
+
+Plh_43 { Ah, well, I could give it a try... It's just a few coins, anyway. How much is it? }
+
+Plh_44 { $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ coins, and it's yours. }
+
+Plh_45 { I'll give you a friends-and-family-discount. $GVAR:QuestVars_JobForBoris_Config.ReducedPricePerJoint$ coins for a sample. }
+
+Plh_46 { Hm. That's quite pricy. But all right, I'll take some. }
+
+Plh_120 { Whoa, that stings. }
+
+Plh_121 { It's an acquired taste. }
+
+Plh_122 { It'll take some time, but then it'll be awesome. }
+
+Plh_123 { Well, if you say so. I'll give it another shot tonight. }
+
+Plh_47 { Seriously? Well, then I'll HAVE to go for it, right? }
+
+Plh_41 { I can't afford it anyway. Not for me. }
+
+Plh_35 { I hew for the Remnants in order to go home. To my children. That's the only thing important to me. }
+
+Plh_2 { What? This freaking, greedy... Who are you, anyway? Why are you collecting for her? }
+
+Plh_16 { I'm new around here. }
+
+Plh_17 { This isn't about me. I'm just supposed to get the coins. }
+
+Plh_18 { Well, then you can't know that my deadline is still three days off. }
+
+Plh_3 { She said that she's supposed to get the coins right away. }
+
+Plh_5 { Ah, forget it. Keep your coins. }
+
+Plh_55 { You've just been here! And I spent my last coins on that stupid rustroot! }
+
+Plh_6 { I have just enough left to buy food! If I give them to you I'll be broke, I'll have nothing, silch, nada, and I'll never get out of here... }
+
+Plh_8 { Why "out of here"? }
+
+Plh_9 { What's it like — being a Hewer? }
+
+Plh_10 { Well, all right... keep your coins. For now. }
+
+Plh_11 { I cross you off her list of debtors. }
+
+Plh_12 { Doesn't sound like it's my problem. Hand over the coins or I'll come get them! }
+
+Plh_13 { Outta here... to... my children. Sebi and Kimmi. I don't even know if they still remember me... }
+
+Plh_28 { They're not in Drova. When I suddenly woke up in Drova they got left behind. The Remnants here want to break free. Return to my home. }
+
+Plh_29 { That's why I became a Hewer, and that's why I strike the stone. Just so I'll get the opportunity to return to them. }
+
+Plh_14 { Could be worse. Could be better, too. But what else is there? I'm no warrior. And I'm no druid, either. But I know how to hew. }
+
+Plh_15 { Really? Thanks! In three days I'll have everything. Tell her that. I promise! }
+
+Plh_20 { Just like that? Not that we'll both get into trouble... }
+
+Plh_21 { Friedel will believe me. }
+
+Plh_22 { I'll think of something. }
+
+Plh_23 { Don't tell anyone, but... I swiped her list. }
+
+Plh_24 { If you say so... I hope that's true. Then I can put aside some more coins and stay in the camp. Maybe some day return... to both of them... }
+
+Plh_25 { You mean, you keep the debt you collect for yourself. I don't even know how to respond to that kind of temerity. }
+
+Plh_26 { But thanks for your help. Then I can put aside some more coins and stay in the camp. Maybe some day return... to both of them... }
+
+Plh_27 { *raises his hands* all right, all right, easy... here you go, you cutthroat... may you be cursed by the Divinity... you and Friedel... }
+
+Plh_56 { But... I've got almost no coins left. }
+
+Plh_7 { I... whew... *wipes a drop of sweat off his forehead* That is... I can hardly believe my luck... }
+
+Plh_19 { But my debt isn't due until three days from now! }
+
+Plh_71 { Don't go to the Forest Primeval, Kora. Everything there is... }
+
+Plh_72 { ... dead. I know. I've seen it myself. }
+
+Plh_82 { Believe me, you don't want to see that. }
+
+Plh_83 { Well of course you'll be going near there, it's what you do... }
+
+Plh_84 { You won't find me there! }
+
+Plh_85 { Supposedly, an expedition was sent there. }
+
+Plh_86 { Apparently, they caught the Divinity. }
+
+Plh_69 { Supposedly, there's a Divinity in the Forest Primeval. }
+
+Plh_70 { If only that were true... }
+
+Plh_78 { I've heard that people live there. In the darkness. }
+
+Plh_79 { And they're said to practice traditional magic. }
+
+Plh_80 { They submit to the Divinity? }
+
+Plh_81 { I find it bizarre too... }
+
+Plh_67 { Supposedly, there's a new fighter in our camp. }
+
+Plh_68 { Yes, someone appeared out of the Gorge. }
+
+Plh_75 { They've just gotten here, but they've already made it to the top... }
+
+Plh_76 { Some people just got it. }
+
+Plh_77 { Supposedly, the Nemeton's got a new member. }
+
+Plh_64 { A special fight is supposed to take place in the arena. }
+
+Plh_65 { Finally, some excitement! }
+
+Plh_73 { Proximus thinks that Bady will be fighting. }
+
+Plh_74 { Gra's going to make mincemeat out of him. }
+

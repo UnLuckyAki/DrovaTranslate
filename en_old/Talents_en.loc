@@ -1,0 +1,210 @@
+talent_sword_01 { Basic Swordfighting }
+
+talent_sword_01_desc { Improves your fighting stance, increases the damage you inflict by [DamageValuePercent]. You'll learn the weapon ability Blood Frenzy. }
+
+talent_sword_02 { Trained Swordfighting }
+
+talent_sword_02_desc { Increases the damage you inflict by [DamageValuePercent] and unlocks a third combo attack. }
+
+talent_sword_03 { Masterful Swordfighting }
+
+talent_sword_03_desc { Improves your fighting stance and increases the damage you inflict by [DamageValuePercent]. }
+
+talent_sneak_01 { Sneak }
+
+talent_sneak_01_desc { You can sneak around more stealthily and make it harder for your opponents to notice you. }
+
+talent_shield_02 { Trained Shieldfighting }
+
+talent_shield_02_desc { A Perfect Block temporarily stuns your opponents. }
+
+talent_shield_01 { Basic Shieldfighting }
+
+talent_shield_01_desc { You can now perform a Perfect Block with your shield. }
+
+talent_shield_01_additionale_headline { Perfect Block }
+
+talent_shield_01_additionale_desc { You perform a Perfect Block that consumes very little stamina if you block right before an attack lands. }
+
+talent_spear_01 { Basic Spearfighting }
+
+talent_spear_01_desc { Improves your fighting stance, increases the damage you inflict by [DamageValuePercent]. You'll learn the weapon ability Pierce. }
+
+talent_spear_02 { Trained Spearfighting }
+
+talent_spear_02_desc { Increases the damage you inflict by [DamageValuePercent]. Normal spear attacks regenerate [StaminaValueAbsolut] stamina. }
+
+talent_spear_03 { Masterful Spearfighting }
+
+talent_spear_03_desc { Improves your fighting stance. Increases the damage you inflict by [DamageValuePercent], and the stamina you regenerate with each hit up to [StaminaValueAbsolut]. }
+
+talent_dagger_01 { Basic Daggerfighting }
+
+talent_dagger_01_desc { Improves your fighting stance, increases the damage you inflict by [DamageValuePercent]. You'll learn the weapon ability Contagion. }
+
+talent_dagger_02 { Trained Daggerfighting }
+
+talent_dagger_02_desc { Increases the damage you inflict by [DamageValuePercent], increases the Focus you generate with each hit by [FocusValueAbsolut]. }
+
+talent_dagger_03 { Masterful Daggerfighting }
+
+talent_dagger_03_desc { Improves your fighting stance, increases the damage you inflict by [DamageValuePercent], increases the Focus you generate with each hit by [FocusValueAbsolut]. }
+
+talent_bow_01 { Basic Bowfighting }
+
+talent_bow_02 { Masterful Bowfighting }
+
+talent_bow_01_additionale_headline { Mighty Shot }
+
+talent_bow_01_additionale_desc { While aiming with your bow, you unleash a Mighty Shot at exactly the right moment that inflicts [WeaponDamagePercent] weapon damage. }
+
+talent_bow_01_desc { Increases the damage you inflict by [DamageValuePercent]. You can now perform a Mighty Shot with your bow. }
+
+talent_bow_02_desc { Increases the damage you inflict by [DamageValuePercent] and reduces the time you need to aim. You'll learn the weapon ability Concussive Shot. }
+
+talent_slingshot_01 { Basic Slingshotfighting }
+
+talent_slingshot_02 { Masterful Slingshotfighting }
+
+talent_slingshot_01_desc { Increases the damage you inflict by [DamageValuePercent] and stance damage by [PoiseValuePercent]. You'll learn the weapon ability Ricochet. }
+
+talent_slingshot_02_desc { Increases the damage you inflict by [DamageValuePercent] and stance damage by [PoiseValuePercent]. }
+
+talent_axe_01 { Basic Axefighting }
+
+talent_axe_01_desc { Improves your fighting stance, increases the damage you inflict by [DamageValuePercent]. You'll learn the ability Execute. }
+
+talent_axe_02 { Trained Axefighting }
+
+talent_axe_02_desc { Increases the damage you inflict by [DamageValuePercent] and unlocks a third combo attack. }
+
+talent_axe_03 { Masterful Axefighting }
+
+talent_axe_03_desc { Improves your fighting stance and increases the damage you inflict by [DamageValuePercent]. }
+
+talent_alchemy { Brew Potions }
+
+talent_alchemy_desc { You can brew potions that assist you in battle or raise your stats. }
+
+talent_lockpicking_01 { Pick Complex Locks }
+
+talent_lockpicking_01_desc { No lock is safe from you anymore. }
+
+talent_extractsecretion { Extract Ichor }
+
+talent_extractsecretion_desc { You can extract ichor from certain animals. Ichor is required for brewing potions and for crafting. }
+
+talent_tearclaws { Pull Claws }
+
+talent_tearclaws_desc { You can remove the claws and teeth of some animals. Claws can be sold; Teeth can be used for crafting. }
+
+talent_melting_01 { Smelting }
+
+talent_melting_01_desc { You can process ore at bloomeries. }
+
+talent_smith_01 { Craft }
+
+talent_smith_01_desc { You can craft a variety of items. }
+
+talent_smith_02 { Masterful Craftsmanship }
+
+talent_smith_02_desc { You can craft dangerous traps, items, and ammunition. }
+
+talent_stripfur { Skin Animals }
+
+talent_stripfur_desc { You can skin some animals. You can sell the skins or use them for crafting. }
+
+talent_shield_CritAfterBlock { Out of Balance }
+
+talent_shield_CritAfterBlock_desc { If you block an attack perfectly, your next attack will result in a critical hit. }
+
+talent_shield_flow_afterblock { That all you got? }
+
+talent_shield_flow_afterblock_desc { If you block an attack perfectly, you generate [FocusValueAbsolut] Focus. }
+
+talent_axe_adddmgflow { Battle Frenzy }
+
+talent_axe_adddmgflow_desc { Upon a successful hit, attacks generate an additional [FocusValueAbsolut] Focus. }
+
+talent_axe_critonpoise { Coup de Grace }
+
+talent_axe_critonpoise_desc { Your first axe attack on an opponent whose stance has been broken will result in a critical hit. }
+
+talent_axe_decreasestamina { Full Throttle }
+
+talent_axe_decreasestamina_desc { Heavy attacks consume [StaminaValuePercent] less stamina. }
+
+Talent_Daggers_CritAfterDodge { Surprise! }
+
+Talent_Daggers_CritAfterDodge_desc { Your first attack with a dagger after dodging will quadruple your chance of landing a critical hit. }
+
+Talent_Daggers_DecreaseFlow { Fully Focused! }
+
+Talent_Daggers_DecreaseFlow_desc { After using an ability, you'll gain [FocusValueAbsolut] Focus. }
+
+Talent_Daggers_RegenerateStamina { Efficient Strike }
+
+Talent_Daggers_RegenerateStamina_desc { Normal attacks generate [StaminaValueAbsolut] stamina. }
+
+Talent_Sword_NextSpellLesserFlow { Opportunist }
+
+Talent_Sword_NextSpellLesserFlow_desc { After landing a critical hit with your sword, you'll regain [FocusValuePercent] of the focus cost of the next ability requiring focus. }
+
+Talent_Sword_ChargeAttacksDecreaseStamina { Hard Blow }
+
+Talent_Sword_ChargeAttacksDecreaseStamina_desc { Heavy sword attacks consume [StaminaValuePercent] less stamina. }
+
+Talent_Sword_AddCritChance { Precision }
+
+Talent_Sword_AddCritChance_desc { When attacking with your sword you have a [CritValuePercent] higher chance to land a critical hit. }
+
+Talent_Spear_GenerateFlow { Focused Blow }
+
+Talent_Spear_GenerateFlow_desc { Each spear attack on the same opponent increases the generated Focus by [FocusValueAbsolut]. }
+
+Talent_Spear_MoreDmgOnHead { Peak Performance }
+
+Talent_Spear_MoreDmgOnHead_desc { The tip of the spear inflicts up to [DamageValuePercent] additional damage. }
+
+Talent_Spear_PoiseOnCrit { Poisoned Tip }
+
+Talent_Spear_PoiseOnCrit_desc { Landing critical hits with your spear will provide you a [ChanceToPoison] chance to afflict your opponent with poison. }
+
+Talent_Bow_InstantAfterDodge { Quick Draw }
+
+Talent_Bow_InstantAfterDodge_desc { After you dodge, you can fire an arrow without aiming. }
+
+Talent_Bow_IncreaseCritDamage { Bull's Eye }
+
+Talent_Bow_IncreaseCritDamage_desc { Critical hits with the bow inflict [DamageValuePercent] more damage. }
+
+Talent_Sling_MultipleProjectiles { Double Charge }
+
+Talent_Sling_MultipleProjectiles_desc { There is a [TriggerPercent] chance that, when a projectile is fired, a second one will be launched without using up ammunition. }
+
+Talent_Sling_AddDmgOnPoise { Whiplash }
+
+Talent_Sling_AddDmgOnPoise_desc { If you break the stance of an opponent using your slingshot, your next attack against them will inflict an additional [DamageValuePercent] damage. }
+
+Talent_Sling_Ricochet_Name { Ricochet }
+
+Talent_Sling_Ricochet_Desc { You fling a projectile that inflicts [WeaponDamagePercent] damage, then ricochets off an opponent and onto nearby opponents. }
+
+Talent_Sling_HeavyShot_Name { Impetus Shot }
+
+Talent_Sling_HeavyShot_Desc { Heavy shot that inflicts [WeaponDamagePercent] damage and stuns opponents for [StunTime] seconds. }
+
+teachers { Teacher }
+
+talent_mining_desc { Increases the yield from ore prospecting. }
+
+talent_mining_01 { Prospecting 1 }
+
+talent_mining_02 { Prospecting 2 }
+
+talent_mining_03 { Prospecting 3 }
+
+talent_mining_04 { Prospecting 4 }
+
+talent_mining_05 { Prospecting 5 }
+

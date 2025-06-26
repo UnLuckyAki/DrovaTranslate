@@ -1,0 +1,146 @@
+Plh_0 { *The person's skin is tanned, their left ear sports an earring, and their blond hair is matted with blood.* }
+
+Plh_2 { (examine the head) }
+
+Plh_4 { (try to identify the deceased) }
+
+Plh_10 { (examine the corpse up close) }
+
+Plh_1 { (rifle through the dead person's pockets) }
+
+Plh_3 { *You discover a head wound. The person has lost a lot of blood, which is now caking the hair. This injury is the obvious cause of death.* }
+
+Plh_8 { *The person seems familiar to you. Aldo the trader, back at the Remnants' camp... the facial features, the eyes. He must be the one.* }
+
+Plh_11 { *The corpse is encrusted with blood. You can discern sticky blond hair and an earring on the left ear. A sickly sweet, rotting stench hits you.* }
+
+Plh_9 { *Holding your breath, you examine the body closely. The pale arm bears a long scar — older and well-healed.* }
+
+Plh_89 { *Dead... He carries a bow on his back, has an eyepatch, and looks as though he were mauled by rippers.* }
+
+Plh_90 { (is that — Faol?) }
+
+Plh_95 { (search the corpse) }
+
+Plh_92 { *As you examine the body close up and peer into its face, you realize it must be Faol — the hunter from Olaf's Tavern.* }
+
+Plh_83 { *A lifeless body lies before you.* }
+
+Plh_84 { *It's Ruhan, from the tavern. Looks like some wild beast with a beak tore him apart.* }
+
+Plh_85 { *You don't recognize the dead man. Looks like wild animals ripped him to shreds.* }
+
+Plh_17 { *A dead sheep. Looks as if it ate something that didn't agree with it.* }
+
+Plh_22 { *Probably out of desperation.* }
+
+Plh_23 { *Looks as though a shadowripper was recently nibbling on this sheep.* }
+
+Plh_24 { *Rest in peace.* }
+
+Plh_28 { *Before you lies a sheep, in a pool of blood. It seems to have been attacked recently, and to have fled here with its last ounce of strength.* }
+
+Plh_25 { *It's still breathing.* }
+
+Plh_26 { Stay calm. It'll be over soon. (place a hand on it) }
+
+Plh_27 { I should probably put it out of its misery quickly. (draw weapon) }
+
+Plh_29 { *The sheep glances at you briefly, appearing to be grateful for the warmth you're offering it.* }
+
+Plh_30 { *Its head drops to the ground, and it breathes its last.* }
+
+Plh_31 { *You swiftly drive your weapon right into the sheep's heart.* }
+
+Plh_32 { *A dead sheep. Looks as though it died of thirst.* }
+
+Plh_33 { *Poor creature.* }
+
+Plh_78 { *A body lies before you. It's Teigen.* }
+
+Plh_79 { Rest in peace... Forgive me. }
+
+Plh_80 { The fool actually tried to go it alone... }
+
+Plh_81 { *In his lifeless eyes, you see a shocked, frightened look of death. His body had probably been gnawed by wildlife already.* }
+
+Plh_34 { *On the ground lies a dead man. He's got a black beard and tanned skin. A scar runs across his nose.* }
+
+Plh_40 { That must be Tristan! }
+
+Plh_93 { (search the corpse) }
+
+Plh_41 { *Upon closer inspection, you actually recognize Tristan. Apparently, he has fallen victim to wild animals.* }
+
+Plh_42 { *The root's shape reminds you of a wild boar. Is it supposed to symbolize the Mighty Boar? You sense something trying to connect with your innermost being.* }
+
+Plh_43 { (attach talisman) }
+
+Plh_45 { *You affix the blood-stained talisman to the root, and suddenly, you sense a deep connection stirring deep inside you. Something is trying to reach your conscious mind.* }
+
+Plh_46 { *It seems as if you're hearing a boar screaming in the distance, but next to you, Diemo doesn't appear to be reacting. Suddenly, your spark whirls around you excitedly.* }
+
+Plh_47 { *Is the spark trying to tell you something? It seems agitated.* }
+
+Plh_48 { What's going on with you? }
+
+Plh_49 { I don't understand you... }
+
+Plh_50 { *The spark's glow flickers, as if it's trying to communicate. Does it want you to visit the other roots, too?* }
+
+Plh_64 { *At this root, there are fewer piglets than at the one in the Refuge.* }
+
+Plh_65 { *The moment you attach your talisman, one of the piglets detaches himself from the root and looks around, puzzled.* }
+
+Plh_66 { *notices you and seems scared* Squeeeek! Squeeeak! }
+
+Plh_67 { Do not worry, little one. I shall not hurt you. }
+
+Plh_68 { (make yourself large) BRAAAWRG! }
+
+Plh_69 { *The piglet relaxes, but still appears a bit reserved.* }
+
+Plh_70 { (approach slowly and pet) }
+
+Plh_71 { (do nothing) }
+
+Plh_86 { I told you that it has to be one of those nutjobs from this camp... }
+
+Plh_87 { The piglet has just jumped from that disgusting root... }
+
+Plh_88 { I wouldn't touch that thing, even for a hundred coins... }
+
+Plh_72 { *Slowly and cautiously, your hand approaches the piglet. Seemingly unworried, it stares at you with its big eyes.* }
+
+Plh_73 { *You reach for the piglet and lovingly caress its head. The piglet leans into your hand and appears very relaxed.* }
+
+Plh_74 { *Suddenly, the piglet turns around and flees.* }
+
+Plh_77 { *You sense that the piglet is running deep into the Forest Primeval. But you don't know what it intends to do. Then the connection you felt to the piglet is abruptly severed.* }
+
+Plh_75 { *You spend a little while sizing each other up.* }
+
+Plh_76 { *looks completely panicked and trembles* Eeeeek! Eeeehk! }
+
+Plh_52 { *The root appears as though a bear has recently scratched at it. But the piglets seem unharmed.* }
+
+Plh_53 { *You attach your talisman, and immediately feel a warm surge in your belly. Your vision goes black, but you're not disoriented; instead, you feel safe.* }
+
+Plh_54 { *In your mind's eye, blackness is all you see. From the darkness, a light grows, and from the light, a large boar approaches you.* }
+
+Plh_55 { *It stops in front of you and sizes you up. You sense that the boar means you no harm as it scrutinizes you.* }
+
+Plh_56 { (approach and reach out to the boar) }
+
+Plh_57 { (do nothing) }
+
+Plh_58 { *You reach out to the boar. It lets you touch its nose, and the moment your fingers make contact, a thousand warm feelings shoot from your hand into your chest.* }
+
+Plh_59 { *The boar turns around, then pauses briefly to glance back over its shoulder at you. Then the boar emits a loud cry towards the sky and runs back into a light that dissolves into darkness.* }
+
+Plh_60 { What was that just now? }
+
+Plh_61 { Was that the Mighty Boar...? }
+
+Plh_62 { *You utter the question aloud, but there's no one around to answer. The warm feeling leaves you — as rapidly as it came — and you find yourself back at the Mother Root.* }
+

@@ -1,0 +1,218 @@
+Plh_8 { What is this place? }
+
+Plh_27 { What exactly are you doing here? }
+
+Plh_9 { *smirks* You've found us, the Ruin Raiders. That makes you one of the few people who know about this place. }
+
+Plh_28 { We search the ruins for treasure. And if we scare up any, we sell it in Nemeton or in the Remnants' camp. }
+
+Plh_24 { What do you mean by "Bygones"? }
+
+Plh_26 { Other stuff? What do you mean by that? }
+
+Plh_23 { Surely you've seen the old ruins that are scattered all over Drova. The Remnants' camp has sprawled out among them. These ruins are the vestiges of the Bygones. }
+
+Plh_25 { This was their colony a long time ago. They mined silver and other stuff here. }
+
+Plh_37 { Ever seen rune magic? It comes from the Bygones. They used the power of the Divinities to conjure it. }
+
+Plh_38 { In any event, they perished. Nobody knows why. }
+
+Plh_39 { Maybe we'll find out someday... }
+
+Plh_42 { I've found another relic. }
+
+Plh_105 { Talk to Olaf first. You have to understand everything. }
+
+Plh_18 { I'm supposed to show you this relic here. }
+
+Plh_113 { I've found Drivanius's chamber. }
+
+Plh_19 { *looks at the relic* }
+
+Plh_31 { And? What do you say? }
+
+Plh_34 { Strange... }
+
+Plh_35 { It's a relic of the Bygones. I'll have to investigate it more thoroughly. But that'll take some time. }
+
+Plh_44 { Its value is difficult to estimate. I'll give you, let's say... }
+
+Plh_45 { $GVAR:QuestVars_Brutus_Config.BrutusMineReward$ coins. }
+
+Plh_104 { Feel free to bring me more relics of the Bygones. }
+
+Plh_114 { WHAT? Where are they? What did you find? Spill it! }
+
+Plh_115 { It's below the Red Tower. You can reach it via the temple of Sol. }
+
+Plh_116 { And what was there? }
+
+Plh_118 { It was full of research. In his final days, he was working on this nexus helmet. }
+
+Plh_119 { The only thing I could make heads or tail of was this strange helmet here. }
+
+Plh_120 { Show me! Hm. Without his notes I don't understand the first thing about it. What else did you learn? }
+
+Plh_121 { Maybe it's best if you see for yourself. }
+
+Plh_122 { I didn't understand much of what I found. }
+
+Plh_123 { I'll tell the others. Nexus helmet. Hm... if this was the last thing he was working on it might prove useful, after all. One can only hope. }
+
+Plh_124 { At the very least, once you've made it into the Red Tower. }
+
+Plh_97 { Do you have any news about the relics? }
+
+Plh_98 { I've been able to piece together some documents. There must have been a big battle somewhere in the north. It affected Drivanius... }
+
+Plh_99 { Not directly. But I'm sure there are still some in the ruins here, yet to be found. }
+
+Plh_100 { Keep an eye out for them while you're out and about. Especially in places where no one's set foot for ages... }
+
+Plh_101 { You've searched all the ruins? Maybe someone found a stone? I'd say you ought to check out merchants and crooks. }
+
+Plh_126 { $GVAR:EVars_Player.Name$? What are you still doing here? }
+
+Plh_127 { I wanted to see whether you've found something interesting. }
+
+Plh_128 { I was in the area and thought I'd drop by. }
+
+Plh_129 { Yes. These chambers contain many an interesting experiment and quite a few notes. Not only did Drivanius make interesting observations about Drova but also about the stars... }
+
+Plh_130 { However, the Nexus Helmet was his attempt to get a grip on the situation in Drova. I hope you'll be more successful than he was. }
+
+Plh_5 { People don't stray down here very often. How did you get here? }
+
+Plh_13 { Here, I've brought this. Seems to be from Olaf. }
+
+Plh_16 { *frowns* From Olaf, you say? Let me see. }
+
+Plh_14 { I told you — it's only a matter of time before someone finds us. }
+
+Plh_15 { Mm. I guess you were right after all. }
+
+Plh_110 { *yawns* I'm tired. Let's talk more at the bar. }
+
+Plh_21 { I believe that I haven't yet introduced myself. }
+
+Plh_17 { Hey, what's up? }
+
+Plh_10 { My name's Ede. I've dedicated my life to searching for artifacts of the Bygones. The stuff is fascinating — and valuable too. }
+
+Plh_46 { Should something like this ever fall into your hands — rare relics, old tablets, that sort of thing — come to us. We'll give you a good price. }
+
+Plh_43 { Let me take a look at it. }
+
+Plh_47 { Somehow, that looks familiar to me... }
+
+Plh_48 { I've got a hunch. Once I get the chance, I'll take a closer look. }
+
+Plh_49 { You'll get your coins right away. Good work. }
+
+Plh_51 { What kind of old relics are these? }
+
+Plh_111 { Happy to oblige — for a price, naturally. }
+
+Plh_53 { That's exactly what we're trying to determine. The more we find, the more we'll learn about them. }
+
+Plh_50 { By now, the others should know you're helping us. See Amella — she's really good with a sword and shield. Maybe she can teach you a few tricks. }
+
+Plh_54 { Here are your coins. }
+
+Plh_55 { The three relics you've found are parts of a key. There should actually be... Hm... }
+
+Plh_56 { ... there should be a total of seven parts. Just a moment... }
+
+Plh_63 { Ede and his relics — the kinds of things he fancies having discovered! To me, the stuff all looks the same. }
+
+Plh_64 { I don't think we've met. I'm Zoltan. Nice of you to help. The ruins are huge. }
+
+Plh_65 { If you want, I can teach you a few tricks with the axe. Best weapon. It packs a punch, but it's not too heavy. Handy in the ruins. }
+
+Plh_106 { Axes aren't for me. }
+
+Plh_107 { I'll come back to it. }
+
+Plh_108 { It's dangerous down there. The better you can fight... }
+
+Plh_109 { Unbelievable! }
+
+Plh_57 { They fit together! This could be the breakthrough! }
+
+Plh_66 { You mean, we're getting closer to Drivanius? }
+
+Plh_58 { Yes. Maybe. Let me check my notes... }
+
+Plh_67 { $GVAR:EVars_Player.Name$, talk to Olaf and tell him that we've probably tracked down Drivanius. }
+
+Plh_59 { Who's Drivanius? }
+
+Plh_60 { Why am I supposed to talk to Olaf? }
+
+Plh_61 { Just talk to Olaf. He'll explain everything about Drivanius to you. I've got to look at that without any distractions. }
+
+Plh_68 { Excellent, excellent! Only three left! }
+
+Plh_69 { Here, you've earned it. }
+
+Plh_70 { Listen, you can use some of the items in our collection before they decay. Out there, they could help you. }
+
+Plh_71 { Of course, you'll have to buy them. But we'll give you a special friends-and-family rate, since we know you. *winks* }
+
+Plh_72 { The fifth piece... just two more to go, then the circle is complete! Keep up the good work. }
+
+Plh_76 { Have you learned anything? }
+
+Plh_73 { The signet stones seem to be connected to the Bygones' pantheon. Seven gods. Seven seals. But what it means exactly... }
+
+Plh_74 { ... I can't yet say for certain. }
+
+Plh_75 { Thanks to you, we've made some progress. If we can teach you anything else — Reija has perfected the art of fighting with daggers. Ever since Monko left, she's been keeping to herself, but maybe she'll be willing to help you. }
+
+Plh_77 { Just one more! I can hardly believe it, after all this time. }
+
+Plh_78 { This relic must be the key to getting into Drivanius's most sacred place — where he conducted his research. }
+
+Plh_79 { Drivanius kept his work under lock and key. A man of mystery. What a trove of knowledge and treasure must be waiting for us in his secret chamber... }
+
+Plh_112 { Recently, I came across the most impressive pieces in our collection again... Find the last relic, and you'll be amazed. }
+
+Plh_81 { You've done it! You've earned these coins! }
+
+Plh_82 { Give me a moment... }
+
+Plh_83 { It's complete. }
+
+Plh_84 { We've finally done it. }
+
+Plh_85 { Look at this little gem in the seals. It seems so... weak? }
+
+Plh_89 { Here, take the seal. }
+
+Plh_90 { *whispers* If anyone can find and open Drivanius's chamber, you can. }
+
+Plh_91 { But what about the gems in the seal? }
+
+Plh_93 { I shall reveal the chamber's secrets. }
+
+Plh_92 { They should all glow — that's what the writings tell, at least. Drivanius was probably very religious, so this could somehow be connected with their gods. That's all I know. }
+
+Plh_94 { I believe in you. }
+
+Plh_95 { Don't tell anyone about it, but have a look at what I can offer you. What good is all this stuff if we're trapped here in Drova? }
+
+Plh_86 { Look at how some of the gems in the seals are glowing, yet others aren't. }
+
+Plh_87 { Look! The gems in the seals are glowing! So it already seems to be working. }
+
+Plh_131 { I hope the nexus helmet will still help you somehow. We will go to Drivanius' chamber. }
+
+Plh_134 { If we're able to find answers anywhere, they'll be in the Red Tower. Once you get there, maybe the nexus helmet can help you. }
+
+Plh_137 { Do you have any idea where I could find another one of these relics? }
+
+Plh_136 { I've heard that one of the relics found its way into Boris's sticky hands. It's got to be somewhere in his house, across from the tavern in the Remnants' camp. }
+
+Plh_139 { Maybe you should pay him a visit. I've heard he'll sell you anything for enough coins. }
+

@@ -1,0 +1,78 @@
+Teach_General { Can you teach me something about mining? }
+
+Plh_10 { About your injury... }
+
+Plh_59 { *smirks* You won't get anywhere if you just keep hitting it like that. Always keep a steady rhythm, then the stone will break. You'll burn up less energy that way, too. }
+
+Plh_62 { I'll keep that in mind. }
+
+Plh_63 { I hope I can get back to work soon, too. I don't want to be here for nothing. }
+
+Plh_4 { Not now. }
+
+Plh_0 { *mumbles to herself, holding her right arm, mouth agape* You've gotten yourself into hot water again, Agnessa... }
+
+Plh_43 { Oh. Hey. I haven't seen you here before...? }
+
+Plh_26 { Who are you? }
+
+Plh_32 { Agnessa. I was too stupid to walk in a straight line and fell flat on my face... And now I'm sitting here like an idiot and can't hew like the others. And nothing works down here without silver... }
+
+Plh_25 { Are you badly injured? }
+
+Plh_28 { How exactly did that happen? }
+
+Plh_27 { I'm fine. It's just that Mursel shouldn't see me like this... }
+
+Plh_29 { My arm hurts like hell. I hope it's not broken or anything... All I know is that whenever I try hewing I almost pass out from the pain. }
+
+Plh_64 { But I NEED to work! }
+
+Plh_60 { *holds her right arm* Holy crap, the pain's getting worse every day... }
+
+Plh_1 { Need any help? }
+
+Plh_34 { Maybe you'll be able to hew again soon... }
+
+Plh_37 { Do you need medicine or something? }
+
+Plh_3 { Don't get me wrong, but I can hardly give you anything for your help anyway... And then you'll end up wanting silver from me too... }
+
+Plh_31 { When I got hurt, I'd just borrowed silver from Mursel to buy new equipment... If I can't pay my debt soon, he's going to be pissed... }
+
+Plh_36 { *smirks in pain, wipes away a string of saliva* It's just a scratch. Let me take another short break, then I'll be fine... }
+
+Plh_52 { *groans lightly* You too. }
+
+Plh_65 { Good fortunes in the mines! }
+
+Plh_40 { *painful groan* Hey, you. }
+
+Plh_11 { Shona said that shadeshrooms might help. (give her $GVAR:QuestVars_INeedToWorkAgain_Config.AmountOfTüften$ shadeshrooms) }
+
+Plh_12 { Mursel's giving you a few days to recover. I made some pretty convincing arguments. }
+
+Plh_42 { I've settled your debt with Mursel. }
+
+Plh_55 { I have a healing ointment for you here. It will help. }
+
+Plh_14 { *narrows her eyes* You're not doing that out of the goodness of your heart. Let's hear it. What do you want in return? }
+
+Plh_53 { Nothing. We Hewers have to stick together. }
+
+Plh_54 { You think no one's going to help without expecting something in return? }
+
+Plh_23 { I... I thank you. The Divinities must have inspired you. }
+
+Plh_57 { Ahhhhhh, that feels good. It's already getting better, I can tell. I'll be able to work again soon. }
+
+Plh_58 { Thank you. I can't give you much, but... }
+
+Plh_44 { I know something about mining, so I could show you a few tricks of the trade... }
+
+Plh_61 { Actually, that's exactly what I think. At least everyone else does. }
+
+Plh_18 { Huh? What kind of arguments? Knowing Mursel, I assume you argued with your fists? Not bad! }
+
+Plh_41 { WHAT?! Just like that? Even though you hardly know me? That's... selfless. Nobody here does that. }
+

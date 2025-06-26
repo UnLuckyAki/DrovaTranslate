@@ -1,0 +1,6 @@
+Title { Tiaa's Stew }
+
+Entry_01 { Tiaa is definitely not a happy camper right now. She needs meat. She'll give me something only if I get her $GVAR:QuestVars_TiaasEintopf_Config.AmountOfMeat$ pieces of meat. And not the sinewy crap, as she calls it. }
+
+Entry_02 { I've brought Tiaa meat. Now I can get a hot meal from her every day. }
+

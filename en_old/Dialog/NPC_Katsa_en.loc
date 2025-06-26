@@ -1,0 +1,70 @@
+Plh_20 { Do you know how I can distinguish myself around here as a Hewer? }
+
+Plh_21 { You have to hew a hell of a lot of silver. Then you'll get Levin's attention. He rewards hard-working Hewers. }
+
+Plh_46 { Go and see Trusty if you want to know more. He's the guy who was here earlier, right when you came in. }
+
+Plh_4 { Hey, where do you want to go? }
+
+Plh_51 { For Jero. }
+
+Plh_52 { Get lost. We don't want to see people like you around here. }
+
+Plh_1 { I was wondering that too. }
+
+Plh_2 { Past you. }
+
+Plh_3 { Are you nuts? The only ones entering the Remnants' mine are those with a letter from Levin and equipment from Lothar! }
+
+Plh_22 { Hey, you there! }
+
+Plh_23 { You trying to get out? }
+
+Plh_24 { Yes, that's right. }
+
+Plh_25 { No, I'm staying here. }
+
+Plh_49 { Ah, it's you. You know, I can't see very well at the moment — if you go through quickly now, I won't be able to stop you. }
+
+Plh_50 { Pity. *winks* }
+
+Plh_26 { Fine. Then fork over half your silver. }
+
+Plh_28 { Here, take it. (give half) }
+
+Plh_29 { I'd rather stay here. }
+
+Plh_39 { You scratch my back, I'll scratch yours. You keep your mouth shut about my business with Merik, and I'll look the other way. And I'll take less silver off you. }
+
+Plh_40 { Starting today, Levin wants more silver. *smirks* }
+
+Plh_41 { I told you to keep out of my business with Merik. Or else... Here's your silver. Get out. }
+
+Plh_30 { That looks good. You may pass. }
+
+Plh_27 { Then go back in, and get to work. }
+
+Plh_33 { I heard that a few people returned from the camp earlier. }
+
+Plh_34 { Finally. The Hewers have already been bugging me with questions about when Merik will be selling equipment again. }
+
+Plh_45 { Levin is already impatient because he isn't getting as much silver... }
+
+Plh_36 { *turns to you* So, you... newbie? }
+
+Plh_32 { As I see, you've been with Lothar. You can go inside. }
+
+Plh_38 { How nice of you, Katsa. }
+
+Plh_47 { Good fortunes in the mines! Come along. I'll explain the rules around here. }
+
+Plh_48 { *Grumbles* Better listen to Trusty... }
+
+Plh_53 { Where is the silver? Have been snoozing all this time? Next time, I want to see some silver! }
+
+Plh_54 { You hewed a total of $GVAR:EVars_Katsa.PlayerSilverDiffAmountMine$ pieces of silver. $GVAR:EVars_Katsa.SilverDefaultAmount$ pieces of silver are for our coffers, the remaining $GVAR:EVars_Katsa.SilverAmountLeaveMine$ pieces of silver are yours. }
+
+Plh_55 { You hewed a total of $GVAR:EVars_Katsa.PlayerSilverDiffAmountMine$ pieces of silver. $GVAR:EVars_Katsa.SilverAngryAmount$ pieces of silver are for our coffers, the remaining $GVAR:EVars_Katsa.SilverAmountLeaveMine$ pieces of silver are yours. }
+
+Plh_56 { You hewed a total of $GVAR:EVars_Katsa.PlayerSilverDiffAmountMine$ pieces of silver. $GVAR:EVars_Katsa.SilverFriendlyAmount$ pieces of silver are for our coffers, the remaining $GVAR:EVars_Katsa.SilverAmountLeaveMine$ pieces of silver are yours. }
+

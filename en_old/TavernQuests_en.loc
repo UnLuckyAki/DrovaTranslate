@@ -1,0 +1,8 @@
+RipperHuntTitle { To everyone who wants to earn a few coins! }
+
+Text { <br>Currently, a large pack of rippers is marauding the land and is killing my sheep. I've already lost some of them. I'm looking for someone who can take care of this problem.<br><br>The reward for killing the pack leader is $GVAR:QuestVars_HuntTheRippers_Config.Reward$ coins. Bring me the head of the beast to prove that you've slain it.<br><br>Report to me at the counter for more information.<br><br>Olaf, innkeeper at the tavern }
+
+HuntChapter3Title { To everyone who wants to earn a few coins!<br> }
+
+Chapter3Text { <br>The ripper problem is getting worse by the minute! I urgently need whatever fighter is willing to take care of these beasts!<br><br>Whoever rids me of the pack leader will earn $GVAR:QuestVars_HuntTheRippers_Config.Reward$ coins! Bring me the head of the beast as proof!<br><br>Report to me at the counter for more information.<br><br>Olaf, Innkeeper at the Tavern }
+

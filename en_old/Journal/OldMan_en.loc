@@ -1,0 +1,10 @@
+Title { The Old Man at the Market }
+
+Entry_01 { I've met an old man who wants me to bring him various things from the market. He asked me to get him $GVAR:QuestVars_OldMan_Config.AmountApple$ apples, $GVAR:QuestVars_OldMan_Config.AmountDagger$ bread knife, $GVAR:QuestVars_OldMan_Config.AmountQuellWurz$ springwort, and bearskin. He says I can buy all this at the market. }
+
+Entry_02 { Femke doesn't want to sell me the bearskin. He said I could fob off a sheepskin on the old guy, instead of a bearskin. He wouldn't know the difference anyway. }
+
+Entry_03 { Enya said that Femke stores his skins under his stall. At night, I might want to pay a visit to the place... }
+
+Entry_04 { I gave the old man his stuff. He was very happy. }
+

@@ -1,0 +1,120 @@
+Strength1 { You've gotten stronger. I can see that in your stature and your upper arms. Good job! }
+
+Strength2 { I think you're now capable of throwing some decent punches in battle. }
+
+Strength3 { Strength comes from within. Focus on your strikes and make sure to maintain a safe stance. }
+
+Skill1 { You've already become more dexterous. Just keep at it. }
+
+Skill2 { Squatting makes you more agile. Don't remain in one place! }
+
+Skill3 { Speed's what matters! If you're agile enough, nobody can harm you! }
+
+Mind1 { You've become more focused. }
+
+Mind2 { Sharpen your mind. Become one with yourself. You've taken one step closer to yourself. }
+
+Mind3 { If you focus on your breathing, it'll be easier for you to block out what's unimportant. }
+
+Generic { You've learned this talent. }
+
+Axe_01_00 { Axfighting is all about strength and technique. In the beginning, you need to learn that your swing must come from your arm and shoulder. }
+
+Axe_02_00 { If you perform your combo attacks in the following manner, you'll maneuver yourself into a position allowing you to launch a devastating third attack. Give it a try! }
+
+Axe_03_00 { In order to improve, you need to become one with your axe. Feel every bit of resistance, each drop of blood, and each cut — as if you yourself were the axe. }
+
+Axe_BattleFrenzy_00 { The secret of the axe lies with its inertia. Use the weight of its blade, and you'll notice the focus of your attacks improving. }
+
+Sword_Axe_Reduce_StaminaCost { When winding up for an attack, relax your muscles. Otherwise, you'll tire out faster than a running ripper! }
+
+Axe_FinalGrace_00 { If your opponents lose balance, seize the opportunity to let your axe inflict devastating damage on them! }
+
+Sword_01_00 { Until now, you've been holding your sword wrong. Here — whenever you're not attacking, hold it in one hand. That way, you'll be able to strike at any time! }
+
+Sword_02_00 { You can also stab with your sword. Look! That's especially useful when you've properly aligned your first two attacks. }
+
+Sword_03_00 { If you want to become a master swordfighter, you must embrace your sword as a part of yourself. Your sword is your life! }
+
+Sword_Accuracy_00 { Study your opponent's movements carefully. This way, you can detect weak points. Use these to inflict heavy damage with your sword! }
+
+Sword_Chancer_00 { Use the momentum you gain from a critical hit with your sword. Afterwards, your special abilities will come naturally to you. }
+
+Dagger_01_00 { Remember, the more Focus you've got while stabbing with the daggers, the more damage you'll inflict. No other type of weapon is that fast and flexible. }
+
+Dagger_02_00 { Use your daggers swiftly and precisely. Remain relaxed, but strike with purpose. This way, you'll defeat your opponents in no time! }
+
+Dagger_03_00 { Fully embrace your daggers. Feel them as though they were part of you. This way, you'll be able to defeat even the strongest opponent! }
+
+Daggers_GoingWithTheFlow_00 { Special attacks can be seamlessly combined with dagger attacks. No other weapon requires and provides this kind of Focus. }
+
+Daggers_EfficientStrikes_00 { Daggers are light weapons. Attack precisely and with purpose, and you'll never have to worry about your stamina. }
+
+Daggers_SurpriseAttack_00 { Defense is the best offense! Dodge your opponent's attacks before making targeted strikes with your daggers and inflicting devastating damage! }
+
+Spear_01_00 { Hold the spear loosely. Relax your shoulders. Get some practice, and you'll be whaling on your opponents in no time! }
+
+Spear_02_00 { By adjusting your fighting stance, you can attack with your spear even more rapidly. Swift and precise — your opponents won't even know what hit them. }
+
+Spear_03_00 { Feel the spear as an extension of your arm. If you know where it is even with your eyes closed, then you have mastered the spear! }
+
+Spear_PeakPerformance_00 { Surely, you've noticed the tip of your spear? THAT is the key to victory. You'll inflict the most damage if you can use it to land a precision blow. }
+
+Spear_FocusedStrikes_00 { The spear is the weapon of precision. Direct your attacks towards an opponent, and you'll notice an increase in your Focus. }
+
+Spear_Agility_00 { A spear lends itself perfectly to the use of poisons. I'll show you an easy way to do this — all you've got to do is land a good blow. }
+
+Sling_01_00 { Try to remain relaxed while slinging. This way, it'll be easier to throw your opponent off balance. }
+
+Sling_02_00 { Try to sense the resonance of your slingshot, and let your muscles follow. This way, you'll sling masterfully! }
+
+Sling_Concussion_00 { If you throw your opponent off balance using a precise shot, seize the opportunity and attack! This way, you'll inflict a lot more damage! }
+
+Sling_DoubleTheLoad_00 { Once in a while, you'll be able to load two rocks into your slingshot. No opponent sees that coming. }
+
+Shield_01_00 { During blocking, relax your shoulder and your arm. Otherwise, it'll cost you all your stamina. Be relaxed but ready. }
+
+Shield_02_00 { Relax your hand during blocking. Gripping your shield too tightly will cost you precious stamina. }
+
+Shield_BalanceBreaker_00 { If you repel an attack at the very last moment, you'll throw your opponent off balance. This way, not only can you avoid taking damage, but you can also seize the opportunity to inflict more damage of your own! }
+
+Shield_IsThatAllYouGot_00 { If you're attacked, keep a level head. Use your shield to block and to accumulate Focus. }
+
+Bow_01_00 { If spend too much time aiming, you'll lose your strength. Try to aim only until you've locked onto your target, then let go. You'll notice that your arrow inflicts a lot more damage this way. }
+
+Bow_02_00 { While aiming, you shouldn't waver — otherwise, you'll tense up. Keep your fingers relaxed until they open on their own. That's the archer's true art. }
+
+Bow_Bullseye_00 { With the bow, the trick is to find and to exploit weak points. If you manage to do that, you'll inflict heavy damage. }
+
+Bow_Quickdraw_00 { If you keep an arrow at the ready before dodging an attack, you can shoot it immediately afterward! }
+
+Crafting_01_00 { You've got the right stuff to become a great artisan! Keep it up! }
+
+Crafting_02_00 { You've mastered your craft! Provided you've got the correct recipe, you can craft anything! }
+
+Sneaking_00 { By initially treading with the ball of your foot, you'll dampen the sound of your footsteps when walking. If you continue practicing this, nobody will hear you coming! }
+
+TearClaw { Make small incisions with a knife to loosen the claws, and then yank them out — swiftly and forcefully! }
+
+Skinning { Using a sharp dagger, carefully sever the hide from the body. But be careful not to ruin it! }
+
+ExtractSecretion { In order to extract ichor, you need to squeeze the end of the gland. Bring the pressure closer towards the orifice, but don't squeeze too hard! Otherwise, the gland will burst open, and you'll get nothing. }
+
+BrewPotion { Using mortar and pestle, employing the right heat, and measuring out carefully... you're now capable of doing all that. But the most important thing of all is a good recipe! }
+
+LearnIntro { What would you like to learn? }
+
+CantTeachAnymore { I've got nothing more to teach you. }
+
+CantTeachAnymore1 { You've learned everything I can teach you. }
+
+CantTeachAnymore2 { You'll have to find another teacher. I've got nothing left to teach you. }
+
+ComeBackSoon { Come back when you're ready. }
+
+ComeBackSoon1 { Come back once you're in a mood to learn something. }
+
+Plh_34 { You've learned enough from me. Only Farlan can teach you more about swordfighting now. You'll find him in the Upper Quarter. }
+
+LockPick { If you try to pick a difficult lock, just be sure to be very careful with your lockpick. Try to sense the lock's resistance and gently counteract it. It's kind of like love: Forcing it won't get you anywhere. }
+

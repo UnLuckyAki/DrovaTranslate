@@ -1,0 +1,116 @@
+Faction_Neutral { Neutral }
+
+Remnants_Arena { Remnants' camp: Arena Quarter }
+
+Remnants_WayToMine { South of the mine in the Remnants' Camp }
+
+Nemeton_Gate_North { Nemeton: North Gate }
+
+Nemeton_Dormitory { In the eastern part of Nemeton }
+
+Woodcamp { Woodcutter Camp }
+
+Remnants_Mine { Remnants' Mine }
+
+Remnants_MinerArea { Remnants' camp: Hewers' Quarter }
+
+Nemeton_Palisades_North { Nemeton: Palisade North Wall }
+
+Neutral_SilverMine { Silver mine in the riverbed }
+
+Cave_RuinRaiders { Ruin Raiders' hideout }
+
+Tavern_Forest { The Headless Ripper Inn }
+
+Nemeton_WarriorsQuarter { Nemeton: Fighters' Quarter }
+
+Remnants_Academy { Remnants' camp: Academy }
+
+Neutral_Forest { Coniferous Forest }
+
+Remnants_Market { Remnants' camp: Market Square }
+
+MissingPerson { Missing }
+
+Remnants_UpperQuarter { Remnants' camp: Upper Quarter }
+
+Remnants_Tavern { Bernold's tavern }
+
+Neutral_Refugee { Refuge }
+
+Nemeton_Kitchen { Nemeton: Kitchen }
+
+Remnants_LostQuater { Remnants' Camp: Dark Quarter }
+
+Nemeton_FrontCamp { Camp Outside Nemeton }
+
+Nemeton_CraftingQuarter { Nemeton: Crafters' Quarter }
+
+Nemeton_Market { Nemeton: Market Square }
+
+Nemeton_Farm_Georg { Georgefarm }
+
+Neutral_DestroyedBridge { Broken Bridge }
+
+Neutra_Heath { Neutra_Heath }
+
+Nemeton_Global { Nemeton }
+
+Remnants_Entry { Remnants' camp: Entrance }
+
+Remnants_Global { Remnants' camp }
+
+Nemeton_MarketAndCrafting { Nemeton: Market Square / Crafters' Quarter }
+
+Nemeton_Moor_South { Moor South of Nemeton }
+
+Nemeton_Garden { Nemeton: Garden in the east }
+
+Neutral_Maw { Gorge }
+
+Nemeton_WarriorQuarter { Nemeton: Fighters' Quarter }
+
+Nemeton_SacredGrove { Nemeton: Sacred Grove }
+
+Neutral_River_WoodcampAndRemnants { By the river between the Woodcutter Camp and the Remnants' camp }
+
+Nemeton_AppleGrove { Apple Grove near Nemeton }
+
+Nemeton_BridgeToDruids { Nemeton: Bridge to the Druids' Quarter }
+
+Neutral_FloodplainForest_Plateau_Ruins { Subterranean Ruins on the knoll in the Floodplain Forest }
+
+Nemeton_Gate_South { Nemeton: South Gate }
+
+Neutral_ForestPrimeval_Border { Forest Primeval: Edge }
+
+Neutral_Cave_Woodcamp_South { Near the Woodcutter Camp }
+
+Dead { Dead }
+
+DrivaniusChamber { Drivanius's Chamber }
+
+Riverbed_North { Riverbed in the north }
+
+TravelingMerchants { Remnants' Camp: Entrance; Nemeton: Entrance; Tavern; West of Georgefarm }
+
+Neutral_Heath { Heath }
+
+Neutral_ForestPrimeval { Forest Primeval }
+
+Remnants_Underground { Remnants' Camp: underground }
+
+Neutral_Forest_Camp { Camp in the Coniferous Forest }
+
+Unknown { ??? }
+
+Nemeton_DruidCave { Nemeton: Druids' Cave }
+
+Nemeton_Leader { Nemeton: Leader's House }
+
+Expedition_Moor { Expedition into the moor }
+
+Nemeton_Muc { Nemeton: South Gate; Georgefarm or apple grove }
+
+SmugglersDen { Smugglers' Hideout }
+

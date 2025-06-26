@@ -1,0 +1,220 @@
+Plh_136 { Will you sell me the diamond? }
+
+Plh_138 { All right, give me the diamond. (pay $GVAR:QuestVars_TheLiesOfLocke_Config.PriceForDiamond$ coins) }
+
+Plh_137 { I can sell you the diamond. Either you take it for $GVAR:QuestVars_TheLiesOfLocke_Config.PriceForDiamond$ coins or you can forget about it. }
+
+Plh_139 { I don't want to be difficult. For a small donation to the Nemeton, I'll look the other way. }
+
+Plh_141 { Take the diamond and get out. }
+
+Plh_158 { Without coins, you aren't getting anything! }
+
+Plh_126 { I've got a weapon that needs whetting. }
+
+Plh_143 { Here, take the coins and whet the weapon. (pay $GVAR:QuestVars_KarottesWeapon_Config.PriceForRepair$ coins) }
+
+Plh_142 { This is going to cost you $GVAR:QuestVars_KarottesWeapon_Config.PriceForRepair$ coins. }
+
+Plh_144 { Let me see. }
+
+Plh_127 { Wait a minute, I know this one — the grip, the decorations, the pattern on the blade, the notches... }
+
+Plh_159 { That's Karotte's sword! Isn't it? }
+
+Plh_130 { Karotte sent me here with it. }
+
+Plh_131 { No idea. I've paid. Can I get the weapon now? }
+
+Plh_177 { Can you or can't you repair the weapon? }
+
+Plh_133 { That little twerp. He flails the sword around like an idiot, smashes it against anything that gets in the way, and then he doesn't even bother to repair it himself... }
+
+Plh_155 { Next time he comes in, I'll really let him have it! }
+
+Plh_128 { Fortunately, I know my craft... }
+
+Plh_129 { There. All better. Give him my BEST WISHES. And tell him to practice properly. }
+
+Plh_178 { You won't find workmanship like this anywhere else in Drova. So, take good care of your weapon. }
+
+Plh_176 { I still decide whether or not I want to repair a weapon. This weapon looks familiar. And I don't know you. }
+
+Plh_132 { Can I repair it? }
+
+Plh_156 { I can repair anything, I'm the best master blacksmith in all of Drova. }
+
+Plh_157 { I'll show you what's possible once you've mastered your craft. }
+
+Plh_140 { No coins, no whetting. It's as simple as that. Come back once you have enough coins. }
+
+Plh_71 { I belong to you now. Molvina thinks I should get a weapon. }
+
+Plh_104 { I saw that you need traps. }
+
+Plh_105 { True. Three bear traps. Have you got any? }
+
+Plh_107 { Yes. Here. }
+
+Plh_108 { Will you need those often? }
+
+Plh_183 { Then perhaps you need someone to craft them? }
+
+Plh_68 { Still working on that. }
+
+Plh_110 { Hm. They look serviceable. I could do that better, but these are fine for now. }
+
+Plh_111 { Here are your coins. }
+
+Plh_109 { I constantly need traps in order to get materials. If I were to build them all myself, I wouldn't have time for blacksmithing. }
+
+Plh_184 { Sure, I'd like to. However, I don't know anyone who makes decent traps... }
+
+Plh_113 { Bring me the traps once you've got them, and you'll get your coins. }
+
+Plh_69 { What do you need? }
+
+Plh_57 { Can you teach me blacksmithing? }
+
+Teach_Power { Rura said you can teach me a thing or two. How about it? }
+
+Plh_83 { Teach me something about your craft. }
+
+Plh_61 { I don't waste my time with novices. Look for Rura, and ask her whether she'll teach you something. }
+
+Plh_181 { First, prove to me that you've got what it takes. }
+
+Plh_179 { If Rura's the one who sent you, then you're ready. }
+
+Plh_82 { You've proved you're worthy. I shall teach you. }
+
+Plh_84 { You lack experience. }
+
+Plh_173 { If you want something from me, come to me when I'm in the smithy. }
+
+Plh_168 { You've really found three of them? Let me see. }
+
+Plh_169 { Hmm, yes, that should work. What kind of armor do you want me to make for you? }
+
+Plh_174 { A masterpiece. Nobody in Nemeton wears this armor. *smirks* }
+
+Plh_175 { The armor is unique... And it looks very good. It should afford you more protection. }
+
+Plh_86 { Gradan was one of the good guys. He didn't have to die. Mombert ought to have done a better job of looking out for him. }
+
+Plh_95 { Easy there, Chunnaic. These things happen; we all know that. This fate can befall any fighter. Now Gradan is feasting with the Divinities. }
+
+Plh_96 { *grumbles quietly* }
+
+Plh_98 { Gradan died honorably. You should be proud of him. }
+
+Plh_100 { Then he has received a place among the Divinities. }
+
+Plh_101 { Probably true. }
+
+Plh_102 { Enjoy the Festival of Fire — we honor the Divinity. }
+
+Plh_4 { *a muscular person stands in front of you, initially paying you no heed* }
+
+Plh_10 { I am Chunnaic, master craftswoman in Nemeton. No one can smith as I can. }
+
+Plh_87 { My weapons are made from the finest steel in all Drova. }
+
+Plh_115 { Caspara? I thought you are at Georgefarm... }
+
+Plh_116 { Haven't you heard how dangerous it's become there? And besides, you seem to need a trap expert, don't you? }
+
+Plh_117 { Exactly. But you could have easily just dropped by... }
+
+Plh_124 { I would have, but the guards wouldn't let me pass — but now I'm here. }
+
+Plh_118 { Here, your coins. Caspara will be a great help. I'm sure she could teach you a thing or two about traps. }
+
+Plh_119 { Yes, but there's no way you'll surpass me. }
+
+Plh_134 { You're trying to steal a diamond from me, you little worm? You should be glad I don't chop your fingers off. }
+
+Plh_70 { Ah, our new arrival. If you need equipment, come to me. }
+
+Plh_16 { Speak. }
+
+Plh_37 { Here, I've got the bear claws. (hand over) }
+
+Plh_40 { Then let's take a look. }
+
+Plh_92 { The claws of a fully-grown bear. Well done! }
+
+Plh_43 { So, are you going to teach me how to be a blacksmith now? }
+
+Plh_44 { It wasn't easy. }
+
+Plh_46 { You don't shy away from difficult tasks and hard work — I like that. }
+
+Plh_49 { Good. Then I'll help you improve your blacksmithing skills. You should already know the basics, though. I don't need amateurs. }
+
+Plh_182 { Report to Rura to learn the basics first. Once you know them, come back to me. }
+
+Plh_48 { I hope so. It should be a challenge. }
+
+Plh_18 { How can I prove to you that I'm worthy? }
+
+Plh_19 { Blacksmithing is a matter of will. Your might and courage must become stronger than iron. }
+
+Plh_21 { Strength, patience, and virtue must coalesce in you, in order to bend the iron to your will. }
+
+Plh_23 { Sounds simple. }
+
+Plh_22 { How can I prove that I am capable of doing this? }
+
+Plh_25 { *frowns* Flapping your gums like that won't get you very far at the anvil. }
+
+Plh_26 { Bring me the claws of a fully-grown bear. }
+
+Plh_27 { Don't you dare bring me ripper claws, either! I know what they look like. }
+
+Plh_28 { Where can I get bear claws? }
+
+Plh_29 { Sounds simple. }
+
+Plh_31 { Hm, let me think... }
+
+Plh_90 { Perhaps from sheep? }
+
+Plh_123 { *mumbles* What's that supposed to be? }
+
+Plh_30 { *frowns* }
+
+Plh_32 { I've heard enough talk from you. And you know what you're supposed to do. }
+
+Plh_33 { So do it. }
+
+Plh_72 { If the Heiress of the Moor wills it, so shall it be done. What kind of weapon do you want? }
+
+Plh_74 { An axe. }
+
+Plh_75 { A sword. }
+
+Plh_120 { A dagger. }
+
+Plh_73 { A spear. }
+
+Plh_76 { Here. This should fit you. }
+
+Plh_121 { Now you're part of the family. That means you'll get only the best weapons. }
+
+Plh_122 { If you need anything else, you can buy various weapons, traps, or crafting materials from me. Rura, my apprentice, also sells useful items. }
+
+Plh_162 { Let me see. }
+
+Plh_163 { I've never seen anything like this... The craftsmanship — it's incredible. }
+
+Plh_164 { Almost better than mine. }
+
+Plh_165 { With this, I could fashion some armor for you, but to do that I need more material. If you bring me... }
+
+Plh_166 { ...three such pieces, I could make armor out of it. Armor that would be better than anything I've ever seen. }
+
+Plh_185 { But I can make that armor for you only if you belong to the Nemeton. }
+
+Plh_186 { I forge armor only for members of Nemeton. }
+

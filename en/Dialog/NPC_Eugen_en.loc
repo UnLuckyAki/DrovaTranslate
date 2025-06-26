@@ -46,7 +46,7 @@ Plh_197 { Get going! No time to gab now! }
 
 Plh_464 { You ought to get in touch with Kilian. }
 
-Plh_208 { There's our new recruit! *smirks* }
+Plh_208 { There's our new recruit! *grins* }
 
 Plh_209 { At last. Thought it would never happen. }
 
@@ -58,7 +58,7 @@ Plh_213 { That's right. }
 
 Plh_215 { We accept newbies OUR way. And it goes like this... }
 
-Plh_216 { Welcome to the camp. *smirks* }
+Plh_216 { Welcome to the camp. *smiles* }
 
 Plh_217 { But don't smash 'em up before I've had a shot at it! }
 
@@ -144,7 +144,7 @@ Plh_300 { No worries. We remember. As does everyone in the Remnants' camp. }
 
 Plh_302 { I gathered up your gear and stowed it in the chest behind the counter. Collect it whenever you want. And thanks for not ralphing all over the floor. Last time, when Eugen — }
 
-Plh_107 { Don't dredge up such ancient stories, Bernold. *glances at you and smirks* Well, you're unscathed. Sober up first. And we've got to do this again soon! }
+Plh_107 { Don't dredge up such ancient stories, Bernold. *glances at you and smiles* Well, you're unscathed. Sober up first. And we've got to do this again soon! }
 
 Plh_303 { I'm up for it! *hic* }
 
@@ -162,7 +162,7 @@ Plh_295 { Ah, nothing compared to what happened last time, when Liandra got smas
 
 Plh_296 { We were never going to mention that again! }
 
-Plh_962 { Haha, if only, if only! You started stripping down to bare metal, then and throwing your clothes all around! I'm telling you, it was a sight for sore eyes! *smirks* }
+Plh_962 { Haha, if only, if only! You started stripping down to bare metal, then throwing your clothes all around! I'm telling you — it was a sight for sore eyes! *grins* }
 
 Plh_285 { Hah — you haven't totally soaked your brain in booze! }
 
@@ -396,7 +396,7 @@ Plh_1087 { Awesome! You've really got it. }
 
 Plh_205 { Those nasty rippers aren't going to mess with anyone else so fast. }
 
-Plh_115 { You did good. *smirks* }
+Plh_115 { You did good. *smiles* }
 
 Plh_119 { I didn't stand a chance... *gasps* }
 
@@ -626,7 +626,7 @@ Plh_720 { We've got to cross the pass. Orders from Boris. }
 
 Plh_721 { Well then, you know what you must do. }
 
-Plh_722 { Of course! *smirks* }
+Plh_722 { Of course! *smiles* }
 
 Plh_307 { *pulls a coin pouch out of his pocket, tosses it in the air, then catches it.* That ought to be enough. }
 
@@ -666,7 +666,7 @@ Plh_711 { Aren't those bandits still lurking around the pass? My last encounter 
 
 Plh_712 { Same here. They tried to rob me. }
 
-Plh_713 { Don't worry. You've got me. *smirks* }
+Plh_713 { Don't worry. You've got me. *smiles* }
 
 Plh_1043 { And what are you going to do? Take them all on, single-handedly? }
 
@@ -684,7 +684,7 @@ Plh_792 { We've got no time to lose. }
 
 Plh_793 { Oh come on, $GVAR:EVars_Player.Name$. }
 
-Plh_858 { It's just a few rippers. You've dealt with them before. *smirks* }
+Plh_858 { It's just a few rippers. You've dealt with them before. *grins* }
 
 Plh_796 { *just looks at Farlan* }
 
@@ -908,7 +908,7 @@ Plh_680 { (salute) }
 
 Plh_681 { So I'm to follow every order without question? }
 
-Plh_689 { The Divinity — all of you want to... catch it, right? }
+Plh_689 { What are you going to do with the Divinity? }
 
 Plh_692 { Is it really a good idea to confront a Divinity? }
 
@@ -916,15 +916,15 @@ Plh_682 { You catch on quick. }
 
 Plh_684 { Farlan, Darwin, and Lindon are coming along too. They're already set. I hope you're truly suited for this expedition. Once we set off, we aren't coming back until the mission's objective has been completed. }
 
-Plh_683 { Your choice. Do what I say without asking questions, or be on your own. You can gripe about it all you like — but you'll actually make it back alive. }
+Plh_683 { I don't expect blind obedience from you. But we need to act in unison. Have each other's backs. That's the only way we're going to be successful and get through this alive. }
 
-Plh_690 { That's the way it is. And you WILL do as I say. That's the only way we'll be able to pull this off. }
+Plh_690 { We'll capture it. For what purpose? To escape from Drova, of course! Our big plan! And never before have we been so close... }
 
-Plh_1049 { Seriously? }
+Plh_1049 { We'll see. }
 
 Plh_691 { We have no choice. Without the Divinity, we won't succeed in getting into the Red Tower. }
 
-Plh_693 { If you turn into a pillar of salt once we step into the Divinity's domain, then it's best you stay behind... }
+Plh_693 { I hope you won't turn into a pillar of salt once we've entered the Divinity's domain... }
 
 Plh_678 { I'll believe it when I see it. }
 
@@ -1016,9 +1016,9 @@ Plh_525 { You shall see how the spark protects me. (move out) }
 
 Plh_526 { Step aside. (move out) }
 
-Plh_527 { Astounding! $GVAR:EVars_Player.Name$! remained unscathed. }
+Plh_527 { Astounding! $GVAR:EVars_Player.Name$! is unharmed! }
 
-Plh_770 { *smirks* That connection... }
+Plh_770 { *smiles* That connection... }
 
 Plh_531 { The Blackflame cannot stop us now. Stick together, and let's move! }
 
@@ -1188,7 +1188,7 @@ Plh_1110 { So it'll go into its prison of its own accord? }
 
 Plh_1112 { Exactly. It will take a while, but then we've got it! }
 
-Plh_851 { Farlan, that's your task. Once Darwin gives the signal, place the vessel in front of the boar. }
+Plh_851 { Farlan, that's your task. Once Darwin gave the signal, you'll place the vessel in front of the boar. }
 
 Plh_852 { Got it! }
 
@@ -1244,13 +1244,13 @@ Plh_873 { (join in laughing) }
 
 Plh_872 { You all make me sick. }
 
-Plh_1083 { *smirks* Still waters run deep. I like that, $GVAR:EVars_Player.Name$. }
+Plh_1083 { *smiles* Still waters run deep. I like that, $GVAR:EVars_Player.Name$. }
 
-Plh_1146 { We're not judging you, Lindon. Not at all. *smirks* }
+Plh_1146 { We're not judging you, Lindon. Not at all. *grins* }
 
 Plh_877 { I was there on account of the bear... }
 
-Plh_878 { Don't get carried away, Lindon... *smirks* }
+Plh_878 { Don't get carried away, Lindon... *grins* }
 
 Plh_879 { What was your last fight, $GVAR:EVars_Player.Name$? Must have been a big one? Yeah?! }
 
@@ -1272,7 +1272,7 @@ Plh_893 { To the Divinities! }
 
 Plh_894 { To a great battle! }
 
-Plh_895 { I've lost interest. }
+Plh_895 { I don't feel like celebrating. }
 
 Plh_896 { Hear, hear. That's worth a drink! }
 
@@ -1286,11 +1286,11 @@ Plh_901 { Farlan, conqueror of the Mighty Boar, who needed practically no help f
 
 Plh_902 { Eugen! }
 
-Plh_903 { Don't be overconfident! Only time will tell what will happen... }
+Plh_903 { Don't get cocky! Only time will tell what will happen. }
 
 Plh_904 { I hope that at some point, we'll actually live in freedom and look back on these days... }
 
-Plh_905 { We shall defeat the Mighty Boar. To freedom! }
+Plh_905 { Don't think, act! We will defeat the Mighty Boar. To freedom! }
 
 Plh_906 { What will happen to the Forest Primeval and its inhabitants once the Divinity is gone? }
 
@@ -1312,7 +1312,7 @@ Plh_911 { But they live in harmony with the Mighty Boar. Once it's gone... }
 
 Plh_912 { Then it's gone. They'll have to live without it. }
 
-Plh_914 { They'll just have to make the effort. }
+Plh_914 { Do you want to hear ramblings about the will of the Divinities? Go to Darwin, then. }
 
 Plh_897 { More for us then! }
 
@@ -1332,7 +1332,7 @@ Plh_875 { Don't hold it against Lindon... It isn't his fault. }
 
 Plh_876 { That bear was a really bloodthirsty beast. }
 
-Plh_1157 { Come on over here. We've got a surprise for you. *smirks widely* }
+Plh_1157 { Come over here. We've got a surprise for you. *grins widely* }
 
 Plh_1158 { I like it over here. What is it? }
 
@@ -1351,4 +1351,50 @@ Plh_1161 { There's no turning back now. Are you ready? }
 Plh_1162 { Hurry up and join me once you're ready. }
 
 Plh_1163 { Farlan was really keen on you. You must have made a truly lasting impression on him. }
+
+Plh_1188 { We'll make it. Together. Adhere to the plan, and the Remnants will prevail. We'll win our freedom! }
+
+Plh_1178 { Let's go! }
+
+Plh_1179 { Maybe we should rethink the plan... Who knows what consequences all of this will have...? }
+
+Plh_1180 { The consequences? We will possess the Mighty Boar's power! }
+
+Plh_1175 { Then let's get going. }
+
+Plh_1176 { Maybe we shouldn't do this... We don't know how the Forest Primeval will be affected. }
+
+Plh_1177 { We mustn't allow ourselves to be distracted by this kind of thinking. We can only affect change if we're willing to take risks! }
+
+Plh_1183 { None of this is right... }
+
+Plh_1184 { We can't change it. We've got no time to lose. }
+
+Plh_1185 { It's scary how fast the forest is perishing. I did not see this coming... }
+
+Plh_1189 { But let's remember why we did this. }
+
+Plh_1190 { Soon it be over. Soon we'll leave Drova. }
+
+Plh_1186 { Come. }
+
+Plh_1171 { What did you expect? The expedition didn't go as planned. Lindon is dead, and we've destroyed the Forest Primeval. }
+
+Plh_1187 { I was there, dammit! }
+
+Plh_1172 { It happened! No one can undo it! No one! }
+
+Plh_1181 { Eugen... }
+
+Plh_1173 { I hope it was worth it... }
+
+Plh_1174 { ...I hope so too... }
+
+Plh_1164 { I don't want to talk about it. }
+
+Plh_1191 { Tomorrow we'll face the Mighty Boar! }
+
+Plh_1165 { No one's forcing you. I was just curious. }
+
+Plh_1166 { It was probably just a TINY water rat! }
 

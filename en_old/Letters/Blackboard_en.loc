@@ -1,0 +1,18 @@
+SearchingArena { Finally, the time has come again! The arena at the Remnants' camp is OPEN!<br><br>If you want to fight for glory for Nemeton, report to Angus.<br>Only experienced fighters! }
+
+Escort { To all self-respecting fighters:<br><br>I am looking for a person who can escort yours truly safely, without a scratch, into the Remnants' camp. I don't have any use for weaklings. If you show up and you don't have battle scars or a giant weapon, you might as well go back to the other children in the sandbox.<br><br>But if you're well versed in escorting people and protecting them effectively — and if you want to make a few coins — come talk to me in the Merchants' Quarter. I'll be waiting behind the warehouse near the bonfire.<br><br>Sincerely<br><br>— Teigen }
+
+ButterfliesAllAround { To all capable fighters:<br><br>I'm looking for someone to help me with my research in the Sacred Grove. Those who heed my request shall not regret it.<br><br>— The covenant of druids. }
+
+Woodcamp { The bridge to the woodcutters has been repaired, and now, once again, they need our protection.<br>Report to Gerdwin if you want to earn some coins. }
+
+Graffiti { Someone's sneaking around here during the night, painting misleading messages on the walls and thus spreading lies throughout Nemeton.<br>Most recently, the stone circle has been defaced.<br><br>Whoever finds the culprit shall receive a reward of $GVAR:QuestVars_Graffiti_Config.Reward$ coins.<br><br>— Gerdwin. }
+
+PlayWithKids { Raising Nemeton's offspring is our joint responsibility. Thus it is your task, too, to spend some time with our youngsters Olga and Luten.<br>It's good for the children to spend time with someone other than an old druid, after all. Meet us near Humbert's garden, and play hide-and-go-seek or tag with them!<br><br>No, you're never too old to play!<br><br>— Helma }
+
+Traps { To all hunters!<br>Since at this time we don't have anyone who knows about crafting traps, I'll pay $GVAR:QuestVars_Traps_Config.Reward$ coins for three bear traps. Just bring them to me.<br><br>Sincerely<br><br>— Chunnaic }
+
+Fishing { We shall eat fish again!<br>I would like to make my fabled fish soup for everyone, but doing that is tricky without any fish. So I'm looking for someone who'd like to go fishing in the apple grove and get me some bass.<br>A tasty fish soup will be your reward.<br><br>— Dunja }
+
+BanditsOnTheBridge { To all warriors of Nemeton:<br><br>The bridge to the woodcutters is unsafe YET AGAIN. Runners are disappearing, deliveries never make it to their destinations, and a general sense of discontent is spreading amongst our people.<br>We need warriors from Nemeton right away, before we'll start losing people again.<br><br>Report to me at Georgefarm! Today would be good!<br><br>— Delani }
+

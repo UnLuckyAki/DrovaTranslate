@@ -52,7 +52,7 @@ Plh_26 { *smiles* That's good to hear. }
 
 Plh_27 { If you want to talk to someone about your experiences... I'm listening. }
 
-Plh_28 { *cocks his head* Just recently arrived? In this world? Then you're going to confused by a lot of things. }
+Plh_28 { *cocks his head* Just recently arrived? In this world? Then you're going to be confused by a lot of things. }
 
 Plh_29 { Feel free to tell me about your adventures in Drova, if you feel like it. }
 
@@ -72,7 +72,7 @@ Plh_21 { Life here can be quite pleasant. Of course, you're lacking some of the 
 
 Plh_217 { Lately, however, a lot of rippers have been marauding through the forest. So, one way to get creative is to avoid them. }
 
-Plh_18 { Oh, my friends Wind and Babsi are out somewhere. I'm sure they'll be back anytime. *smirks* }
+Plh_18 { Oh, my friends Wind and Babsi are out somewhere. I'm sure they'll be back anytime. }
 
 Plh_216 { Come to think of it though... Wind has been gone for really quite a while now. He likes spending time in the tavern in the southern part of the forest. It's pretty cozy in there. }
 
@@ -86,7 +86,7 @@ Plh_172 { Sorry, I'm pretty busy right now. Talk to you later! }
 
 Plh_133 { *looks somewhat pale and doesn't seem to notice you* }
 
-Plh_210 { Hey, $GVAR:EVars_Player.Name$. I'm always happy to see you. *smirks* }
+Plh_210 { Hey, $GVAR:EVars_Player.Name$. I'm always happy to see you. *smiles* }
 
 Plh_36 { Two druids left the village with a crystal. I heard rumors of Drova and Nemeton, and I wanted to know what they were up to. }
 
@@ -94,7 +94,7 @@ Plh_37 { After Maeron died, Venia and I somehow managed to get to Drova along wi
 
 Plh_38 { I received a powerful crystal. Ha! It seems I was chosen. }
 
-Plh_47 { It all sounds very — exciting. I'm glad you're doing well. And I hope you manage to find a druid who can help you. Unfortunately, they're not easy to get hold of. But not impossible, either. *smirks* }
+Plh_47 { It all sounds very — exciting. I'm glad you're doing well. And I hope you manage to find a druid who can help you. Unfortunately, they're not easy to get a hold of. But not impossible, either. *smiles* }
 
 Plh_40 { The woodcutters were pretty whiny, to be honest. Pah. }
 
@@ -278,7 +278,7 @@ Plh_167 { I didn't even know what happened. Some glowy gizmo landed on me, and t
 
 Plh_168 { Looks like quite an interesting group there in the Forest Primeval. Maybe I can even convince the others to pay them a visit one day. I don't dare go in there any further by myself. }
 
-Plh_169 { Thank you for your report. I'm curious to learn where your journey will take you next. *smirks* }
+Plh_169 { Thank you for your report. I'm curious to learn where your journey will take you next. *smiles* }
 
 Plh_170 { Apologies, but I've got to take care of something I'd like to finish. }
 
@@ -334,7 +334,7 @@ Plh_208 { That really wasn't necessary. Like, really not. }
 
 Plh_205 { I'm on the brink of a change. It's become too dangerous here, even though Babsi did her best. I'm going to take my friends back into the larger community. }
 
-Plh_209 { I feel like I'm headed for a bigger journey... *smirks* The Divinities guide everyone, in their own way. It was a pleasure meeting you, $GVAR:EVars_Player.Name$. Good luck on your own path. }
+Plh_209 { I feel like I'm headed for a bigger journey... *smiles* The Divinities guide everyone, in their own way. It was a pleasure meeting you, $GVAR:EVars_Player.Name$. Good luck on your own path. }
 
 Plh_218 { The pleasure was all mine, Pwyll. Thanks for listening, and take care! }
 

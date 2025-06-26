@@ -1,0 +1,56 @@
+Title { Missing }
+
+Entry_Main_01 { One of Georg's workers went missing, a guy named Hasso. He just wanted to pay a brief visit to the Headless Ripper Inn, but he never returned. }
+
+Entry_Main_02 { In the Remnants' camp, Kora is missing her friend Baltus. He was going to go for a beer to the Headless Ripper Inn, but he never returned. }
+
+Entry_Main_03 { In the camp south of the Remnants, Pwyll is missing his friend Wind, who was on his way to the Headless Ripper Inn. }
+
+Entry_Main_04 { Several people from the tavern are missing. Ostensibly, a woman with brown hair and a scar has something to do with it. }
+
+Entry_Main_04_01 { Supposedly, Hasso left the tavern sometime during the night, heading in the direction of Georgefarm. }
+
+Entry_OutSideFoundGuys { A group of people was being held in a mine in the moor. They asked me to help them escape from there. }
+
+Entry_Main_05 { I was captured. All my stuff is gone. That's the same fate that befell Hasso and some of the other missing people. }
+
+Entry_Main_06 { Without help from the others, busting out of here will prove difficult. I should ally myself with them. }
+
+Entry_Day1_01 { My head is buzzing... The people here are looking for something, and we're supposed to dig it up for them. Hasso says I should come with him. And whatever I do, I'd better not keep the guards waiting. }
+
+Entry_Day1_02 { I talked to the kidnappers' boss. Hasso and I are supposed to clear a path. I wonder what they're looking for? }
+
+Entry_Day1_03 { Lanzo told me to clear the rubble. Only after I'm done will I be allowed to lie down. And tomorrow we'll continue. }
+
+Entry_Day2_01 { Day 2: We've still got to clear rock and rubble. Is this going to continue forever? }
+
+Entry_Day2_02 { Hasso and I dug up a room of the Bygones. Could there be something interesting in it? }
+
+Entry_Day2_03 { We discovered an old chamber, but right at this moment a guard appeared. I'm done for today, and I'm supposed to lie down. }
+
+Entry_Day3_01 { Day 3: We're running low in food. I was tasked with getting some and bringing it to Bruna. At least that's a change of routine... }
+
+Entry_Day3_02 { Bruna wants me to obtain $GVAR:BanditMineBrutus_Config.CountMushrooms$ common mushrooms. Where they grow, digpigs are also supposed to be found. Some meat surely wouldn't hurt. }
+
+Entry_Day3_03 { Lanzo beat Bruna up. Now she can't cook anymore... So, naturally, I'm supposed to prepare tomorrow's food. }
+
+Entry_Day3_04 { Done... Finally done for today... Finally, time to lie down... }
+
+Entry_Day4_01 { Day 4: We seem to be pretty close to whatever we're looking for. I'm about to grab a bite, and then it's back to work. Maybe they'll let us out of here once we've found something. }
+
+Entry_Day4_01_1 { We just need to clear some more rubble, and then we ought to be able to lay eyes on our target. }
+
+Entry_Day4_02 { The guards have their artifact, and now they won't need us anymore. If I can convince Wind and Bruna to bust out together — and if we somehow make it to the armory — we'll be able to escape. }
+
+Entry_Main_08 { Wind is in. }
+
+Entry_Main_09 { Somehow I need to get into the armory. Bruna said I should tell Mali to come help her, so she'll leave the armory unguarded. }
+
+Entry_Main_09_1 { Bruna is in. }
+
+Entry_Main_010 { Here it goes. All in. Freedom awaits us! }
+
+Entry_Main_GoodEnd { I was able to save everyone and get them out of this cave. We're free! }
+
+Entry_Main_KilledFawini { Fawini attacked me, but I was able to defend myself. She babbled something about them wanting to take me to the moor. Maybe I should have a look around that moor. }
+

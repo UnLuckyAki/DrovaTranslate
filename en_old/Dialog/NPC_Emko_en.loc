@@ -1,0 +1,118 @@
+Plh_44 { The work won't get done by itself. }
+
+Plh_6 { Good fortunes in the mines! }
+
+Plh_7 { Hey, buddy! }
+
+Plh_8 { I heard you talked to the pit boss. Want a lot of silver? I've heard something! }
+
+Plh_9 { But there must be a catch... }
+
+Plh_10 { Out with it. }
+
+Plh_11 { Not interested. }
+
+Plh_12 { No catch. I just need someone else for it... }
+
+Plh_13 { Come on! I'll show you! }
+
+Plh_14 { Of course you're interested! It's about silver! }
+
+Plh_15 { Ah, you're finally here. So now there's... }
+
+Plh_17 { ... silver. *smirks* }
+
+Plh_19 { Seriously? You want to rip me off? }
+
+Plh_20 { Then just take the silver. (hand over $GVAR:EVars_Emko_Config.AmountOfSilverForScam$ silver) }
+
+Plh_21 { You're not getting squat from me! }
+
+Plh_22 { It wasn't personal, buddy. Mursel takes silver from us every night too. That's just how it works around here. }
+
+Plh_23 { And you just put up with Mursel exploiting you? }
+
+Plh_26 { We haven't got any choice. Well, we do — Mursel will get either our silver or our heads on a platter... }
+
+Plh_30 { If we team up, we stand a chance against him... }
+
+Plh_69 { We're just meek Hewers. }
+
+Plh_66 { If we stick together, then he'll be outnumbered. }
+
+Plh_33 { Mmmmmmh... }
+
+Plh_34 { Dammit, you're actually right. Why are we putting up with it? He won't stand a chance if he's outnumbered! }
+
+Plh_68 { Good. All together. Now! }
+
+Plh_27 { Don't hold it against us, buddy. Life in the mines is rough. It's everyone for themselves. }
+
+Plh_67 { Good fortunes in the mines! }
+
+Plh_28 { Are you kidding us? You don't have enough silver! }
+
+Plh_29 { Then I guess there's no other way. }
+
+Plh_35 { Mursel! We've had enough! We're done giving you silver in exchange for sleep! }
+
+Plh_36 { Why are you acting that way? Have you been hitting the sauce? }
+
+Plh_37 { That's enough! }
+
+Plh_38 { This is over! }
+
+Plh_39 { We Hewers will sleep here for free from now on! (fight Mursel) }
+
+Plh_40 { Mursel, we shouldn't have to put up with this crap! (fight Emko) }
+
+Plh_41 { We'll see about that. Now come on! }
+
+Plh_42 { *smirks* You're welcome. }
+
+Plh_43 { Are you kidding me? Grrr... }
+
+Plh_49 { That's enough, Mursel! You're not going to rip off us Hewers anymore! }
+
+Plh_53 { You got what you deserved, Mursel! }
+
+Plh_54 { You're not getting any more of my silver, you bastard. }
+
+Plh_55 { *bites his lip* You little pissants really think you can get away with this? }
+
+Plh_56 { Wait until you've got to deal with the Remnants — they're a lot tougher. }
+
+Plh_50 { Now, we're going to sleep here without surrendering any silver. Got it? }
+
+Plh_57 { Yes. I don't give a crap now. Do whatever you want. }
+
+Plh_58 { Thanks for helping us. And I'm sorry that we wanted to rip you off, buddy. Sometimes it gets really rough down here. }
+
+Plh_59 { Forget it. }
+
+Plh_60 { I'll never forgive you for that. }
+
+Plh_61 { *rubs his neck* Was crappy of me. }
+
+Plh_63 { So, now we can work. For ourselves, not for other people. See you around! }
+
+Plh_62 { I'm sorry. But it can't be helped. }
+
+Plh_46 { That was a really brilliant idea... *groans* }
+
+Plh_65 { And now you know your place again! Back to work! }
+
+Plh_70 { You chicken, you just took off. Get out of here! }
+
+Plh_51 { You've won. We'll leave you alone. }
+
+Plh_52 { It has nothing to do with you, buddy. It's rough down here. }
+
+Plh_45 { Thanks for your help. Now we can sleep in peace. }
+
+Plh_48 { You've got a mouth like a sewer. Get out of here! }
+
+Plh_47 { *smirks* You've chosen the wrong side, friend. }
+
+Plh_71 { I've beaten up Mursel once, so just one more time won't do any harm. Come with me. }
+

@@ -1,0 +1,18 @@
+NewGame { New Game }
+
+LoadGame { Load Game }
+
+Continue { Continue }
+
+Options { Options }
+
+QuitGame { Quit }
+
+StartGame { Start }
+
+Back { Back }
+
+Credits { Credits }
+
+reset_binding_texst { With patch 1.1.0, we have reworked the configuration of the controls. This meant that we had to reset your current control assignment. If you have made any changes to the controls, you will have to set them again.<br>Have fun with Drova! }
+

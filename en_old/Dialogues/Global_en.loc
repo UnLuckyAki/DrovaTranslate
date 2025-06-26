@@ -1,0 +1,158 @@
+back { (Back) }
+
+end_dialog { (end conversation) }
+
+End_(End) { (end conversation) }
+
+Silence { (say nothing) }
+
+Leave { (leave) }
+
+NotEnoughMoney { Those coins aren't enough. Come back when you've got enough. }
+
+NotEnoughMoney1 { A few coins like that won't be enough. Come back when you've got enough. }
+
+NotEnoughMoney2 { Don't try to fool me. Those coins aren't enough. }
+
+aboutQuests { About quests... }
+
+aboutOtherQuests { Quest help... }
+
+end { I've got to go. (end conversation) }
+
+Teach_SpearSling { Can you show me how I can fight better using spear and slingshot? }
+
+End_WirSehenUns { I'll see you around. }
+
+BloodSteel { Blood and iron! }
+
+End_VergissEs { Forget it. }
+
+End_KeineZeit { I don't have time for that. }
+
+Inf_DaWarNochWas { There was something else... }
+
+SLP_GoaWay { Go away. }
+
+Busy_NotNow { Not now. }
+
+End_MussLos { I've got to go. (end conversation) }
+
+aboutGenericTopics { I'd like to talk about something else. }
+
+Teach_Smith { Teach me something about your craft. }
+
+showMeWares { Show me your goods. }
+
+Inf_IchSchauMichUm { I'm just looking around. }
+
+Inf_HabeFrage { I have a question... }
+
+ShowMeSkills { I'd like to learn new skills. }
+
+Teach_Sword_! { Teach me how to fight better with the sword. }
+
+Teach_Dagger_! { Teach me how to better fight with the dagger. }
+
+End_IchGehDannMal { I'm going to leave now. }
+
+End_VlltSpäter { Maybe later. }
+
+Acc_KuemmereMichDrum { I'll take care of it. }
+
+Teach_Animals { Can you show me how to gut animals? }
+
+Teach_General { Teach me something. }
+
+Acc_HelfeDir { Okay, I'll help you. }
+
+End_ÜberlegeNoch { I'm still thinking about it. }
+
+Teach_Dagger { Can you teach me how to fight with the dagger? }
+
+Armor? { Can you do anything with these pieces of armor? }
+
+Armor { I've got these three pieces of armor — can you make a complete suit of armor from them? }
+
+ArmorLight { The lightest possible, one that I can easily maneuver in. }
+
+ArmorHeavy { One that offers maximal protection. }
+
+ArmorDruid { Armor bearing a lot of the runes on it. }
+
+End_AnderesZuTun { I've got something else to do. }
+
+LetsTraining { Ready for a battle? }
+
+LetsRevance { Ready for a rematch? }
+
+NoTime_TrainingTime { When the sun's high in the sky, I'll be at the training grounds. Then we can fight. }
+
+Inf_WasMachstDuHier { What are you doing here? }
+
+SLP_Dunkel { Come back when the sun is high in the sky over Drova! }
+
+Run_IchBinNochDabei { I'm still on it... }
+
+SLP_Müde { I could sleep nonstop for three whole days and nights... but there is too much to do. There's ALWAYS too much to do... }
+
+Teach_Training { Train with me. }
+
+LetsTraining_fromMorvin { Proximus said we should train. }
+
+Inf_Crimes { About my misdeeds... }
+
+FightingArena { Today we're both going to be fighting in the arena. }
+
+Teach_Mind { Show me how to do better at building up my magical power. }
+
+Teach_SpearSling_! { Teach me how to better fight with the spear and slingshot. }
+
+Teach_Axe_! { Teach me how to fight better with the axe. }
+
+SLP_Zeit { *yawns* Not now... }
+
+Acc_BinDabei { I'm in! }
+
+Teach_Power { Show me how to improve my strength. }
+
+End_NichtsZuTun { I don't want anything to do with that. }
+
+Teach_Sword { Can you teach me swordfighting? }
+
+Teach_Lockpicking { Teach me lockpicking. }
+
+MeldDichBeiMir { Report back to me. }
+
+HereIsMyMoney { Here are the coins. }
+
+PlayerSaysTheyDontHaveMoney { I don't have enough coins... }
+
+PlayCatch { Do you want to play tag? }
+
+OnlyNemetonTeaching { I teach only fighters from Nemeton. }
+
+Teach_Axe { Can you teach me how to fight better with the axe? }
+
+HaveRostmoos { I've got Rustmoss. Do you need some? }
+
+FastTravel { Can you give me a lift? }
+
+FastTravel_Ruinenlager { Take me to the Remnants' camp. }
+
+FastTravel_Nemeton { Take me to Nemeton. }
+
+FastTravel_Tavern { Take me to the tavern. }
+
+FastTravel_Georgsfarm { Take me to Georgefarm. }
+
+FastTravel_Accepted { All right, just jump onto the cart. We'll be leaving shortly. }
+
+FastTravel_Rejected { You know where to find me... should you change your mind. }
+
+FastTravel_IntroChapter2_01 { If you don't want to wander around alone, you can ride along with me in my cart. }
+
+FastTravel_IntroChapter2_02 { It'll set you back only $GVAR:QuestVars_FastTravel_Config.Costs$ coins. }
+
+FastTravel_GerogsFarm { We've hired someone new, so now we're traveling to Georgefarm too. }
+

@@ -1,0 +1,160 @@
+Plh_12 { What exactly does a potion of strength do? }
+
+Plh_33 { What exactly are you missing to make your potion? }
+
+Plh_36 { Where can I find a root like that? }
+
+Plh_48 { Here's a basaltroot. }
+
+Plh_34 { *smirks* I found an old text that claims the potion will permanently improve your strength. A very powerful potion, but the ingredients are very difficult to find. }
+
+Plh_11 { A basaltroot. Not an easy thing to find. }
+
+Plh_32 { Basaltroot alone makes you stronger, but as a potion it'll make you a lot stronger! }
+
+Plh_35 { Be absolutely sure to pick it up if you find one! }
+
+Plh_37 { There are many powerful herbs. Basaltroot grows only in deep underground caves. }
+
+Plh_38 { I'm not a fighter, so I can't get there. And nobody here sells it. }
+
+Plh_39 { There's a merchant in Nemeton who sells it, but... Well... They won't let me into Nemeton. }
+
+Plh_40 { If you bring me that herb, you can have the potion. I just want to find out whether it works. }
+
+Plh_41 { You aren't sure the potion will work? }
+
+Plh_45 { That sounds a bit fishy to me. }
+
+Plh_42 { I can go have a look around. }
+
+Plh_43 { Well, I've never tried it myself... But the texts are quite clear on this. Of course, it could still... }
+
+Plh_44 { ...not be good for you. }
+
+Plh_46 { Think about it — these things always carry some risk. *smirks* }
+
+Plh_47 { Remember, basaltroot grows in caves. }
+
+Plh_49 { Ahh, that looks very good. }
+
+Plh_52 { Come along... }
+
+Plh_53 { Mixing... Mandragora... Boiling. }
+
+Plh_54 { That looks very good. }
+
+Plh_55 { That should do it. Now we just have to find out if it works. }
+
+Plh_56 { Keep ‘em coming! }
+
+Plh_57 { Do you think the potion is mixed correctly? }
+
+Plh_59 { I'd rather pass. }
+
+Plh_61 { *You feel warmth within you. Power flows through your body. You feel stronger and more refreshed.* }
+
+Plh_63 { Well? }
+
+Plh_65 { I feel invincible. }
+
+Plh_64 { It seems to be working. }
+
+Plh_66 { Easy. It might have made you stronger, but Eugen can still knock you out. }
+
+Plh_67 { The text seems to be true, and there are more plants like it. I can sell you the recipes if you want. }
+
+Plh_58 { Someone put it to paper once, but it could all be a lie. I can't tell you for sure. }
+
+Plh_60 { Then I'll try it! }
+
+Plh_62 { I feel amazing! It worked! }
+
+Plh_14 { What exactly are you making? }
+
+Plh_13 { Can you show me how to craft all this myself? }
+
+Plh_18 { If you show me how to craft it myself, I'll pay you. }
+
+Plh_29 { Here are the $GVAR:QuestVars_AlrauneForAidan_Config.AidanOffer$ coins. }
+
+Plh_15 { I can make all kinds of things, but I love brewing up potions. }
+
+Plh_16 { Of course everything's for sale, too — you can earn a lot of coins that way. *smirks* }
+
+Plh_17 { If I show it to you, then you'll be able to go ahead and sell it yourself. Forget it. }
+
+Plh_22 { *grumbles* I could use a few coins... }
+
+Plh_23 { You see! How about $GVAR:QuestVars_AlrauneForAidan_Config.PlayerOffer$ coins? }
+
+Plh_27 { For $GVAR:QuestVars_AlrauneForAidan_Config.AidanOffer$ coins I'd be happy to sacrifice some of my time teaching you something. }
+
+Plh_30 { Ahh, coins! Wonderful! }
+
+Plh_31 { So, what do you want to know? }
+
+Plh_51 { I can teach you how to make traps, bombs, and ammunition. Or you can brew ointments and potions. }
+
+Plh_20 { *smirks* Look around. }
+
+Plh_5 { No way! }
+
+Plh_68 { I had it earlier... why did it stop working? }
+
+Plh_6 { What's wrong, old man? }
+
+Plh_8 { *flinches* You startled me! Can't you see I'm working? }
+
+Plh_10 { What are you doing here? }
+
+Plh_9 { Tinkering. I'm in the process of developing a potion to improve my own strength. But somehow it's not working properly... As if something important is still missing. }
+
+Plh_21 { I've got things to do. What do you want? }
+
+Plh_95 { Really fascinating what those Bygones were brewing. }
+
+Plh_69 { Another potion is supposed to make you forget everything. And by that, I mean not only last night. Our concoction can do that just fine! Nope, you'll forget everything you've ever learned! }
+
+Plh_73 { You were talking about a potion of forgetfulness? }
+
+Plh_80 { Here are the $GVAR:QuestVars_TrankVergessens_Config.AmountMats$ ruin blossoms for the potion. }
+
+Plh_86 { I've tried the potion of forgetfulness. }
+
+Plh_74 { Imagine this: The potion lets you forget everything you've ever learned. Unbelievable. The Bygones truly were masters of concoctions. }
+
+Plh_75 { What's missing for the potion of forgetfulness? }
+
+Plh_76 { I have no idea how to make it. All I've ever found is a description of it. }
+
+Plh_77 { *whispers* But I've also found some liquid that could become the potion. Once, I took only a tiny sip and instantly forgot how to sit down. }
+
+Plh_78 { The potion is still a clear liquid, but the description speaks of a yellowish color. It's probably lacking some ruin blossoms. They grow, as the name indicates, close to ruins. And they are yellow. }
+
+Plh_79 { If you fetch me $GVAR:QuestVars_TrankVergessens_Config.AmountMats$ of those, I can brew the potion for you. I'll hand it over to you then. And since it's somewhat risky, you won't have to pay me! }
+
+Plh_93 { You know where to find me. }
+
+Plh_81 { Great! So today, we'll learn something new! Well, I will... I guess you won't. }
+
+Plh_82 { Mhh, it's gotten nice and yellow. Here, for you. }
+
+Plh_83 { You don't have to drink it right away, but let me know once you've tried it. I'm curious to find out whether it works. }
+
+Plh_84 { Thanks for your help! }
+
+Plh_85 { We'll see once I'll get around to it. }
+
+Plh_92 { If you want to know something about potions — or if you need anything — you can always come to me. }
+
+Plh_87 { So, how was it? You seem to remember me, at least. }
+
+Plh_88 { Somehow, I've forgotten only the things that I learned in Drova... }
+
+Plh_89 { It burned like frog spittle, and for the life of me, I couldn't remember which end of a weapon is the dangerous one. }
+
+Plh_90 { Good, good! It's intriguing to observe the efficacy of Bygones' potions! }
+
+Plh_91 { That's for letting me know! }
+

@@ -1,0 +1,50 @@
+Plh_13 { Why are you hiding here? }
+
+Plh_14 { We're not hiding. We just don't want any trouble with Nemeton or the Remnants. Let them slug it out amongst themselves — we'll take care of ourselves. }
+
+Plh_16 { What exactly are you doing here? }
+
+Plh_17 { We're searching the Bygones' ruins. }
+
+Plh_25 { You're exploring them? }
+
+Plh_24 { What part of Ruin RAIDERS didn't you understand? We're searching for relics, artifacts, and anything else we can find that once belonged to the Bygones. And sell it all for good coin. }
+
+Plh_18 { Ede said you could teach me swordfighting? }
+
+Plh_21 { Teach me something about swordfighting. }
+
+Plh_19 { If you want, I can teach you how to use a sword and shield. I've got a few good tricks up my sleeve. *smirks* }
+
+Plh_5 { Hey, how did you get here? }
+
+Plh_6 { Take it easy. I've come this way just by accident... }
+
+Plh_7 { Olaf told me to meet Ede here. }
+
+Plh_8 { By accident? You found us by ACCIDENT? }
+
+Plh_10 { That'd be a pretty major accident. }
+
+Plh_11 { Then welcome to the Ruin Raiders. Don't worry, we're not going to raid YOU. As long as you're not an abandoned ruin, you've got nothing we want. My name's Amella. }
+
+Plh_23 { Come with me, I'll take you to Ede. }
+
+Plh_9 { Olaf, you say? Then you must have something for us, right? }
+
+Plh_26 { Could you mark that cave on my map? }
+
+Plh_27 { What map have you got there? Let me see. }
+
+Plh_28 { (give map) }
+
+Plh_30 { Incredible! I never thought that someone would go through the trouble of marking all the caves around here! }
+
+Plh_32 { I can amend your map. For a fee. Let's say $GVAR:EVars_Amella.MapEditingCost$ coins? }
+
+Plh_33 { Here are your coins. }
+
+Plh_36 { Alrighty, now our caves have been added. But don't show this map to anyone who doesn't know about us! }
+
+Plh_35 { Let me know when you've changed your mind. }
+

@@ -1,0 +1,154 @@
+Plh_0 { For law and order. }
+
+Plh_11 { You have broken the laws of the Nemeton. You will answer for that. }
+
+Plh_36 { Give me [Currency] coins, then I'll forgive your trespasses. Until I clear your name, nobody here will have you. }
+
+Plh_23 { Here, take the coins and forgive me my trespasses. }
+
+Plh_10 { In the name of the Raven, I forgive your trespasses. I shall tell the people that you have come to reason. }
+
+Plh_63 { Get out of my sight. We won't forget your trespasses here. }
+
+Plh_12 { Unless you can pay, nothing is going to happen. Come back once you have enough coins — or leave Nemeton. }
+
+Plh_21 { The Mighty Boar distrusts you. }
+
+Plh_35 { Give me [Currency] tokens of atonement, and I can forgive you for what you have done. }
+
+Plh_1 { I would like to atone for my crimes. }
+
+Plh_20 { Oh, Mighty Boar! Forgive this person their trespasses! Cleanse them of their errors, and show them the way! }
+
+Plh_64 { You are cleansed of all guilt... }
+
+Plh_22 { The Mighty Boar is watching you and your deeds. Come back once you have a token of atonement, and I shall ask the Boar for forgiveness. }
+
+Plh_3 { You have nothing to atone for. Leave. }
+
+Plh_28 { Give me [Currency] silver, and we'll forget about the whole thing. }
+
+Plh_29 { Here's your silver. }
+
+Plh_65 { All right, your crimes have been forgiven. }
+
+Plh_62 { Either get the silver or get lost. }
+
+Plh_9 { Cough up [Currency] coins or get lost. }
+
+Atone_Crimes { Here are your coins. }
+
+Plh_13 { I've got nothing to say to you until I see some coins. }
+
+Plh_42 { You've wronged our community. Only Diemo can forgive you for that. }
+
+Plh_41 { Gerdwin shall decide your fate. Until he tells me you're cleared, I want nothing to do with you. }
+
+Witnessed_Stealing_00 { You've stolen. Get out of my sight. }
+
+Witnessed_Stealing_01 { Miserable thief. Get lost. }
+
+Witnessed_Stealing_02 { Beat it, before you take something else. }
+
+Witnessed_Stealing_03 { I don't talk to thieves. }
+
+Witnessed_Stealing_04 { If you can't keep your hands to yourself, I've got nothing to say to you. }
+
+Plh_44 { If things aren't yours, keep your hands off them! }
+
+Plh_45 { Don't you ever try stealing from me again! }
+
+Plh_52 { Get out of my sight, dirty thief! }
+
+Witnessed_HoldingWeapon_00 { Do you want to whip out your weapon again and cause more trouble? Beat it. }
+
+Witnessed_HoldingWeapon_01 { I want nothing to do with someone who so carelessly swings their weapon all over the place. }
+
+Witnessed_HoldingWeapon_02 { Get out of my sight before you dare bring out that weapon again! }
+
+Witnessed_HoldingWeapon_03 { Flash a weapon in my face one more time, and you'll be in real trouble. }
+
+Witnessed_HoldingWeapon_04 { You'd better not simply whip out your damned weapon like that. }
+
+Plh_51 { Stow the weapon! }
+
+Witnessed_Trespassing_00 { Get lost before you start barging into any rooms again. }
+
+Witnessed_Trespassing_01 { I'm not talking to you. You think someone like you is just allowed in everywhere? }
+
+Witnessed_Lockpicking_02 { Get lost, you thief. }
+
+Witnessed_Trespassing_03 { Leave me alone. I don't want you barging into every place around here. }
+
+Witnessed_Trespassing_04 { You won't get a word out of me until you stop breaking in everywhere. }
+
+Plh_49 { Make yourself scarce. I don't need break-ins around here. }
+
+Witnessed_Lockpicking_00 { You cracked a lock just like that, you damned thief! Beat it! }
+
+Witnessed_Lockpicking_01 { Always picking locks, huh? Get lost, thief. }
+
+Plh_30 { You'd better try picking locks somewhere else. Or don't get caught. Get out of here. }
+
+Witnessed_Lockpicking_03 { Leave me alone. I've got nothing to say to someone who wants to rip me off. }
+
+Witnessed_Lockpicking_04 { I want nothing to do with lock-pickers! }
+
+Plh_53 { Back again to pick more locks? You lowlife, I'm watching you. }
+
+Witnessed_Noise_00 { You woke me up! Get out! }
+
+Witnessed_Noise_01 { Next time, keep your trap shut when I'm sleeping near you. Get lost. }
+
+Witnessed_Noise_02 { You troublemaker! You've got no business here. }
+
+Witnessed_Noise_03 { Someone doesn't know when to shut his trap. Here's a hint: when people are sleeping! Get out! }
+
+Witnessed_Noise_04 { You goddamned clumsy lug. You're depriving me of my sleep. Get out of here. }
+
+Plh_54 { Go away, or I won't sleep a wink! Again! }
+
+Plh_55 { Get out! If there's one thing I hate, it's people waking me up. }
+
+Plh_37 { I don't want anything to do with people who break the rules. Gerdwin will decide your fate. }
+
+Plh_38 { You haven't obeyed Nemeton's laws. Report to Gerdwin if you're looking to make things right. }
+
+Plh_39 { I don't want anything to do with thugs like you. Gerdwin will pass judgment on you. }
+
+Plh_40 { There are rules here. And you've broken them. Pay your fine to Gerdwin. }
+
+Plh_56 { I'm not saying a single solitary word to you until you've paid your fine to Gerdwin for what you've done. }
+
+Plh_57 { So you think you're above the law? Settle your debt with Gerdwin or get the hell out of here. }
+
+Plh_26 { Starting a brawl, then taking off? That's just cowardly. Are you back here to turn yourself in? }
+
+Plh_31 { You coward! You bailed before we could settle this. }
+
+Plh_32 { If you hadn't run off, you'd be looking a lot worse. Get out of here! }
+
+Plh_33 { I thought you wanted to slug it out, but then you chicken out? Leave me alone! }
+
+Plh_34 { I won't waste my breath on you. All you do is run away! }
+
+Witnessed_BlockingWay_00 { Get in my way again, and I won't be Mr. Nice Guy anymore. }
+
+Witnessed_BlockingWay_01 { If you ever cross my path again, you'll regret it. Move! }
+
+Witnessed_BlockingWay_02 { Are you back to get in my way again? Hit the road! }
+
+Witnessed_BlockingWay_03 { I can't stand looking at your mug anymore. Get the hell out of here and stay out of my way! }
+
+Witnessed_BlockingWay_04 { Don't stand around blocking the way. Move! }
+
+Plh_47 { Get out of the way, or things will get rough again. }
+
+Plh_27 { You thought I'd just put up with anything? Or are you here to apologize? }
+
+Plh_59 { Apologize or buzz off. }
+
+Plh_60 { I won't budge until you apologize. }
+
+Plh_61 { Show some coins or hit the bricks. I don't want anything to do with you. }
+

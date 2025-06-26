@@ -1,0 +1,458 @@
+Plh_28 { What kind of place is this? }
+
+Plh_29 { How come the bridge is busted? }
+
+Plh_30 { What kind of camps are you talking about? }
+
+Plh_34 { About the workers... }
+
+Plh_367 { You won't be seeing the storage pit thief around here anymore. }
+
+Plh_371 { I couldn't find any storage pit thief. }
+
+Plh_264 { About Larea... }
+
+Plh_31 { We are woodcutters. We're supposed to work for Nemeton, but ever since the bridge was destroyed, a few of our workers have gone over to the Remnants' camp. }
+
+Plh_32 { A few days ago, there was an earthquake that caused quite a bit of damage — especially to the bridge. If we can't repair it soon, we won't be receiving any help from Nemeton. Then more people will ditch us for the Remnants... }
+
+Plh_33 { Nemeton and the Remnants' camp are the major settlements. They are archenemies. But if you don't want to join either of the two camps, you'll find yourself lost in Drova... }
+
+Plh_370 { Come. }
+
+Plh_138 { Not now. }
+
+Plh_412 { We've got to figure out what to do next. }
+
+Plh_413 { About the leader of the ripper pack... }
+
+Plh_414 { You all right? }
+
+Plh_415 { *sighs* The Nemeton are here now, so things will get better. The workers are returning. Everything is getting back to normal. }
+
+Plh_416 { You have proven yourself reliable. Thank you. }
+
+Plh_389 { *breathes heavily* I can't believe it. }
+
+Plh_391 { What happened? }
+
+Plh_392 { You all right? }
+
+Plh_393 { I... I don't know. Suddenly there were these sounds coming from the forest. }
+
+Plh_394 { I've already told you: Get those damned beasts — they're growing fast. }
+
+Plh_395 { Is that it? Or are still more coming? }
+
+Plh_398 { I think we're safe for now. Everything is quiet. }
+
+Plh_396 { Agilo took a hit, but he's still alive. Luckily $GVAR:EVars_Player.Name$ and Niala were there. Otherwise, we'd all be dead. }
+
+Plh_397 { I was there with Colin, but he didn't make it. *looks to the ground* }
+
+Plh_399 { Is anyone else injured? }
+
+Plh_400 { I saw a body on the way over here. }
+
+Plh_401 { Not everyone survived. }
+
+Plh_403 { I'm sorry, Cengiz. Jalina and Merlind... They're... }
+
+Plh_404 { ... }
+
+Plh_405 { We must take them to the Divinities. Bring their corpses. We shall bury them. }
+
+Plh_406 { Cengiz, we must... }
+
+Plh_407 { Just do what I say! }
+
+Plh_408 { *nods* }
+
+Plh_409 { Cengiz, first we should tend to the injured. }
+
+Plh_411 { I said, collect their corpses. We are going to bury them. UNDERSTOOD? }
+
+Plh_402 { Yes, I think so. }
+
+Plh_388 { There are still some of those filthy animals around here somewhere. We must kill them. }
+
+Plh_265 { I finished off the leader of the ripper pack. }
+
+Plh_266 { *frowns* What? You mean, you approached the rippers all alone and killed the pack leader? Do I understand that correctly? }
+
+Plh_268 { Yes, it was exactly that simple. }
+
+Plh_269 { I came away with a few scrapes, but I got the job done. }
+
+Plh_270 { Unbelievable! Now that you mention it... there isn't any more howling coming from outside. There's more to you than meets the eye. I'd have bet those beasts had torn you a new one! }
+
+Plh_271 { You're full of surprises. They could use people like you in Nemeton. Take these coins. Thanks for handling the situation with the rippers. }
+
+Plh_272 { You think they need people like me in Nemeton? }
+
+Plh_274 { I'll see you around. }
+
+Plh_273 { Of course. They don't accept just everyone, but if you can solve problems, well, they'll welcome you with open arms. }
+
+Plh_275 { Finally, we can sleep in peace and quiet... Damned rippers... }
+
+Plh_390 { Many have left the camp. Only a few remain. We've stuck together. Fought together. Some of us have fallen. }
+
+Plh_418 { We have prepared Jalina, Colin, and Merlind for the Divinities. }
+
+Plh_419 { The Divinities shall transport them to another life. }
+
+Plh_420 { They fought well. The Divinities shall take them along. }
+
+Plh_421 { The bridge is repaired. Their deaths were not in vain. The Nemeton are with us and will protect us. }
+
+Plh_422 { I've come from Gerdwin, and I'm responsible for protecting you. You can rely on me. }
+
+Plh_423 { The Remnants have also assisted us. We wouldn't have made it without $GVAR:EVars_Player.Name$. Not alive, at least. That's for sure. }
+
+Plh_424 { Without you, we wouldn't have made it — thanks for the help. But we'll take it from here. We don't need anyone from the Remnants. }
+
+Plh_426 { Let us drink to Merlind, Jalina, and Colin so that we shall never forget them. }
+
+Plh_431 { To Jalina. }
+
+Plh_432 { To Colin. }
+
+Plh_428 { To life. }
+
+Plh_429 { To the fallen. }
+
+Plh_433 { We shall never forget you. }
+
+Plh_425 { $GVAR:EVars_Player.Name$ also helped. Gerdwin said that everything is fine here. I'm holding the fort. }
+
+Plh_4 { And yet I wonder... Why in the Divinities' name is the earth now trembling again? Because of you! }
+
+Plh_49 { What?! What are you talking about? }
+
+Plh_50 { Hello. I come from — }
+
+Plh_51 { You're the poor chump who was grabbed by the Divinities and got dragged to Drova! }
+
+Plh_55 { My name is Cengiz. The woodcutters live here. Well, at least those who haven't left. Damned cowards... }
+
+Plh_57 { Asmus said I'm supposed to report to you. }
+
+Plh_58 { Have you got work for me? }
+
+Plh_59 { Asmus? And he split immediately? Son of a... }
+
+Plh_455 { At least he sent you. We need all the help we can get around here... }
+
+Plh_60 { Don't kid yourself. Drova isn't what you might have been told... you'll see soon enough. }
+
+Plh_454 { We woodcutters work for Nemeton. We've always had to struggle to overcome adversity. Now that the bridge has been destroyed, we're cut off from our allies. A lot of people have bailed on us. }
+
+Plh_280 { That's why anyone who can put in the work is more than welcome here. }
+
+Plh_277 { Where are your people running off to? }
+
+Plh_139 { What exactly are you doing here? }
+
+Plh_65 { I'm looking for a way to Nemeton... }
+
+Plh_278 { To the Remnants' camp. Sure, it's in a more protected location, but if you join them, you're abandoning all hope that we can actually turn Drova into the Land of Legends... }
+
+Plh_69 { Can you tell me more about this Remnants' camp? }
+
+Plh_72 { And all this just because of a destroyed bridge? }
+
+Plh_70 { Can I help you in any way? }
+
+Plh_71 { Nemeton is in disarray. It is led by the Heiress of the Moor. She wants to turn Drova into the Land of Legends. Her brother Jero isn't convinced that it can actually be done. He wants to bust out somehow. He took a few people with him and founded the Remnants' camp — those traitors. }
+
+Plh_282 { Ever since, there have been clashes between the camps. Both sides are fighting over people. We woodcutters are a little out in the boondocks, but we're loyal to Nemeton. And they know what they've found in us. }
+
+Plh_140 { The bridge is the direct route to Nemeton. It's the only way for us to supply wood and for Nemeton to assist us quickly if necessary. But now the bridge is unusable — awful timing. }
+
+Plh_73 { Now we've got to hang on until the bridge is repaired. And let's hope we don't get nabbed by anything with fangs or claws. Blaan and Carima can't protect us from everything... }
+
+Plh_66 { In case you didn't notice, we are woodcutters. We supply Nemeton with wood. }
+
+Plh_281 { But ever since the earthquake destroyed the bridge, we've no longer been able to do that. And in turn, Nemeton can no longer help us, either. Right now, we're defenseless. }
+
+Plh_67 { You'll find it easily enough. But if you've come out of the Gorge with the same notions as the others... Well, let's just say it's not going to be the Nemeton you're expecting. }
+
+Plh_53 { — the Gorge, I can tell. The Divinities threw you in there. At least you've still got all your limbs where they belong. Welcome to Drova. }
+
+Plh_11 { We must get the bridge repaired as soon as possible. We could use all the hands we can get. You've even got two of them! }
+
+Plh_141 { I've never repaired a bridge before... }
+
+Plh_142 { What can I do to help? }
+
+Plh_294 { Nothing to it. The others will show you what to do. }
+
+Plh_75 { You're probably exhausted from the trip to Drova. But if you still want to help us, go see Jendrik and Agilo. They'll tell you where you're needed. }
+
+Plh_143 { They're both reliable — they take a lot off my plate. And it's a good thing, too, because I've got enough to keep me busy... }
+
+Plh_14 { What am I going to get for my help? }
+
+Plh_47 { Do you really need Nemeton on your side? }
+
+Plh_144 { I'll see what I can do... }
+
+Plh_19 { You'll be part of the community. That's what you'll get. Join in or get lost. }
+
+Plh_283 { I know that, in Drova, you'll have to look out for number one. If you've done your part, you'll also get something in return. I've still got some old work clothes around somewhere. If you help us, I'll give them to you. }
+
+Plh_147 { They should fit you, and they're better than nothing. The rags you're wearing won't be any good. }
+
+Plh_48 { Nemeton needs our wood, and we need their fighters. Without fighters, the workers scoot — it's too dangerous here. }
+
+Plh_284 { The monsters in this area are growing more and more brazen. A pack of rippers is advancing from the south, heading our way. Their howling is getting louder and louder every night. Without Nemeton's weapons, things could get hairy. }
+
+Plh_20 { Good. If you want to gather your strength, the blue tent next to mine is free. Unfortunately, we haven't got much grub, so you'll have to fend for yourself. }
+
+Plh_285 { Our huntress Larea was supposed to be back some time ago. I hope nothing's happened to her. I can't go searching for her right now. }
+
+Plh_22 { Where can I find Jendrik? }
+
+Plh_23 { Where can I find Agilo? }
+
+Plh_250 { Where was Larea? }
+
+Plh_25 { Usually near the logging site. West of here, where all the logs are lying around. If he's not there he's probably cutting down trees. In this case, you'll find him hanging around north of the logging site. }
+
+Plh_26 { He takes care of the cooking. Someone's got to do it. Usually, he just tosses stuff together and stirs it up, but I really don't want to know what he's actually throwing in. In fact, he really can't cook. }
+
+Plh_78 { *mumbles* Let's just hope he's not pissing in the pot. }
+
+Plh_249 { She's hunting water rats nearby. She can't be far. }
+
+Plh_288 { Usually, she's never gone that long... }
+
+Plh_27 { Let me know once the others are working on the bridge. }
+
+Plh_293 { That's the way I like it! We need people who really want to put their backs in! }
+
+Plh_194 { Where can I find Jendrik again? }
+
+Plh_35 { Jendrik and Agilo are both working on the bridge. }
+
+Plh_196 { At the logging site. West of the camp here. That's where they process wood from the north. He should be hanging around there somewhere. }
+
+Plh_39 { Excellent! Let's hope they're not all thumbs about it. The bridge must be repaired as soon as possible! }
+
+Plh_252 { *frowns* So... Thanks for your help... Now I've got just one little problem... }
+
+Plh_253 { *grumbles* I've promised you some work clothes... but some asshole cleaned out my footlocker! First our supplies disappear, and now someone is stealing even IN the camp itself! }
+
+Plh_254 { I don't care. You promised me the work clothes. I want them. Now. }
+
+Plh_255 { Ah, never mind If someone has stolen them, they're just gone. }
+
+Plh_256 { Unbelievable! Looks like you're losing your grip on your camp. }
+
+Plh_257 { What, do you think I could just pull some out of my ass? I HAVEN'T GOT ANY. It's so frustrating, dammit. If I manage to get them back, you'll get them. }
+
+Plh_259 { I remain true to my word. I don't have any other work clothes, but you can have some coins. Here you go. You can use these to buy some. }
+
+Plh_261 { Fine. (take coins) }
+
+Plh_262 { Keep the coins. Your thanks are enough for me. }
+
+Plh_260 { There. Perhaps you can buy some armor in the Remnants' camp. }
+
+Plh_450 { It's now just a matter of time before the bridge is repaired. Too much time, unfortunately. If we had more people, it would be finished much faster. But we don't. }
+
+Plh_199 { Can I do anything else? }
+
+Plh_201 { First the bridge needs to be repaired. That's the most important thing. After that, we'll see. }
+
+Plh_202 { You're welcome to keep using the tent. At the moment, nobody else needs it. Get some rest there. }
+
+Plh_198 { And if you go to the Remnants' camp, stick to the pathways. The monsters are pretty aggressive. And that's not going to change anytime soon, I'm afraid... }
+
+Plh_258 { Really? Just like that? That's not happening a lot in Drova. I owe you one. }
+
+Plh_295 { *grumbles* Looks like it. You can't trust anyone these days... }
+
+Plh_41 { Well done. I promised you some work clothes, so you shall have them. They may smell a bit musty, but that's hardly a step back for you! }
+
+Plh_443 { You've already taken your reward. I think we're even now. }
+
+Plh_346 { What's going on here? Who's that? }
+
+Plh_299 { Your storage pit thief. But he wants to work for you. }
+
+Plh_360 { That's Owain. He's looking for work. (withhold information about the theft) }
+
+Plh_300 { Hey! I thought you wanted to put in a good word for me! }
+
+Plh_325 { You bring me the storage pit thief, and you want him to WORK for me now?! }
+
+Plh_326 { We should hang him! }
+
+Plh_327 { Whoa, give me a chance, Cengiz! I won't touch your storage pits anymore! }
+
+Plh_328 { *gnashes* Grrrr. If I didn't need workers so urgently... }
+
+Plh_359 { Fine, then. We'll give it a try. But first you'll just be working off your debt for everything you've stolen! Otherwise you can get lost. }
+
+Plh_361 { *blinks* Well, all right then. That's only fair. From now on, you can count on me. }
+
+Plh_301 { We'll see. Tomorrow you might get chased out of the camp by Jendrik and his axe. We'll be watching you. }
+
+Plh_354 { You can sleep in one of the tents near the water. If anyone complains, just say I sent you. }
+
+Plh_306 { I'll report to Jendrik. Thanks, Cengiz. }
+
+Plh_308 { That's two more hands put to work. We can really use any help we can get. }
+
+Plh_316 { Here, this is for the new worker you brought me. So nobody can claim that I'm not grateful. }
+
+Plh_362 { Mmm. Owain. I know you. Do you know how to chop wood? }
+
+Plh_363 { Umm, no. But what's there to know? You swing the axe and chop the wood. Over and over again. }
+
+Plh_364 { Bah! There's more to it than that. Jendrik can teach you everything. }
+
+Plh_365 { You can work with me. For each workday, you'll get a few coins, a meal, and a place to sleep. And if you're incapable, you'll be gone. }
+
+Plh_434 { Suits you. You don't look TOTALLY shabby anymore. *smirks* }
+
+Plh_435 { Hey! You're wearing MY clothes... right in front of me? What the hell are you thinking? }
+
+Plh_436 { Take them off right away! Then I'll look the other way... }
+
+Plh_437 { Fine, here you go. (hand back) }
+
+Plh_438 { Forget it. }
+
+Plh_440 { That's better. In Nemeton, they would hack off your hand on the spot if you didn't fork over a chunk of coins. I do things differently. }
+
+Plh_441 { Make yourself useful and earn the clothes. Then you'll get it back. }
+
+Plh_442 { Hmph. You're no better than all the other assholes in Drova... But you need clothes. You don't want to walk around looking like that. Well, I'll let it slide. }
+
+Plh_456 { Nice seeing you. }
+
+Plh_374 { Did you really pull it off? Who was it? }
+
+Plh_375 { It was this Owain. }
+
+Plh_376 { Some highwayman. }
+
+Plh_377 { Owain? That guy came to me a while ago looking for work. That was before the earthquake. I sent him away because we didn't need anyone. If only he'd have come back instead of stealing from us... }
+
+Plh_379 { What did you do with him? }
+
+Plh_380 { I ensured that he couldn't steal again anytime soon. }
+
+Plh_381 { Don't worry about it. He's not coming back. }
+
+Plh_382 { *smirks* So he got what he deserved. }
+
+Plh_384 { Here, take this. Thanks to you, that's one load off my mind. Well done. }
+
+Plh_383 { Not if he's got a shred of sense left, no. }
+
+Plh_378 { Some scumbag who steals from ordinary people... }
+
+Plh_372 { You couldn't find anything either? Damn it. }
+
+Plh_373 { If I catch that guy, I'll wring his neck... }
+
+Plh_207 { Agilo thinks someone was stealing from the storage pits? }
+
+Plh_203 { Yeah, I saw someone sneaking up there in the evening, but I never got there fast enough to identify them. Everyone in the camp was present, so it was someone else... }
+
+Plh_208 { I wish I could lay my hands on that dirty thief... }
+
+Plh_209 { Maybe you'll be able to. You'll get a few coins for it. }
+
+Plh_447 { I've already searched high and low. Far and wide. No storage pit thief to be found. }
+
+Plh_212 { Very well, then. Do with him whatever you want. The main thing is that nothing else disappears from here. You'll probably find them only at night. They haven't been around during the day — so far. }
+
+Plh_213 { Larea is back at the camp. }
+
+Plh_214 { I found Larea outside the camp... She... She's dead. }
+
+Plh_215 { I talked to her earlier, when she came back. Good thing she didn't take off, unlike some of the others. Here's a small token of my appreciation. }
+
+Plh_219 { I hope these few coins are thanks enough for everything you did. Losing Larea would have been terrible. }
+
+Plh_216 { ... }
+
+Plh_217 { Dead? Larea? }
+
+Plh_218 { No, that can't be... No... What... How...? }
+
+Plh_222 { She was bitten by a ripper. The wound was too severe. }
+
+Plh_223 { Her death is my fault... }
+
+Plh_224 { It was a mistake. Agilo said that earthroot would help her, but it killed her. }
+
+Plh_225 { Accursed rippers! They're getting more and more dangerous. All this time I've been warning everyone, but they carry on as if they didn't have a care in the world. The pack to the south is also advancing... }
+
+Plh_241 { People have taken off. The bridge has collapsed. Larea is dead. Everything is falling apart. Larea... Dammit. Without Nemeton's help, we're all going to end up like that. }
+
+Plh_234 { We shall remember Larea with reverence. You are an honest soul. }
+
+Plh_235 { Take these coins as a thank-you... And when you spend them, think of Larea. }
+
+Plh_226 { Your fault? How? }
+
+Plh_237 { I wanted to take her back to the Woodcutter Camp, but she refused... }
+
+Plh_232 { Larea and her damned stubbornness... Always so strong, so courageous, never showing any weakness... Damn... }
+
+Plh_240 { I didn't want this. }
+
+Plh_242 { I would have helped her. It's her own fault. }
+
+Plh_243 { *looks at you sternly* }
+
+Plh_233 { Both of us must bear the burden of Larea's death. }
+
+Plh_246 { I shall bear it. }
+
+Plh_245 { What happened that makes you bear this burden? }
+
+Plh_228 { Here, this is for you. It should ease your burden, at least for tonight. }
+
+Plh_247 { *says nothing* }
+
+Plh_248 { Should we ever drink a friendly tankard of mead together someday, I'll tell you about it. But not until then. I'd rather deal with this on my own. }
+
+Plh_227 { Agilo? He knows squat about plants! }
+
+Plh_236 { Earthroot isn't immediately poisonous... If it ended up killing her, she must have been in poor shape before. By the Divinities, I hope she didn't suffer... }
+
+Plh_81 { I'm looking for Kora. She's supposed to be taking care of some injuries. }
+
+Plh_98 { About the injury... }
+
+Plh_80 { Kora? She's no longer here. Shortly after the earthquake, she and the others departed for the Remnants' camp. }
+
+Plh_82 { She was our sole healer. Now we have only Agilo to take care of injuries. Sometimes he does more harm than good, but we don't have anyone else... }
+
+Plh_83 { Suppose I were bitten by a ripper. What should I do? }
+
+Plh_84 { How do I know? If it's still bleeding, that probably isn't a good sign. Best to ask Agilo. He's a little more clued in than most of the others. }
+
+Plh_85 { Why do you ask, anyway? Did something happen to you? }
+
+Plh_89 { (lie) Just curious. }
+
+Plh_90 { I'm asking for a friend. }
+
+Plh_91 { I've found Larea. She's injured. }
+
+Plh_92 { *shrugs shoulders* As I always say: As long as your arm doesn't fall off, you can still chop wood. }
+
+Plh_93 { You haven't been here long, and you hardly know anybody. Tell me the truth. }
+
+Plh_94 { Larea? Hm. I wouldn't be surprised if she got herself injured. She's always hell-bent on getting her way. She knows perfectly well that we look out for one another here... }
+
+Plh_95 { Tell her that to return to the camp. We'll look after her. Maybe she'll listen to you. She mostly ignores our advice. }
+

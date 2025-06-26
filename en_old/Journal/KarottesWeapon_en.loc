@@ -1,0 +1,12 @@
+Title { Karotte's Weapon }
+
+Entry_01 { Once again, Karotte has wrecked his weapon. He's embarrassed to show up with it at Chunnaic's. I promised to take care of it for him, so he gave me $GVAR:QuestVars_KarottesWeapon_Config.AmountOfMoney$ coins. }
+
+Entry_02 { Chunnaic immediately noticed that it was Karotte's. }
+
+Entry_03 { Karotte's got his weapon back. }
+
+Entry_04 { Karotte doesn't need his weapon anymore. }
+
+Entry_05 { Karotte's weapon has been repaired. I should return it to him. }
+

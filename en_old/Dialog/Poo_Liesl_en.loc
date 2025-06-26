@@ -1,0 +1,28 @@
+Plh_0 { *The steaming fecal stench wafts into your nostrils. That must have been a major bowel movement.* }
+
+Plh_12 { *You root through the fecal matter, and a pungent stench makes its way up your airways.* }
+
+Plh_15 { *Suddenly, your fingers touch something. A ring? A talisman? Something solid.* }
+
+Plh_21 { *You dig and dig with your fingers — almost as though you're excavating.* }
+
+Plh_26 { *A bit of rustroot. Did one of the sheep chomp on rustroot here? Whatever...* }
+
+Plh_29 { *As you rifle the turd, several small items fall directly into your hand. Slowly, you fish them all out.* }
+
+Plh_30 { *One of the animals must have mistaken the pellets for berries — what a painful bowel movement that must have been!* }
+
+Plh_1 { (examine dung heap) }
+
+Plh_5 { (examine noticeable spot) }
+
+Plh_4 { (scrutinize more closely) }
+
+Plh_3 { *You see a small, sausage-shaped heap made up of interconnected clumps. It's dark gray, with an odor that's distinct and intense.* }
+
+Plh_9 { *Between the clumps, you spot a pale glimmering.* }
+
+Plh_7 { *You examine the clumps more closely and discern something shiny among them. Peering at it, you see that it's a ring.* }
+
+Plh_8 { *You take the ring.* }
+

@@ -22,7 +22,7 @@ Plh_47 { We're depending on Eugen. }
 
 Plh_74 { Tomorrow we shall receive the glory we deserve. }
 
-Plh_72 { Hey, $GVAR:EVars_Player.Name$. Ready for tomorrow? *smirks* }
+Plh_72 { Hey, $GVAR:EVars_Player.Name$. Ready for tomorrow? }
 
 Plh_75 { Always! }
 
@@ -40,7 +40,7 @@ Plh_84 { Maybe you should have stayed on guard duty. }
 
 Plh_85 { And now you're always taking part in expeditions? }
 
-Plh_86 { *smirks* I like that you don't put up with everything. We could almost become friends! }
+Plh_86 { *smiles* I like that you don't put up with everything. We could almost become friends! }
 
 Plh_88 { But now we should get some rest. It could be our last opportunity. }
 
@@ -64,7 +64,7 @@ Plh_138 { Eugen is waiting for you. }
 
 Plh_91 { We'll talk later. I need to check on something. }
 
-Plh_51 { Everyone in this damn camp will remember my deeds. *smirks widely* }
+Plh_51 { Everyone in this damn camp will remember my deeds. *grins widely* }
 
 Plh_57 { *kisses him on the cheek* }
 
@@ -90,13 +90,13 @@ Plh_15 { Oh, so NOW you're talking to me? }
 
 Plh_38 { I'm not stupid! }
 
-Plh_18 { I've got it, right? *smirks* }
+Plh_18 { I've got it, right? *grins* }
 
 Plh_17 { Will you vouch for me with Eugen? }
 
 Plh_19 { I don't talk to just anyone who turns up around here. Idiots waste my valuable time, and they haven't got my back. I'd rather have fighters around me. }
 
-Plh_39 { *smirks* Oh yes, you are. But don't panic, you can change. }
+Plh_39 { *grins* Oh yes, you are. But don't panic, you can change. }
 
 Plh_21 { Does everything go straight to your head? You have TALENT, not SKILL. Don't be so full of yourself, you wimp. }
 
@@ -158,7 +158,7 @@ Plh_27 { Ready to train together? }
 
 Plh_130 { I wouldn't have thought you'd be the last one standing in the baptism of fire. Not bad. }
 
-Plh_131 { You faced the baptism of fire, and you've gotten your butt kicked but good. But that's how things roll in these parts. Welcome. *smirks* }
+Plh_131 { You faced the baptism of fire, and you've gotten your butt kicked but good. But that's how things roll in these parts. Welcome. }
 
 Plh_132 { You little... chickenshit... You just ducked out of the baptism of fire! }
 

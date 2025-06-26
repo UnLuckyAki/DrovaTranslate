@@ -1,0 +1,10 @@
+Title { Debt isn't real. }
+
+Entry_01 { Lindon has a lot of debt with Friedel. I'm supposed to procure her list of debtors, so that he can cross himself off it. Friedel lives in the large ruins in the Upper Quarter. }
+
+Entry_02A { Boris can procure the list for me. I gave him $GVAR:QuestVars_Debt_Config.ThirdPriceForBoris$ coins, and I can fetch the list from him tomorrow. }
+
+Entry_03 { I've got Friedel's list of debtors. Now all I need to do is take it to Lindon. }
+
+Entry_04 { Lindon's got the list, and can get out of debt. He rewarded me for my efforts. }
+

@@ -1,0 +1,64 @@
+Plh_50 { Here are the coins I still owe you. }
+
+Plh_9 { Hey, now I'm fighting in the arena too. }
+
+Plh_30 { Let's train. }
+
+Plh_14 { *looks disparagingly* By now Proximus is letting in all kinds of scum... }
+
+Plh_18 { What's your problem? }
+
+Plh_20 { None of your business. }
+
+Plh_21 { *smirks* Want to bet? Like a main arena event! Whoever loses has to fork over 30 coins. What do you say? Or are you chicken? }
+
+Plh_22 { $GVAR:QuestVars_DAS_WayToArenaMaster_Config.SmallBet$? I won't even get out of bed for less than $GVAR:QuestVars_DAS_WayToArenaMaster_Config.ComedicMoneyAmount$ coins. Let's make it $GVAR:QuestVars_DAS_WayToArenaMaster_Config.BigBet$! }
+
+Plh_23 { For $GVAR:QuestVars_DAS_WayToArenaMaster_Config.SmallBet$ coins, I'm in. }
+
+Plh_26 { I don't have that many coins. }
+
+Plh_27 { Let's just train. }
+
+Plh_25 { Sounds good, so let's go. }
+
+Plh_28 { Well, find the coins. You can work in the Pit. }
+
+Plh_29 { Do I look as if I need training? No coins, no battle. Then you'll have a bit of a feel for the arena. *smirks* }
+
+Plh_33 { YOU forget it! }
+
+Plh_16 { How would that interest me? What am I supposed to do, dance a jig of joy for you or something? }
+
+Plh_31 { So, $GVAR:QuestVars_DAS_WayToArenaMaster_Config.SmallBet$ coins? }
+
+Plh_5 { Hey, a new face. }
+
+Plh_6 { Are you talking about me? }
+
+Plh_7 { What do you want? }
+
+Plh_8 { Plh_8 }
+
+Plh_35 { Well fought! You could really be something! }
+
+Plh_45 { Here are your coins. There's more where those came from. If you'll fight in the arena. }
+
+Plh_36 { Nice try, but you still got a whole bunch to learn. And you owe me some coins. }
+
+Plh_40 { Here are your coins. }
+
+Plh_38 { You're not getting jack from me. }
+
+Plh_39 { I don't have enough coins on me. }
+
+Plh_43 { You should have considered that earlier. Now you'll see what you get out of it... }
+
+Plh_48 { I'm not fighting you if you haven't got any coins. Debts are a matter of honor. *smirks* }
+
+Plh_41 { I like that. Let me know, if you want to fight again. }
+
+Plh_42 { Those coins aren't enough. Cough ‘em up! }
+
+Plh_51 { You're already assigned a battle. Come see me afterwards. }
+

@@ -1,0 +1,18 @@
+Entry_01 { Delani wants me to prepare a "Farmer's Meal" for her workers. The ingredients are listed in the recipe she gave me. I can find the most important items in the chest. But I'm supposed to take out enough ingredients for only seven meals. No more! The food is designated for go to Jurek, Jerzy, Raya, Fleur, Dylara, and Mirron. }
+
+Entry_02 { I prepared the food. Now all that remains for me to do is to take it to everyone. }
+
+Entry_03 { I gave Jurek and Jerzy one portion each. }
+
+Entry_04 { Dylara and Mirron are now sated as well. }
+
+Entry_05 { Raya and Fleur have received their food, too. }
+
+Entry_06A { Delani is satisfied with my work. She'll report to Georg, who is also supposed to pay me. }
+
+Entry_06B { Delani noticed that I swiped something from the chest. She'll tell Georg about my help, but I'm supposed to accept the swiped stuff as my reward. She's really upset. }
+
+Title { Food for the Workers }
+
+Entry_04B { I brought Dylara a meal. }
+

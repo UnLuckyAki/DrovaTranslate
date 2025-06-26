@@ -1,0 +1,296 @@
+Plh_34 { About the extract... }
+
+Plh_48 { Are you all ready? }
+
+Plh_94 { Luten's still hiding because you wanted to play with him. Don't you want to go seek him? Then we can finally leave for Helma's. }
+
+Plh_135 { Look, I created the talisman. }
+
+Plh_136 { Ohhhhh, I've never seen a talisman like that! }
+
+Plh_173 { Luten, Luten, come, you'll have to see that! }
+
+Plh_174 { *he makes really big eyes* Ohhhh! }
+
+Plh_175 { YOU made that? }
+
+Plh_176 { Sure did! }
+
+Plh_177 { Yes. But only with your help. }
+
+Plh_179 { When I grow up, I want to create such a nice talisman myself. }
+
+Plh_180 { Do you think we can do that, too? }
+
+Plh_181 { Absolutely! But only once you're grown up. }
+
+Plh_182 { It wasn't exactly safe. Think about it carefully. }
+
+Plh_184 { We're not allowed to leave Nemeton before that, anyway. }
+
+Plh_188 { One day we'll make ourselves a talisman like this, too! Then we'll be as strong as $GVAR:EVars_Player.Name$! }
+
+Plh_189 { We will! }
+
+Plh_190 { Thank you for showing us the talisman again! }
+
+Plh_185 { N-not safe? }
+
+Plh_186 { But once we're big and strong we can do it, Olga! }
+
+Plh_187 { Y-yeah, you're right. }
+
+Plh_178 { Ah, but we just told you what Helma taught us! }
+
+Plh_137 { Look, I have a talisman now, too. }
+
+Plh_139 { Oh, it's really pretty! *beams and examines the talisman* }
+
+Plh_142 { But it's not really shiny yet! A true talisman has to be shiny! }
+
+Plh_143 { Say, Helma? }
+
+Plh_171 { What is it, Olga? }
+
+Plh_170 { Why doesn't $GVAR:EVars_Player.Name$'s talisman shine like the ones the other grownups in Nemeton have? }
+
+Plh_144 { In order to sparkle, first a talisman has to receive its gleam. }
+
+Plh_152 { How? }
+
+Plh_145 { Through the blessings of change, of life, and of the wellspring. }
+
+Plh_157 { Tell me more about the blessings of change. }
+
+Plh_156 { What are the blessings of life? }
+
+Plh_155 { How can I receive the blessings of the wellspring? }
+
+Plh_166 { I shall begin my search. Thanks for your help. }
+
+Plh_162 { I know, I know! *waves her arms around* }
+
+Plh_163 { Would you like to tell us, Olga? }
+
+Plh_164 { The blessings of change are here — uh, in a place haunted by perpetual darkness... Er, yet one drenched in light? }
+
+Plh_165 { You've memorized that really well, Olga. }
+
+Plh_191 { It's said that the cycle of change consists of five phases of life. }
+
+Plh_159 { Helma always says that water is the symbol of life. }
+
+Plh_160 { That's correct, Olga. Water is even life itself. }
+
+Plh_161 { They say the only place you'll receive those blessings is where the birds have ceased chirping and the frogs' song can be heard. Where three wellsprings of life converge. }
+
+Plh_147 { How can a wellspring be a blessing? That's not how it works! }
+
+Plh_158 { They say it can be found on a small island beyond the overgrown shore. Birds are sitting atop a massive rock and sing their tune in unison. }
+
+Plh_167 { Good luck! But once you've made the talisman sparkle, you'll show it to us, yes? }
+
+Plh_168 { Yeah, show us! }
+
+Plh_172 { Good luck. }
+
+Plh_82 { I'd love to have a pretty talisman just like yours. }
+
+Plh_83 { Sorry, but we haven't got another talisman. *looks down* }
+
+Plh_109 { Say, Olga... *nudges her* }
+
+Plh_110 { What is it? }
+
+Plh_111 { What about ours... }
+
+Plh_112 { *whispers* Do you mean... our... }
+
+Plh_113 { Your...? }
+
+Plh_114 { What are the two of you over there whispering about? }
+
+Plh_115 { Oh, uh... nothing! }
+
+Plh_116 { The two of you are up to something, aren't you? }
+
+Plh_117 { *makes a skeptical face* }
+
+Plh_118 { Yeah, never mind. }
+
+Plh_120 { Well, Luten and I have started making our own talisman... }
+
+Plh_121 { I can give you a stone to start with. But you'll have to put in a lot of work to finish it! }
+
+Plh_122 { That'd be a huge help. }
+
+Plh_123 { I don't want to take this away from you... }
+
+Plh_124 { But you've helped us out, too! Please make a really good talisman out of it, will you? *looks at you with big children's eyes* }
+
+Plh_130 { But without a leather cord, it's not going to be a real talisman. }
+
+Plh_131 { But I'm sure you can ask Rura for one. She's already made one for us, too. }
+
+Plh_132 { Thank you. }
+
+Plh_133 { And once it's done, you're going to show it to us, yes? }
+
+Plh_125 { But you won't! }
+
+Plh_127 { We'll be glad to give it to you! }
+
+Plh_129 { But take good care of it, will ya! Making it took us a really long time! }
+
+Plh_87 { Oh yeah! I start running, and you catch me! }
+
+Plh_80 { Thanks to you, Helma's wearing our talisman! *smirks* }
+
+Plh_84 { What a party! Why can't they hold the Festival of Fire more often? }
+
+Plh_88 { Oh, you've already caught me? }
+
+Plh_89 { Next time, you won't catch me! }
+
+Plh_103 { Oh, hello! }
+
+Plh_5 { *listens mesmerized and doesn't notice you* }
+
+Plh_6 { Good to see you here! Could you maybe help us? }
+
+Plh_8 { Actually, my plate is already pretty full. }
+
+Plh_101 { Actually, I wanted to play tag with you. }
+
+Plh_11 { We want to make a talisman for Helma. For the Festival of Fire. Because we like her so much. But we're not allowed to leave the camp because we're too young... Stupid grownups. }
+
+Plh_12 { And I'm soooooo strong! Check out my muscles! }
+
+Plh_14 { Not half bad! You'll probably be a mighty warrior one day! }
+
+Plh_15 { Don't be a nuisance, Luten. }
+
+Plh_18 { We're not allowed to leave the camp unless we go together with Helma. But then she'll know what we're up to! And it's supposed to be a surprise! }
+
+Plh_19 { A present like from a grownup! }
+
+Plh_20 { We want to drizzle the sap from a red callashroom onto the talisman. They grow close by. Humbert says that brings good luck with the expeditions. }
+
+Plh_21 { Yes! Lots of great good luck to you! }
+
+Plh_22 { Where can I find those callashrooms? }
+
+Plh_32 { Who's Humbert? }
+
+Plh_26 { Why don't you ask Humbert yourself? }
+
+Plh_23 { I'll help with your talisman. }
+
+Plh_24 { Just ask Humbert, he knows about these things. He can also tell you where these mushrooms grow! And he knows how we can get to the sap. }
+
+Plh_25 { Usually, he's hanging out in his garden right next door. I don't know what he's doing there all day... he's kind of weird. }
+
+Plh_33 { He's our camp's herbalist. He sure knows his plants! }
+
+Plh_27 { Uh... we haven't got much time! }
+
+Plh_29 { Hm? We DO have time! But he's so creepy! And he always has this grumpy look on his face. And Angus says he eats naughty kids! }
+
+Plh_30 { That's nonsense! }
+
+Plh_31 { Don't lie! You find him creepy, too! }
+
+Plh_28 { Really? Thanks! Thanks a bunch! }
+
+Plh_16 { Actually, I'd rather be a chef when I grow up... }
+
+Plh_10 { Please, please! We'll tell you real quick! }
+
+Plh_102 { Oh yeah, we've got to do this right away! But wait a moment... }
+
+Plh_95 { Hey, you were supposed to catch me! You just took off... }
+
+Plh_104 { One day I'll be faster than you, and then you won't catch me anymore! }
+
+Plh_76 { There you are! }
+
+Plh_35 { You got the mushroom sap? }
+
+Plh_36 { Thanks for your help! *smirks* I'm so looking forward to the Festival of Fire! }
+
+Plh_37 { I've got the extract! (hand over) }
+
+Plh_40 { Oh, thank you! Thank you so much! Now we can make the talisman for Helma... *puts the talisman together* }
+
+Plh_41 { She's really going to like it! }
+
+Plh_193 { But something is still missing... Something personal. }
+
+Plh_194 { Would you like to draw something on the talisman? You helped us, after all, and the talisman is a gift from all three of us. }
+
+Plh_195 { Sure, glad to. }
+
+Plh_196 { Maybe one of you should do the drawing. }
+
+Plh_198 { Helma will certainly like that. }
+
+Plh_44 { Should we take it to Helma? }
+
+Plh_45 { Yes! She'll be super happy! And you've got to be there too! }
+
+Plh_197 { Oh, too bad. But we'll figure out something nice. }
+
+Plh_49 { Of course! }
+
+Plh_50 { Helma! Helma! Look what we've made for you! *holds the talisman up proudly and grins widely* }
+
+Plh_51 { Oh! Isn't that pretty! }
+
+Plh_52 { We made a talisman for you! For the Festival of Fire! With real callashroom extract! }
+
+Plh_53 { *pats Luten's head gently* Where did you get this? }
+
+Plh_54 { We had a little help. But just a teeny bit! }
+
+Plh_55 { Oh. That's... insightful. Thanks a lot. *continues to examine the talisman* }
+
+Plh_56 { You really helped my children? }
+
+Plh_57 { They asked so nicely. }
+
+Plh_58 { The children got the mushrooms all by themselves. }
+
+Plh_60 { *smiles* Well, it says a lot about you. Nemeton would be a better place if more people were willing to help each other out. }
+
+Plh_62 { Are you going to play with us from time to time? }
+
+Plh_71 { Maybe. From time to time. }
+
+Plh_67 { We'll see. }
+
+Plh_72 { Awesome! Right when you get back, yes? }
+
+Plh_73 { And a lot! }
+
+Plh_105 { Well then, have fun, you three. }
+
+Plh_68 { Yes, we'll see. *smiles* }
+
+Plh_69 { See you later! *waves enthusiastically* }
+
+Plh_70 { Yes, soon we'll play again! }
+
+Plh_81 { And next time, we'll make one for you! *smirks widely* }
+
+Plh_106 { You didn't leave the camp and gather them yourselves, did you? }
+
+Plh_107 { No, that's not true! $GVAR:EVars_Player.Name$ brought us some! }
+
+Plh_90 { You won't get me! }
+
+Plh_91 { You're way too slow! }
+
+Plh_92 { Hehehe, you can't catch me! }
+
+Plh_93 { I'm as fast as the wind! }
+

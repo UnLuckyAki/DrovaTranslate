@@ -1,0 +1,54 @@
+Plh_5 { Well, well, a new face down here. }
+
+Plh_26 { Welcome aboard. Always remember — around here, nothing beats a good night's sleep, and for that you need a good bed. A spot to catch some shuteye has just opened up. As if made to order for you. }
+
+Plh_27 { What a lucky break, I must say... }
+
+Plh_28 { Where's this bed? }
+
+Plh_29 { And what's the catch? }
+
+Plh_30 { Right? *smirks* }
+
+Plh_31 { It's right over there. }
+
+Plh_7 { Good, show me the bed. }
+
+Plh_8 { No, I'm not at all tired. }
+
+Plh_9 { As you wish. But you'll get tired eventually, so come back to me if you want the bed. }
+
+Plh_33 { Nobody down here can offer you a more comfortable spot to crash. Nobody else can offer you ANY kind of bed. }
+
+Plh_32 { What catch? You want to sleep, I've got a bed. What kind of catch could there possibly be? }
+
+Plh_46 { All right, follow me. }
+
+Plh_6 { Here's the bed. It'll cost you just $GVAR:EVars_Blanda.PriceBed$ coins. }
+
+Plh_10 { All right, here you go. (give $GVAR:EVars_Blanda.PriceBed$ coins) }
+
+Plh_11 { I've changed my mind. I don't need a bed after all. }
+
+Plh_16 { I'll give you $GVAR:EVars_Blanda.HalfPriceBed$ coins for it. }
+
+Plh_13 { What, pay? But there are tons of beds here. }
+
+Plh_17 { Well-paid sleep is the best sleep! }
+
+Plh_25 { Are you trying to jerk me around? You don't have nearly enough! }
+
+Plh_39 { Forget it. And stop wasting my time. }
+
+Plh_14 { Now we've traipsed all this way over here. I've shown you everything, and explained it, and then... }
+
+Plh_34 { ... THEN you decide you don't want it? Either your brain's not working because you're so tired, or you're just out to lunch. Last chance, or I'm giving it to someone else. }
+
+Plh_12 { Right. You can sleep anywhere. But believe me — once you've slumbered in a PROPER bed, you'll wake up feeling way better. }
+
+Plh_35 { Or just flop down on some saggy straw pile. Better than nothing, but if you want to really rest up, buy a bed. }
+
+Plh_47 { Do you want it? I'll give it to you. }
+
+Plh_48 { Then stop wasting my time. }
+

@@ -78,7 +78,7 @@ Plh_43 { (attach talisman) }
 
 Plh_45 { *You affix the blood-stained talisman to the root, and suddenly, you sense a deep connection stirring deep inside you. Something is trying to reach your conscious mind.* }
 
-Plh_46 { *It seems as if you're hearing a boar screaming in the distance, but next to you, Diemo doesn't appear to be reacting. Suddenly, your spark whirls around you excitedly.* }
+Plh_46 { *It seems as if you're hearing a boar screaming in the distance, but Diemo doesn't appear to be reacting to it at all. Suddenly, everything around you seems to fade into the distance.* }
 
 Plh_47 { *Is the spark trying to tell you something? It seems agitated.* }
 
@@ -116,7 +116,7 @@ Plh_73 { *You reach for the piglet and lovingly caress its head. The piglet lean
 
 Plh_74 { *Suddenly, the piglet turns around and flees.* }
 
-Plh_77 { *You sense that the piglet is running deep into the Forest Primeval. But you don't know what it intends to do. Then the connection you felt to the piglet is abruptly severed.* }
+Plh_77 { *You sense that the piglet is running deep into the Forest Primeval. But you don't know what it intends to do. Then your connection to the piglet is abruptly severed.* }
 
 Plh_75 { *You spend a little while sizing each other up.* }
 
@@ -143,4 +143,54 @@ Plh_60 { What was that just now? }
 Plh_61 { Was that the Mighty Boar...? }
 
 Plh_62 { *You utter the question aloud, but there's no one around to answer. The warm feeling leaves you — as rapidly as it came — and you find yourself back at the Mother Root.* }
+
+Plh_96 { *Something appears in your mind. No longer is it the Mother's root sitting in front of you, but rather companions, who are looking at you expectantly. Behind them, blackness is wafting like flames.* }
+
+Plh_97 { *A powerful presence is accompanying you, seemingly guiding you and your companions. Now the flames are no longer hazardous.* }
+
+Plh_116 { *It all vanishes, and once more you're looking at the root.* }
+
+Plh_98 { *The spark is drawing circles around you in the air.* }
+
+Plh_99 { *You are being flooded with ambiguous feelings — tremendous grief but, at the same time, hope for the future. Was this some kind of portent?* }
+
+Plh_100 { *Suddenly, a dead tree appears in front of your mind's eye. Gray leaves are dwindling to the ground, crumbling into dust... no, turning into blood that seeps into the ground.* }
+
+Plh_101 { *Blood you will spill. A comforting presence embraces you, whispering forgiveness for transgressions that have yet to be committed.* }
+
+Plh_102 { *Its gaze urges you on, gouging deeper into your mind. Your vision gets blurred...* }
+
+Plh_103 { *As your visions clears, you are able to gaze across all of Drova. In each direction, you espy the black fog on the horizon. Then your gaze wanders downwards.* }
+
+Plh_117 { *Four eggs with different colors lie in a nest in front of you.* }
+
+Plh_104 { (carefully pick up one of the eggs) }
+
+Plh_105 { (destroy all the eggs) }
+
+Plh_106 { *You pick up the egg that's glowing yellow. Vibrating, it exudes the spirit of the boar. You don't know why, but you're remembering the virtues of the Refuge.* }
+
+Plh_107 { *You're filled with courage, harmony, and compassion. Carefully, you place the egg back into the nest. A jagged crack forms on top of it.* }
+
+Plh_108 { *All the eggs burst open and unleash radiant power. Incandescent white encompasses you. Then the boar emerges from the brightness.* }
+
+Plh_111 { *The boar stares at you. Its gaze brings all the visions you had at the roots. A sequence of events...* }
+
+Plh_112 { *It leads to a possible future of Drova — should all of these events occur and no link in this chain breaks. What did the roots want to tell you?* }
+
+Plh_113 { *After glancing at you one last time, the boar turns away. It utters a scream and runs back into the light that vanishes abruptly. Only darkness remains.* }
+
+Plh_118 { Why me? }
+
+Plh_119 { Is that really the only way? }
+
+Plh_120 { Is that what you want, Mighty Boar? }
+
+Plh_114 { *You utter the question, but no one answers. The darkness turns softer. It wafts. It yields and...* }
+
+Plh_115 { *You find yourself in front of the Mother Root.* }
+
+Plh_109 { *You smash the eggs with both hands. They burst open, and a wave of power surges out of them, knocking you back. You fall.* }
+
+Plh_110 { *Everything turns incandescent white. Then the boar appears in front of you.* }
 

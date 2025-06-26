@@ -124,3 +124,5 @@ dex_value { Dexterity [VALUE] }
 
 mind_value { Mind [VALUE] }
 
+trinket_equipable { Even if you own multiple copies of this item, you can equip only one at any given time. }
+

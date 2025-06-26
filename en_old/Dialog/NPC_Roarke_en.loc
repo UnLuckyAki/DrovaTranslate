@@ -1,0 +1,602 @@
+Plh_13 { Is everything all right with Bertine? }
+
+Plh_311 { Wait, you don't barter with coins? }
+
+Plh_320 { Tristan said you've found a way through the Blackflame. }
+
+Plh_322 { What's this thing buzzing around you all the time? }
+
+Plh_301 { Are you selling something? }
+
+Plh_96 { What were you talking about with the others just now? }
+
+Plh_34 { Your Wayward is not going to be a problem anymore. }
+
+Plh_126 { Cay and I gathered the mushrooms. }
+
+Plh_217 { I'm hungry. Let's eat. }
+
+Plh_0 { I'm supposed to get some food for the piglets from you. }
+
+Plh_247 { Didn't Diemo come here with you? I don't see him anywhere. }
+
+Plh_267 { Diemo attacked me. }
+
+Plh_268 { Diemo is... dead. }
+
+Plh_312 { What use would we have for coins? We have the Mighty Boar and the piglets. That's more than enough. }
+
+Plh_321 { Yes, that's true, our sparks protect us from him. But, you know, usually I'm here anyways, so... }
+
+Plh_323 { Oh, you mean my spark? It's kind of like my familiar. Each one of us Bonded has one. It repels the Blackflame and lights our way. }
+
+Plh_291 { I've got a few things from the forest, and some stuff that Anatoli found. But I only barter. We don't want any coins from other people here. }
+
+Plh_345 { I took everything I could carry when we fled. Just take a look. }
+
+Plh_22 { We'll talk later. }
+
+Plh_4 { _ToDo_ }
+
+Plh_339 { And now a wayward beast. That's TWO creatures that don't belong here. }
+
+Plh_82 { I hate to say it, but that "apparition" is still lurking in the forest, Diemo. }
+
+Plh_83 { I know that, Roarke. Bertine has to take care of it, now that Anatoli... }
+
+Plh_84 { Bertine can do it! I believe in her! }
+
+Plh_85 { The Mighty Boar shall guide us. That I believe. }
+
+Plh_77 { *mumbles* Diemo knows what he's doing. }
+
+Plh_23 { *notices you* Hey, you new here in the camp?! }
+
+Plh_335 { It rarely happens that someone makes it past the Blackflame. But now that you're here, say... }
+
+Plh_336 { Would you like to try my new recipe? You don't know my other stuff, so you can be totally unbiased. }
+
+Plh_42 { Forget it. Anything could be in that! }
+
+Plh_43 { All right, I'll give it a try. (approach) }
+
+Plh_44 { You're missing out, I'm telling ya! My delicacies aren't available anywhere else! They give you thick hair and a sunny disposition! }
+
+Plh_29 { Oh, that reminds me, I've forgotten to introduce myself! The name's Roarke. I'm in charge of creature comforts in the Refuge. }
+
+Plh_314 { And anyone who doesn't like my food gets his butt kicked! }
+
+Plh_108 { Where have I ended up now? }
+
+Plh_107 { How exactly do you survive the Blackflame? }
+
+Plh_109 { In the Forest Primeval. That should not have escaped you. We worship the Mighty Boar of this forest. That you made it here without a spark is... astonishing. }
+
+Plh_99 { It's probably best if you first report to Diemo. }
+
+Plh_110 { *looks at you puzzled* Look, I have a spark. The spark protects us from the Blackflame. The Mighty Boar gave us all a spark to protect us. }
+
+Plh_310 { Go ahead. I'd like to chat with you a bit longer, but... }
+
+Plh_45 { That's the way I like it. Here, and tell me right away what you think about it. It's the initial impression that counts! }
+
+Plh_112 { *You try the soup. It has an intense taste of salt and heat. After you've swallowed, a languorous aftertaste lingers, the likes of which you've never experienced before.* }
+
+Plh_78 { Pretty salty... }
+
+Plh_79 { That's really good! }
+
+Plh_80 { Hm. Then maybe I should cut back on the sweat. But it's heading in the right direction... }
+
+Plh_114 { Thanks for letting me have a taste. }
+
+Plh_113 { Wait... sweat? }
+
+Plh_115 { Glad to help, Wayward. }
+
+Plh_294 { Glad to help, Wayward. }
+
+Plh_116 { Well, salt is rare in the Forest Primeval. Tristan, the merchant, hasn't had any in stock for a long while. And the piglets' sweat is salty, too. }
+
+Plh_118 { I wish I'd known that beforehand! }
+
+Plh_119 { I should crack you over the head with your ladle! }
+
+Plh_120 { Why would you do that? }
+
+Plh_121 { Now calm down. It's just the salt that's putting you on edge. It'll pass. }
+
+Plh_81 { Really? Who'd have thought that sweat is such a great substitute for salt? }
+
+Plh_325 { Hey, $GVAR:EVars_Player.Name$! }
+
+Plh_300 { YOU! By the Divinities! Why you, of all people! }
+
+Plh_241 { Congratulations on your spark. Not bad! }
+
+Plh_242 { I'm making Anatoli's former favorite: Delicious mushroom soup! }
+
+Plh_218 { Thanks for congratulating me. }
+
+Plh_222 { Mushroom soup? }
+
+Plh_220 { *smirks* You're welcome. }
+
+Plh_221 { I've already added all the ingredients. Well, except for the mushrooms. Which is why... }
+
+Plh_224 { Got it. You want me to gather those mushrooms. }
+
+Plh_225 { I don't want to gather mushrooms right now. }
+
+Plh_226 { I know, that was totally unexpected! }
+
+Plh_228 { There's a problem with that. The mushrooms are underground. You have to sniff them out. And that's what you need Cay for. }
+
+Plh_229 { How is Cay supposed to help me with this? }
+
+Plh_231 { Isn't there another way? }
+
+Plh_232 { That little runt is more capable than you might think. }
+
+Plh_234 { Cay has this incredible sense for finding the best mushrooms. When you feed him, he usually darts off right away to get more. Could you take him and find some? }
+
+Plh_235 { All right, I'll bring you mushrooms. }
+
+Plh_236 { I'll see if I can find time for this... }
+
+Plh_237 { I knew I could count on you! If you get me three mushrooms, we'll be all set. }
+
+Plh_238 { You'd do the folks here a great favor. Ever since Anatoli died, everyone is a bit on edge. Especially Bertine. }
+
+Plh_334 { Three mushrooms would be enough for me to whip up a meal you'd never forget. }
+
+Plh_233 { Cay is already very friendly with you! You won't regret it! }
+
+Plh_227 { Come on, you're part of the Bonded. Do it to honor Anatoli! }
+
+Plh_223 { Trust me, you'll love it! }
+
+Plh_123 { You're part of the Bonded. Congratulations! }
+
+Plh_280 { Get out of my sight. You betrayed us! }
+
+Plh_326 { Nice seeing you. And good to have you with the Bonded! }
+
+Plh_244 { The Forest Primeval... our home... all gone. }
+
+Plh_246 { And Diemo... That cannot be happening... }
+
+Plh_285 { Come on, old man. Let me sing another song for you! That will lift your spirits. }
+
+Plh_286 { The last thing I need right now is your caterwauling. Even if I had coins, I'd rather spend them on a cold beer at Olaf's than on you. }
+
+Plh_287 { I am underappreciated here! }
+
+Plh_340 { That's all you care about?! Get off my back with this malarkey of yours. }
+
+Plh_288 { ... I've got other things to worry about right now. }
+
+Plh_341 { I'm not interested in you — leave me alone. }
+
+Plh_346 { I hope we'll find a new home... }
+
+Plh_15 { *smirks at you and seems proud* }
+
+Plh_14 { There you are, the wayward soul that was never wayward! }
+
+Plh_16 { Hey, Roarke, I made it! }
+
+Plh_17 { Do you know why I've already received my spark? }
+
+Plh_19 { I'll see you in the camp. }
+
+Plh_18 { We've never seen anything like it. You've just gotten here, and you already have a spark. }
+
+Plh_329 { Birka has been here since forever, and she's receiving hers only now. Not bad! }
+
+Plh_20 { Because the Divinity decided so. That's all I need to know. And so do you. }
+
+Plh_21 { Sure. Come over when you want to cook with me! }
+
+Plh_97 { Hm? Oh, at the moment there are a few things amiss with our forest... }
+
+Plh_46 { The other day, when I was gathering mushrooms for Taron's litter, I heard loud scratching and a frightening roar. It must be a Wayward... }
+
+Plh_302 { And I don't mean Wayward like you. You wouldn't hear them scratching and roaring. It's probably some dangerous animal that's disturbing the forest's tranquility. A bear, if my ears don't deceive me. }
+
+Plh_296 { Someone really needs to take care of this Wayward. Diemo was going to have Bertine do this, but she isn't letting anyone talk to her right now. }
+
+Plh_88 { Diemo? }
+
+Plh_50 { What's a Wayward? }
+
+Plh_48 { Can't anyone else take care of the Wayward? }
+
+Plh_89 { That's the guy I just spoke to. Back in the day, he and I settled in the Forest Primeval. This Refuge — we built all of it together. }
+
+Plh_51 { You're a Wayward, too. Someone who doesn't belong in the Forest Primeval, but is here nonetheless. Usually, they aren't people, but monsters or animals. }
+
+Plh_52 { Nobody here is really well versed at fighting. Bertine, possibly, but lately she hasn't been exactly... helpful. }
+
+Plh_54 { *sizes you up* What about you? You look as if you could fight. }
+
+Plh_55 { Well, I already have sent a few monsters on their way to their next incarnation. }
+
+Plh_56 { Depends on what's in it for me. }
+
+Plh_57 { Maybe the Mighty Boar guided you to us so that you would help us. *looks to the sky* }
+
+Plh_59 { What's the Mighty Boar? }
+
+Plh_94 { You don't have any coins? }
+
+Plh_98 { I'll take care of the Wayward for you. }
+
+Plh_60 { The Mighty Boar guards the Forest Primeval. Without his protection, we wouldn't have survived here so long. }
+
+Plh_95 { What do you need coins for, when you have the blessing of the Mighty Boar? We help our Bonded without expecting anything in return. }
+
+Plh_28 { You really want to help? Excellent! }
+
+Plh_297 { I gathered the mushrooms near that meadow east of here — the one where Taron usually lets the piglets roam free. The roaring came from deep inside the forest. Please be careful when you're out there! }
+
+Plh_313 { One more thing: Should you see Blackflame like the one next to the camp, you'd better stay away from it! Look... over there. }
+
+Plh_328 { Without a spark, they'll kill you before you can say "Mighty Boar." }
+
+Plh_331 { Be careful when you go into the forest. }
+
+Plh_33 { We all do. But should you encounter the Wayward nonetheless... }
+
+Plh_58 { We don't have coins here, but I'm sure the Mighty Boar is going to reward you. }
+
+Plh_87 { Say... You can fight, can't you? }
+
+Plh_35 { By the Mighty Boar! It was probably a bear, wasn't it? These damned critters are getting more audacious by the day! }
+
+Plh_36 { In the name of the Mighty Boar... You've done the Forest Primeval a great service. We need to make sure that these Wayward don't disrupt the balance of the forest. }
+
+Plh_69 { Glad I could help. }
+
+Plh_70 { What about a real reward? }
+
+Plh_71 { Cut to the chase, old man. }
+
+Plh_72 { *smirks* I'm sure the Mighty Boar has already noticed your deed. }
+
+Plh_37 { We'll provide you with a roof over your head, plenty of hot food, and a purpose. Be part of the forest and live in harmony with the Divinity. }
+
+Plh_319 { But of course, only if you know and respect our virtues. }
+
+Plh_100 { How can I become one of you? }
+
+Plh_101 { I can't wait to leave you and this weird place behind. }
+
+Plh_102 { *smirk* It's nice to see that you're open to our ways. }
+
+Plh_104 { Here in the Forest Primeval, we live by three virtues, so the Divinity may accept us as part of its forest and its world. Listen and learn about one of the virtues. }
+
+Plh_38 { Unanimity is the cornerstone of coexistence with the Divinities. If this is disturbed, no matter how, we must take action ourselves — and to do that, we need the virtue of courage. }
+
+Plh_75 { Go with the blessing of the Boar and carry this virtue in your heart. }
+
+Plh_103 { It's is a free community. If you don't like it here, you can leave anytime. }
+
+Plh_106 { But I've already told you that we don't have any coins. *looks puzzled* }
+
+Plh_73 { *looks at you puzzled and raises an eyebrow* We don't have any coins. }
+
+Plh_131 { *claps his hands repeatedly and calls out* GATHER ROUND! TIME FOR FOOD! }
+
+Plh_137 { My beloved Bonded. To honor our esteemed Anatoli, I have prepared his favorite meal. And I had great help in doing so. I would now like to ask everyone to say a few words. }
+
+Plh_195 { *holds his neck with his palm* Uh, well, as you all know, Anatoli and I weren't exactly best friends. But he didn't deserve what happened to him. May you find peace on your journey. }
+
+Plh_138 { Anatoli was always very nice to me. Whenever I had doubts about something, Anatoli encouraged me and made me feel safe. May you find peace on your journey. }
+
+Plh_139 { *looks at everyone* With Anatoli gone, an important part of our community is missing. No one can replace him. He was my third eye within the Forest Primeval. May you find peace on your journey. }
+
+Plh_140 { *avoids everyone's gaze and looks down* I... }
+
+Plh_196 { How can all of you sit around here stuffing your faces? That thing is STILL OUT THERE! The thing that tore him to pieces! You sully Anatoli's name! }
+
+Plh_141 { Bertine! Wait! }
+
+Plh_197 { *looks around confusedly* She just took off... }
+
+Plh_198 { She'll probably be back soon. Once she's calmed down. Let's continue. We must. *looks at you expectantly* }
+
+Plh_199 { (stand) }
+
+Plh_200 { (remain seated) }
+
+Plh_201 { *you get up, and everyone is looking at you expectantly* }
+
+Plh_203 { May you find peace on your journey. }
+
+Plh_205 { *you blush and remain seated* }
+
+Plh_208 { Anatoli was a member of our community. We were all shocked and dismayed by his death. May you find peace on your journey, old friend. To Anatoli! }
+
+Plh_209 { And now we feast! }
+
+Plh_210 { You've outdone yourself, Roarke. If Anatoli were still here, he'd have eaten half the cauldron all by himself. }
+
+Plh_212 { I had competent help! Someone is quick on the uptake! *smirks* }
+
+Plh_214 { *to you* Anatoli would have gotten along with you nicely. }
+
+Plh_216 { Thanks for coming, everyone. I'm glad we could pay our respects together. To many more summers in the Forest Primeval! }
+
+Plh_211 { Anatoli would probably have mentioned the slightly bitter taste. But it's the thought that counts! }
+
+Plh_213 { I think your cooking skills still need honing. }
+
+Plh_215 { *to you* Just kidding! }
+
+Plh_207 { *Roarke makes a disappointed face and turns away again.* }
+
+Plh_202 { *You remain seated. Some give you puzzled looks, but seem to be expecting something from you.* }
+
+Plh_143 { Let's see. *he examines the mushrooms in your hands* }
+
+Plh_144 { Looking good. Thick stalks and growths on the skin. As it should be! Well, I'll start preparing the stock and the onions. Meanwhile, you handle the mushrooms. }
+
+Plh_145 { You want me to cook with you? }
+
+Plh_146 { How do I prep the mushrooms? }
+
+Plh_147 { I'd rather leave the cooking to you. }
+
+Plh_148 { Sure! Cooking is a bonding experience! And we're all about the bonding here! *licks his sticky hand* }
+
+Plh_330 { A truly glorious experience! }
+
+Plh_149 { Now listen up! The next step is very important. }
+
+Plh_151 { So, you take the mushrooms and split the stalks about halfway up from the bottom. Then you sever the bottom half of the stalk. }
+
+Plh_298 { You then press both sides of the severed stalk against your knife so it gets coated with the mushroom sap. }
+
+Plh_152 { Then you cut off the rest of the stalk, dice it up, and cut off the mushroom's cap. }
+
+Plh_299 { Cut the cap in halves until you have eight pieces. Then you crush these with the flat side of your knife until the outer mushroom layer comes off. }
+
+Plh_153 { Now don't make a face! It's really simple! Come on, give it a try! }
+
+Plh_154 { Yeah, really simple. Halve the stalks, crush them, and dice them up. }
+
+Plh_155 { ... one more time, please? }
+
+Plh_156 { Exactly, that's it. Don't forget the cap, though! Sit over there at the table. I'll prepare everything over here. }
+
+Plh_159 { (Place your knife at the bottom, split the stalk about halfway up from the bottom) }
+
+Plh_158 { (Cut off the stalk completely) }
+
+Plh_161 { *You place your knife at the bottom of the stalk and split it about halfway up the middle of the stalk* }
+
+Plh_162 { (Press split stalk against both sides of your knife) }
+
+Plh_163 { (Press the whole stalk against one side of the knife) }
+
+Plh_164 { (Press stalk together above the cap) }
+
+Plh_165 { *You press the split stalk against both sides of your knife.* }
+
+Plh_176 { You getting the hang of it? }
+
+Plh_177 { Child's play! }
+
+Plh_178 { I'm not entirely sure yet. }
+
+Plh_179 { Good to hear. I'll be done in a moment too. }
+
+Plh_168 { (Throw out the stalk and dice up the cap) }
+
+Plh_169 { (Dice up the stalk and cut the cap into eight equal pieces) }
+
+Plh_170 { *You throw the stalk off the table and start dicing up the cap) }
+
+Plh_173 { (Press the flat side of your knife against the pieces of the cap and give them to Roarke) }
+
+Plh_172 { (Give the cut mushroom to Roarke) }
+
+Plh_174 { *You press the sides of the knife against the pieces until the mushroom's skin comes off. Then you hand Roarke your cut mushrooms.* }
+
+Plh_181 { As if you hadn't done anything else all your life! Good job! Now the mushrooms can develop their full flavor! }
+
+Plh_183 { Now we add all of the ingredients to my cauldron and briefly sear the mushrooms. They shouldn't be allowed to shrink — otherwise, they'll get too sweet. Come with me. }
+
+Plh_184 { *Roarke gives the soup a few more stirs before throwing in the final seasoning. He ladles some soup into two bowls and hands you one.* }
+
+Plh_185 { Taste this! }
+
+Plh_307 { (Taste) }
+
+Plh_308 { (Make a grossed-out pouty face and taste anyway) }
+
+Plh_186 { Mh, that's really good. }
+
+Plh_187 { It's really not my cup of... soup. }
+
+Plh_188 { Even if I were starving, I wouldn't eat this. }
+
+Plh_189 { Isn't it, though? Good old Roarke can still whip up a few delicacies. }
+
+Plh_192 { I wrote down the recipe. Here, take it! This way, you can make the soup on your own while thinking about your old buddy Roarke. }
+
+Plh_193 { I hope you can decipher my handwriting. }
+
+Plh_194 { Once you're hungry, we can call everyone together and share a meal. }
+
+Plh_129 { Let's eat! }
+
+Plh_130 { Maybe later. }
+
+Plh_132 { No problem. I hope you'll be hungry! }
+
+Plh_190 { Pah, you just got to acquire this particular taste! Or be hungry enough! }
+
+Plh_191 { That's exactly the kind of joke Anatoli would have made, too. Not bad! }
+
+Plh_182 { That doesn't look right. This way, the dish will have a slightly bitter aftertaste. But don't fret, it will be delicious nonetheless! }
+
+Plh_175 { *That was it, right? You give Roarke the cut mushrooms.) }
+
+Plh_171 { *Meticulously, you dice up the stalk. After that, you keep halving the cap until you have eight equal pieces.* }
+
+Plh_180 { Just go ahead! This is going to be good! I trust you! }
+
+Plh_166 { *You slowly press the stalk against one side of the knife.* }
+
+Plh_167 { *You hold the stalk over the cap and press it with your hand until some of the sap drips onto the cap.* }
+
+Plh_160 { *A swift cut, and you've severed the stalk from the cap.* }
+
+Plh_157 { *looks puzzled* All right. }
+
+Plh_150 { Aw, come on, join me. It's going to be fun, trust me! }
+
+Plh_1 { Taron must have sent you. I enriched some feed with mushrooms. This should help the litter regain their strength. }
+
+Plh_315 { An invigorating species of mushroom that grows only here, in the Forest Primeval. If that doesn't help, I don't know what will. }
+
+Plh_2 { Give one portion to each of them! No more, no less! }
+
+Plh_5 { All right, thanks. }
+
+Plh_3 { Four portions? Taron mentioned only three piglets. }
+
+Plh_7 { The piglets are going to love you for this. *smirks* }
+
+Plh_6 { Hm? He told me that he needs something invigorating for a litter of four piglets. You'd better ask Taron to make sure. }
+
+Plh_8 { Oh, Bertine. She's been taking it pretty hard. Anatoli was like a father to her. She must be very lonely. }
+
+Plh_61 { That reminds me of the time when I wanted to cut up some cabbage for my stew. The cabbage was very lonely and didn't want to be cooked all by itself. It refused to let me cut it up. }
+
+Plh_24 { To err is... cabbage. }
+
+Plh_25 { And what did you do with the lonely cabbage? }
+
+Plh_26 { Could it be that you're missing a few... knives in your drawer? }
+
+Plh_27 { Well, I went and got a second cabbage. A grumpy cabbage won't taste that good, after all! }
+
+Plh_30 { Everything has feelings. Everything is alive. One day, you too will learn that. At least when you're being cooked by yourself. }
+
+Plh_90 { Anyhoo... the meal with the two cabbages was particularly delectable. *gives a crooked grin* }
+
+Plh_10 { What are you saying? }
+
+Plh_11 { Your head is really messed up. }
+
+Plh_91 { Anyway... go to Bertine and be her second cabbage! She alone cannot save the stew, but with your help, you can do it together! }
+
+Plh_92 { A cabbage also has a head. Did you ever consider that? }
+
+Plh_32 { And even if I were missing a knife, I'd just get another! }
+
+Plh_248 { Diemo... is... }
+
+Plh_249 { I hardly recognize him anymore. He seems to have gone completely insane. }
+
+Plh_270 { *sizes you up* On top that, he's cursed you. He said it's all your fault. Had you not arrived at the Refuge, none of this would have happened. }
+
+Plh_273 { Is that true? Is it your fault? }
+
+Plh_271 { Yes. We fought the Mighty Boar. }
+
+Plh_272 { No. I've got nothing to do with this. }
+
+Plh_274 { Then Diemo was right after all... }
+
+Plh_275 { Why? What did we ever do to you? Did we not accept you? Treat you like one of us? Tell me! }
+
+Plh_276 { I didn't know what my people were planning to do with it. }
+
+Plh_277 { I don't have to justify myself to you. }
+
+Plh_278 { Did you, for a moment. spare a single thought for us? For the piglets? The Mother? Are you that nefarious? }
+
+Plh_279 { You shouldn't be even able to look us in the eye anymore. We offered our hand in friendship, and not only did you swat it away, but brutally chopped it off! }
+
+Plh_281 { I hope we never cross paths again... }
+
+Plh_253 { Diemo... hang in there. Please. }
+
+Plh_284 { I was wrong about you. You leave nothing but destruction in your wake. You know nothing of compassion, of mercy. }
+
+Plh_282 { And I'm supposed to believe that? What do you think, I'm stupid? OF COURSE you had something to do with it! }
+
+Plh_289 { Ever since the Forest Primeval got destroyed, we've been unable to find Diemo. }
+
+Plh_250 { He must still be in the Forest Primeval. He was saying something about sparks. }
+
+Plh_251 { There were shadowrippers and all kinds of other monsters. We fled, and we must have lost Diemo on the way. }
+
+Plh_252 { None of us has enough vigor to return to the Forest Primeval to go look for him... }
+
+Plh_255 { What? Get him to see reason! We need him here! }
+
+Plh_256 { Be careful. In his state of mind, who knows what he's capable of? }
+
+Plh_254 { What...? }
+
+Plh_257 { Diemo is... dead? }
+
+Plh_258 { He's blaming me for everything. Didn't even listen to me. }
+
+Plh_259 { He attacked me, and I had to defend myself. }
+
+Plh_260 { I see... }
+
+Plh_262 { Diemo didn't deserve any of this. He's always had a good heart. But fate never repaid his kindness... }
+
+Plh_265 { At least now I know what happened... }
+
+Plh_264 { Diemo always said that one needs to be able to forgive. Which is why I'm going to do just that... }
+
+Plh_342 { I forgive you, $GVAR:EVars_Player.Name$. Old Diemo wouldn't want me to not forgive you. }
+
+Plh_343 { But I cannot forgive your mistakes and your transgressions. Only the Divinities can do that. Once you are buried in the soil, they will judge you, as they do all of us. Until then, you'll have to live with the decisions you've made. }
+
+aboutOtherQuests { About Diemo... }
+
+Plh_347 { Courage to face danger. Courage to question our own ways. Courage is the strength in our hearts that shows us what must be done. }
+
+Plh_348 { I've got something else for you. You belong to us now. I went into the forest and made this headdress for you. }
+
+Plh_349 { It's supposed to show that you are bonded with us and the Mighty Boar. }
+
+Plh_350 { Thank you, Roarke. (put on headdress) }
+
+Plh_352 { Uh, I don't want a headdress. }
+
+Plh_351 { I don't need anything like that. }
+
+Plh_354 { Of course! You're one of us. }
+
+Plh_353 { *smirks* I'll just give it to you, anyway. You can do with it whatever you want. }
+
+Plh_357 { I'm here to warn you. My camp wants to catch the Mighty Boar! }
+
+Plh_356 { No one can harm the Mighty Boar. He is one with this forest. We sense neither fear nor worries from it. Don't fret. }
+
+Plh_365 { Of course! And I'd like my next bowl of soup to taste like clouds! }
+
+Plh_358 { I've tried to warn you! No one was listening! I had no choice! }
+
+Plh_359 { You're right. We can base our decisions only on the knowledge we possess at that very moment. }
+
+Plh_360 { ... and who could have imagined? }
+
+Plh_361 { A mistake remains a mistake only if you don't fight to correct it. *smiles tired* }
+
+Plh_362 { I hope you can turn this around somehow, $GVAR:EVars_Player.Name$. }
+
+Plh_363 { What happened to Diemo? }
+
+Plh_364 { Diemo was consumed by pain and hatred... I had to put him out of his misery. }
+

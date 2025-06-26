@@ -60,7 +60,7 @@ Plh_44 { Ugh. It's you. }
 
 Plh_57 { I hope you're not always going to be thinking about that ass-kicking when you sleep here. You're supposed to relax, hehe. *smirks* }
 
-Plh_8 { So, sleep well? *smirks* That'll be $GVAR:QuestVars_YouLookTired_Config.PriceForSleeping$ silver. }
+Plh_8 { So, did you sleep well? *grins* That'll be $GVAR:QuestVars_YouLookTired_Config.PriceForSleeping$ silver. }
 
 Plh_28 { You want silver for sleeping? Levin said we're going to be provided with a place to sleep. }
 
@@ -78,15 +78,15 @@ Plh_10 { I don't have $GVAR:QuestVars_YouLookTired_Config.PriceForSleeping$ silv
 
 Plh_11 { The hell I will! }
 
-Plh_61 { Judging by your looks, you won't stay here for long anyway. Let's make it so. *smirks* }
+Plh_61 { Judging by your looks, you won't be staying here for long anyway. Let's make it so. *grins* }
 
-Plh_63 { *smirks very widely* Ah, right! I've got this message from Levin saying that I'm supposed to make some kind of exception for you. }
+Plh_63 { *grins very widely* Ah, right! I've got this message from Levin, saying that I'm supposed to make some kind of exception for you. }
 
 Plh_65 { You can sleep here all you like. Rest up whenever you need some shuteye. *winks at you* }
 
 Plh_64 { You think you're funny or something? Bring enough silver! }
 
-Plh_13 { That's better. You're a good Hewer. Just keep on hewing. *smirks* }
+Plh_13 { That's better. You're a good Hewer. Just keep on hewing. *grins* }
 
 Plh_15 { You should have thought of that before sleeping here. Now I'll take what's rightfully mine. }
 
@@ -160,7 +160,7 @@ Plh_83 { *mimicking a squeaky voice* "Please, Mursel, please! I can't work like 
 
 Plh_88 { And then she's too stupid to hew... }
 
-Plh_38 { *smirks widely* That's better. All right, I'll leave Agnessa alone. So no one can say I'm not a reasonable guy! }
+Plh_38 { *grins widely* That's better. All right, I'll leave Agnessa alone. So no one can say I'm not a reasonable guy! }
 
 Plh_39 { And bring enough silver! }
 

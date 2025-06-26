@@ -1,0 +1,20 @@
+Title { The Way to the Forest Primeval }
+
+Entry_01_A { The Mighty Boar lives in the Forest Primeval, surrounded by a sea of Blackflame. The people dwelling in the Forest Primeval managed to survive amongst it, and must figure out a way to pass through the Blackflame unscathed. A merchant named Tristan is said to know more about this. I can find him in the tavern known as the Headless Ripper Inn. }
+
+Entry_02 { Tristan hasn't been to the tavern in a while, and he never paid his tab. Olaf offered to let me into his room, provided that I pay the $GVAR:QuestVars_TheWayToTheLeuchtwald_Config.Bill$ coins Tristan owes him. }
+
+Entry_04 { In Tristan's room I found a map that shows how I can safely enter the Forest Primeval. The map also depicts a camp in the forest. I should go there. }
+
+Entry_05 { I found the Refuge. The people here live with a spark that protects them and allows them to pass the Blackflame. I need one of those sparks. }
+
+Entry_06 { Tristan says that only members of the Refuge are able to receive such a spark. I'm supposed to have a talk with Diemo. }
+
+Entry_07 { Apparently, the spark I received repels the Blackflame. I should return to my faction and report. }
+
+Entry_08 { After having shared the information about the Blackflame and the spark, I am supposed to join an expedition into the Forest Primeval. }
+
+Entry_02_A { I received the key, and now I may enter the room. }
+
+Entry_09 { I've got a map of the Forest Primeval. I'm sure it will be helpful. }
+

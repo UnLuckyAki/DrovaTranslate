@@ -1,12 +1,12 @@
 Plh_51 { About the manipulation... }
 
-Plh_76 { About of your suggestion... }
+Plh_76 { About your suggestion... }
 
 Plh_90 { I have Bady's food here, from Tiaa. }
 
 Plh_91 { Ah, let's see it. }
 
-Plh_92 { Let me add my special ingredient. Don't worry, nothing's going to happen to him. Well, nothing that will cause any permanent damage. *smirks* }
+Plh_92 { Let me add my special ingredient. Don't worry, nothing's going to happen to him. Well, nothing that will cause any permanent damage. *grins* }
 
 Plh_93 { Here, give this to Bady. For his battle, this will be very... well, "useful." }
 
@@ -100,7 +100,7 @@ Plh_96 { But Bardok is in the Upper Quarter, so it isn't exactly easy to get the
 
 Plh_49 { That's what I wanted to hear! We're going to make a fortune! }
 
-Plh_97 { I know that before Bady goes into a battle, he always eats something from Tiaa. Just bring me the food. I'll make sure Bady gets his... just desserts. *smirks* }
+Plh_97 { I know that before Bady goes into a battle, he always eats something from Tiaa. Just bring me the food. I'll make sure Bady gets his... just desserts. *grins* }
 
 Plh_95 { Come to me before the battle. I've a good gut feeling about this kind of thing. If Gra has a good chance, then I'll know about it. }
 
@@ -112,7 +112,7 @@ Plh_12 { That's what you've got ME for! I know what's best for you. }
 
 Plh_75 { Did you change your mind? Do you want to help me and earn a few coins from the battle? }
 
-Plh_102 { *smirks* What a coincidence. The battle unfolded exactly the way I imagined it. }
+Plh_102 { What a coincidence. The battle unfolded exactly the way I imagined it. }
 
 Plh_105 { You've got more on the ball than I first thought. Not bad. }
 
@@ -120,7 +120,7 @@ Plh_103 { You had your chance to score with me, and you blew it. }
 
 Plh_104 { Get out of my sight. }
 
-Plh_106 { There's my lucky charm. *smirks* }
+Plh_106 { There's my lucky charm! }
 
 Plh_107 { Damned Bady. All my coins... }
 
@@ -130,7 +130,7 @@ Plh_73 { Hey, hey. }
 
 Plh_77 { What are Gra's chances in the battle? }
 
-Plh_65 { Hmm... my intuition is telling me that Gra stands more than a good chance. *smirks* }
+Plh_65 { Hmm... my intuition is telling me that Gra stands more than a good chance. }
 
 Plh_94 { If the battle started now, then Gra would definitely wipe the floor with Bady. Thanks to our help. *winks* }
 
@@ -152,41 +152,41 @@ Plh_112 { You can win big there. Let me know, should you ever need... assistance
 
 Plh_118 { Only if you've got the coins, of course. }
 
-Plh_113 { You're one of us, after all. Good thing you chose Boris. This way, I can take something off the price. *smirks* }
+Plh_113 { You're one of us, after all. Good thing you chose Boris. This way, I can take something off the price. *grins* }
 
 Plh_115 { Sure thing... assuming you help more coins find their way into my pockets. }
 
-Plh_117 { Since you're one of us, let's say $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationBorisTeam$ coins. This will make for a much easier fight. *smirks* }
+Plh_117 { Since you're one of us, let's say $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationBorisTeam$ coins. This will make for a much easier fight. *grins* }
 
 Plh_119 { Here are the coins. (hand over $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationBorisTeam$ coins) }
 
-Plh_116 { $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulation$ coins. This will make for a much easier fight. *smirks* }
+Plh_116 { $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulation$ coins. This will make for a much easier fight. *grins* }
 
 Plh_121 { Here are the coins. (hand over $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulation$ coins) }
 
-Plh_125 { Since you're one of us, let's say $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationLiandraBorisTeam$ coins. This will make for a much easier fight. *smirks* }
+Plh_125 { Since you're one of us, let's say $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationLiandraBorisTeam$ coins. This will make for a much easier fight. *grins* }
 
 Plh_126 { Here are the coins. (hand over $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationLiandraBorisTeam$ coins) }
 
-Plh_128 { $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationLiandra$ coins. This will make for a much easier fight. *smirks* }
+Plh_128 { $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationLiandra$ coins. This will make for a much easier fight. *grins* }
 
 Plh_127 { Here are the coins. (hand over $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationLiandra$ coins) }
 
-Plh_129 { Since you're one of us, let's say $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationDieDunkleBorisTeam$ coins. This will make for a much easier fight. *smirks* }
+Plh_129 { Since you're one of us, let's say $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationDieDunkleBorisTeam$ coins. This will make for a much easier fight. *grins* }
 
 Plh_131 { Here are the coins. (hand over $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationDieDunkleBorisTeam$ coins) }
 
-Plh_130 { $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationDieDunkle$ coins. This will make for a much easier fight. *smirks* }
+Plh_130 { $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationDieDunkle$ coins. This will make for a much easier fight. *grins* }
 
 Plh_132 { Here are the coins. (hand over $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationDieDunkle$ coins) }
 
-Plh_133 { Since you're one of us, let's say $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationAdaBorisTeam$ coins. This will make for a much easier fight. *smirks* }
+Plh_133 { Since you're one of us, let's say $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationAdaBorisTeam$ coins. This will make for a much easier fight. *grins* }
 
 Plh_135 { Here are the coins. (hand over $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationAdaBorisTeam$ coins) }
 
-Plh_134 { $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationAda$ coins. This will make for a much easier fight. *smirks* }
+Plh_134 { $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationAda$ coins. This will make for a much easier fight. *grins* }
 
 Plh_136 { Here are the coins. (hand over $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EsterManipulationAda$ coins) }
 
-Plh_124 { I saw your battle. Well fought! *smirks* You can always count on me! }
+Plh_124 { I saw your battle. Well fought! *smiles* You can always count on me! }
 

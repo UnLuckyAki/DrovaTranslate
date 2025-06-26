@@ -1,0 +1,34 @@
+Workbench { Workbench }
+
+Furnace { Bloomery }
+
+Fireplace { Campfire }
+
+Personal { Personal }
+
+Recipes { Recipes }
+
+Title_Panel { Craft }
+
+Toggle_CraftableOnly { Display Craftable Recipes Only }
+
+Foldout_Throw { Tools }
+
+Foldout_Ammo { Ammunition }
+
+Foldout_Trinkets { Jewelry }
+
+Foldout_Food { Food }
+
+Foldout_Heal { Healing }
+
+Foldout_Unsorted { Unsorted }
+
+Title_CraftingStation { Work Area }
+
+Prefix_RequiredWorkbench { Required: }
+
+Foldout_Potion { Potions }
+
+Foldout_Crafting { Processing }
+

@@ -1,0 +1,38 @@
+TExt { The extraction in the moor has been completed. All three crystals have been imbued with primal force.<br>The Red Tower has decreed that the crystals shall be used immediately.<br>One crystal shall be delivered to the eastern knoll, in order to expedite nature manipulation research. Everything has been prepared. The experiments are designed to counter Drova's atrophy.<br>The second crystal has been sent to the temple of Avelios, in order to activate the Imperian Eye.<br><br>Upon his request, the final crystal has been assigned to Drivanius himself. Library,<br>Quintaria 277 a.Av. }
+
+Library_0 { History of Rune Magic I.<br><br>Power runes are the primary form of rune magic. These runes harness the primal force of the spirits of nature, but without transforming it.<br>There are runes that allow whoever wields them to overcome space and time or to change our bodies.<br><br>Discharges are probably the simplest applications for these. However, discharges can be employed in combat with devastating effect. }
+
+Library_1 { History of Rune Magic II.<br><br>The first deviation of the primal force is the manipulation of nature.<br>Influencing growth and the runes associated with this procedure are considered a form of rune magic which can also be employed by the feral life forms in Drova.<br>Runes from that magical discipline can be used to enable plants to sprout from the soil with breathtaking speed. Other natural phenomena, such as affecting the weather, might be possible as well. }
+
+Library_2 { History of Rune Magic III.<br><br>Researching the runes of fire has proven quite challenging.<br>Even slight deviations from the shape of those runes can lead to unbridled conflagration.<br><br>Many rune weavers considered this reason enough to stop searching for additional fire runes, which is why only a handful are known to us. }
+
+Library_3 { History of Rune Magic IV.<br><br>Even though fire runes are a part of the primary forms of rune magic, they are less known and less frequently employed. Because of their destructive powers, fire runes are both difficult to engrave and to utilize.<br><br>Users need to exercise caution.<br>Even less understood are sonic runes. These can be used to manipulate sound in such a way that it turns into fire or poison. Since this type of magic often is connected with the primary forms of magic, the sonic runes are sometimes erroneously associated with the other forms.<br><br>The summoning runes possess a special trait. In order to use them, one must first inscribe them onto a spell scroll.<br>Afterwards, these runes allow for the summoning of wild creatures that will obey the summoner's commands. }
+
+Library_EnergyRoom_Notes { Research report.<br>The concept of the runestones works and has been proven. Once connected with the primal force, the runestones serve as an exponential amplification of the force which we humans can muster ourselves.<br><br>A new masterpiece from the collaboration between Lucius and Drivanius. We'll have to entreat the Red Tower to capture another spirit of nature. Otherwise, mass production will not be possible.<br><br>Caius<br>28 Secundora 256 a.Av. }
+
+Library_NatureRoom_Notes { Heart of the Sprigga.<br>Properties:<br>Completely encased in bark<br>Pumps liquid sap through the Sprigga's veins.<br>Resonates with a spirit of nature and is able to siphon its power<br>Transforms the power of the spirit of nature into growth power<br>Record Spriggas' power flow in runes in order to direct growth power.<br><br>Undarum 273 a.Av. }
+
+Library_SoundRoom_Notes { The newly built prototype isn't working either.<br><br>We did manage to get it to record something, but whatever the device plays back seems to be something else entirely.<br>In a strange way, these sounds seem to affect one's mind.<br><br>It might be possible to develop runes that use sound to manipulate the target's mind. Research will be halted, however, due to prioritizing the silver transmutation research.<br><br>Caius,<br>Primara 268 a.Av. }
+
+Library_CircleRoom_Note1 { The teleportation circles work.<br>However, their range is rather limited.<br><br>We're going to need a lot more power to establish a connection over greater distances. Lucius will be informed presently.<br><br>Octavina 274 a.Av. }
+
+Library_CircleRoom_Note2 { Additional funding has borne fruit: The transmutation circle is working.<br>Now we can reverse the silver's properties. The power will not be amplified outward, but rather focused inward.<br><br>With this technology and the appropriate runes, we will face the gods.<br><br>Secundora 269 a.Av. }
+
+Library_GolemRoom_Note1 { Advancements in nature manipulation are thriving—thanks to Lucius' guidance.<br><br>The latest result is a rune that uses primal force that's being channeled into the earth. It creates roots that leave opponents within its area of effect... rooted..<br><br>This success is lifting the spirits of the other weavers.<br><br>For the Red Tower<br>Nonari 265 a.Av. }
+
+Library_GolemRoom_Note2 { There has been a breakthrough in the field of force research regarding maintaining magical power.<br>A special rune was developed that generates concentrated discharges that can be maintained over a longer period of time. }
+
+Library_GolemRoom_Note3 { We made a mistake researching fire runes.<br>The research center has been destroyed.<br><br>Rune weaver Maximus lost his life, but only after allowing some important realizations to be made:<br>I was able to contain the explosive diffusion of the primal force within a very powerful rune. We believe this rune is perfectly suitable for your endeavor.<br><br>Caius<br>Decembrin 274 a.Av. }
+
+Library_GolemRoom_Note4 { After the first runic golem was successfully teleported from the Red Tower into Imperia's capital, it proved itself.<br>Apparently it was highly effective against a rebellious force in one of the outer provinces.<br><br>The senate is hoping for additional specimens and new inventions that will strengthen Imperia.<br><br>Tertiusa 276 a.Av. }
+
+Library_SpearRoom_Note1 { Master rune weaver Lucius,<br><br>I was deeply impressed by your insight into rune spears. Your plans for the extractor in the moor are hereby approved!<br><br>I am convinced that we can fill up the crystals enough in order to fuel even bigger and more powerful constructs.<br><br>The Red Tower<br>Septara 271 a.Av. }
+
+Library_SpearRoom_Note2 { Research report.<br>Due to the contact with the earth, the rune spears siphon primal force from the local spirit of nature.<br>The power is emitted without interference by the nearby rune weavers.<br><br>Should we manage to harness the natural resonance of the red crystals, they should be able to emit the primal force to them.<br><br>Quartaris 269 a.Av. }
+
+Library_SpearRoom_Note3 { An interesting observation about the rune spears:<br>After they have been active for a while, a strange substance forms around the entry point.<br>According to Caius, the spear's viability has been sufficiently proven. Now we need to explore additional applications.<br><br>Primara 270 a.Av. }
+
+ShiftingPriorities { Announcement from the Red Tower to all research facilities.<br><br>Production of new crystals needs to be put on hold for the time being; development of the power manifolds must receive highest priority.<br><br>We do not know how long research below the Library can be continued.<br><br>Primara 283 a.Av. }
+
+Library_SoundRoom_Notes2 { The Resonance Horns are now functioning according to specs. We've tested several instruments, including horn and lyra. Apparently, they are not only capable of registering sound, but can even distinguish the various notes played on the lyra. }
+

@@ -1,0 +1,20 @@
+Entry_01 { Someone stole a package from Asmus, and I'm supposed to retrieve it. He doesn't have the slightest clue as to who might have taken it. I should ask around on his behalf. }
+
+Entry_02 { Afrin admitted that he knows where that package is. But he isn't telling me. I've got to figure it out myself. }
+
+Entry_03A { I convinced Afrin to talk to Asmus. He told me that I can find the package in the apple grove, near the tree next to the stack of wood. Afterward, I'm supposed to come see him. }
+
+Entry_03B { Sometimes, fists speak louder than words. The package has been buried in the apple grove, near the tree next to the stack of wood. }
+
+Entry_03C { Afrin offered to simply buy the package from me. }
+
+Entry_03D { I bought the clue from Afrin. The package has been buried in the apple grove, near the tree next to the stack of wood. }
+
+Entry_04 { The package is finally in my hands. Now I just need to take it back to Asmus. }
+
+Entry_05 { Asmus has his package back, and I've been duly rewarded. }
+
+Title { The Stolen Package }
+
+Entry_06 { The matter has been resolved. }
+

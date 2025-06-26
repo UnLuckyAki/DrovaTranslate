@@ -1,0 +1,16 @@
+Title { Lost Bag }
+
+Entry_01 { A merchant named Lobo offered to take me into Nemeton, if I retrieve his "bag" for him. He dropped it into the moor, near the boundary stone in the apple grove. }
+
+Entry_02 { I've got the bag. Lobo will be glad. }
+
+Entry_03 { Lobo was very pleased. He offered to take me into Nemeton. }
+
+Entry_04 { Finally, I'm in Nemeton. }
+
+Entry_06 { I no longer need Lobo in order to enter Nemeton. }
+
+Entry_03_01 { Lobo doesn't care about the pack. All he wants is the red ornate stone inside it. Should I give it to him? }
+
+Entry_03_Cancel { I beat up Lobo, and now he wants nothing to do with me. }
+

@@ -1,0 +1,98 @@
+Plh_0 { About quests... (nf) }
+
+Plh_1 { Do you know anything about other quests? (nf) }
+
+Plh_3 { End conversation }
+
+Plh_8 { Hm, nah. }
+
+Plh_57 { You're not getting away from us again! }
+
+Plh_4 { Hey, there! You, on the path there! Traveling alone? COMPLETELY alone? That's bold... It's dangerous here. }
+
+Plh_10 { I'm on my way to Nemeton. }
+
+Plh_11 { I don't want any trouble... }
+
+Plh_12 { That's none of your business. }
+
+Plh_15 { Ah, Nemeton. How dangerous! Someone got robbed there the other day, isn't that right, Jimmy? }
+
+Plh_6 { *grunts* Yup. Got beaten black and blue. But I've heard they're walking again... Well, limping! }
+
+Plh_16 { But you're lucky we're the ones who found you. You'll definitely want our help to get to Nemeton safely. }
+
+Plh_22 { Thanks, I could use it. }
+
+Plh_21 { I don't need any help. }
+
+Plh_24 { It's quite simple. Just keep following the path, and you'll get there. }
+
+Plh_25 { *grunts* Yeah, just follow the path. }
+
+Plh_23 { We're here only to warn you and to help you. For there is an evil, evil creature lurking in the Red Moor. It attacks poor and innocent people — people like you! }
+
+Plh_44 { *hocks up a boogie* Evil, yep. Eeeevil! }
+
+Plh_26 { It can smell coin, this creature. The more someone's carrying around, the more aggressive it gets. }
+
+Plh_27 { That sounds awful. Can you help me somehow?! }
+
+Plh_28 { Good thing I don't have any coins on me. }
+
+Plh_29 { Heh? Am I supposed to believe that? There's no such monster. Let me pass. }
+
+Plh_31 { There are three of us. The monster wouldn't attack us. You, though, that's another story. We're also heading to Nemeton right now. Give us your $GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$ coins, and when we meet there, we'll return them to you. }
+
+Plh_45 { We'll guard your coins as though they were our very own! *sniffles* }
+
+Plh_46 { Exactly. We're reliable and trustworthy. You can see that, can't you? }
+
+Plh_34 { All right... Seems to be the safest solution for me (hand over $GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$ coins). }
+
+Plh_35 { How do you know that I have $GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$ coins? }
+
+Plh_36 { I don't have any coins on me. }
+
+Plh_41 { Excellent. Just follow the path, and you'll eventually reach Nemeton. We're still taking a short break here. We'll catch up with you at sunrise, and then you'll get your coins back. See you later. And don't let yourself get torn to pieces by anything. }
+
+Plh_42 { *grunts* Take care of yourself! }
+
+Plh_43 { These aren't $GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$ coins. Have a closer look... }
+
+Plh_60 { Cut the crap. }
+
+Plh_30 { Here's the only thing that's going to happen here: you'll hand over those coins. We know from Boris that you've got them. }
+
+Plh_39 { Jimmy's just got the nose for it. He's never been wrong. }
+
+Plh_40 { *grunts* Never! }
+
+Plh_47 { And that's how we know you've got $GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$ coins on you. We're very worried about you, you know? That's dangerous! }
+
+Plh_32 { What do you mean, no coins? }
+
+Plh_37 { *sniffs* Huh? I can almost smell it. You've got $GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$ coins. }
+
+Plh_38 { Jimmy always knows whenever someone's lying. Why are you lying to us? We only want to help! }
+
+Plh_17 { Trouble? You won't get any. Walking alone around here can be very dangerous. }
+
+Plh_18 { It's dangerous here. I call it the moor of the dead! }
+
+Plh_19 { As if that were any of our business, you little twerp. }
+
+Plh_20 { Calm down, Jimmy. I'm sure they didn't mean any harm. It'd be pretty stupid to get angry if you want to go into the moor alone. You might as well go kicking the bear. }
+
+Plh_48 { *rubs his arm* All right, you win... }
+
+Plh_52 { How did you know about the coins? }
+
+Plh_54 { We just, like, heard somewhere... }
+
+Plh_56 { Fine, fine... *groans* }
+
+Plh_49 { Make tracks! We've got what we wanted. }
+
+Plh_50 { See you in Nemeton, then. We'll be waiting at the entrance. }
+

@@ -1,0 +1,12 @@
+Inventory_AssignQuick_PC { $INPUT:Quickbar_1$, $INPUT:Quickbar_2$, $INPUT:Quickbar_3$, $INPUT:Quickbar_4$: Assign to quickbar }
+
+Inventory_AssignQuick_Joystick { $INPUT:QuickslotAssignment$+$INPUT:Quickbar_1$$INPUT:Quickbar_2$$INPUT:Quickbar_3$$INPUT:Quickbar_4$ Assign to Quickbar }
+
+Inventory_GarbageToggle_show { Display Junk }
+
+Inventory_GarbageToggle_hide { Hide Junk }
+
+Inventory_MarkAsGarbage { Mark Item as Junk }
+
+GarbageFeedback { Junk filter active }
+

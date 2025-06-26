@@ -1,0 +1,100 @@
+Plh_12 { If you cause trouble, you'll be out of here in no time. Keep your hands to yourself. }
+
+Plh_13 { What exactly are the rules here? }
+
+Plh_14 { Where can I find everything here? }
+
+Plh_15 { Can you tell me something about Nemeton? }
+
+Plh_16 { If you attack someone, you won't be forgiven easily. You'll have to pay a fine to Gerdwin, in the Fighters' Quarter. If you push your luck, that mistake will be your final one. }
+
+Plh_17 { Located in the far north are the merchants, from whom you can buy everything you need. South from there are the fighters. Angus is their boss, and he determines who's allowed to do what in Nemeton. }
+
+Plh_19 { Farther south, you'll find the Crafters. From them, you can learn how to make traps, ammunition, and potions. }
+
+Plh_20 { To the east is the Lost Quarter. Unfortunately, there aren't enough Crafters to maintain all the huts. }
+
+Plh_18 { Nemeton is the first and largest camp here in Drova. Back then, the Remnants were still part of Nemeton. But Jero left us and founded the Remnants' camp, taking a lot of good people with him. }
+
+Plh_86 { What do I need to know about Nemeton? }
+
+Plh_88 { People like you have access to three quarters in Nemeton. }
+
+Plh_89 { Right by the West Gate is the Market Square. You can buy anything you might need there. Or sell, if you need a few coins. }
+
+Plh_90 { In case someone has it in for you, seek protection with the fighters. But actually, this place is for the fighters of the Nemeton, not for newbies. You can find the fighters right next to the Market Square. }
+
+Plh_91 { And then there are the Crafters. You'll find them near the menhirs, at the southernmost part of the camp. The way you look, you might be able to find work there. }
+
+Plh_87 { What are the rules here? }
+
+Plh_92 { Actually, it's self-explanatory. }
+
+Plh_93 { Keep your mitts off things that don't belong to you. Don't just randomly walk into someone's house. Some folks won't react very kindly to that. }
+
+Plh_94 { And don't get mixed up in any brawls. Gerdwin really doesn't want anybody getting into fights in Nemeton. }
+
+Plh_95 { If you do get into trouble, go to Gerdwin in the Fighters' Quarter. He can pardon your misdeeds. }
+
+Plh_96 { In exchange for a small donation to Nemeton, of course. }
+
+Plh_84 { Hey. }
+
+Plh_54 { I thought someone else from the Remnants was coming over here. }
+
+Plh_56 { Attacked the Remnants' camp? }
+
+Plh_55 { What happened here? }
+
+Plh_57 { A large group of warriors in red armor came in our direction. We thought they were going to attack us, but they turned the other way. One of them said that they would kill us, should we dare to head north. }
+
+Plh_58 { "The Floodplain Forest is ours," they said. You've got to watch out — they won't hesitate, and they will kill you. A war is looming. }
+
+Plh_59 { Somehow I've got to reach the knoll — do you know a way? }
+
+Plh_61 { To the knoll? The Remnants probably want to head there too. Why else should they come here? }
+
+Plh_62 { Jendrik has already been up there, but that was a long time ago. If anyone knows, he does. }
+
+Plh_63 { But watch out. We'll hold the fort here. I don't think they're after the Woodcutter Camp. Not yet. }
+
+Plh_64 { Almost. But no, we're unharmed. }
+
+Plh_53 { Have I seen you before? You assisted us when we were attacked here! }
+
+Plh_67 { This is a good friend. $GVAR:EVars_Player.Name$ helped us repair the bridge. Despite the Remnants' armor, $GVAR:EVars_Player.Name$ is a good person. }
+
+Plh_68 { We don't want to be dragged into Nemeton's problems, or into the Remnants' difficulties either. What do you want here? }
+
+Plh_69 { We've got warriors throughout the Floodplain Forest. You won't get anywhere on your own. }
+
+Plh_65 { Relax, we don't want a quarrel. I just wanted to buy some wood. }
+
+Plh_66 { I don't see them here. It's just the two of us. }
+
+Plh_72 { I want to go up to the knoll. Do you know how I can get there? }
+
+Plh_75 { Your best bet is to report to Jendrik. Even though you're one of the Remnants, we are deeply in your debt. }
+
+Plh_73 { Without you, back then we wouldn't have made it, and I'm also in your debt. I won't harm you. }
+
+Plh_74 { We don't know that, and the forest is crawling with Nemeton warriors. No way you'll get through. Turn around. }
+
+Plh_9 { Gerdwin has sent reinforcements? Come quickly. The Woodcutter Camp is under attack! }
+
+Plh_27 { Hey, you — even if you are one of the Remnants — the Woodcutter Camp is under attack! We need help! Come quickly! }
+
+Plh_85 { Don't do anything stupid. Then everything can go very well for you around here. }
+
+Plh_98 { Everything is safe here. Well done. }
+
+Plh_25 { I'll stay here and keep watch. I'll tell Gerdwin we were attacked, but that everything's secured now. You really saved our bacon! }
+
+Plh_28 { Thanks for your help, but Nemeton will take charge from here. }
+
+Plh_26 { I'm reluctant to say it, but we needed every fighter. Even someone from the Remnants. }
+
+Plh_24 { *groans* Colin's bought it. You fought well. }
+
+Plh_23 { There are still critters here. We've got to kill them all. }
+

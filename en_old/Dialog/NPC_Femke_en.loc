@@ -1,0 +1,88 @@
+Plh_25 { I want the armor. }
+
+Plh_37 { I'm looking for a bearskin for the old man. Do you have one? }
+
+Plh_36 { What, was he whining to you too? }
+
+Plh_41 { THAT'S MY TROPHY. }
+
+Plh_52 { No way you're getting it. }
+
+Plh_42 { I strangled that bear after a tough fight! I earned that bearskin. And I'm not letting it go! }
+
+Plh_38 { You could give him a sheepskin. He won't know the difference anyway. }
+
+Plh_39 { Listen, you can buy one from me. And since it's for the old man I'll even give you a discount. Only $GVAR:QuestVars_OldMen_Config.FemkeOfferPrice$ coins. Then everyone's happy. }
+
+Plh_43 { I can't screw over the poor old man. }
+
+Plh_44 { I'll take the sheepskin. (Pay $GVAR:QuestVars_OldMen_Config.FemkeOfferPrice$ coins) }
+
+Plh_45 { I'll have to think about it. }
+
+Plh_46 { Then he can keep whining about not having a bearskin. What's mine is mine. }
+
+Plh_47 { Excellent! You'll see. He won't know the difference. }
+
+Plh_49 { Here you go. }
+
+Plh_51 { Come back when you've got some coins. }
+
+Plh_48 { As you wish. The sheepskin isn't going anywhere. }
+
+Plh_35 { I'll be here all day. Come back if you need anything. }
+
+Plh_4 { Hm, this nose, this mouth, these eyes... unfamiliar. You must be new, right? And you want to join the Nemeton. Am I right? }
+
+Plh_16 { Hey, I haven't seen your face around here before. My name is Femke. I can sell you whatever you need for battle. }
+
+Plh_5 { Yes, I want to join the Nemeton. }
+
+Plh_6 { No, the Nemeton don't really interest me. }
+
+Plh_7 { Then you're in luck! }
+
+Plh_34 { You can call me Femke. Because that's my name, after all. }
+
+Plh_9 { *quietly* All the people around here are a little suspicious. Gaining their trust is going to be tough. }
+
+Plh_11 { How did you convince them? }
+
+Plh_10 { Can you help me do that? }
+
+Plh_12 { *smirks* They've noticed how beneficial it is to have me in the camp. }
+
+Plh_13 { As you've noticed it isn't safe on the Red Moor. That's why everyone in Nemeton is pretty good at fighting. As you must be, as well. }
+
+Plh_14 { And appearances are everything. If you look like a warrior, then they'll treat you like one. And for that I have something for you... }
+
+Plh_15 { Leather armor. Better and stronger than that weird outfit of yours. This piece ought to help you survive longer on the Red Moor. }
+
+Plh_22 { *sighs* I still remember when I first arrived in Nemeton. No coins, no friends. I'll sell it to you for... }
+
+Plh_23 { $GVAR:EVars_Femke.CostArmor$ instead of $GVAR:EVars_Femke.CostArmorFake$ coins. }
+
+Plh_53 { Not interested. }
+
+Plh_54 { Sounds interesting. }
+
+Plh_55 { Hey, no worries. I'm just offering. }
+
+Plh_56 { I've got some other stuff that may interest you. Everything a hunter needs. }
+
+Plh_17 { *sizes you up* The way you look, the Nemeton will hardly even be interested in you. }
+
+Plh_20 { Do that. You'll find everything you're looking for here, in the Market Square — as long as you have enough coins in your bag. But nobody in Nemeton will pay any attention to you if you go around looking like that. }
+
+Plh_24 { Good choice. Do you have the $GVAR:EVars_Femke.CostArmor$ coins? }
+
+Plh_26 { Here are the coins. }
+
+Plh_29 { *counts the coins* All right, here's your armor. This should help you survive on the Red Moor. }
+
+Plh_30 { You haven't given me enough coins. Come back once you have enough. }
+
+Plh_28 { Then think about it. You know where to find me. }
+
+Plh_33 { I stock only the very best wares. Have a look around. Take your time. }
+

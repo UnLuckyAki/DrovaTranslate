@@ -1,0 +1,24 @@
+Pre0_Name { The Captive Divinity }
+
+Pre0_Text { Now that the spirit of nature has been apprehended, magical power is being extracted fast and reliably. It doesn't seem to like its predicament, but it'll never be able to escape on its own. We've established a facility near the eastern obelisk from which this operation is being directed.<br><br>30. Primara 275 n.T. }
+
+Pre1_Name { The Depths of the Bygones }
+
+Pre1_Text { IMPORTANT INFORMATION REGARDING THE USE OF THE EXTRACTOR.<br>The passage to the impaled spirit of nature can be established only after the magical power accumulated underground has been discharged into crystals. This needs to be done frequently — we do not yet know how the excess magical power will manifest itself.<br>Keep in mind that uncovering the passage will stir up the impaled one's energies.<br><br>This information must be distributed to anyone wishing to take the key that opens up the passage in the center of the extractor. }
+
+BossDungeon0_Name { Beneath the Knawd Moor I }
+
+BossDungeon0_Text { More fleshlike ulcers are forming — some of which take on striking shapes. Some resemble limbs, others look almost like... primal eyes? These events cause increasing discomfort amongst the research staff.<br><br>Supervisor Plotonius will not be pleased, but I'll request that the Red Tower be notified.<br><br>13. Octavina 276 n.T. }
+
+BossDungeon1_Name { Beneath the Knawd Moor II }
+
+BossDungeon1_Text { As discussed with rune weaver Lucius, the excrescences on the spirit of nature's body have been removed. The healers report that the casualties of the incident will survive but will have to be moved soon. In the vicinity of the spirit of nature, the efficacy of the healers' tinctures seems diminished. Another unpleasant phenomenon...<br><br>30. Tertiusia 277 n.T. }
+
+BossDungeon2_Name { Beneath the Knawd Moor III }
+
+BossDungeon2_Text { It's not just these horrific ulcers! During the latest examination, I thought I heard animalistic screams. They sounded anguished... and then there was this eye... I believe it was watching me...<br><br>I'll request a transfer, and I advise you to do the same! }
+
+IntroFleshMoor_Name { Incident Beneath the Extractor }
+
+IntroFleshMoor_Text { There's been an incident involving the impaled spirit of nature beneath the extractor. Therefore, we request immediate support by a high-ranking rune weaver.<br><br>Imperia relies on the continuing flow of magical power — hence, this request needs to be granted with the utmost urgency!<br><br>Supervisor Plotonius, 24. Tertiusia 277 n.T. }
+

@@ -1,0 +1,64 @@
+Plh_12 { *You see a peculiar lantern in front of you. Nearby, you hear faint whispering and moaning.* }
+
+Plh_15 { *Three skeletons are gathered around the lantern. They're all facing it with their empty hands stretched out before them.* }
+
+Plh_13 { (touch lantern) }
+
+Plh_14 { (give skeleton fossil) }
+
+Plh_34 { (take ring) }
+
+Plh_19 { *The lantern trembles slightly as you touch it. The chain squeaks. It sounds almost like a wail of lament.* }
+
+Plh_20 { *As you hand the fossil to the first skeleton, you see something resembling a recollection...* }
+
+Plh_23 { *In great pain, you're lying beside a pond. The end feels near. Someone is holding your hand.* }
+
+Plh_24 { *You sense something departing your body. You hear a scream. The hand that was holding yours pulls away.* }
+
+Plh_25 { *Looking down, you see thousands of tadpoles squirming on the ground. They're struggling to reach the pond.* }
+
+Plh_26 { *Suddenly, you come to, and as the skeleton in front of you sinks into the ground, you hear a sigh of relief...* }
+
+Plh_21 { *Another memory floods you again as you press the fossil into the skeleton's hand...* }
+
+Plh_27 { *You're a stonemason. All your life, you've been carving rocks and crafting statues, priding yourself on breathing life into stone.* }
+
+Plh_28 { *You spent more and more time with your work, eventually driving your family away. One day, you fall asleep on the job.* }
+
+Plh_29 { *As you waken, you find yourself unable to move. You see nothing, hear nothing. Something's lying on top of you. You become aware that you've fused with your artwork.* }
+
+Plh_22 { *You give the fossil to the last remaining skeleton. Once more, you behold a recollection...* }
+
+Plh_30 { *You're standing in a basement, surrounded by groans and sobs. You feel tired...* }
+
+Plh_31 { *There are others. You approach one, and insist that he look into your eyes. Only those who can return your gaze long enough have any hope of recovery.* }
+
+Plh_32 { *The eyes of the man fall shut. He breathes with difficulty. Yet another one beyond treatment. As you look around, all avert their gazes.* }
+
+Plh_33 { *You come to. After the last skeleton has disappeared into the ground, a new skeleton rises. It holds out a ring to you.* }
+
+Plh_35 { *As you take the ring, you sense within it a powerful force. Your heartbeat quickens, and the blood surges through your body.* }
+
+Plh_0 { *The skeleton before you clasps its hands over its chest. It looks up, almost as though it could see you.* }
+
+Plh_1 { (open the skeleton's hands) }
+
+Plh_2 { (meet its gaze) }
+
+Plh_4 { *Touching the skeleton's hands, you momentarily feel a peculiar presence, but it quickly retreats. You cannot move the skeleton's fingers.* }
+
+Plh_5 { *You stare back at the skeleton. The longer you look, the more powerfully drawn to it you feel.* }
+
+Plh_7 { (continue meeting its gaze) }
+
+Plh_8 { (look away) }
+
+Plh_6 { *You dare not break off eye contact with the skeleton. You're fully focused. You don't even notice how your hands are slowly moving toward the skeleton's...* }
+
+Plh_10 { *You keep gazing into the skeleton's eyes. You sense movement at your hands. Then your hand closes around an oddly shaped object.* }
+
+Plh_11 { *Suddenly, you feel refreshed and vibrant. It seems that the skeleton is no longer gazing at you.* }
+
+Plh_9 { *As you shift away your gaze, a sudden sense of loss overwhelms you.* }
+

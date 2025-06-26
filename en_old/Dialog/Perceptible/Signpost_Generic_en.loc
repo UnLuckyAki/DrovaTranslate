@@ -1,0 +1,16 @@
+Plh_0 { East: Woodcutters, Georgefarm<br>West: Remnants' camp }
+
+Plh_1 { North: Woodcutters<br>South: Georgefarm<br>West: Remnants' camp }
+
+Plh_2 { North: The Pit<br>East: Woodcutters<br>South: Remnants' camp }
+
+Plh_3 { North: Remnants' camp<br>East: The Pit<br>South: The Headless Ripper Inn }
+
+Plh_4 { North: Remnants' camp<br>South: Nemeton }
+
+Plh_5 { North: Georgefarm<br>East: Nemeton<br>West: The Headless Ripper Inn and Remnants' camp }
+
+Plh_6 { North: Georgefarm<br>South: Nemeton }
+
+Plh_7 { North: The Pit<br>South: Remnants' camp }
+

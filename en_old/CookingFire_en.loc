@@ -1,0 +1,20 @@
+Plh_3 { *You see a pot of boiling water. Apparently, there still isn't anything in it.* }
+
+Plh_4 { (add mushrooms) }
+
+Plh_6 { *The mushrooms sink into the water, releasing a comforting, delicious aroma.* }
+
+Plh_7 { (put the meat in the pot) }
+
+Plh_8 { (do not put the meat in the pot) }
+
+Plh_9 { *The meat sinks into the pot, mingling with the mushrooms. Together, they create a delicious aroma.* }
+
+Plh_10 { *The aroma makes your mouth water.* }
+
+Plh_11 { (you take a taste from the ladle) }
+
+Plh_13 { *Your empty stomach grumbles briefly. You feel the warmth of the food, and slowly your strength returns.* }
+
+Plh_0 { *A strong, pungent odor wafts from the pot. Various plants are simmering in it.* }
+

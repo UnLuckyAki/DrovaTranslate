@@ -1,0 +1,28 @@
+WellLadder_Name { Well }
+
+Plh_0 { *A deep well. You look into it. There is only blackness.* }
+
+Plh_2 { Hello! }
+
+Plh_9 { $GVAR:EVars_Player.Name$ is great! }
+
+Plh_15 { Punch him in the face, says the Hewer... }
+
+Plh_11 { (toss in a coin) }
+
+Plh_4 { (examine the well) }
+
+Plh_8 { (climb down) }
+
+Plh_3 { Hello... Hello... }
+
+Plh_10 { ... is bait... is bait... }
+
+Plh_16 { ... fewer... fewer... }
+
+Plh_13 { *You toss a coin into the blackness and watch it disappear. Now you're one coin poorer.* }
+
+Plh_5 { *You spot something — it looks like water.* }
+
+Plh_6 { *Peering into the well, you can make out the bottom. It isn't terribly deep. You could climb down.* }
+

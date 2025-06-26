@@ -1,0 +1,114 @@
+Plh_5 { Your face has already appeared to me in my dreams. I knew you were going to come to me. I'm Lio, rune weaver of Nemeton. }
+
+Plh_95 { What are you doing in this cave? }
+
+Plh_96 { What's wrong with your eyes? }
+
+Plh_97 { I live here. To study magic and the conduit of power and spirit. Without power, you cannot create magical power. You have to fight, so your body can create magical power. }
+
+Plh_99 { And magical power has its price. I lose my eyesight and wither from within. But we will all wither, eventually. }
+
+Plh_19 { Let us begin... }
+
+Plh_30 { It is time. Finally! }
+
+Plh_20 { Karotte and $GVAR:EVars_Player.Name$. You brought home the Mighty Boar and released its power. Now this power will aid you. }
+
+Plh_21 { O Divinity! Bless this runestone. Be it the vessel for your might! A vein of magic! }
+
+Plh_32 { Become one with the Divinity! Become one with this rune! It shall become a part of your body! }
+
+Plh_35 { The ritual is completed. One runestone was bound with Karotte, another with $GVAR:EVars_Player.Name$. }
+
+Plh_36 { A runestone is useless without a spell. Lio will imprint a first spell into your runestone. }
+
+Plh_38 { Come to me, Karotte. }
+
+Plh_24 { Your runestone shall be bound with you. Only in death can this bond be destroyed. }
+
+Plh_40 { Here, take your runestone and carry it with honor, Karotte. }
+
+Plh_41 { *grasps the runestone* It's tingling in my hand. }
+
+Plh_42 { That's the bond between you and the stone. Only you can use this runestone. }
+
+Plh_52 { $GVAR:EVars_Player.Name$, now you. }
+
+Plh_44 { (move) }
+
+Plh_46 { Your runestone — the power of the Mighty Boar — is now a part of you. }
+
+Plh_47 { Well done, Lio. You've earned a break. }
+
+Plh_48 { Karotte and $GVAR:EVars_Player.Name$, remember, carrying a runestone comes with great responsibility. You now stand for Nemeton. The entire community will be reflected in each and every one of your deeds. Bear that in mind. }
+
+Plh_49 { I shall cherish my runestone. }
+
+Plh_58 { I won't disappoint you. }
+
+Plh_57 { For Nemeton! }
+
+Plh_50 { Karotte, please report to Henik. Your next task awaits you. And you, $GVAR:EVars_Player.Name$, stay here. We must speak about something. }
+
+Plh_61 { The time has come. With this, we'll get into the Red Tower. }
+
+Plh_68 { If Jero knew about that... but we'll be the ones who gain entrance to the Red Tower. }
+
+Plh_69 { The Red Tower is in the Remnants' territory. Are we going to attack them? }
+
+Plh_67 { No. Their fighters are strong, and Jero is a formidable leader. But thanks to the Divine Crystals and the Mighty Boar, at least we stand a chance. *smirks* }
+
+Plh_64 { We'll need magical power for a rune journey in order to overcome the barrier around the Red Tower and enter. }
+
+Plh_71 { This journey will require enormous power. The power of the Mighty Boar is limited, since we imprisoned it in the rune vessel. }
+
+Plh_72 { Can't we free the Divinity and harness its power? }
+
+Plh_77 { How will we get enough power? }
+
+Plh_73 { No, it'd direct his anger towards us. We'd lose our grip on the Boar, and Gradan would have died for nothing... }
+
+Plh_74 { The Divine Crystal! The power of the Divinity can be stored within, and we can harness it for the rune journey. }
+
+Plh_76 { This Divine Crystal doesn't contain any more divine power. We have to imbue it again. However, it is impossible for a single crystal to hold enough of it. }
+
+Plh_75 { We must find out whether more of those Divine Crystals exist. Mombert, you've got to come up with a way to imbue the Divine Crystals with divine power. }
+
+Plh_79 { There's a place where we can probably learn more about the existence of the Divine Crystals. It's an ancient library. Within the ruins. We don't know where, exactly. }
+
+Plh_78 { There is a small group of people who call themselves the Ruin Raiders. I know that they've been to this Library before. }
+
+Plh_93 { Quite a while ago, I contacted a person named Reija. We've been interested in the Library ever since we obtained the Divine Crystal. She can take us there. }
+
+Plh_100 { At the moment she's near the Inn. Meet her there. Tell her I sent you. }
+
+Plh_94 { That's a very important task, $GVAR:EVars_Player.Name$. I'm sure you're up to it. We need all the information about the crystals you can get. }
+
+Plh_80 { I won't disappoint you. }
+
+Plh_85 { As a Guardian of Nemeton, you'll need some decent armor. }
+
+Plh_86 { I can give you light armor, which will allow for greater agility, but doesn't provide as much protection. Or heavy armor that will offer much greater protection, if you get hit. }
+
+Plh_87 { The magic that surrounds us is everywhere. I can also offer you druidic armor. It won't offer that much protection, but it'll enhance your spiritual connection. }
+
+Plh_88 { I'd like the light armor. <br>(92 armor, 59 magic resistance, stamina cost -30%) }
+
+Plh_89 { I'd like the heavy armor. <br>(135 armor, 65 magic resistance, stance damage -50%) }
+
+Plh_90 { I'd like the magic armor. <br>(90 armor, 70 magic resistance, magic damage +20%, base focus +6) }
+
+Plh_92 { Now, that's much better. If you need new weapons, you should go see Chunnaic. And Lio can imprint new spells into your runestone. }
+
+Plh_91 { Fight for Nemeton! Fight for our dream! }
+
+Plh_6 { What's a rune weaver? }
+
+Plh_8 { I craft runestones. They are imbued with the power of a Divinity. So we can use them to cast spells that come directly from the realm of the Divinities. }
+
+Plh_10 { How exactly does a rune weaver do that? }
+
+Plh_55 { Think of a Divinity's power as being like a spider web. As a Rune Weaver, I have to navigate its intricate paths. It requires practice and a lot of strength. }
+
+Plh_56 { We've got to wait for Molvina. }
+

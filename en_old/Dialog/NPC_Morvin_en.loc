@@ -1,0 +1,526 @@
+Plh_261 { I'd like to pick up my winnings }
+
+Plh_153 { I'd like to bet on the next battle. }
+
+Plh_22 { I'd like to bet on the battle between Bady and Gra. }
+
+Plh_162 { How exactly does this thing with the arena work? }
+
+Plh_237 { I haven't seen Bady anymore — what's up with him? }
+
+Plh_303 { Your name sounds unusual. Where's it from? }
+
+Plh_52 { Gra and Bady are ready for their battle. }
+
+Plh_154 { Of course. $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$ will fight $GVAR:DAS_ArenaSystem.MainFight_Participant_02_Name$. The wager is $GVAR:DAS_ArenaSystem.MainFight_DefaultBetAmount$ coins. Who do you want to bet on? }
+
+Plh_156 { I'll bet on $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$. }
+
+Plh_157 { I'll bet on $GVAR:DAS_ArenaSystem.MainFight_Participant_02_Name$. }
+
+Plh_252 { If you place your bets right, you can pick up your winnings tonight, after the arena battle. If not... you can't. }
+
+Plh_375 { If you don't show up, your coins will be lost. }
+
+Plh_258 { You've already placed your bets. You'll learn the results of the battle once it's over. }
+
+Plh_276 { Today you'll fight in the arena yourself, and I've already gotten your wager. You're not allowed to bet on yourself! }
+
+Plh_155 { You want to place a bet? Then come see me later. I'm not doing this here. }
+
+Plh_372 { Usually, you are indeed able to bet on the fighters. At the moment, there are no battles, but the arena will soon reopen. You won't miss that. }
+
+Plh_371 { There's a special battle in the arena. Bady versus Gra! Only after that one will we continue with my own people. }
+
+Plh_161 { When the sun casts its last beams of the day onto Drova, there'll be a battle in the arena. My fighters will be ready to compete! You can bet on who's going to win... and earn coins. }
+
+Plh_253 { The wager is $GVAR:DAS_ArenaSystem.MainFight_DefaultBetAmount$ coins. On someone fighting in the arena. If you win, there will be a huge payout. }
+
+Plh_163 { Take a good look at my people. They train all day in the arena. But only the best are permitted to compete in the main battle! }
+
+Plh_239 { After his defeat at the hands of Gra, he was going somewhere to do more training. I'm not exactly sure where. }
+
+Plh_238 { Bady has taken off, in search of an opponent. But he'll be back. Drova isn't that big, and the best fighters are right here. }
+
+Plh_304 { My name echoes the glory of this arena. The Bygones have built this place. A place of legends. Legends of countless glorious fights. }
+
+Plh_263 { The battle is about to commence. I still have to set something up. }
+
+Plh_365 { Do you need an incentive? A few people bet on you! }
+
+Plh_5 { I am Antonius Proximus! Master of the arena! We are the Marked Ones. And you can place your bets with me! }
+
+Plh_4 { *mumbles into his beard* Yeah, that could work... Maybe I should omit "undefeated"... }
+
+Plh_2 { What are you doing here? }
+
+Plh_6 { Can I fight too? }
+
+Plh_3 { When is the battle going to start? }
+
+Plh_7 { *sizes you up* You can. For a few seconds. After that, you'll be hanged, drawn, and quartered. If you have a death wish, you can go kill yourself elsewhere. }
+
+Plh_8 { *exhales forcefully* The battle should have started by now! But Gra and Bady simply haven't shown up! }
+
+Plh_10 { Why don't you go find out what's keeping them? }
+
+Plh_9 { You can't just leave this place, can you? }
+
+Plh_11 { I've got to set up everything and take the bets. So? Are you going to go find them for me? }
+
+Plh_13 { If you see to it that Bady and Gra show up, you'll witness the battle of your life! Gra wants to restore his former glory, so he's going to compete against the perpetual winner — Bady. }
+
+Plh_14 { So chop, chop! We have to put on a good battle! }
+
+Plh_15 { Why should I help you? }
+
+Plh_17 { Because I'm sure you'll want to see that battle for yourself. All right, fine... place a bet, and I'll put an extra $GVAR:QuestVars_BetThat_Config.ExtraReward$ coins from my coffers on top. }
+
+Plh_18 { Perfect! Bady is probably training, and Gra's been mumbling something about praying to the Divinities. Maybe in the temple east of the Market Square. }
+
+Plh_367 { Talk to both of them. Make sure they're ready. And then report back to me. }
+
+Plh_20 { Should you have taken care of it after all, report to me. }
+
+Plh_12 { Finally, someone's thinking ahead! I can't leave this place. But you can! }
+
+Plh_21 { Bady and Gra still haven't shown up. Are you going to help me already? }
+
+Plh_142 { The battle between $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$ and $GVAR:DAS_ArenaSystem.MainFight_Participant_02_Name$ is over! The winner is $GVAR:DAS_ArenaSystem.MainFight_WinnerName$! }
+
+Plh_281 { I guess your bruises convey to you why Ada is the master of the arena. }
+
+Plh_282 { Well, your coins are gone now. If you want to give it another shot — you know where to find me. }
+
+Plh_283 { I want to fight tomorrow. }
+
+Plh_336 { So soon again? That's the spirit. }
+
+Plh_279 { Sinistra has shown you! She's simply one of my best fighters. }
+
+Plh_266 { Good battle. But Liandra was superior to you. }
+
+Plh_280 { Ebru isn't exactly a people person. Unless he can hurl someone through the arena. }
+
+Plh_333 { Debug Lose / IGNORE }
+
+Plh_291 { The spectators were just raving! Both you and Sinistra have done well. And you won! }
+
+Plh_329 { We've made a bunch of coins. Of course you'll get your share. }
+
+Plh_295 { You defeated all of them. Except Ada. Now we can have the main battle. }
+
+Plh_290 { Well fought! You evaded swiftly and cornered them! The spectators got excited about that. }
+
+Plh_294 { You can go up against Sinistra. Liandra is almost as strong as she is, but so far Sinistra has always remained victorious. I think she's actually holding back. That's going to be exciting! }
+
+Plh_292 { You drew the spectators in really fast — not all that hard to do if you're up against Ebru. No one really likes him, anyway. }
+
+Plh_296 { Liandra is dying to face you. So you just go right ahead. But be careful... She's no Ebru. }
+
+Plh_334 { Debug Win /IGNORE }
+
+Plh_332 { Debug Head1 /IGNORE }
+
+Plh_305 { I defeated Carima, Blaan, and Dark. }
+
+Plh_245 { I want to fight Ebru. }
+
+Plh_268 { I want to fight Liandra. }
+
+Plh_269 { I want to fight Sinistra. }
+
+Plh_270 { I want to fight Ada. }
+
+Plh_307 { Really? Fine... I could actually use some fresh meat for the arena. }
+
+Plh_308 { Let's see how you hold up. }
+
+Plh_310 { If you want to become master of the arena, you'll have to work your way up the ranks. After Ebru, you're going to have to fight Liandra, Sinistra, and finally Ada. The UNDEFEATED Ada. }
+
+Plh_311 { I'll have you fight Ebru. You'll need $GVAR:QuestVars_DAS_WayToArenaMaster_Config.FighterStartPrice$ coins. Depending on which one you fight and how the spectators are betting, you'll get your winnings. }
+
+Plh_312 { What if I don't have the coins? }
+
+Plh_313 { I'm ready for battle. }
+
+Plh_315 { Then go make some, somewhere. I don't care how. }
+
+Plh_316 { Do you have the $GVAR:QuestVars_DAS_WayToArenaMaster_Config.FighterStartPrice$ coins for the battle? }
+
+Plh_271 { That's looking good. Tomorrow night you'll step into the arena. I'm curious to see what kind of figure you'll cut. Or what part of your figure gets cut off. }
+
+Plh_318 { If you want to learn how your opponents operate, you should watch them do battle. That piece of advice is free. }
+
+Plh_319 { You'll start tomorrow night at nine. Get some rest. Go have a drink at the tavern. Tomorrow you'll have to be at your best. }
+
+Plh_274 { You defeated each and every one of them. Only Ada is left. She's been watching you very carefully. It's going to be a fun battle, haha! }
+
+Plh_320 { It's going to be the main battle. Lots to set up, so it'll have to be more expensive. Let's say $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EndFightPrice$ coins. But you'll also make more profit. }
+
+Plh_321 { I want to fight. }
+
+Plh_366 { If you're going to fight Ada, you should be well prepared. }
+
+Plh_323 { Report back to me. }
+
+Plh_330 { Almost nobody bet on you, haha! Meaning, there's going to be a huge payout. And a lotta coins mean a lotta beer. Excellent! }
+
+Plh_297 { The undefeated Ada... has been defeated! $GVAR:EVars_Player.Name$ claims victory in the arena! }
+
+Plh_348 { You fought well. }
+
+Plh_337 { Undefeated... Well... }
+
+Plh_350 { What does it mean to be master of the arena? }
+
+Plh_349 { I was simply too overconfident. A lapse. Dammit... }
+
+Plh_338 { It was only one battle! *grinds her teeth* }
+
+Plh_339 { You're going to have to face facts here. You are not the undefeated Ada anymore. Instead you are... }
+
+Plh_340 { The whiny Ada. }
+
+Plh_341 { The almost undefeated Ada. }
+
+Plh_343 { She doesn't need a nickname. Ada is fine. }
+
+Plh_344 { That works. }
+
+Plh_345 { *grumbles* I'll train even harder to make up for this lapse... }
+
+Plh_346 { You fought well, and you've earned that helmet. Only the victor in the arena may wear this helmet. }
+
+Plh_351 { Hm, I don't have an opponent for you today. Someone has to come forth first. }
+
+Plh_354 { What, no more fighters? }
+
+Plh_355 { Gra has laid down his axe. }
+
+Plh_356 { And there's Bady, but he's no longer with the Remnants. He might even be dead, for all I know. }
+
+Plh_357 { Anyhoo. You should celebrate! Yourself! Your victory! }
+
+Plh_69 { Do you believe in miracles? }
+
+Plh_70 { And the winner and eternal victor: Baaaaaaaaaaaaaaaaaaady! What a battle! }
+
+Plh_72 { Everyone who placed the right bet can come see me and get paid off. And in case you were wrong — better luck next time! }
+
+Plh_74 { Heh heh, hand over my winnings then, Proximus. Well, who's laughing now? }
+
+Plh_75 { *grinds teeth* Take it. And get lost. }
+
+Plh_79 { *turns to you* And you! You bet on Gra, too. Here. Ugh. }
+
+Plh_109 { I haven't forgotten that you helped me fix that battle. And I promised you something... }
+
+Plh_85 { *smirks at you* Here, for you. You did a good job. Gra won, and my pockets are lined with coins. }
+
+Plh_118 { I shall sing your praises to Boris. }
+
+Plh_119 { Here's your cut. Pleasure doing business with you. *smirks* }
+
+Plh_87 { Hey, you bonehead, you wanted to fix that battle! You did nothing! I'm going to warn Boris about you... }
+
+Plh_88 { Ah, goddammit... Get out my way! }
+
+Plh_83 { *turns to you* Well, that's too bad. You win some, you lose some. *smirks* Better luck next time. }
+
+Plh_80 { Proximus! You son of a bitch! Old scumbag! }
+
+Plh_81 { When you gamble, you might lose. You ought to be aware of that. And, as you know, paying gambling debts is a matter of honor. }
+
+Plh_82 { *turns to you* And you! You bet on Bady, too. Here. Ugh. }
+
+Plh_71 { Nobody could've seen that coming. No one believed in him. But today the winner is: GRAAAAAAAAA! }
+
+Plh_278 { The arena has been reopened. And that means there'll be fistfights every night! And that means there'll be bets and winnings, too — even for you! }
+
+Plh_144 { You got a pretty decent hook, but you're going to have to work on your cover! }
+
+Plh_170 { Just waving your weapons around isn't going to get you very far. Neither is hacking and slashing blindly. You've also got to have brains in that noggin of yours! }
+
+Plh_171 { A noogie is what you need. }
+
+Plh_174 { You fought well in the arena. The spectators are cheering! That's the way I like it! }
+
+Plh_175 { Me, I like coins. }
+
+Plh_176 { Yeah, that's Nemeton for you... nothing but coins for a brain. This is about something more! }
+
+Plh_177 { Watch what you're saying. Else I won't be holding back during my next battle. }
+
+Plh_178 { Why don't you guys take it easy? There's someone else here. }
+
+Plh_179 { I'm $GVAR:EVars_Player.Name$. From now on, I'm going to fight with you. }
+
+Plh_181 { Man doesn't live by love alone, we also need coins. }
+
+Plh_186 { Nemeton, huh? Amazing, that you dare venture beyond your walls... }
+
+Plh_187 { Ha! Blaan! No way! We know you from the Woodcutter Camp! I guess they inspired you to fight, huh? *smirks* }
+
+Plh_233 { Thanks to you, I got Snaga back. You can stay. }
+
+Plh_188 { More fighters, more training. Let's drink to that! }
+
+Plh_190 { That's got a nice burn going down. }
+
+Plh_331 { I recommend you take a good belt, $GVAR:EVars_Player.Name$... }
+
+Plh_191 { Why would you recommend that? }
+
+Plh_192 { You're a shield hand now. And you need to be recognized as such right away. That's why we'll mark your body. }
+
+Plh_196 { With the symbol of blood and iron. All the fighters are wearing it. }
+
+Plh_193 { In that case, hand over the booze... }
+
+Plh_210 { I want to witness everything. Let's get started. }
+
+Plh_194 { What kind of a cockamamie idea is that? }
+
+Plh_195 { No. No way. }
+
+Plh_213 { I really don't want to do this. }
+
+Plh_197 { Chug it! Then it'll burn much less. }
+
+Plh_203 { I am Ada, the Undefeated, and we will accept you into our community. Sit over here. }
+
+Plh_200 { (sit down) }
+
+Plh_199 { (have another drink) }
+
+Plh_204 { Close your eyes and embrace the pain. Your new life begins... now. }
+
+Plh_206 { BY ALL THE DAMNED DIVINITIES, THAT HURTS! }
+
+Plh_209 { You are now marked. Open your eyes, shield hand. }
+
+Plh_212 { Now you are one of us. }
+
+Plh_216 { Marked Ones! Let us eat and drink; for tomorrow we shall fight. That's the way I like it. }
+
+Plh_217 { To $GVAR:EVars_Player.Name$! }
+
+Plh_218 { What exactly does it mean to be a shield hand? }
+
+Plh_185 { Blaan, Dark, and Carima are shield hands like you. You'll face each other in training and in battle. Whoever advances may fight in the arena. }
+
+Plh_219 { You're a blade that still needs its final whetting. Blunt for now, but later: deadly. }
+
+Plh_220 { The two of us will fight tomorrow. With the two-handed axe. That's going to be fun! }
+
+Plh_221 { Just keep boozing! That'll just make it easier for me. }
+
+Plh_222 { I can hardly wait. }
+
+Plh_223 { A blowhard! I like that! }
+
+Plh_224 { Save your trash talk for the fight. }
+
+Plh_225 { Celebrate. Drink. Enjoy this day. As long as you can walk upright in the arena and wield a weapon. Blood and iron! }
+
+Plh_234 { I don't like the Nemeton stench in here... }
+
+Plh_236 { I smell nothing but your defeat tomorrow! }
+
+Plh_227 { *turns to you* You've still got some more training to do before I'll allow you to appear before spectators. They expect a show. }
+
+Plh_361 { The cheering of the spectators, the rush of victory... It all does something to you. You'll see. }
+
+Plh_228 { Sounds like you've already gotten to fight? }
+
+Plh_229 { It won't take long. }
+
+Plh_230 { I won't disappoint you. }
+
+Plh_231 { *smirks blissfully* A long, long time ago. Back in Nemeton. We didn't have an arena back then. The Bygones probably built this one. }
+
+Plh_232 { I believe you. Train with Carima and Blaan. }
+
+Plh_363 { Once you've defeated these two, you'll be allowed to challenge Dark. Why isn't he here right now, anyway? Probably up to his ears in work. }
+
+Plh_364 { Once you defeated everyone else, I'll consider sending you to the arena. But that's a long time off. }
+
+Plh_235 { Blood and iron! }
+
+Plh_215 { You're boozing more than I do! Don't overdo it — otherwise you'll be sleeping with the Divinities. }
+
+Plh_211 { You're going to regret this! }
+
+Plh_201 { In the arena, we're all brothers and sisters. This is our mark. }
+
+Plh_202 { Nobody is forced to put their bond to the others on display. It's your choice. }
+
+Plh_214 { The way you fight in the arena will decide whether there's a place for you there. }
+
+Plh_183 { Finally! Someone else is saying that for a change! }
+
+Plh_184 { $GVAR:EVars_Player.Name$ is now going to fight for us. They already defeated Mog. That says a lot. }
+
+Plh_150 { I have defeated Mog! }
+
+Plh_164 { Not half bad! Maybe you've got the right stuff for the arena. }
+
+Plh_243 { I'm done for today. Since you've defeated Mog, it might be time for you to join the Marked Ones. }
+
+Plh_143 { We arena fighters are a community of Marked Ones. We don't care where you're from. They who are marked have been reborn. }
+
+Plh_240 { It doesn't matter whether you're from Nemeton or the Remnants camp. }
+
+Plh_241 { The arena is all that matters to us. The battle. The will. The deed. }
+
+Plh_242 { You shall be one of us. Come, let me introduce you to your brothers and sisters. }
+
+Plh_145 { You weren't with us yesterday. But today you will be. }
+
+Plh_327 { Now, I'll distribute the coins. You're not going to get any, though. }
+
+Plh_277 { You didn't show up for battle. I handed the coins out to the others. Better show up next time! }
+
+Plh_152 { *calls out* Tonight $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$ will face $GVAR:DAS_ArenaSystem.MainFight_Participant_02_Name$. All bets are off! }
+
+Plh_275 { Today you'll fight. Be ready. }
+
+Plh_125 { I accept wagers only at the arena entrance. Nowhere else! }
+
+Plh_255 { Your wager has paid off. Here are your $GVAR:DAS_ArenaSystem.MainFight_BetAmountRewardForPlayer$ coins. }
+
+Plh_257 { The next battle is set for tomorrow. If you want your gold to multiply, you can bet again. }
+
+Plh_259 { You haven't won anything. }
+
+Plh_59 { The arena battle can now begin. }
+
+Plh_56 { The fight shall begin in the evening. And the crowd shall be enthralled. Let's go see it together. }
+
+Plh_61 { The battle everybody's been waiting for! }
+
+Plh_62 { The Big Bady will face the blood heir — Gra! }
+
+Plh_63 { Can Gra find his strength? Or will Bady remain superior? Find out — only here! Only tonight! It's going to be a bloodbath! }
+
+Plh_64 { Don't take it personally, Gra. Today's my day. To a fair and honorable battle! }
+
+Plh_65 { I have my Snaga back, Bady. You ought to flee while you still can! }
+
+Plh_120 { *thumps one arm onto his chest* WRRAAAAGH! BLOOD AND IRON! }
+
+Plh_68 { Can you hear it, people? That silence, before steel meets steel? Before the blade clangs and the blood gushes? Soon... soon... }
+
+Plh_67 { ... The battle begins NOW! }
+
+Plh_66 { To a fair and honorable battle! Blood and iron! }
+
+Plh_53 { Both of them reported to me. Thanks. It's starting soon. Then blood shall be spilled again. }
+
+Plh_54 { Finally! The blood must spill! }
+
+Plh_55 { I'll come back later. }
+
+Plh_57 { I cannot postpone the battle any longer. And after all your help, you mustn't miss it either! I'll make an exception. Let me know when you're ready. }
+
+Plh_132 { Eugen sent me. He thinks I'd qualify for the arena. }
+
+Plh_377 { Boris sent me. I want to fight in the arena. }
+
+Plh_133 { I came from Nemeton. Angus thinks I could fight in the arena. }
+
+Plh_114 { Can I fight in the arena? }
+
+Plh_141 { I defeated Mog. Can I fight in the arena now? }
+
+Plh_134 { Eugen? That means a lot. He could fight here, too, but he doesn't bleed unless he bumps into something when he's plastered. What a waste... }
+
+Plh_136 { I cannot have just anyone fight in my arena. You've got to prove yourself. Demonstrate that you're not a wimp. }
+
+Plh_137 { Mog is a decent guy. He's also pretty new around here, and a bit of a hothead. But he's got spunk, and that's exactly what I expect! }
+
+Plh_138 { Face him. If you defeat him, I'll admit you into my ranks. }
+
+Plh_376 { Hm. Boris talked with me. I don't know how I oughtta feel about allowing one of his people to fight. }
+
+Plh_378 { I can give you a chance. }
+
+Plh_135 { I don't care where you're from, just as long as you put up a good fight and don't faint at the sight of blood. Yours or anyone else's. }
+
+Plh_139 { But since you're from Nemeton, you obviously held a weapon before. }
+
+Plh_127 { Only Drova's finest fight for me! First and foremost, you're going to need some decent equipment. And the right attitude. Come back afterward. }
+
+Plh_116 { I heard you've put up a good fight. All right — you'll get your chance. Come to me tonight. After the main battle. }
+
+Plh_23 { Sure, sure. How much would you like to wager? }
+
+Plh_24 { $GVAR:QuestVars_BetThat_Config.LowBetAmount$ coins. }
+
+Plh_25 { $GVAR:QuestVars_BetThat_Config.MediumBetAmount$ coins. }
+
+Plh_26 { $GVAR:QuestVars_BetThat_Config.HighBetAmount$ coins. }
+
+Plh_40 { I don't want to bet, after all. }
+
+Plh_29 { Chicken feed. Hm. }
+
+Plh_30 { Most people are betting on Bady. Only a few nutjobs are putting their money on Gra. Which fighter would you like to bet on? }
+
+Plh_31 { Bady. }
+
+Plh_32 { Gra. }
+
+Plh_35 { You want to bet $GVAR:QuestVars_BetThat_Config.LowBetAmount$ coins on Bady. Do you wish to place that bet? }
+
+Plh_38 { Yes. }
+
+Plh_39 { No, I want to change my bet. }
+
+Plh_44 { All right! Now all you've got to do is hand over the coins. }
+
+Plh_47 { Excellent. *counts the coins* Come back to me once the battle is over. }
+
+Plh_49 { Oh — I've heard from both fighters. I'll add 50 coins on top of your wager. As promised. }
+
+Plh_45 { No problem. How much would you like to wager? }
+
+Plh_46 { Ugh. All right. Suit yourself. }
+
+Plh_36 { You want to bet $GVAR:QuestVars_BetThat_Config.MediumBetAmount$ coins on Bady. Do you wish to place that bet? }
+
+Plh_37 { You want to bet $GVAR:QuestVars_BetThat_Config.HighBetAmount$ coins on Bady. Do you wish to place that bet? }
+
+Plh_41 { You want to bet $GVAR:QuestVars_BetThat_Config.LowBetAmount$ coins on Gra. Do you wish to place that bet? }
+
+Plh_42 { You want to bet $GVAR:QuestVars_BetThat_Config.MediumBetAmount$ coins on Gra. Do you wish to place that bet? }
+
+Plh_43 { You want to bet $GVAR:QuestVars_BetThat_Config.HighBetAmount$ coins on Gra. Do you wish to place that bet? }
+
+Plh_27 { Someone's feeling lucky today. }
+
+Plh_28 { Bold. Or foolish. We'll see. }
+
+Plh_380 { Hey, you. I've heard about you. You've made quite the name for yourself. I could use someone like you. }
+
+Plh_381 { I could give it a shot. }
+
+Plh_383 { Trust me — once you've stood in the arena, you'll never want to leave. }
+
+Plh_384 { Hey, easy there. Don't sweat it. Think it over. Just go talk to Mog and train with him. }
+
+Plh_379 { Wear this armor with pride. }
+
+Plh_385 { You've proven your prowess, but don't let that go to your head. Now you're up against the elite of the Marked Ones: Drova's best fighters, who train and battle every day — always one eye on the victory. }
+
+Plh_386 { Even if your weapons and armor were forged by the Divinities themselves, you won't have an easy time of it here. Brace yourself for tough battles. }
+
+Plh_387 { Once you manage to score a victory against the shield hands, you will have earned the right to wear the Gladiators' Armor. Spectators love close battles... }
+
+Plh_388 { And I'm telling you: Shortly before you hit the ground, the armor will prevent you from feeling any pain. Well, almost any. Don't know why I didn't always fight half naked. }
+
+Plh_389 { Keep an eye out for spells. The Divinities' magical power inflicts damage that even the toughest fighters cannot withstand. }
+
+Plh_390 { The only good thing I took from Nemeton is my runestone. But it's not like I need it here. }
+

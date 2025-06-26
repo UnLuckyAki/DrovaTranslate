@@ -1,0 +1,14 @@
+Entry_01 { Bernold's cellar is infested with rats, and he needs someone to help him get rid of them. He'll give me some coins as a reward. That should be worth it. }
+
+Entry_02 { I'm in the cellar. Now all I've got to do is to get rid of the rats. }
+
+Entry_03 { The rats in the cellar are dead. Bernold sure will be happy about that. }
+
+Entry_03_A { The rats emerge from a cave and enter the cellar through a hole. Bernold'd probably be happy if I took care of that too. }
+
+Entry_03_B { The rats in the hidden cave are dead. Once I've taken care of the ones still in the basement, I should report to Bernold. }
+
+Entry_04 { Bernold kept his promise. He gave me the coins, and his problem has been solved. }
+
+Title { Rats! }
+

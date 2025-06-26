@@ -1,0 +1,74 @@
+Plh_25 { *furrows his brow* I wouldn't have thought that you'd have that many coins. }
+
+Plh_30 { Well, so... there's nothing in the cargo manifest. }
+
+Plh_31 { What do you mean, there's nothing in the cargo manifest? What's that supposed to mean? }
+
+Plh_32 { That's what I gave you coins for?! }
+
+Plh_34 { We've never received any weapons, which means that the crafters never delivered any weapons to us. Which means, the weapons must still be with them. Or whatever... }
+
+Plh_35 { If you want to find out where those weapons are, you ought to take a look around their quarter. }
+
+Plh_36 { I did my part, and now I've got to get back to work. }
+
+Plh_33 { Hey. easy. If there's nothing in the cargo manifest, then nothing arrived. }
+
+Plh_27 { Hey, I don't want any trouble! I'll tell you anything. }
+
+Plh_57 { What about those weapons? Are they in the camp? }
+
+Plh_4 { [LOCA] Key not found: Plh_4. Path: Dialogues/DialogueTemplate }
+
+Plh_5 { I've got stuff to do. Find someone else to chat up. }
+
+Plh_12 { Did you see weapons being brought into the warehouse? }
+
+Plh_13 { Finally. A break. That's music to my ears. }
+
+Plh_17 { Suit yourself. You know where to find me. }
+
+Plh_18 { Here are your coins. Now what's on the cargo manifest? }
+
+Plh_23 { Finally, a day off. No work. You did good! *smirks* }
+
+Plh_38 { *sighs* Are you snooping around here or what? None of your business. }
+
+Plh_39 { Fia said there's a cargo manifest. That should contain a record of it. }
+
+Plh_40 { True. But it's still none of your business. Are you deaf? }
+
+Plh_42 { I just wanted to know what's going on with the weapons. }
+
+Plh_43 { I want to join Nemeton and need to prove myself. }
+
+Plh_44 { $GVAR:QuestVars_StolenWeapons_Config.MoneyForWilli$ coins. }
+
+Plh_45 { $GVAR:QuestVars_StolenWeapons_Config.MoneyForWilli$ coins and I'll give you a hint. That ought to help you. }
+
+Plh_46 { What? $GVAR:QuestVars_StolenWeapons_Config.MoneyForWilli$ coins? }
+
+Plh_47 { Are you nuts? }
+
+Plh_48 { I don't have that many coins. }
+
+Plh_49 { I could just beat the hint out of you. }
+
+Plh_50 { We're not in the Remnants' camp. If you so much as lay a hand on me the guards will tear you a new one. Think it through. }
+
+Plh_51 { Here are the coins. (hand over $GVAR:QuestVars_StolenWeapons_Config.MoneyForWilli$ coins) }
+
+Plh_52 { *grumbles* I'll make you a deal. I've been working my ass off, and Fia's putting more and more pressure on me. If you don't have any coins, you might as well help me with my work. }
+
+Plh_53 { You take over my work, unload all the cargo from the cart into the correct boxes, and I'll take a break. }
+
+Plh_54 { Once the work is done I'll keep my promise. *smirks* }
+
+Plh_55 { I'll help with your work. }
+
+Plh_56 { Just get the silver from the cart and store it in the boxes. }
+
+Plh_58 { What about that cargo manifest? }
+
+Plh_59 { If you just hand over the $GVAR:QuestVars_StolenWeapons_Config.MoneyForWilli$ coins, you'll save yourself a lot of trouble. }
+

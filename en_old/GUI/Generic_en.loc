@@ -1,0 +1,20 @@
+cancel { Cancel }
+
+accept { Accept }
+
+yes { Yes }
+
+no { No }
+
+on { On }
+
+off { Off }
+
+holdToSkip { Hold to skip }
+
+gameModeChangeDesc { Once you've changed this mode, you cannot switch back. Are you sure? }
+
+loadLatestPopUp { Would you like to load your last savegame? }
+
+Answer_Understood { Got it. }
+

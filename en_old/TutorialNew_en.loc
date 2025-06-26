@@ -1,0 +1,4 @@
+LevelUp { You've gained a level!<br>Every time you gain a level, you'll be healed completely, and you'll gain 4 learning points.<br>If you find an instructor, you can use your learning points to raise your ability scores and to learn a new talent.<br>Some talents, and even weapons, require prowess.<br>Prowess is the sum of all of your attribute scores. }
+
+FirstConsFlow { You've found a spell scroll!<br>Use $INPUTANIM:OpenAbilities$ to access the abilities menu.<br>You can equip your scroll there.<br>Spell scrolls are consumed after use.<br>They can be a great help if you're facing a particularly difficult foe. }
+

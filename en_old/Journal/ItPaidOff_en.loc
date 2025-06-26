@@ -1,0 +1,12 @@
+Title { A Spot in the Deep Mine }
+
+Entry_01 { Murtagh always takes a huge share of the silver prospected by Almar in the Deep Mine. If I can dissuade Murtagh from doing so, Almar will share his spot in the Deep Mine with me. }
+
+Entry_02A { I've taken care of Almar. If he cannot work, Jendra will need someone else for the Deep Mine. That's my opportunity. }
+
+Entry_02B { Murtagh won't cause Almar any further trouble. I should tell Almar. }
+
+Entry_02C { Jendra wanted $GVAR:QuestVars_DeepInTheMine_Config.AmountOfSilverToPayJendra$ silver for Almar's spot. I paid, and now I've got his spot. }
+
+Entry_03 { I'm sharing a spot in the Deep Mine with Almar. He's taking a break for now. Now Jendra should be willing to take me along. }
+

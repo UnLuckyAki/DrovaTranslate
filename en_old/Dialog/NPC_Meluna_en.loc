@@ -1,0 +1,246 @@
+Plh_1 { (collect coins for Friedel) }
+
+Plh_17 { About the work as a Hewer... }
+
+Plh_52 { You can do it! }
+
+Plh_53 { Finally! You're back! }
+
+Plh_0 { Nice day for slacking, right? *smirks* }
+
+Plh_64 { You seem tense. Why don't you follow my lead instead? Me, good old Meluna. }
+
+Plh_20 { What are you doing here? }
+
+Plh_21 { How can you swing that? }
+
+Plh_22 { Well, can't you see? I relax. *smirks* }
+
+Plh_23 { I know, everything in Drova is life or death, everyone is always hunting or fighting. And then there's the Divinities... Let me put it this way: I have enough savings set aside. }
+
+Plh_24 { Savings dwindle... }
+
+Plh_25 { You mean, you have a bunch of coins hidden away somewhere? }
+
+Plh_26 { Right. But not today, and tomorrow is a long way off. Life is too short to work yourself to death in the Pit. }
+
+Plh_27 { *narrows her eyes* Why would you say that? There's no coins anywhere around here. No way! }
+
+Plh_28 { And now, if you don't mind, I'd like to go back to relaxing. }
+
+Plh_4 { Plh_4 }
+
+Plh_15 { Get lost, you dirty rat. }
+
+Plh_43 { You dirty rat! I'm going, I'm going! I'll be in touch. Now just leave me alone! }
+
+Plh_44 { There you are again. So, did you learn your lesson? }
+
+Plh_54 { Some jackass swiped all my coins! Now I'll have to go back to Friedel... dammit! }
+
+Plh_16 { Hey. }
+
+Plh_8 { We meet again. }
+
+Plh_2 { You again. You want to steal more coins from me? Haven't you already done enough? You've ruined me! }
+
+Plh_48 { Because of you, I had to crawl back to Friedel so they wouldn't take my stuff! Now I've got to work myself to the bone to barely make ends meet! }
+
+Plh_5 { I'm crossing you off her list of debtors. }
+
+Plh_3 { Does that mean you're earning coins to pay off your debt? Well, then, Friedel says hello. }
+
+Plh_6 { ... what? YOU have that list? And now you want to... help me? I... oh, I don't really want to talk about it. Thanks... }
+
+Plh_10 { You... you... damned...! }
+
+Plh_65 { You're working for her too? Don't you have a conscience? Then take what I've earned through blood and tears, and get lost. }
+
+Plh_66 { Drop dead, will ya? }
+
+Plh_9 { It's time to pay your dues. Friedel says hello. }
+
+Plh_7 { Yeah, I know, I know. I should have dropped it off two days ago! Lemme do a quick count... There. }
+
+Plh_11 { Good girl. }
+
+Plh_12 { Hold on a second. According to the list, you owe Friedel $GVAR:QuestVars_Debt_Config.MoneyFromMeluna$ coins. }
+
+Plh_13 { Leave me alone. Now. }
+
+Plh_14 { Oh, well, I must have miscounted, then. Here's the rest. }
+
+Plh_18 { Jola is looking for new Hewers for the Pit. }
+
+Plh_40 { Must we really do this the hard way? }
+
+Plh_45 { Time for a rematch! Into the Pit with you, slacker! }
+
+Plh_19 { I figure you really better start working for Jola. }
+
+Plh_62 { Forget it. }
+
+Plh_38 { Are you back to collect on my debt? I know Jola is looking for workers. I don't care. I ain't breaking my back in the Pit like that. She can forget about it. }
+
+Plh_29 { I know. But Hewers barely make ends meet. I'm not that desperate just yet... }
+
+Plh_41 { I don't think we have any other options... }
+
+Plh_46 { You want to take your chances? Forget it! You go into the Pit! }
+
+Plh_30 { Oh yeah? Why would I? *smirks* }
+
+Plh_32 { Your savings have found a new home. My pockets. }
+
+Plh_33 { *Cling coins in your pockets* }
+
+Plh_39 { First you collect on my debt, and now you pilfer my savings? Don't you have a shred of decency? }
+
+Plh_67 { Give me my coins back now! }
+
+Plh_35 { Being one of Jolas Hewers might work for you. }
+
+Plh_36 { You can try to get it back... Or report to Jola for the job as a Hewer. }
+
+Plh_37 { You're going to regret this. You're the same kind of dirtball as everyone else here. Ah, crap... }
+
+Plh_34 { You're the dirtbag! Return my coins this instant! }
+
+Plh_49 { You... Seriously, did you take my savings... my coins... Why are you smirking like that? ... Did you take them? }
+
+Plh_63 { Something wrong? Whatever. }
+
+Plh_50 { For Jero! }
+
+Plh_51 { They're back! }
+
+Plh_68 { I know what's going on between Bady and you. }
+
+Plh_69 { What? How... We're just, uh, friends... }
+
+Plh_76 { Think of his upper arms and tell me there's nothing more between you two. }
+
+Plh_75 { *blushes* I can't! }
+
+Plh_78 { ... }
+
+Plh_79 { I'm still on it. }
+
+Plh_80 { Damn! Everyone's getting woozy seeing these upper arms. }
+
+Plh_81 { Would you like to see... my upper arms? }
+
+Plh_82 { So, what's going on between the two of you? }
+
+Plh_83 { *sizes you up* Well... why not? Let's see them! }
+
+Plh_85 { Nice. Not thrilling, but nice. Don't take this the wrong way, but you'll need to do a lot better before you can rival Bady. }
+
+Plh_84 { *sizes you up* Nah, don't bother. I can see at first glance that not even your thighs would be buff enough to rival Bady. }
+
+Plh_86 { *sighs* Right. But don't bruit it around the entire camp. }
+
+Plh_87 { If you've got any brains, you'll keep this to yourself. Bady follows the code. He's not allowed to have relationships. }
+
+Plh_88 { If he finds out that you know about us, he'll probably beat you within an inch of your life. }
+
+Plh_89 { I don't respond well to threats. }
+
+Plh_90 { I'll be quiet. For coins. }
+
+Plh_91 { No worries. I'll keep it to myself. }
+
+Plh_92 { Consider it a threat, if that makes you feel better. But I meant it as a warning. }
+
+Plh_93 { You filthy cutthroat! Here, that's all I can give you. }
+
+Plh_94 { That'd be best for all of us. }
+
+Plh_74 { You insidious little worm! I thought we had an agreement? You were not to tell anyone about Bady and me! }
+
+Plh_95 { How dare you spread such lies?! Bady was here. He was yelling at me loud enough for the whole camp to hear. }
+
+Plh_97 { It was important that Bady lose today. }
+
+Plh_98 { Bady doesn't believe you? }
+
+Plh_99 { It is equally important that you be punished for your lies. }
+
+Plh_100 { Draw your weapon. We'll settle this now. }
+
+Plh_96 { I couldn't even get a word in edgewise. And now everyone in the Remnants' camp has gotten the wrong idea about me. }
+
+Plh_101 { I don't want to see anything of yours. }
+
+Plh_102 { Your upper arms? }
+
+Plh_103 { I have some, too. }
+
+Plh_104 { I've got some, too. }
+
+Plh_105 { Yeah, right. Well... let's see. }
+
+Plh_106 { ...hm... not too shabby. }
+
+Plh_107 { (flex biceps) }
+
+Plh_108 { Oh! I've got to take a... closer look. }
+
+Plh_109 { Yeah, that feels good... very strong. }
+
+Plh_110 { (flex biceps HARD) }
+
+Plh_111 { Oh! I didn't think it could get THAT big! }
+
+Plh_112 { The upper arm goes RIGHT THERE. And now... move. }
+
+Plh_113 { (move left) }
+
+Plh_114 { (move right) }
+
+Plh_115 { No, not like that. The other way. }
+
+Plh_116 { (move to the other side) }
+
+Plh_117 { Yeah... just like that... }
+
+Plh_118 { Say... can you flex other... things? }
+
+Plh_119 { (flex other things) }
+
+Plh_120 { That's exactly what I meant. }
+
+Plh_121 { Very nice... keep going... }
+
+Plh_122 { *exhausted* Whoever knew that you can do THAT with an upper arm! }
+
+Plh_123 { The Divinities must have kissed your upper arms. }
+
+Plh_124 { Not even Bady can rival them. }
+
+Plh_125 { Come... it'll be more comfortable on the bed over there. }
+
+Plh_126 { Happy to! }
+
+Plh_127 { Ugh, I think I've changed my mind. }
+
+Plh_128 { Well, suit yourself! You think your upper arms are too good for me, don't you? Pff. }
+
+Plh_129 { I've been working out. Do you want to see my biceps? }
+
+Plh_130 { That's exactly what I needed. Good work! *winks* But now I need to rest. }
+
+Plh_132 { Have you seen Bady? }
+
+Plh_133 { No, not for a while. Not since he decided to leave the Remnants. He said he needed to clear his head in order to fully focus on his training. }
+
+Plh_134 { He's got no idea what he's missing out on here. }
+
+Plh_135 { Do you know where he went? }
+
+Plh_136 { Somewhere to the north, beyond the riverbed. That's all I know. }
+
+Plh_137 { Thanks for your help. }
+
+Plh_138 { Should you meet him, tell him... ah, no, never mind. }
+

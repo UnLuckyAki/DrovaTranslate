@@ -1,0 +1,118 @@
+Plh_168 { Will you show me how to make eggbeer? Your people seem to like it. }
+
+Plh_3 { (end conversation) }
+
+Plh_169 { Of course! You're one of us. }
+
+Plh_170 { Actually, it's quite simple. Toss all the ingredients into the pot, then bring it all to a boil. Then the eggbeer is ready. You already know the ingredients. *smiles* }
+
+Plh_164 { It's my grandmother's secret recipe. If you ever join us at some point, I might tell you. }
+
+Plh_127 { The work on the palisade has been finished just in time! Now we can relax. }
+
+Plh_155 { Wait here. }
+
+Plh_156 { Just a sec. }
+
+Plh_4 { Get lost. I'm busy. The work on the palisades won't supervise itself. }
+
+Plh_8 { Do you know anything about the stolen weapons shipments? }
+
+Plh_31 { I'm new here. I'm looking for work. }
+
+Plh_9 { And what if I did? }
+
+Plh_138 { Then I'd be glad to hear about it. }
+
+Plh_177 { And what's it got to do with you? You're not even one of us. }
+
+Plh_178 { I want to get to the bottom of it, so I can prove my worth to Angus. }
+
+Plh_179 { I want to get to the bottom of it so I can join you. }
+
+Plh_180 { Hm. He'd certainly consider that a good thing. }
+
+Plh_182 { Fine, you shall get your chance. }
+
+Plh_140 { I know that my workers have taken charge of the last delivery for Chunnaic. But if I'm supposed to help you, then you're going to help me first. }
+
+Plh_172 { I am the master of wood here. One of the three master crafters in Nemeton. }
+
+Plh_167 { My workers urgently need eggbeer — otherwise morale will be in the crapper. Can you brew any? }
+
+Plh_173 { No. }
+
+Plh_174 { Uhh... sure. }
+
+Plh_176 { I thought... }
+
+Plh_153 { Hold the fort here, and wait until I come back. If anyone wants something, tell them I'll be right back. }
+
+Plh_154 { You'd better not be leaving! Then I won't be telling you a thing, got it? }
+
+Plh_175 { You aren't a particularly great liar. }
+
+Plh_181 { Many of those who are sitting outside Nemeton want exactly this. }
+
+Plh_32 { I haven't got any. Try the fighters at the West Gate. They're always looking for new hands. }
+
+Plh_157 { Where in the Divinity's name were you? Didn't I tell you that you should stay here? }
+
+Plh_158 { Karotte needed help with the boundary stone... }
+
+Plh_159 { Umm... well... }
+
+Plh_160 { I couldn't care less about Karotte! }
+
+Plh_162 { You should wait here. Nothing else. If you can't manage even that, what good are you? }
+
+Plh_166 { Then we've got nothing more to discuss about the weapons shipments! Beat it! }
+
+Plh_161 { Out with it! }
+
+Plh_163 { I'm back. The eggbeer is ready, and it's going to give my boys a nice boost. }
+
+Plh_165 { About the weapons shipment... }
+
+Plh_137 { Ah yes, that story... }
+
+Plh_183 { I'm reluctant to say this, but it will have been one of my boys. }
+
+Plh_141 { Chunnaic wanted one of them to deliver the shipment to Fia's warehouse. The crafters were busy. }
+
+Plh_142 { Who, exactly? }
+
+Plh_144 { Hm. I don't know. }
+
+Plh_146 { And you think you've got everything under control here, even when you don't even know that? }
+
+Plh_147 { Who exactly are your workers? }
+
+Plh_148 { Go talk to them yourself then... }
+
+Plh_150 { Aiko, Kellan, and Mumme. Just walk along the palisades here at the East Gate, and you should easily find them. }
+
+Plh_151 { But don't distract them too long! They're supposed to be working, not babbling away. }
+
+Plh_184 { Angus said you could help spruce up my hut. }
+
+Plh_185 { Good work. I never thought Kendrick would go through with something like that. I've already heard that you've taken over his hut. That's only fair. }
+
+Plh_186 { I'd like a better bed. (hand over $GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Bed$ coins) }
+
+Plh_187 { I'd like a workbench. (hand over $GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Workbench$ coins) }
+
+Plh_188 { I'd like a bloomery. (hand over $GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Smith$ coins) }
+
+Plh_189 { Plh_189 }
+
+Plh_190 { Plh_190 }
+
+Plh_191 { Looks good. I'll take care of it. It should be delivered tomorrow. }
+
+Plh_192 { If you have the necessary coin. }
+
+Plh_193 { If you've got the coins, I can help you. }
+
+Plh_194 { Plh_194 }
+

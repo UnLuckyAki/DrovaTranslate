@@ -1,0 +1,104 @@
+Plh_51 { Today we're both going to be fighting in the arena. }
+
+Plh_35 { How can I become as strong as you? }
+
+Plh_8 { I've got some Rustmoss. Interested? }
+
+Plh_56 { I've still got some Rustmoss for you. }
+
+Plh_50 { Nemeton scum... I'll show you! }
+
+Plh_52 { See you in the arena! }
+
+Plh_53 { I'm looking forward to the fight. Make sure you prepare well, and keep me entertained. }
+
+Plh_54 { Kilian takes good care of his people. Let's see what kind of stuff you're made of. }
+
+Plh_57 { Let's see it! }
+
+Plh_58 { Take it easy. }
+
+Plh_59 { I think this will make the fight more interesting. }
+
+Plh_60 { Okay, I'll show you. }
+
+Plh_25 { Do you know anything about the one who's always training in the Upper Quarter? }
+
+Plh_37 { *sighs* $GVAR:EVars_Liandra.AttributeCosts$ coins. }
+
+Plh_40 { That many coins?! }
+
+Plh_41 { I hope it's worth it. Here. }
+
+Plh_42 { I don't have that many coins. }
+
+Plh_43 { I can't train every Hewer just like that. You have to pay me for it. }
+
+Plh_45 { Excellent. I'll keep my word. }
+
+Plh_44 { You can't fool me. That's not enough. }
+
+Plh_46 { Then come back when you've got the coins. I must train. }
+
+Plh_4 { What do you want? }
+
+Plh_6 { To get to know you. }
+
+Plh_5 { Hmm, why not. But actually, my reputation ought to precede me. I'm Liandra. }
+
+Plh_48 { Say, did Boris send you? }
+
+Plh_9 { No, who's Boris? }
+
+Plh_67 { Who's Boris? }
+
+Plh_11 { I don't have time to introduce you to random people... }
+
+Plh_66 { Crap! I thought you were sent by him. You'll find Boris at the camp entrance. }
+
+Plh_13 { Finally — some of the good stuff again! Fork it over, then. I've got to head over to the arena right away. }
+
+Plh_14 { What's happening in the arena? }
+
+Plh_17 { What does that have to do with Rustmoss? }
+
+Plh_20 { Here. That's $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ coins. }
+
+Plh_21 { You can have the Rustmoss for free. }
+
+Plh_16 { What's happening there? Battles, of course! The place where you become immortal! One day, they shall tell stories of Liandra, the fighter. A legend in Drova. Who knows — perhaps we shall face each other in the arena someday. }
+
+Plh_15 { Rustmoss helps most people to relax or become more sociable. But it has a different effect on me. I get aggressive, stronger, and less sensitive to pain. It's like a dream — one that ends in bloodshed. The blood of others. }
+
+Plh_18 { That sounds — unhealthy. Especially for everyone else. }
+
+Plh_19 { I see it as a gift that leads me to glory. So, do you have any or not? }
+
+Plh_22 { Hand it over. It has to be worth it for me. Now get lost — unless you're going to fight yourself. }
+
+Plh_23 { Ah, that's my kind of support! I'll dedicate my next victory to you! }
+
+Plh_65 { I don't exactly like the fact that someone from the Nemeton is the champion in the arena, but it won't stay that way. }
+
+Plh_64 { I'm delighted that Ada is no longer the arena champion. It's about time. Good work. }
+
+Plh_63 { You fought well. Presumably, you didn't just slack around in Nemeton. }
+
+Plh_62 { You've won. You fought well. }
+
+Plh_26 { You mean Farlan? Not a man of many words. I flattened this Gra in that very arena. I fought like a beast — probably impressed him. }
+
+Plh_27 { Then he came and wanted to fight me. He could have. When he was able to walk again, he started training relentlessly. }
+
+Plh_28 { Sounds like he is expecting a rematch... }
+
+Plh_30 { He can have one. I'll thrash him as many times as he wants. Maybe he enjoys that somehow... But at least he's got determination — something that's sorely missing from all these whiners in Drova. }
+
+Plh_31 { I need his vote. But he's ignoring me biting. }
+
+Plh_32 { Any idea how I can convince him of me? }
+
+Plh_33 { Hmm, maybe you can train with him. That could make him warm up to you. But you must have something on the ball. Maybe not as much as I do, but at least a little. }
+
+Plh_34 { How am I supposed to know? }
+

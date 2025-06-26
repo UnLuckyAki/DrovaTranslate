@@ -1,0 +1,16 @@
+Plh_5 { Ah, a new face. I'm Frithjof. I've got some interesting things you can buy from me. Take a look around. *smirks* }
+
+Plh_9 { If you need something... You know where to find me. }
+
+Plh_7 { Well, do you want to buy something? }
+
+Plh_11 { Where do you get all your merchandise? }
+
+Plh_12 { Oh, I've got my ways. Sometimes, the stuff is just lying around somewhere. Or sticky fingers help open some chests. For $GVAR:EVars_Frithjof.MoneyForLearning$ coins I can show you how to open chests yourself. }
+
+Plh_14 { If you've got the $GVAR:EVars_Frithjof.MoneyForLearning$ coins. *smirks* }
+
+Plh_15 { Here are the coins. (hand over $GVAR:EVars_Frithjof.MoneyForLearning$ coins) }
+
+Plh_17 { *smirks* I'll keep my word. }
+

@@ -1,0 +1,162 @@
+Plh_111 { You got anything stronger than beer? }
+
+Plh_6 { About the cellar... }
+
+Plh_77 { Tiaa needs meat for the fighters. Have you got some? }
+
+Plh_78 { Pah! If I wanted to give it to Tiaa, I'd have done so already. }
+
+Plh_79 { Feed my best meat to the fighters in the arena? She can forget about that. }
+
+Plh_80 { Our warriors could make much better use of it! }
+
+Plh_81 { So you've got meat stashed away somewhere, but you're not going to fork it over? }
+
+Plh_82 { Of course I've got meat. }
+
+Plh_83 { And I'll decide what's going to be done with it. Hands off! }
+
+Plh_92 { Do you know what's going on with this Eugen? }
+
+Plh_114 { Do you know anything about a guy named Eugen? }
+
+Plh_112 { Beer tastes like water, huh? *smirks* }
+
+Plh_113 { Honeymead is the strongest beverage I've got. It'll knock out even the toughest warrior. But it comes at a price. }
+
+Plh_107 { I'm here for my free beer. }
+
+Plh_108 { Of course. Here you are. Enjoy. }
+
+Plh_110 { You've already had one today. But you're welcome to buy a few more. }
+
+Plh_4 { What'll it be? }
+
+Plh_0 { Welcome! To Bernold's tavern! To my tavern, that is! }
+
+Plh_117 { Do you want to pour something special down your gullet? Whatever it is — I'll provide it! }
+
+Plh_103 { Every one of Eugen's people gets one free beer a day from me. You can pick it up every day. }
+
+Plh_105 { Come to me if you're thirsty. But after the first beer, you've got to pay for it yourself. *smirks* }
+
+Plh_104 { Boris and I have a little private agreement. Each of his people gets one free beer a day from me. }
+
+Plh_85 { Ever since I let you into my cellar, all my good meat has disappeared! }
+
+Plh_120 { You don't HAPPEN know anything about this? }
+
+Plh_87 { How am I supposed to resist that? }
+
+Plh_88 { Are you accusing me of something? }
+
+Plh_86 { You jerk. I should have known... }
+
+Plh_90 { Anyway, keep your hands off my stuff! You're worse than the rats! }
+
+Plh_89 { My cellar is locked. You're the only one I sent down there. }
+
+Plh_7 { Is there any news? }
+
+Plh_8 { Hmph. Nope. Not in the storeroom. But there's something afoot down there in the cellar, let me tell you. Some filthy critters are gnawing away at my supplies! I had to throw out a lot of stuff. }
+
+Plh_124 { I don't know, they must be huge, bloodthirsty critters. They make one hell of a noise. I don't want to go down there! }
+
+Plh_9 { You could send down someone who's stupid enough to put themselves in danger... }
+
+Plh_10 { You should leave that to me. }
+
+Plh_11 { I could. But do you think anyone who's here to drink a beer is going to feel like killing rats? Maybe Eugen, but the rats are too weak for him. He gets bored quickly. }
+
+Plh_13 { ... but you look like someone who wants to earn a few coins. }
+
+Plh_12 { How about it? I'll rid myself of the rats, and you'll have a few more coins in your pocket. }
+
+Plh_69 { What would you pay for that? }
+
+Plh_14 { You'll be rid of your rat infestation soon. }
+
+Plh_70 { I shall not rest until it is done! As a man of honor, I give you — }
+
+Plh_121 { ... $GVAR:QuestVars_Rats_Config.Reward$ coins. }
+
+Plh_122 { So? }
+
+Plh_22 { I like you! No empty talk. Here's the key to the cellar door. I hope you've got good eyesight. It's pretty dark down there. If something squeaks, just give it a good thwack! }
+
+Plh_23 { Hmph. You've probably got some "noble quest" or some such nonsense. And Joe Lunchbucket, meanwhile, has to sort out his own crap! Maybe you'll change your mind... }
+
+Plh_25 { Well? Will you help me with my cellar problem? }
+
+Plh_27 { I've exterminated the rats. }
+
+Plh_30 { All of them, really? They breed like rabbits. If you miss even a few, the whole filthy mess will start up all over again... }
+
+Plh_33 { The rats came out of a cave through a hole and into the tunnel. }
+
+Plh_31 { Not a single rat remains to infest the air with its foul breath. }
+
+Plh_32 { Well, all the ones I could find. }
+
+Plh_34 { A hole? No wonder I couldn't get rid of them... }
+
+Plh_36 { You really deserve a bonus! }
+
+Plh_35 { Good work! Thanks to you, nobody need worry about my food running out anymore. }
+
+Plh_123 { By the way: the best food in all of Drova! }
+
+Plh_72 { Hand me my key, and you'll get your reward! }
+
+Plh_71 { And if you're thirsty, just come on back to me! Now you've got enough coins to buy as much of my wonderful beer as your guts can hold. }
+
+Plh_93 { Hm? No, that's just the way he is. }
+
+Plh_94 { He'll listen to you only if you speak his language. }
+
+Plh_95 { What do you mean by that? }
+
+Plh_96 { So I'm supposed to drink with him? }
+
+Plh_97 { Just think about it! }
+
+Plh_99 { As I always say, anyone who ties on a few can tie on a few more with company. Hahahaha. }
+
+Plh_100 { You're in my tavern. Pour him a drink and he'll like you right off. That's how it works with him. }
+
+Plh_101 { And if you're on the hunt for excellent beer, you don't have far to look. }
+
+Plh_98 { That's right! }
+
+Plh_115 { A real fighter, probably the strongest in all of Drova. }
+
+Plh_116 { He could shoulder so much, but all he shoulders is the beer stein. It's a shame. Go upstairs, you'll find him there. }
+
+Plh_39 { What kind of people gather in the Remnants' camp? }
+
+Plh_40 { How can I show people that I'm worth something? }
+
+Plh_41 { Who's Jero? }
+
+Plh_42 { What do you know about Nemeton? }
+
+Plh_44 { Everyone who's had it up to their eyeballs with Drova. There's a way out of this hole — Jero's got a plan to get us out. }
+
+Plh_74 { But only those who have joined us can come along with us. No exceptions. You should consider that, too. }
+
+Plh_56 { At least not by flapping your gums. You've got to put your back into working instead of dawdling. You need to win over Eugen and Boris. And get Levin's vote. If you work in the Pit. }
+
+Plh_119 { So grab yourself a pickaxe and get down into the Pit. Report to Jola. She'll take care of it. You'll find her at the entrance. }
+
+Plh_51 { Jero's in charge here. He calls the shots, he does the planning, and he'll get us out of here. Don't think you'll get him to listen to you. He lets hardly anyone in. }
+
+Plh_52 { The community is important to the people there, as if they were all one big family. I'm not sure whether that's really the case. They're only human, after all. }
+
+Plh_75 { We can't take them into account. They'll have to adapt. After all, this is about creating the Land of Legends. }
+
+Plh_54 { They thoroughly vet everyone who wants to join them. Sure, we do that here too. But they march to a different drummer, somehow. They're always talking about the Divinities and their power. We prefer to steer clear of them... }
+
+Plh_118 { They have their walls, and they don't let anyone in. They're always talking about solidarity and family, but close themselves off completely. }
+
+Plh_125 { Plh_125 }
+

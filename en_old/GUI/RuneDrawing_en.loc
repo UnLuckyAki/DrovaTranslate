@@ -1,0 +1,10 @@
+draw { Draw }
+
+delete { Delete }
+
+move { Move }
+
+close { Close }
+
+confirm { Confirm }
+

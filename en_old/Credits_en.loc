@@ -1,0 +1,108 @@
+director { Game Director }
+
+game_design_lead { Game Design Lead }
+
+game_design { Game Design }
+
+additional_game_design { Additional Game Design }
+
+programming_lead { Programming Lead }
+
+programming { Programming }
+
+art_lead { Art Direction }
+
+art { Art }
+
+community { Community }
+
+sound_lead { Sound and Music }
+
+organisation { Support & Backoffice }
+
+praktikanten { Interns }
+
+freelancer { External Contractors }
+
+musik { Music }
+
+sound { Sound }
+
+grafiken { Illustration }
+
+autor { Writing }
+
+testers { Testers }
+
+publisher { Publisher }
+
+spotlight { Deck13 Spotlight }
+
+spotlight_interns { Interns }
+
+spotlight_productionBaby { Production Baby }
+
+spotlight_deck13 { Deck13 }
+
+spotlight_deck13_interns { Interns }
+
+spotlight_deck13_memory { In memory of Felix Rischbieter }
+
+pr_hound { PR Hound }
+
+bxdxo { BXDXO }
+
+headline_Localization { Localization }
+
+loca_coordination { Coordination }
+
+loca_english_lead { English Language Lead }
+
+loca_english_translators { English Translators }
+
+loca_english_proofreading { English Proofreading }
+
+loca_french_localization { French Localization }
+
+loca_french_translators { French Translators }
+
+special_thank_Grounding { We extend our special thanks for founding the studio to: }
+
+specia_thank { Special Thanks }
+
+tools { Tools }
+
+voice { Voice Talents }
+
+thanks_family { We thank our families, friends, and partners for their ongoing support. We would have never made it this far without you. }
+
+thanks_pb { Thank you, Piranha Bytes, for the Gothic series. A great game that had a lasting effect on all of us. }
+
+chris_wish { My darling Sarah, thank you for supporting me while I was chasing my crazy dream. It wasn't always easy, but we made it!\nAnd rest in peace, grandma. I miss you. }
+
+gecko { Gecko! Thanks for your help! The iron fist on our Discord. }
+
+bady { Here's to you, Bady "Atilozz"! Champion of the arena and loyal companion throughout Drova's development. You've been here from the beginning. }
+
+entwicklerWG { Thanks to all the spectators who followed our "Entwickler WG" on Twitch. You continued giving us the strength and motivation to work on Drova. }
+
+lavapotion { Thanks to the Lavapotion team, who provided valuable insights into designing our world when we first started working on our project. }
+
+tinyroar { Greetings and thanks to Tiny Roar for the plethora of advice and sending Fabio our way! }
+
+Acagamics { Thanks to Acagamics, our university's student body association, that brought us together and held events and competitions motivating us to develop Drova. Without you, there'd be no Drova! }
+
+finish_line { The final words are for you. Thank you for playing Drova. }
+
+special_thanks_support { Special thanks for your support during the development process: }
+
+johannes_wish { Thank you, Lea, for your support and your wonderful friendship—even though I had to cancel our planned vacation three times because I had to work on Drova. }
+
+Fabio_wish { Thanks to the four founders of Just2D—Chris, Johannes, Kai, and Julian. Through your courage, commitment, accountability, and structure, you created a work environment in which we can feel safe even during difficult times and fulfill our common dream: developing games. }
+
+Gratulation_Insane { You've finished the game on Insane mode — a feat only very few people ever accomplish.<br>By investing your time and passion in Drova, you have truly paid us a tremendous compliment.<br><br>We look forward to further adventures with you.<br><br>The Just2D Team }
+
+Gratulation_Hardcore { One life and you've made good use of it.<br>Finishing Drova without making a single mistake deserves respect.<br>For us, the greatest compliment is that you have invested your time and passion in Drova.<br><br>We look forward to the next adventures with you.<br><br>The Just2D Team }
+
+Gratulation_Both { The ultimate challenge in Drova—You've mastered it!<br>By investing your time and passion in Drova, you have truly paid us a tremendous compliment.<br><br> We look forward to further adventures with you.<br><br>The Just2D Team }
+

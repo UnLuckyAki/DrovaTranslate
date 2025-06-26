@@ -1,0 +1,40 @@
+Save { Save }
+
+Load { Load }
+
+PlayTime { Play Time }
+
+GameSaved { The game has been saved. }
+
+NotSaveable { You can't save your game right now. }
+
+Title_HeroSelect { Character }
+
+SlotType_Quick { Quicksave Slot }
+
+SlotType_Auto { Autosave $SAVE:SlotType$ }
+
+SlotType_Normal { Save Slot $SAVE:SlotType$ }
+
+deleteSavegamePopUp { Do you really want to delete this savegame? }
+
+overwriteHeroPopUp { You've reached the maximum number of characters you can have. Please pick one character you want to override. }
+
+Title_OverwriteHero { Override which character? }
+
+Button_Overwrite { Overwrite }
+
+NotLoadable { You can't load your game right now. }
+
+Corrupted_00 { Savegame corrupted }
+
+Corrupted_PopUp_Desc { This savegame is corrupted and can't be loaded. }
+
+ToMainMenuPopUp_Desc { Do you really wish to return to the main menu? }
+
+ToMainMenuPopUp_Restricted_Desc { Unable to save the game at the moment. Do you wish to return to the main menu anyway? }
+
+QuitPopUp_Desc { Do you really want to quit the game? }
+
+QuitPopUp_Restricted_Desc { Unable to save the game at the moment. Do you wish to quit the game anyway? }
+

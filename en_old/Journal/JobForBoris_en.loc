@@ -1,0 +1,26 @@
+Title { Boris's Vote to Join the Remnants }
+
+Entry_00 { If I want Boris to vote for me in order to be accepted into the Remnants, I'll have to retrieve a package from Asmus in Nemeton. To Nemeton! }
+
+Entry_01 { Boris gave me three packs of Rustmoss, and he told me to sell them to the Hewers for no less than $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ coins per pack. If I do that for him, he'll vote for me. }
+
+Entry_02A { Kora and I shared some Rustmoss, which is why I sold it to her for $GVAR:QuestVars_JobForBoris_Config.KoraJointDiscount$ coins. The difference will have to come out of my own pocket. }
+
+Entry_02B { Kora bought the Rustmoss for $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ coins. }
+
+Entry_03 { Cord bought a pack of the red gold for $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ coins. }
+
+Entry_03_1 { I sold some Rustmoss to Grit. }
+
+Entry_03_2 { I sold some Rustmoss to Senga. }
+
+Entry_04 { Liandra bought a pack of Rustmoss for $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ coins. }
+
+Entry_05 { I've won over Boris. He'll vote for me. But if I want to join his crew, I'll have to win them over, as well as Eugen. }
+
+Entry_01B { I didn't sell the stuff for Boris. }
+
+Entry_Sold { I sold everything, and I should report to Boris. }
+
+Entry_06 { Mog's got some Rustmoss. I received $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ coins for it. }
+

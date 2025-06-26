@@ -28,3 +28,9 @@ waterbarrel { Water }
 
 waterbarrel_description { Restores health over a short period of time. }
 
+HealReduction { Anguish of the Moor }
+
+HealReduction_Desc { Reduced received healing by [ValuePercent]. }
+
+BlackPuddle_Name { Blood of the Moor }
+

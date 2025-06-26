@@ -1,0 +1,104 @@
+Movement_Gamepad { Use $MOVEMENT$ to move around. }
+
+Movement_Keyboard { Press $MOVEMENT$ to move around. }
+
+LookDirection { Look around by moving the mouse. Your line of sight depends on the direction in which you're walking. If you face the opposite direction, your character will walk backwards and more slowly. }
+
+LookDirection_Gamepad { Unless you use $INPUTANIM:LookX$ to look around, you move in the same direction that you're facing. If you face the opposite direction, your character will walk backwards and more slowly. }
+
+Perception_01 { Hold $INPUTANIM:PerceptionMode$ to look around more closely. This way, you can look behind objects or through the fog. }
+
+Perception_01_Gamepad { Activate investigation mode by pressing $INPUTANIM:PerceptionMode$. This way, you can look behind objects or through the fog. }
+
+Perception_02 { If you look around more closely, you can unveil things that are otherwise invisible. Footprints, for instance. }
+
+ChangeStance { Press $INPUTANIM:DrawWeapon$ to draw or stow your weapon. Attack with $INPUTANIM:Attack_Primary$ with your weapon drawn. }
+
+EngageCombat { Only if you've drawn your weapon can you attack with $INPUTANIM:Attack_Primary$! }
+
+Interact { Use $INPUTANIM:Interact$ to interact with items or people. As long as your weapon is drawn, you can't interact at all.<br>Stow your weapon with $INPUTANIM:DrawWeapon$. }
+
+Perception_03 { Some objects can be examined more closely. Hold $INPUTANIM:PerceptionMode$ until the eye-symbol over your head is filled completely. }
+
+Dodge { Hold a movement button and press $INPUTANIM:Dodge$ to dodge in that direction. Dodging uses up Stamina. Stamina is displayed beneath your character. }
+
+Inventory { Press $INPUTANIM:Inventory$ to open your inventory. From here, you can drag items into your quick bar, and you can equip and use items. }
+
+SwitchWeapon { You found a new type of weapon! There are a few different types of weapons in Drova. Try them to figure out which one suits you best.<br>There are two freely customizable weapon sets available. You can switch between them with $INPUTANIM:SwapWeaponSet$. }
+
+Perception_03_Controller { Activate investigation mode by pressing $INPUTANIM:PerceptionMode$. In order to examine an object, stand close to it and use $INPUTANIM:LookX$ to look in its direction. }
+
+Abilities_02 { You've learned an ability! It has already been equipped automatically. Press $INPUTANIM:OpenAbilities$ to open the ability menu to take a closer look at your new ability or to move it to another slot in the wheel menu. In the game, you can change an active ability using the wheel menu ($INPUTANIM:RingMenu$). }
+
+Abilities_02_Controller { You've learned an ability! It has already been equipped automatically. Press $INPUTANIM:Inventory$ to open the menu, and use $INPUTANIM:PrevPanel$ and $INPUTANIM:NextPanel$ to access the ability tab. From there you can take a closer look at your new ability or move it to another slot in the wheel menu. In the game you can change an active ability using the wheel menu ($INPUTANIM:RingMenu$). }
+
+Abilities_03 { You've equipped your first ability! In order to switch abilities, hold $INPUTANIM:RingMenu$ until you've selected the ability you want to use actively. }
+
+FoodAndHeal { Over time, both food and healing items restore Health. As opposed to healing items, food restores Health more slowly, but once your health bar is full, the regeneration process is paused. Plus: As long as the buff is active, food also grants you additional effects. }
+
+FirstHeal { You've found a healing plant!<br>Press $INPUTANIM:Inventory$ to open your inventory.<br>From here, you can drag items into your Quickbar, or equip and consume the item immediately using $INPUTANIM:Interact$.<br>$ICON:Heal$ Healing items restore your health over time. }
+
+BattleBuddies_Blocks { Hold $INPUTANIM:Block$ to block. Every blocked strike reduces your stamina instead of your health. Once your stamina is used up, you are no longer able to block. }
+
+BattleBuddies_Blocks_Label { Successful Blocks }
+
+BattleBuddies_Combos { Press $INPUTANIM:Attack_Primary$ at exactly the right moment after you've attacked in order to attack again. Using combos, you can generally attack faster and inflict greater damage. }
+
+BattleBuddies_Combos_Label { Successful Combos }
+
+BattleBuddies_Spells { As indicated by the ability markings in the Focus bar, you've collected enough Focus to use an ability. Use the ability by pressing $INPUTANIM:UseSpell$. }
+
+BattleBuddies_Spells_Label { Successful Spells }
+
+BattleBuddies_GetFlow { The Focus bar below your health bar displays your current focus. In combat, every time you successfully hit an opponent, you generate Focus. If you get hit, you'll lose Focus. If you don't use up your focus, it dissipates — except for your base Focus. }
+
+FirstFood { You've found some food!<br>Press $INPUTANIM:Inventory$ to open your inventory.<br>From here, you can drag food items into your quickbar, or consume them immediately using $INPUTANIM:Interact$.<br><br>$ICON:Food$ Food restores your health over time. However, while you're at full health, regeneration is put on hold.<br><br>Make sure you're well sated at any given time. Gather recipes and prepare your food at a campfire. }
+
+FirstGoodFood { You've consumed rich food.<br>Many dishes in Drova grant passive effects while you're sated.<br>Be careful, though! If you then consume additional food, the satiety effect will be overwritten. It is best to wait until the effect expires before eating again.<br><br>It is advisable to be sated at all times in order to enjoy passive health regeneration. }
+
+FirstWeapon { You've found a weapon!<br>Press $INPUTANIM:Inventory$ to open your inventory.<br>From here, you can equip your weapon using $INPUTANIM:Interact$.<br><br>(You can customize two weapon sets; press $INPUTANIM:SwapWeaponSet$ to switch between them.) }
+
+FirstNote { You've found a letter!<br>All letters are stored in your journal in the letters tab. You can read them from there at any time. }
+
+FirstNote_Gamepad { You've found a letter.<br>Press $INPUTANIM:Inventory$ to open your menu and use $INPUTANIM:PrevPanel$ and $INPUTANIM:NextPanel$ to access the journal tab. All your letters are being gathered in the letters tab. You can read them from there at any time. }
+
+NeedMunition { In order to use a ranged weapon in combat, you'll have to load it with $INPUTANIM:Block$. }
+
+FirstRangeWeapon { You've found a ranged weapon.<br>Press $INPUTANIM:Inventory$ to access your inventory and equip the weapon. <br>In order to use it, you also need to equip the appropriate ammunition from the inventory. }
+
+Journal { You've made a new entry in your journal.<br>Press $INPUTANIM:Journal$ to open your journal.<br>From there, you can check the status of your quests at any time. }
+
+Journal_Gamepad { You've made a new entry in your journal.<br>Press $INPUTANIM:Inventory$ to open your menu and use $INPUTANIM:PrevPanel$ and $INPUTANIM:NextPanel$ to access the journal tab.<br>From there, you can check the current status of your quests at any time. }
+
+FirstConsFlow_Gamepad { You've found a spell scroll.<br>Press $INPUTANIM:OpenAbilities$ to open the menu and use $INPUTANIM:PrevPanel$ to $INPUTANIM:NextPanel$ access the abilities tab. You can equip your spell scroll from there.<br>Spell scrolls can give you an edge in difficult fights; there's no point in hoarding them. }
+
+FirstThrow { You've found a consumable!<br> Press $INPUTANIM:Inventory$ to open your inventory.<br>From here, you can drag the item into your Quickbar. }
+
+Stealing { Drova's inhabitants keep a close eye on their possessions. You can try to steal from them, but then you want to be sure not to get caught.<br>The mouse pointer indicates whether an interaction is an offense. }
+
+Stealing_Gamepad { Drova's inhabitants keep a close eye on their possessions. You can try to steal from them, but then you want to be sure not to get caught.<br>The interaction symbol indicates whether an interaction is an offense. }
+
+Crafting { Cook and brew potions on a campfire. There are other workstations that you can use to craft traps, equipment, and throwables.<br>Craft some recipes directly from the $INPUTANIM:CraftingMenu$ crafting menu without a workstation. }
+
+CloseTutorial { Hide }
+
+CloseTutorial_Gamepad { Close (Hold $INPUTANIM:UISubmit$) }
+
+Statuseffects { You've walked into a thornbush and became afflicted with "bleed."<br>In the game, there are several afflictions that will be displayed to the right of your health bar.<br>Open the menu using $INPUTANIM:Inventory$ in order to use tooltips to examine the various afflictions more closely. }
+
+Secondaries { You've found a shield!<br>This is an offhand item. Use it in combat by pressing $INPUTANIM:Block$.<br>If you press $INPUTANIM:Block$ without having an offhand item equipped, you'll perform an action unique to each weapon type instead. }
+
+UsedHealItem { You've consumed a healing item.<br>You've now applied a healing effect, which causes you to periodically regain health.<br>Multiple healing effects can be active at the same time. }
+
+PoiseBreak { Your opponent is on the ground after you broke their stance.<br>Stance is displayed as a yellow bar below the health bar.<br>Use this time to really tear into your opponent, heal yourself, or use an item. }
+
+LookDirectionCombat { In combat, you'll always attack in the direction you're facing.<br>The arrow under your character indicates the direction you're facing.<br>Use your mouse to change this direction. }
+
+LookDirectionCombat_Gamepad { In combat, you'll always attack in the direction you're facing.<br>The arrow under your character indicates the direction you're facing.<br>Use $INPUTANIM:LookX$ to change this direction. }
+
+FirstTreasure { You've found a treasure map!<br>All treasure maps are stored in your journal in the letters tab. You can read them from there at any time. }
+
+FirstTreasure_Gamepad { You've found a treasure map.<br>Press $INPUTANIM:Inventory$ to open your menu and use $INPUTANIM:PrevPanel$ and $INPUTANIM:NextPanel$ to access the journal tab.<br>All your treasure maps are stored in the letters tab. You can read them from there at any time. }
+
+FirstRecipe { You've found a recipe.<br>Press $INPUTANIM:Inventory$ to open your inventory. From there, you can learn the recipe by pressing $INPUTANIM:Inventory$. }
+

@@ -1,0 +1,280 @@
+WakingUp { What do you want? I'm trying to sleep here. }
+
+WakingUp_End { Finally I can go back to sleep. }
+
+SuspiciousPlace { Hey! You've got no business being here! }
+
+SuspiciousPlace_OnEnd { Yeah, stay away from there! }
+
+Plh_52 { Do that again, and I won't be so friendly. }
+
+BrawlEndWinner { Better watch who you're messing with. }
+
+Plh_51 { I hope that has taught you a lesson! }
+
+Plh_142 { Who do you think you are? }
+
+Plh_157 { Coins! Those are mine now... }
+
+Plh_159 { What a weakling... }
+
+Plh_160 { You've got to do a lot better than that. }
+
+Plh_161 { Don't ever try that again! }
+
+Plh_166 { Good night. }
+
+Plh_167 { That hit home! }
+
+Plh_168 { Is that it, or what? }
+
+Plh_169 { That was ridiculous. }
+
+Plh_170 { Pathetic display. }
+
+Plh_171 { Who keels over from something like that? }
+
+Plh_124 { Hey, take it easy. I don't want any trouble. }
+
+Plh_62 { Don't you dare leave! }
+
+BrawlBeforeFlee { Remain here and stand your ground! }
+
+Plh_50 { Coward! Stop fleeing! }
+
+Plh_143 { Hmm. Has someone gotten cold feet? }
+
+Plh_144 { We are not done here! }
+
+Plh_155 { Hold it right there, you scoundrel! }
+
+Plh_156 { Yeah, you'd better run! }
+
+Plh_158 { Keep running, you coward! }
+
+Plh_162 { Yeah, just keep running! }
+
+Plh_163 { Just wait until I get my hands on you...! }
+
+BlockingWay_01 { Make way, I need to get through! }
+
+BlockingWay_02 { Move it along already! }
+
+BlockingWay_03 { Get out of here, or I'll punch you on the nose! }
+
+HoldingWeapon_01 { Stow that weapon! }
+
+HoldingWeapon_02 { Stow that damned weapon! }
+
+HoldingWeapon_03 { Are you deaf?! Drop your weapon! }
+
+Noise_01 { ... what's going on here? }
+
+Noise_02 { Quiet, dammit! I want to sleep! }
+
+Noise_03 { Shut up already, or there'll be trouble! }
+
+StandingInWay_01 { Make a hole! }
+
+StandingInWay_02 { Out of the way! }
+
+StandingInWay_03 { Beat it or you'll be sorry! }
+
+Stealing { Give that back right now! }
+
+Plh_129 { Take it, I just don't want any trouble. }
+
+Trespassing_01 { Hey! What are you sneaking around here for? }
+
+Trespassing_02 { You've got no business here. Scram! }
+
+Trespassing_03 { If you don't take off now, you're going to really regret it! }
+
+Lockpicking { Take your grubby paws off my stuff! }
+
+Plh_145 { YOU ENJOYING THIS?! }
+
+Plh_133 { AM I NOT ENTERTAINING YOU?! }
+
+Plh_146 { Nobody can get to me. }
+
+Plh_132 { Look at me! Who wants to be next?! }
+
+Plh_131 { Well fought! I'm definitely up for that again! }
+
+Plh_138 { Next time, you could try a little harder. }
+
+Plh_130 { And another victory for the legend. }
+
+Plh_137 { Who's next?! }
+
+Plh_135 { Was that really all you've got? }
+
+Plh_73 { Maybe you'd be better off becoming a Hewer. }
+
+Plh_134 { Another victory for the future champion! }
+
+Plh_136 { When do I get to go up against the real fighters?! }
+
+Plh_147 { No offense, but that really didn't cut it. }
+
+Plh_148 { Make some effort, you loser. }
+
+Plh_149 { Keep this up, and you'll never get to the top. }
+
+Plh_74 { Let's go! }
+
+Plh_139 { Show me what you've got. }
+
+Plh_140 { I'm going to crush you! }
+
+Plh_141 { Don't hold back! }
+
+Plh_150 { Actions speak louder than words now. }
+
+Plh_151 { Eat dirt! }
+
+Plh_152 { Your turn now! }
+
+Plh_153 { You're going to regret this soon. }
+
+Plh_154 { You're mine! }
+
+Plh_172 { Time to get this show on the road. }
+
+Plh_173 { Ha, this'll be fun. }
+
+Plh_174 { Time for some trouble! }
+
+Plh_175 { Punch first, babble later! }
+
+Plh_88 { Get your food first. You're going to need it. }
+
+Plh_89 { Ah, a new face, I see. I'm Haron, and I make sure that all of you pull your weight. You're — let's see, you're in the north tunnel. Move it! }
+
+Plh_92 { Pace yourself and get whatever rest you can, because tomorrow we'll be right back at the grind. }
+
+Plh_90 { So? A little hard work never killed anyone, right? *winks* }
+
+Plh_114 { True enough. }
+
+Plh_115 { Hmpf. }
+
+Plh_116 { We'll proceed tomorrow. }
+
+Plh_86 { I can see the rubble even from here. How are we supposed to get through that? Clear a way through it, then I'll let you go. }
+
+Plh_87 { My gut is telling me that you haven't reached today's rock-smashing quota. }
+
+Plh_93 { Let's go, let's go. Clear out the north passage already! }
+
+Plh_117 { Looking forward to it? }
+
+Plh_118 { Smashing rocks! Woot! }
+
+Plh_119 { Can I smash something else? }
+
+Plh_120 { Haha, funny. But now get to work. Down the tunnel. Get cracking. }
+
+Plh_121 { *smirks at you contentedly* }
+
+Plh_94 { Your shift isn't over yet. }
+
+Plh_105 { Huh, no rock duty for you today. Go give Bruna a hand. }
+
+Plh_107 { Chow down enough, and the work will be a cinch. Good job. Fetch yourself some food: Today, we're breaking through! }
+
+Plh_109 { Get in! Straight to the east and then north. Let's buckle down again! Soon we'll be done! }
+
+Plh_96 { What have you found? Show me! }
+
+Plh_100 { Here. (show) }
+
+Plh_101 { I still haven't got enough. }
+
+Plh_103 { That'll do... }
+
+Plh_104 { You've got no business here. }
+
+Plh_110 { Get back to work, or there'll be trouble. }
+
+Plh_113 { You're supposed to help over there. }
+
+Plh_82 { Hey, you've got no business there. Clear out! }
+
+Plh_84 { I told you... Get lost! }
+
+Plh_85 { The only thing that gets through to you is a good beating! }
+
+Plh_64 { It isn't your turn to fight. }
+
+Plh_13 { Get lost. }
+
+Plh_69 { Get out of my sight, Nemeton scum! }
+
+Plh_63 { If you want to go into the Pit, then report to Levin. }
+
+Plh_122 { Report to Lothar with your note if you want to go into the Pit! }
+
+Plh_70 { For Jero! }
+
+Plh_71 { Levin ordered me not to allow any more warriors into the Pit. If you're looking for work, report to the Blade of Jero who's responsible for you. }
+
+Plh_48 { Get out. You have no business with the druids. }
+
+Plh_23 { You're getting in here only during the Festival of Fire. }
+
+Plh_22 { They're awaiting you at the Festival of Fire. }
+
+Plh_75 { Remnants have no place here! }
+
+Plh_189 { Hey, you! Where do you think you're going? }
+
+Plh_192 { Stow away your silver. }
+
+Plh_76 { Remnants are not allowed into Nemeton! }
+
+Plh_49 { Only a few select Hewers are allowed up here. }
+
+Plh_65 { But Boris is vouching for me. He said I should report to Kilian. }
+
+Plh_66 { I couldn't care less. Unless Levin says you can come up here, you needn't bother trying. }
+
+Plh_68 { Run back to Nemeton. You nutjobs don't belong here. }
+
+Plh_191 { Only a select few among the Hewers are allowed in. And only Levin chooses. }
+
+Plh_3 { That's out of tune! }
+
+Plh_165 { That jingle-jangle is unbearable... }
+
+Plh_176 { My ears are bleeding... }
+
+Plh_177 { You've got some practicing to do... }
+
+Plh_178 { Anybody could play that badly... }
+
+Plh_179 { You could also HIT the right note once in a while... }
+
+Plh_2 { That sounds nice. }
+
+Plh_180 { Nice tune there... }
+
+Plh_181 { You should be asking coins for this. }
+
+Plh_182 { I could listen all day. }
+
+Plh_183 { Please, keep playing. }
+
+Plh_184 { I haven't heard anything that beautiful in a long time. }
+
+Plh_4 { This one's for you! }
+
+Plh_185 { Here, you've earned it. }
+
+Plh_186 { That's worth a few coins to me. }
+
+Plh_187 { For you. You can play really well. }
+
+Plh_188 { That was — unbelievable. }
+

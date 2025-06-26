@@ -818,7 +818,7 @@ cons_flow_aggressiveCry_description { You bellow into a cone-shaped area in fron
 
 cons_flow_battleCry_name { Battle Shout }
 
-cons_flow_battleCry_description { Increases inflicted damage by [DamagePercent], movement and attack speed by [MovePercent], but you'll also receive [ReceiveDamagePercent] greater damage. The effect lasts [TimeAbs] seconds. }
+cons_flow_battleCry_description { Increases inflicted physical damage by [DamagePercent], movement and attack speed by [MovePercent], but you'll also receive [ReceiveDamagePercent] greater damage. The effect lasts [TimeAbs] seconds. }
 
 cons_flow_bullRush_name { Charge }
 
@@ -1708,7 +1708,7 @@ misc_caveSystem_description { A map of the cave system below the Remnants' camp.
 
 armor_chest_ruinenlager_gladiator_name { Gladiators' Armor }
 
-armor_chest_ruinenlager_gladiator_description { For each % of health lost, you receive 1% less damage — up to a maximum of 90%<br><br>Armor, drenched in the blood of my enemies. Victory is mine. }
+armor_chest_ruinenlager_gladiator_description { For each % of health lost, you receive 1% less physical damage — up to a maximum of 90%<br><br>Armor, drenched in the blood of my enemies. Victory is mine. }
 
 misc_bagOfCurrency_big_name { Large Pouch filled with Coins }
 
@@ -1958,12 +1958,6 @@ item_bigligering_description {  }
 
 recipe_yggdrasil_name { Recipe: Yggdrasil's Ring }
 
-misc_key_locked_door_name { [LOCA] Key not found: misc_key_locked_door_name. Path: Items }
-
-misc_key_locked_door_description { [LOCA] Key not found: misc_key_locked_door_description. Path: Items }
-
-cons_flow_conjure_ripper_name { Id: cons_flow_conjure_ripper }
-
 cons_flow_natureSpirit_npc_name { Id: cons_flow_natureSpirit_npc }
 
 cons_flow_aggressiveCry_npc_name { Id: cons_flow_aggressiveCry_npc }
@@ -1975,14 +1969,6 @@ cons_flow_heavyBlow_bady_name { Id: cons_flow_heavyBlow_bady }
 cons_flow_infection_bady_name { Id: cons_flow_infection_bady }
 
 cons_flow_shockingBlow_bady_name { Id: cons_flow_shockingBlow_bady }
-
-item_poisonedThrowingKnife_npc_fan_name { Id: item_poisonedThrowingKnife_npc_fan }
-
-item_poisonedThrowingKnife_npc_fast_name { Id: item_poisonedThrowingKnife_npc_fast }
-
-item_splittertrap_npc_ebru_all_arena_name { Id: item_splittertrap_npc_ebru_all_arena }
-
-item_splittertrap_npc_ebru_single_name { Id: item_splittertrap_npc_ebru_single }
 
 flow_battleCry_npc_name { Id: flow_battleCry_npc }
 
@@ -2063,4 +2049,78 @@ weapon_dagger_draugr_name { Draugr Daggers }
 weapon_axe_draugr_name { Draugr Axe }
 
 weapon_bow_draugr_name { Draugr Bow }
+
+cons_flow_magicNuke_name { Lightning Strike }
+
+cons_flow_magicNuke_description { A powerful spell that inflicts [DamageFlexAbs] magical damage and [PoiseDamageAbs] stance damage. }
+
+flow_sunder_name { Smite }
+
+flow_sunder_description { Sword attack that inflicts [WeaponDamagePercent] magical weapon damage through a wide swing. Scales with Strength and Mind. }
+
+flow_ballista_name { Ballista }
+
+flow_ballista_description { Spear attack with great range and recoil that inflicts [WeaponDamagePercent] magical weapon damage. Scales with Strength and Mind. }
+
+flow_cyclone_name { Whirlwind }
+
+flow_cyclone_description { Axe attack that inflicts [WeaponDamagePercent] magical weapon damage within a circle. Scales with Strength and Mind. }
+
+flow_dashStab_name { Shadowcharge }
+
+flow_dashStab_description { You dash headlong in your line of sight, ignore collisions with other creatures, and inflict [WeaponDamagePercent] magical weapon damage. Scales with Strength and Mind. }
+
+flow_blast_name { Stroke of the Leaf }
+
+flow_blast_description { You focus primal magical energies and discharge them in line of sight. Inflicts [DamageFlexAbs] magical damage. }
+
+flow_graspingRoots_name { Call of the Roots }
+
+flow_graspingRoots_description { You focus primal magical energies in order to let roots shoot up from the ground. Holds opponents for [TimeAbs] seconds. }
+
+flow_travelForm_name { Gift of the Wolf }
+
+flow_travelForm_description { You focus primal magical energies in order to transform into a spirit wolf. Increases your movement speed by [MovementPercent]. }
+
+flow_natureTouch_name { Nature's Embrace }
+
+flow_natureTouch_description { You focus primal magical energies in order to heal yourself by [HealValueAbsolut] for [TimeAbs] seconds. Scales with Mind. }
+
+flow_conjure_spiritCall_name { Call of the Forest Primeval }
+
+flow_conjure_spiritCall_description { You focus primal magical energies in order to summon the spirits of the Forest Primeval that will aid you in battle. }
+
+key_extractor_name { Extractor Key }
+
+key_extractor_description { Consists of three parts that are connected at the top and open at the bottom. }
+
+flow_spiritShot_name { Charge of the Boar }
+
+flow_spiritShot_description { You focus primal magical energies in order to summon a spirit boar that charges in line of sight and inflicts [DamageFlexAbs] magical damage. }
+
+helmet_atlanter_champion_name { Countenance of the Champion }
+
+helmet_atlanter_champion_description { A special helmet of the Bygones, awarded for outstanding feats in battle. }
+
+recipe_flow_magicnuke_name { Spell: Lightning Strike }
+
+recipe_flow_dashstab_name { Spell: Shadowcharge }
+
+recipe_flow_sunder_name { Spell: Smite }
+
+recipe_flow_cyclone_name { Spell: Cyclone }
+
+recipe_flow_ballista_name { Spell: Ballista }
+
+weapon_sword_ancientRitualSword_name { Ancient Ritual Sword }
+
+weapon_sword_ancientRitualSword_description {  }
+
+weapon_sword_ancientSword_name { Ancient Sword }
+
+weapon_sword_ancientSword_description {  }
+
+weapon_axe_ancientAxe_name { Ancient Axe }
+
+weapon_axe_ancientAxe_description {  }
 

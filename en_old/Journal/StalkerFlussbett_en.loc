@@ -1,0 +1,6 @@
+Title { Wood Protects from Snaptors }
+
+Entry_01 { Harald has found a silver mine, but he's afraid of the snaptors around it. If I get him $GVAR:QuestVars_StalkerFlussbett_Config.WoodAmount$ pieces of wood, then he'll allow me to prospect as much silver as I want. He says that I can find wood in the shipwrecks. }
+
+Entry_02 { I'm allowed to enter the silver mine. }
+

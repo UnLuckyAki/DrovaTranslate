@@ -1,0 +1,152 @@
+Plh_5 { I've got to take care of the food. We can talk afterwards. }
+
+Plh_15 { How are you? Are you badly hurt? }
+
+Plh_69 { Hey, Bruna — what are you doing here? }
+
+Plh_50 { We need to bust out. And, like, now! }
+
+Plh_112 { Hey, Bruna! How are you doing today? }
+
+Plh_114 { Kind of you to ask $GVAR:EVars_Player.Name$ ... I'm feeling all right again, more or less. Still hurts a bit when I move, but I'm tougher than I look. }
+
+Plh_115 { Ow, ahh my rib... }
+
+Plh_116 { Go slowly. Your body needs time to heal. }
+
+Plh_117 { You don't seem that tough to me. }
+
+Plh_118 { You're right... }
+
+Plh_119 { I'll rest up a little. You'd better get to work — maybe today you'll really find what they're looking for. }
+
+Plh_14 { *groans* Ah... I'm... I'm all right. Nothing's broken — I think. Please don't worry. }
+
+Plh_16 { Sorry I couldn't be there sooner. }
+
+Plh_18 { I'll give Lanzo some payback for this... }
+
+Plh_26 { *smiles* It's not your fault... }
+
+Plh_27 { I... I'd prefer doing it myself... }
+
+Plh_70 { *smiles* It's good to see you. Everything's different now... I've left for Nemeton — I'm free. And I should be happy, but... }
+
+Plh_72 { You and Dalin... You two are working together now? }
+
+Plh_73 { Anything's better than being trapped in the cave. }
+
+Plh_74 { Dalin said we could try our luck in Nemeton. Why not...? }
+
+Plh_75 { That's right. I still need to recover from everything too — it's been an ordeal. Thanks for everything. }
+
+Plh_29 { Why don't you have to go to the Pit like everyone else? }
+
+Plh_34 { How did you wind up here? }
+
+Plh_30 { They have me take care of provisions, even though I know my way around a pickaxe much better than some of those weaklings. But at least it's not dangerous here. }
+
+Plh_120 { If you want some provisions too, come and see me after your shift. }
+
+Plh_46 { *sighs* It's just fate. }
+
+Plh_47 { What fate? }
+
+Plh_36 { I was wandering through the Red Moor with my brother Liam. We had no food left, and there were bloodflies everywhere. And Liam, well... }
+
+Plh_37 { We defended ourselves, and Liam put all his strength into it. Then we stumbled across these men here. They helped us... gave us food... }
+
+Plh_38 { We thought we were safe... }
+
+Plh_40 { They don't seem exactly trustworthy. }
+
+Plh_41 { That was a mistake. }
+
+Plh_42 { We were at the end of our ropes and had no choice... }
+
+Plh_107 { They wanted to drag us into this cave. I was exhausted and could no longer stand up. Then Liam fought back with his last breath, shouting that he wasn't going to take it... }
+
+Plh_43 { He held his own, but there were too many of them... }
+
+Plh_108 { He was such a good person. Always looking out for everyone. He stood up for the weak... }
+
+Plh_121 { I'm doing all this for him. His strength must not be lost to this world. }
+
+Plh_44 { Yes. But it was already too late... }
+
+Plh_7 { *blinks* I wish for nothing more, but without weapons, we are powerless... }
+
+Plh_52 { The storeroom contains some weapons, but Mali's always hanging around there. }
+
+Plh_55 { Maybe we can do something about that. Tell Mali that I've taken a turn for the worse. She took care of me yesterday, so she'll probably do it again... and would be distracted. }
+
+Plh_58 { But you'll still have to get the door opened somehow... I don't have a key. }
+
+Plh_122 { I just want to get out of here... }
+
+Plh_12 { So you've... taken care of the food... }
+
+Plh_13 { Thanks... }
+
+Plh_19 { Here... That's your portion for today. }
+
+Plh_99 { ... }
+
+Plh_20 { Your second day, already. Looks like you're getting the hang of it, huh? You'd better not stray too far from Hasso. It can get dangerous in those ruins... }
+
+Plh_68 { *inhales deeply* *coughs* }
+
+Plh_110 { How are you doing, Bruna? }
+
+Plh_111 { Never better. Maybe a few aches and pains, but it's more than worth it to be free again. I need a bit of time for myself now. Thanks for everything, $GVAR:EVars_Player.Name$. }
+
+Plh_80 { Lanzo, what I am supposed to cook if you don't bring my anything? Stone and moss stew? }
+
+Plh_81 { If it filled my stomach, I'd even polish that off. But their stomachs can't handle anything. $GVAR:EVars_Player.Name$ will pick some delicious mushrooms today. Maybe you'll even get hold of some meat from a digpig. }
+
+Plh_106 { I hope you don't keel over. Otherwise, we'll have to tap into our supplies. And nobody wants to do that. We definitely don't. }
+
+Plh_82 { Gathering mushrooms is dangerous. One of you should do it — we haven't got any armor or weapons! }
+
+Plh_83 { Careful, Bruna. Better keep your advice to yourself. $GVAR:EVars_Player.Name$ will manage. If not... it's no loss. }
+
+Plh_84 { Goddamned dirtbag... I hate him... He WANTS us to suffer! }
+
+Plh_85 { It's dangerous out there, so watch yourself. }
+
+Plh_87 { I'll manage, don't worry. }
+
+Plh_88 { Now I'm kinda scared. }
+
+Plh_86 { The last person sent there said that too — right before he disappeared into thin air. }
+
+Plh_90 { Wait, I've got something here that Lanzo didn't find... }
+
+Plh_89 { Take this along. It might save your butt if you get in a tight spot. }
+
+Plh_93 { Let's hope I won't need it... }
+
+Plh_92 { And what exactly am I supposed to get for you? }
+
+Plh_94 { I hope so too... }
+
+Plh_95 { Bring me $GVAR:BanditMineBrutus_Config.CountMushrooms$ common mushrooms. That should be enough for everyone. }
+
+Plh_96 { Meat would be great too, but it isn't worth the risk. Just come back in one piece. }
+
+Plh_97 { Just head to Kolina. You'll find her when you head south from the sleeping quarters. She's on guard duty. }
+
+Plh_91 { Let me give you some advice: take only as much as we need, then come straight back. No unnecessary risks. }
+
+Plh_123 { Hello $GVAR:EVars_Player.Name$! Nice seeing you. }
+
+Plh_124 { What are you doing here? }
+
+Plh_125 { Dalin was asked whether she wanted to join the traveling merchants. She was quick to accept. }
+
+Plh_126 { I got bored lurking around outside Nemeton. So I thought I'd come along. It's safer anyway, even though we're taking only the roads. }
+
+Plh_128 { I'm glad for you. }
+
+Plh_127 { Thanks for everything. *smiles* }
+

@@ -1,0 +1,16 @@
+Title { The Dark Quarter }
+
+Entry_01 { Boris wants me to get $GVAR:QuestVars_EntranceToShadyDistrict_Config.AmountOfMoneyPaid$ coins from Leyna. He's given me a key to the Dark Quarter. Somewhere in the western part of the Remnants' camp, there is supposed to be a concealed entrance. }
+
+Entry_02 { After I saw Boris, Gera intercepted me, to collect on her favor. I'm supposed to plant some previously cut Rustmoss on Leyna, then rat her out to Boris. }
+
+Entry_03 { Leyna gave me the $GVAR:QuestVars_EntranceToShadyDistrict_Config.AmountOfMoneyPaid$ coins. I should tell Boris. }
+
+Entry_04 { I told Leyna the truth about Gera's plan. She was very grateful. }
+
+Entry_05 { I gave Boris the coins and ratted out Leyna. Now I no longer owe Gera anything. }
+
+Entry_06 { I gave Boris all the coins from Leyna. }
+
+Entry_05A { The previously cut Rustmoss is now in Leyna's chest. Now all I've got to do is to reach Boris. }
+

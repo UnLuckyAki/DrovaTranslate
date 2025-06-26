@@ -1,0 +1,20 @@
+Entry_01A { I'm supposed to take the package that I procured from Afrin to Boris, at the Remnants' camp, and trade it for coins. }
+
+Entry_01B { Boris wants me to get a package from Asmus and bring it back to him. He promised me a few coins for it. }
+
+Entry_02 { Boris has the package. If I want to see any coins, I've got to sell the Rustmoss for him there. }
+
+Entry_03 { Well, the package has been delivered, and the coins are in my pockets. All I've got left to do now is take everything to Asmus. }
+
+Entry_04 { On the way back, I was mugged by bandits. Apparently, they had been looking for me, and they were sent by Boris. I should have a word with him. }
+
+Entry_05 { I sold Boris the note for $GVAR:QuestVars_LucrativeBusiness_Config.LetterPrice$ coins. Now I just have to get to Asmus. }
+
+Entry_06 { Asmus believes the story about the mugging, but he can't do anything about it without proof. He needs the coins, and I'm supposed to get the Rustmoss some other way. }
+
+Entry_07 { I gave the coins to Asmus. As a reward, he gave a share of the coins back to me. }
+
+Title { Lucrative Business }
+
+Entry_01C { The business deal didn't go through. }
+

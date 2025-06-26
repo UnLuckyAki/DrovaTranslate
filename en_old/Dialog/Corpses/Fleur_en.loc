@@ -1,0 +1,10 @@
+Plh_0 { *The dead man never even drew his weapon. It seems that a monster took him by surprise. He's got a bag on him.* }
+
+Plh_1 { (search the pack) }
+
+Plh_2 { (walk away) }
+
+Plh_3 { *The bag contains Rustmoss and some other plants that can be gathered on the moor. You notice that the name "Fleur" has been sewn onto the inside of the pack.* }
+
+Plh_4 { *The bag is already empty. You notice that the name "Fleur" has been sewn onto the inside of the bag.* }
+

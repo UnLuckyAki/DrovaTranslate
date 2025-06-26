@@ -1,0 +1,170 @@
+Plh_177 { How does the ritual work? }
+
+Plh_178 { Hm. It's complicated. But I can try to explain it in simple terms. }
+
+Plh_179 { The rune vessels keep the power they emit very limited. Otherwise, the Divinity could free itself. The Bygones knew exactly what they were doing... }
+
+Plh_180 { Compared to what we humans are capable of, the magical power is still quite impressive. Also, it's steady... and inexhaustible. }
+
+Plh_181 { That's why we collect the Divinity's magical power during the ritual, until the silver is imbued with it. Then, by means of complex runes, the Divinity is commanded to direct this power towards the barrier around the Red Tower. }
+
+Plh_182 { Sad to say, we underestimated how resilient the barrier around the Red Tower actually is. We need a lot more magical power... I hope the crystal you've brought us can help with that. }
+
+Plh_174 { What do you need all that silver for? }
+
+Plh_175 { Divine Power can be concentrated in silver. Picture this world as the body of a Divinity. The silver would constitute their veins, through which the power courses like blood. }
+
+Plh_176 { Thus, we need the silver in order to gather and direct the Divinity's power. }
+
+Plh_103 { Why do you want to get away from here so badly? }
+
+Plh_104 { Didn't you see what happened to the Forest Primeval? }
+
+Plh_105 { I myself captured the Divinity! }
+
+Plh_106 { Yes. It looks dead. }
+
+Plh_107 { And took away the Forest Primeval's magical power! }
+
+Plh_152 { The Forest Primeval is no longer protected, and it will continue to decay. Without magical power, there can be no life. Nowhere. }
+
+Plh_156 { That's been happening for a long time throughout Drova. The Bygones managed to keep the Deathfog at bay. but they couldn't confine life. }
+
+Plh_186 { The divine power slowly trickles away from this world, one drop at a time... }
+
+Plh_153 { So it's my fault that the Forest Primeval is dying? }
+
+Plh_154 { Did I do the right thing? Or didn't I? }
+
+Plh_155 { I did it for the Remnants, and I'd do it again. }
+
+Plh_157 { We need the Mighty Boar to get into the Red Tower. All you did was make the inevitable happen. }
+
+Plh_158 { But Drova's decay is irreversible. We can use rune magic to save ourselves — to create better lives for ourselves. }
+
+Plh_110 { Enough dwelling on the past. Let's look ahead. }
+
+Plh_160 { But... }
+
+Plh_162 { The time is over for any ifs, ands, or buts. }
+
+Plh_159 { We'll never gain entrance to the Red Tower without the Mighty Boar. We've come closer to our goal... }
+
+Plh_108 { Dead? }
+
+Plh_151 { It lost all its magical power. }
+
+Plh_7 { What do you know about the Bygones? }
+
+Plh_5 { The Bygones lived in Drova before us. They figured out how to create rune magic by utilizing the power of the Divinities. }
+
+Plh_163 { The whole time, we were doing what we thought would serve the Divinities. We subjugated ourselves to what we believed to be their will. }
+
+Plh_164 { That's over now. The Bygones broke free from the Divinities. }
+
+Plh_165 { Furthermore... the servants became the sovereigns. Sovereigns over the Divinities. Sovereigns over Drova. }
+
+Plh_166 { Now we own the power of the Divinities, and we're going to seize the freedom we seek. }
+
+Plh_8 { What can you tell me about the Red Tower? }
+
+Plh_9 { From the Red Tower, the Bygones wandered between the worlds. They weren't bound to one place alone. They could go wherever they pleased. }
+
+Plh_167 { They kept lists of all the things they carried from the furthest reaches of Drova to other worlds. }
+
+Plh_168 { At some point, they sealed it. We don't exactly know why. }
+
+Plh_169 { So many about the Bygones still remain unanswered. And the answers can be found only within the Red Tower. }
+
+Plh_6 { Ah, the newbie. Greetings! My name is Manes, archmage of the Remnants. }
+
+Plh_84 { What are you doing here? }
+
+Plh_171 { Why aren't you helping the other druids? }
+
+Plh_83 { We're preparing the ritual by which we shall destroy the barrier surrounding the Red Tower. }
+
+Plh_86 { *looks around the scenery and mumbles* silver should suffice, rune vessel is about to be available, runes on the ground are taking shape... }
+
+Plh_172 { *looks back at you* We'll begin soon. }
+
+Plh_173 { I developed the ritual that will allow us to gain entrance to the Red Tower. Now all I've got to do is to ensure that there won't be any mistakes. }
+
+Plh_140 { $GVAR:EVars_Player.Name$! We're busy with the silver right now. We've got to ensure that the ritual works on the next attempt. Did you succeed at locating the Divine Crystal? }
+
+Plh_12 { I've got the crystal from the town in the Forest Primeval. }
+
+Plh_185 { Superb... Our freedom is within our grasp. }
+
+Plh_141 { Levin has arrived. But the Nemeton attacked him. They noticed that we're clearing the Pit. Time's running out... }
+
+Plh_142 { All the Hewers are busy mining the silver. They can't go any faster — they're already working themselves to the bone! }
+
+Plh_143 { $GVAR:EVars_Player.Name$, we need to imbue the Divine Crystals with the magical power of a Divinity. Go to Eugen. He's leading the expedition in the Red Moor, and by now he should be there — I hope... }
+
+Plh_144 { The expedition went east of the Woodcutter Camp, via Georgefarm. Fortunately, the bridge was repaired in the meantime... }
+
+Plh_145 { They wanted to meet Elgar there, in order to discuss the situation. In exchange for some coins, he was going to give us some information about the Red Moor. Go there. He'll be able to show you the way. }
+
+Plh_146 { Here are the Divine Crystals. Take them to the Red Moor, and guard them with your life. }
+
+Plh_148 { I shall. }
+
+Plh_147 { Find Eugen, imbue the Divine Crystals with magical power, then bring them back to us. And hurry, before it's too late... }
+
+Plh_114 { If the Nemeton attack us, all will be lost. We've got no ramparts — no defense. WE should attack them FIRST. As quickly as possible! }
+
+Plh_115 { Manes, we want to get away from this world, obviously, but we won't be able to do that if we impale ourselves on the enemy's swords! }
+
+Plh_13 { I've got the crystal from the Floodplain Forest. }
+
+Plh_116 { *touches the crystal* Unbelievable! I can still feel some magical power that's lying dormant in it. Jero, it will work! All we need now is the final crystal. }
+
+Plh_117 { ... and the expedition into the Red Moor, to imbue it with divine power. Time's running out. }
+
+Plh_183 { The workers from the Forest Primeval have already returned. The path is clear to the ruins in the west. }
+
+Plh_118 { We've also got to press ahead with the preparations here — without delay! }
+
+Plh_119 { The Nemeton have no intention of leaving us alone — we've got no choice. }
+
+Plh_120 { Kilian, go to Levin. Tell him to abandon the Pit and to get the silver here NOW. }
+
+Plh_121 { We've got to do something! }
+
+Plh_113 { $GVAR:EVars_Player.Name$, you've done us a valuable service. And I hope that will continue... }
+
+Plh_123 { Of course. }
+
+Plh_124 { I've brought you the other Divine Crystal! }
+
+Plh_126 { The other Divine Crystal must be in the ruins west of here. Nobody knows this place. The path to it was buried in rubble, and the Blackflame burned there particularly bright. }
+
+Plh_128 { From their writings, we know that Luna's temple must be there. It was often described as the jewel of their faith. }
+
+Plh_184 { We've had a few Hewers clear the way, and Kilian has reported that they're ready. Your task is clear — we need the third Divine Crystal. }
+
+Plh_129 { In the meantime, I shall send a scouting expedition to the Red Moor. It is deep, and commences far to the southeast of Nemeton. The Red Moor is one of Drova's most dangerous places... A moor of death. }
+
+Plh_130 { During my time in Nemeton, nobody dared go there... But the writing from the Library was unambiguous. It's where the Bygones' construct must be located. }
+
+Plh_189 { I'll send the best people to clear a path. Your task is to get the Divine Crystal. }
+
+Plh_131 { And what if the Nemeton overrun us? }
+
+Plh_132 { Yes, I'll bring the crystal. }
+
+Plh_134 { I'll obtain reinforcements from the Pit. They need to see that we're not defenseless. That will make them think again. And should they dare to attack, they shall regret it. }
+
+Plh_135 { I know my sister. She won't sacrifice her warriors. I know how she thinks, and we've got to exploit that. }
+
+Plh_136 { *reaches behind his head and unclasps his chain* }
+
+Plh_170 { This necklace was my father's. He was the founder of Nemeton. All my brothers and sisters received a necklace like this. Now you wear it. }
+
+Plh_137 { My father would be pleased to see it worn now by the person who can lead us out of Drova. }
+
+Plh_138 { Let me handle the defense. For freedom! }
+
+Plh_125 { *smiles* And without hesitation! }
+

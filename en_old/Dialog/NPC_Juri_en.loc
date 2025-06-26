@@ -1,0 +1,30 @@
+Plh_13 { Hey, $GVAR:EVars_Player.Name$, your turn. Get into the arena. }
+
+Plh_46 { Now that was a fight! I'd be delighted to see fights being held in the arena every day. There's always something going down between the Marked Ones! }
+
+Plh_33 { Who are the Marked Ones? }
+
+Plh_36 { Can I become a fighter too? }
+
+Plh_35 { They are fighters for Antonius Proximus. Experienced arena fighters, only the best. }
+
+Plh_37 { *sizes you up* Maybe, but you'd have to be able to fight well. Proximus decides. }
+
+Plh_38 { After the fight with Bady and Gra, more fights will be held here. If you put in the effort, you'll have a chance too. }
+
+Plh_32 { Right now, there's a special fight lined up between Bady and Gra. Then the arena will be opened again for the Marked Ones. }
+
+Plh_42 { The battle against $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$ is going to be gnarly. But be careful. She uses the fog to her advantage. And she's undefeated. I'd always bet on her. }
+
+Plh_43 { I'm going to win. }
+
+Plh_41 { I've seen $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$ fight lots of times. She's into hand-to-hand combat. So keep her at bay. Lots of luck. }
+
+Plh_44 { Ebru is always fighting with his rippers. Defeating them doesn't help, because he can always bring them back. Slug Ebru right in the mouth. }
+
+Plh_40 { I've bet on you. Good luck today against $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$. }
+
+Plh_31 { I've heard of you, $GVAR:EVars_Player.Name$. Word's getting around about the Marked Ones. Blood and iron! }
+
+Plh_30 { If you want to fight in the arena, go speak to Antonius Proximus. He organizes the fights there. }
+

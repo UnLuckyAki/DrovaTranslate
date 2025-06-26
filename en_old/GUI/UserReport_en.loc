@@ -1,0 +1,32 @@
+Hud_Text {  }
+
+UserReport_Feedback { Feedback }
+
+UserReport_Bug { Bug }
+
+UserReport_Feedback_Error { Something went wrong. Please try again. }
+
+UserReport_Feedback_Text { Thank you for your feedback! }
+
+Close { Close }
+
+Send { Submit }
+
+Text_Placeholder { Click here to enter your message. }
+
+Title_Placeholder { Subject }
+
+UserReport_Deadlock { Stuck }
+
+dsgvo_accept { Accept }
+
+dsgvo_cancel { Decline }
+
+DSGVO_Text { By using our feedback tool, you agree to the processing of the following data. In order to use the submitted data for the purposes of improving the game Drova, require some information,  which is listed and explained in the following summary.<br><br>1. When you submit a report, the following information will be submitted to us:<br>1.1. A screenshot of your game taken at the moment you submit your report;<br>1.2. Your current savegame as well as your latest autosave;<br>1.3. Information about your system (OS, RAM, CPU, GPU, resolution, input devices such as mouse, keyboard, controller);<br>1.4. The log file created by the game. This log file might contain the username associated with your operating system;<br>1.5. The data and the email address you've entered into this form.<br><br>2. This information shall be used for internal analyses as well as for notifying the sender, and shall not be shared with any third parties. Nor shall the information be utilized commercially.<br>As soon as the submitted information is no longer needed, it shall be deleted. The information shall be transferred to our server and stored there. Our server is hosted by Netcup GmbH. }
+
+DSGVO_Title { GDPR Notice }
+
+Popup_InvalidEmail { Invalid email address format. Please be sure to enter the email address in the format (name@email.com), }
+
+Email_Header { Your email address. That's where we'll send your fixed savegame. }
+

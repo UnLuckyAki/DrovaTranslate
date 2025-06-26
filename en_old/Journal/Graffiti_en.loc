@@ -1,0 +1,10 @@
+Title { Defaced Walls }
+
+Entry_01 { Someone is sneaking through the streets at night, defacing stones and walls. There is a reward of $GVAR:QuestVars_Graffiti_Config.Reward$ coins for catching the perpetrator. }
+
+Entry_02 { I caught Adwin and sent him to Gerdwin. I should get my reward there. }
+
+Entry_03 { Adwin stops the defacing, and in exchange, I cover for him with Gerdwin. I should get my reward there. }
+
+Entry_05 { I've received my reward. }
+

@@ -1,0 +1,240 @@
+Plh_269 { What are you doing here all by yourself? }
+
+Plh_270 { What does it look like? I live here. I don't have much — I'm just getting by. }
+
+Plh_310 { Surviving here on your own must be tough. }
+
+Plh_294 { Where do you get the apples? }
+
+Plh_271 { Apples are disappearing at Cengiz's place — and you've got a whole lot of them. }
+
+Plh_311 { *raises eyebrows slightly* Tell me about it! Some time earlier, I wanted to work for Cengiz so I'd have a more reliable income. But he didn't want to give me the time of day. Ever since then, I've been here on my own around here. }
+
+Plh_314 { That sounds really rough. }
+
+Plh_315 { Really and truly, I don't know how you're surviving out here. }
+
+Plh_316 { It is... }
+
+Plh_318 { At some point, I found Cengiz's storage pits. And before I let myself starve to death, I helped myself to something from them. }
+
+Plh_319 { I'd rather make ends meet a different way, but I've got to play the cards I've been dealt! }
+
+Plh_317 { Uh. *clears throat* }
+
+Plh_312 { *beads of sweat run down his forehead* That's none of your business! I collect them, and you're not getting any. You'd better get out of my cave now! }
+
+Plh_313 { Am I responsible for everything that goes missing around here? Go away. }
+
+Plh_146 { What are you doing here? }
+
+Plh_147 { Eh, I live here? What does it look like? }
+
+Plh_148 { Not like someone's living here. }
+
+Plh_149 { Like a comfortable place to sleep. }
+
+Plh_150 { Do you always visit strangers and tell them their homes look terrible? }
+
+Plh_151 { Leave me alone. You've got no business here. }
+
+Plh_152 { You know what you can do with your jokes. }
+
+Plh_322 { Together, we made it, and I never want to be alone again. Those critters would have killed me. }
+
+Plh_321 { *breathes heavily* I'm alive. I'm alive. }
+
+Plh_135 { *digs around in the storage pit and doesn't notice you* }
+
+Plh_263 { There you are. Let's go to Cengiz. }
+
+Plh_128 { You've been flapping your gums a bit too much, huh? *smirks widely* }
+
+Plh_172 { But I'm not going to give you a hard time about it. }
+
+Plh_161 { Give me $GVAR:QuestVars_TheBlackhead_Config.AmountOfMoneyToBribeOwain$ coins, and I'm out of here. That'll be enough for me to make ends meet, so we're both happy. }
+
+Plh_159 { Good. Take them. (hand $GVAR:QuestVars_TheBlackhead_Config.AmountOfMoneyToBribeOwain$ coins over) }
+
+Plh_160 { Forget it. }
+
+Plh_162 { *counts* Very nice. Now we're in business. *smirks* }
+
+Plh_173 { All right, then, I'll be on my way now. }
+
+Plh_163 { Bring enough coins next time! I didn't just fall off the turnip cart, you know. }
+
+Plh_164 { Whatever you want. }
+
+Plh_153 { *rubs his forehead* That really hurt. }
+
+Plh_154 { Get out of here now! Otherwise, you're going to be in more than just pain. }
+
+Plh_155 { Be glad I don't break all your fingers, you thief. }
+
+Plh_156 { All right, all right. I'm going. But if I croak somewhere out in the wilderness, it'll be on your conscience! }
+
+Plh_188 { *rummages around in the storage pit* }
+
+Plh_232 { Still empty... }
+
+Plh_233 { Empty already...? }
+
+Plh_234 { Maybe the storage pits wouldn't be so empty if you didn't keep helping yourself from them. }
+
+Plh_235 { (tap his shoulder) }
+
+Plh_236 { Maybe you wouldn't be so impudent if someone taught you some manners. }
+
+Plh_237 { *slaps your hand away* Don't touch me! }
+
+Plh_239 { Trust me, bud, you don't want to tangle with me. Got it? }
+
+Plh_87 { *surprised* You've got no business being here. }
+
+Plh_247 { Hm? }
+
+Plh_99 { Leave. }
+
+Plh_90 { What are you doing here? }
+
+Plh_92 { What business is that of yours? What are YOU doing here? Are you stalking me? }
+
+Plh_93 { Get out of my sight before your face runs into my fist. }
+
+Plh_282 { Thanks for not ratting me out to Cengiz. }
+
+Plh_283 { Here, you can have my ring. It's my last memory of a time when everything in my life was different. But I finally want to put that behind me. }
+
+Plh_323 { Take good care of it. Maybe it'll bring you luck. }
+
+Plh_126 { Finally, I finally belong somewhere, and I can work. *smirks friendlily* }
+
+Plh_157 { I'm going already. }
+
+Plh_125 { Thanks to you, now I've got to slog away here. Scumbag. }
+
+Plh_165 { With your starting capital, I can begin again }
+
+Plh_4 { *fiddles with a shiny ring in his hand* Hm? What is it? }
+
+Plh_307 { Get out of my cave already! }
+
+Plh_309 { Let's agree to leave each other alone. What harmony! *smirks* }
+
+Plh_284 { What do you want from me? }
+
+Plh_189 { So YOU'RE the one stealing from the storage pits. }
+
+Plh_190 { (kick him in the rear end) }
+
+Plh_226 { And you're a pain in the butt. Nice talking with you. }
+
+Plh_241 { Why don't you try honest work? Cengiz doesn't expect anyone to work for free. }
+
+Plh_181 { Why should Cengiz take me on? I tried a while ago, but no chance. He didn't want to give me the time of day. }
+
+Plh_108 { Since the earthquake, some of the woodcutters have taken off. }
+
+Plh_182 { It occurred to me that there were fewer guards around... }
+
+Plh_228 { Are you insane?! What the hell? }
+
+Plh_229 { Will you finally listen to me?! You can just work FOR Cengiz instead of stealing. }
+
+Plh_230 { There's more where that came from. (draw weapon) }
+
+Plh_214 { Cengiz has been looking for people. You're out of work. You could both benefit. }
+
+Plh_243 { I think it's best if you made yourself scarce. (draw weapon) }
+
+Plh_216 { Hm, I didn't know that Cengiz was needing people. That changes things. }
+
+Plh_217 { Do you really think he'd take me on? }
+
+Plh_218 { I can put in a good word for you. }
+
+Plh_219 { Probably not. It'd be better if you went away. }
+
+Plh_259 { You would do that? }
+
+Plh_292 { Sure. Wait for me outside the camp during the day. }
+
+Plh_281 { All right. At night I'll sleep in my cave, but the rest of the day I'll wait for you. }
+
+Plh_301 { Oh, and one more thing. Under no circumstances tell him that I stole from the storage pits! Otherwise, he'll never take me on. }
+
+Plh_302 { You can rely on me. }
+
+Plh_303 { I can't promise anything. }
+
+Plh_304 { Excellent! }
+
+Plh_262 { I hope you won't leave me in the lurch. I'll wait for you south of the camp. Near the rock by the river. }
+
+Plh_305 { Hmph. Thought as much. }
+
+Plh_260 { Where am I supposed to go? }
+
+Plh_194 { I'll make you an offer: you leave me alone, and in return I'll tell you a secret. That way, we both get something out of it. }
+
+Plh_195 { What kind of secret? }
+
+Plh_199 { Good. Tell me the secret. }
+
+Plh_196 { Forget it. I'll make sure you don't steal anything else. (attack) }
+
+Plh_197 { *smirks widely* The way you look, you're going to need the secret. }
+
+Plh_200 { First, promise me that you'll leave me alone. Otherwise, we can't do business. }
+
+Plh_201 { I promise. }
+
+Plh_202 { I'm not promising you a thing. }
+
+Plh_203 { I knew you'd see reason. }
+
+Plh_207 { So, Cengiz keeps this chest in his tent. It contains some extra clothes he's got. Something like that is always better than wearing rags, and it also sells quite well. }
+
+Plh_296 { I've already got Cengiz's clothes. You'd better come up with something else. }
+
+Plh_208 { I'll just pretend I haven't seen you at all. }
+
+Plh_256 { How come you don't you get the clothing yourself? }
+
+Plh_209 { Thanks for the information. Now eat dust. (attack) }
+
+Plh_297 { Uh... What? You've already got it? G-good, I'll give you $GVAR:QuestVars_TheBlackhead_Config.AmountOfMoneyToBribeOwain$ coins for you to leave me alone. How about that? }
+
+Plh_298 { Good. Give me your money. }
+
+Plh_299 { I'll just take your money. (attack) }
+
+Plh_210 { *smirks* Perfect! You do your thing and I'll do mine. }
+
+Plh_211 { You dirty rat! }
+
+Plh_257 { Because it's in the very same tent where he sleeps! If he wakes up and sees me there, he'll make mincemeat out of me. And I'm not exactly the best at sneaking around. }
+
+Plh_204 { Do you want to know the secret or not? }
+
+Plh_205 { All right, I promise. }
+
+Plh_206 { You know what you can do with your secret. (attack) }
+
+Plh_198 { No! Wait! Agh! }
+
+Plh_183 { Calm down, calm down, we don't want to escalate right here or right now. }
+
+Plh_185 { Put away your weapon before you hurt yourself. }
+
+Plh_224 { All right, then. I can take you to Cengiz. Maybe he'll give you work. (stow weapon) }
+
+Plh_187 { Now, listen to me. Make yourself scarce, or I'll beat you to a pulp. (point your weapon at him) }
+
+Plh_245 { *exhales in relief* Glad you've come to your senses. }
+
+Plh_193 { *raises his hands and turns his empty palms towards you* We should all relax now. }
+
+Plh_265 { So, you can inform Cengiz. I'm waiting here. }
+

@@ -1,0 +1,192 @@
+Plh_9 { So you need someone who can fight? }
+
+Plh_17 { Fine, I'll go with you to the frogs. }
+
+Plh_29 { The frogs in the south are dead. }
+
+Plh_79 { Then it's YOU who bagged all the rustroot! Give it back! }
+
+Plh_60 { What are you doing here? }
+
+Plh_74 { The bridge is safe again. }
+
+Plh_63 { What does it look like? }
+
+Plh_64 { We're waiting. }
+
+Plh_66 { What are you waiting for? }
+
+Plh_65 { I've noticed. }
+
+Plh_67 { For warriors from Nemeton. }
+
+Plh_69 { The bridge to the Woodcutter Camp is unsafe again. I don't know what's going on there, but people keep disappearing. }
+
+Plh_70 { I don't want to disappear! }
+
+Plh_72 { As long as it isn't safe, we're staying put right here. Delani doesn't want to send us off and lose yet another delivery. }
+
+Plh_68 { Do you know what you haven't noticed? }
+
+Plh_75 { Really? }
+
+Plh_76 { We can press on tomorrow! }
+
+Plh_77 { And finally earn some more coin! }
+
+Plh_36 { Hey! I was just about to collect that. Me! }
+
+Plh_5 { Come along. }
+
+Plh_78 { Now knock it off! That's MY stuff! }
+
+Plh_38 { What do you want with it? }
+
+Plh_40 { I really don't know. What do you want with the rustroot? }
+
+Plh_43 { If you really want it, go ahead and take it. (hand $GVAR:QuestVars_FrogsAndRustmoss.AmountOfRustmossKlepped$x rustroot over) }
+
+Plh_80 { I haven't got the stuff anymore. }
+
+Plh_37 { Too bad. I was here first. }
+
+Plh_39 { What would I want with rustroot? Hm? Smoke it! What else?! }
+
+Plh_41 { Did you just arrive in Drova yesterday or something? Rustroot is made into Rustmoss. And smoking Rustmoss makes you forget all your worries and fears. Good stuff. }
+
+Plh_42 { And now give me the goddamn rustroot. }
+
+Plh_45 { Thanks! I've got to flog the stuff, if I'm going to make ends meet. }
+
+Plh_46 { Who pays for stuff like that? }
+
+Plh_50 { This was never about the Heath and the sheep, wasn't it? }
+
+Plh_47 { Whatever. I've got to go. }
+
+Plh_48 { Delani. Works at Georgefarm. She always needs rustroot, and she pays good coin for it. }
+
+Plh_51 { What do I care about sheep? You can't smoke them. }
+
+Plh_82 { Although... }
+
+Plh_52 { I've got things to do. I'll see you around. }
+
+Plh_49 { Don't let me stop you. }
+
+Plh_44 { *his expression darkens* Leave me alone... }
+
+Plh_110 { I don't need that frog mask anymore. You can have it. }
+
+Plh_108 { Ribbit! Ribbit!! That doesn't sound right. }
+
+Plh_106 { Why are you wearing a frog mask? }
+
+Plh_7 { You don't exactly look as if you could fight. But well... Perhaps I don't either. }
+
+Plh_8 { I'm busy, so make it quick. }
+
+Plh_24 { There are the frogs. Get ready, we'll show them! }
+
+Plh_25 { Get 'em! }
+
+Plh_26 { Let's get this over with. }
+
+Plh_27 { Now! }
+
+Plh_32 { What in the name of...? They're already dead. I could have sworn they were still there earlier. }
+
+Plh_33 { Oh, you mean these frogs here? That was me. }
+
+Plh_53 { Of course it was! Because all the rustroot grows here. }
+
+Plh_54 { You've snatched up all the rustroot here! Give it back! }
+
+Plh_35 { *smirks* Finally I can... uh, the frogs can't harm the sheep anymore. Or anyone else, for that matter! }
+
+Plh_21 { ... you killed them all by yourself? Finally, the critters are dead! }
+
+Plh_22 { Here, you've done the Heath a great service. Thank you. }
+
+Plh_103 { You dirtbag Remnants can solve your problems only with violence! }
+
+Plh_98 { If you want to get to the Morbid Moor, you should head south, away from Nemeton. Keep on the lookout for dangerous critters, but from that point on, you should arrive safely. }
+
+Plh_99 { At some point, the path heads up to Nemeton, but if you head east you'll get to the Knawd Moor. I've never been there either, but it's where your people wanted to go. }
+
+Plh_100 { Oh, since you've paid, I'll give you a little hint. If you're in the Red Moor and keep heading east, you'll eventually come to a strange menhir. That's a large stone standing upright. Magical place. Maybe it'll be of interest to you. }
+
+Plh_102 { Watch yourself — there have already been enough corpses on the Red Moor. }
+
+Plh_83 { *burps* That feels good. }
+
+Plh_84 { Was there a group of Remnants here, heading for the Red Moor? }
+
+Plh_85 { We were afraid they were going to attack us. One of them looked like a bear. But all they wanted was to know the best way to get through the Red Moor. }
+
+Plh_87 { They paid well, and I can finally drink in peace. }
+
+Plh_86 { Are you one of them? }
+
+Plh_88 { Where exactly did they go? }
+
+Plh_89 { If you want the information, it'll cost you $GVAR:QuestVars_LoadCrystals_Config.PriceInformationMoorlagerhof$ coins. }
+
+Plh_90 { You've already gotten some coins, so tell me. }
+
+Plh_91 { Quit being a wise guy. I can force it out of you. }
+
+Plh_92 { Hey, hey, take it easy. I gave the information to someone, but if you want it, it's simply going to cost you. Fair. }
+
+Plh_93 { All right, here are the $GVAR:QuestVars_LoadCrystals_Config.PriceInformationMoorlagerhof$ coins. Now out with it. }
+
+Plh_94 { Final warning. And last chance for you. }
+
+Plh_95 { I've had enough. I think a couple of beatings will do you good. }
+
+Plh_101 { You really don't have any coins. All right, I'll cut you some slack this time... }
+
+Plh_97 { Come off it, everything's all right... }
+
+Plh_96 { Hey, but that was... }
+
+Plh_30 { Those frogs are polluting the neighborhood with their stench. }
+
+Plh_31 { That was good work with those critters. }
+
+Plh_81 { What's the deal? Are you going to try to take my rustroot away again? Get lost already! }
+
+Plh_59 { If you don't need anything, leave me alone. These goods aren't going to deliver themselves. }
+
+Plh_61 { Ah, it's you. }
+
+Plh_62 { Hm? What do you want? }
+
+Plh_73 { I'm glad someone's taken care of the bridge. Now I'll be able to work again. }
+
+Plh_10 { Exactly! }
+
+Plh_104 { Soon those damned frogs will devour all the sheep on the Heath. Just the other day, they swallowed one of the sheep whole! }
+
+Plh_105 { Before long, you won't even be able to use the footpaths without some stupid frog spitting at you! }
+
+Plh_11 { But I will stop them. Me! I just need someone who will watch my back. }
+
+Plh_20 { The frogs by the pond in the south? They're dead. }
+
+Plh_12 { I can watch your back. }
+
+Plh_13 { Then I hope you'll find someone. }
+
+Plh_14 { *sizes you up* Hm. I think the frogs outnumber you. But you could distract them while I kill them. }
+
+Plh_28 { The Nemeton won't help me — now I've got to see this through. }
+
+Plh_16 { Think of the poor sheep! You would save them! And you shan't go away emptyhanded. }
+
+Plh_15 { You! You could distract them! You wouldn't have to do anything yourself! }
+
+Plh_18 { At last! I've been cooling my heels around here for a quite a while already. }
+
+Plh_19 { Let's not lose even more time. }
+

@@ -2,7 +2,7 @@ Plh_24 { I want to borrow some coins. }
 
 Plh_57 { I want to settle my debts. }
 
-Plh_104 { I don't owe you anything anymore. (smirk) }
+Plh_104 { I don't owe you anything anymore. (grin) }
 
 Plh_25 { How many? }
 
@@ -22,11 +22,11 @@ Plh_62 { Oh, I don't have it on me right now. I'll bring it to you later. }
 
 Plh_99 { If you don't like it, you shouldn't have borrowed any. Enough jawboning. Show me the money! }
 
-Plh_63 { Excellent. Pleasure doing business with you. *smirks* }
+Plh_63 { Excellent. Pleasure doing business with you. *smiles* }
 
 Plh_64 { You'd better. And make it snappy. You don't want to have any trouble with me, believe me. }
 
-Plh_59 { Then hand over get$GVAR:QuestVars_Debt_Config.LowAmountWithInterest$ coins. }
+Plh_59 { Then hand over $GVAR:QuestVars_Debt_Config.LowAmountWithInterest$ coins. }
 
 Plh_100 { That's almost twice as much! Usury! }
 
@@ -102,7 +102,7 @@ Plh_54 { (sign) }
 
 Plh_55 { I've changed my mind. I don't want to borrow any coins. }
 
-Plh_97 { *You sign, Friedel gives you the coins and smirks* }
+Plh_97 { *You sign, then Friedel gives you the coins and grins vaguely* }
 
 Plh_30 { So, our business is concluded. *quickly makes the list disappear into her drawer* }
 

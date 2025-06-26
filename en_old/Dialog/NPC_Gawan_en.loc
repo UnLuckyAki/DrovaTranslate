@@ -1,0 +1,219 @@
+Plh_28 { I found Hansi. He doesn't look good. }
+
+Plh_77 { About the glyph stone... }
+
+Plh_109 { About the sheep... }
+
+Plh_110 { Do you have the $GVAR:QuestVars_RipperAmbush.SheepCosts$ coins? }
+
+Plh_119 { About the frogs... }
+
+Plh_120 { Do you have the $GVAR:QuestVars_RipperAmbush.YCosts$ coins? }
+
+Plh_60 { Hello, my friend. I am Gawan. I noticed that you and this Faol have hunted down the rippers north of here. Good work! }
+
+Plh_61 { Beer's on me! }
+
+Plh_62 { Keep ‘em coming! (drink beer) }
+
+Plh_63 { What do you want from me? }
+
+Plh_64 { You've earned it. These damned rippers are just causing so much trouble. }
+
+Plh_65 { Say... I'm looking for Hansi. You didn't happen to find a corpse where the rippers were? One with a weird yellow glyph stone? }
+
+Plh_72 { Wait, what's it about? }
+
+Plh_8 { Hansi and I were on our way to Nemeton from the Remnants' camp. We did some good business there. *smirks* }
+
+Plh_56 { We were attacked by rippers on the way. I was barely able to defend myself, but... }
+
+Plh_9 { Hansi wasn't. He got torn to shreds. I was able to save my stuff, but Hansi had the glyph stone with him. That was the reason we went to Nemeton in the first place. }
+
+Plh_59 { Those creatures dragged Hansi to the knoll. They'd hardly eat the glyph stone, so it should still be with him. If you bring it to me, I'll sell it in Nemeton. And you'll get a cut. }
+
+Plh_10 { What does the glyph stone do? }
+
+Plh_11 { What exactly happened to Hansi? }
+
+Plh_14 { Your friend is dead, and that doesn't bother you?! }
+
+Plh_18 { Maybe I could look around for the glyph stone? }
+
+Plh_58 { I want nothing to do with that. }
+
+Plh_12 { It's this really old stone. Hansi encountered a merchant in Nemeton who wanted to give us a load of coins for it. }
+
+Plh_66 { Bring me the stone, and I'll sell it in Nemeton. Working together, we can make some decent coin. }
+
+Plh_13 { I told you he bought it! Isn't that enough? Do you want me to explain to you how they disemboweled him? }
+
+Plh_15 { Well, friend... or should I say, moron. I'm the one who had to work with him. He's dead and I'm broke. Great, just great. }
+
+Plh_20 { I knew right away that I could rely on you! I hope the stone is still with Hansi... }
+
+Plh_34 { Think about it. If we get our hands on the glyph stone, we're both rich. }
+
+Plh_29 { No one's going to look so great after getting torn to shreds. Anyway, what about the glyph stone? }
+
+Plh_30 { It wasn't on his body. (lie) }
+
+Plh_31 { Here's the glyph stone. }
+
+Plh_74 { I'm not sure. I'll have to look around some more. }
+
+Plh_32 { What a crock! Thanks for nothing. Now I'll have to see where I can stay... }
+
+Plh_78 { What about a reward? }
+
+Plh_79 { Good luck. }
+
+Plh_80 { I'm broke! I've got nothing to give you! }
+
+Plh_81 { Too bad... }
+
+Plh_33 { I can't believe it! By the Divinities! You saved me! You made US rich! }
+
+Plh_37 { Oh, the reward... well... Once I sold the glyph stone, you'll get your share. And then we'll be rich! You have my word! }
+
+Plh_38 { Then keep your eyes peeled for me in Nemeton! Now go, be on your way! }
+
+Plh_75 { If we find the glyph stone, we're both rich! }
+
+Plh_76 { Do you have the glyph stone? }
+
+Plh_73 { *grumbles* Leave me alone... }
+
+Plh_130 { We've worked well together, but now we must go our separate ways. }
+
+Plh_121 { There you are! I am true to my word, or my name isn't Gawan. }
+
+Plh_132 { I sold the glyph stone. It yielded as many coins as I'd hoped. I invested them straightaway into a new business, which will make them multiply. }
+
+Plh_133 { Do something worthwhile with your share too. *smirks* }
+
+Plh_122 { Ran into quite a few problems. Not everything went exactly the way I wanted, but I still have a very nice chunk of change for you. *smirks* }
+
+Plh_123 { So I'll get my coins now? }
+
+Plh_124 { What's the catch? }
+
+Plh_151 { Take a look at my new friends. Hansi and $GVAR:EVars_Player.Name$. I bought them with all my coins. Worth every penny! }
+
+Plh_152 { The one frog is named — after me? I don't know what to say... }
+
+Plh_153 { And the coins? }
+
+Plh_125 { You should be honored! A token of my appreciation for your help! For you I have... }
+
+Plh_126 { $GVAR:QuestVars_RipperAmbush.YMoney$ coins! }
+
+Plh_128 { Now we're both really set! }
+
+Plh_129 { A pleasure doing business with you. But we must now go our separate ways. Think of me when you're spending those coins. }
+
+Plh_127 { $GVAR:QuestVars_RipperAmbush.SheepMoney$ coins! }
+
+Plh_154 { Uh, yeah, of course. Strictly business, is it? For you I have... }
+
+Plh_113 { I've been looking for you! I have some great news! }
+
+Plh_114 { The sheep farm was a complete success! We got buttloads of coins! }
+
+Plh_115 { Then hand them over! }
+
+Plh_139 { But we could triple our coins! I got some advice from someone on how to do it... }
+
+Plh_140 { Frogs! }
+
+Plh_141 { Frogs...? }
+
+Plh_142 { All over the Red Moor, there's lost treasure to be found. Even in the water. Nobody dares to look there. But who will? }
+
+Plh_143 { Frogs! }
+
+Plh_146 { That's brilliant! }
+
+Plh_144 { Hang on... Frogs can look for treasure for us? }
+
+Plh_145 { That's really stupid. }
+
+Plh_147 { Oh yes! }
+
+Plh_149 { How's that supposed to work? }
+
+Plh_150 { I'll buy some frogs. They look for treasure on the Red Moor and bring it to us. There's a big lake, north of Georgefarm. That's where I'll start. We'll get rich quick! }
+
+Plh_116 { The sheep have generated a decent profit, but it's not enough. I still need $GVAR:QuestVars_RipperAmbush.YCosts$ coins. You in? }
+
+Plh_148 { Every new idea is stupid, right? All change is bad, right? But one vision can change the whole world! }
+
+Plh_131 { I sold the glyph stone for a lotta coins and bought sheep, and then I sold the sheep! }
+
+Plh_83 { Ah, there you are! Terrific to see you! }
+
+Plh_84 { You got my coins? }
+
+Plh_85 { What are you doing here with the sheep? }
+
+Plh_86 { Okay... so... Hear me out. I've managed to sell the glyph stone and get a lot of coins for it. }
+
+Plh_87 { But you've got to spend coins to make coins. So, I made a deal with Gerion that'll blow you out of the water. So hold on to your hat. The coins... }
+
+Plh_88 { WE'LL DOUBLE THEM! }
+
+Plh_90 { I just want my coins, like we agreed. }
+
+Plh_91 { How is that going to work? }
+
+Plh_89 { You'll get them. But listen... }
+
+Plh_92 { I bought the sheep from Gerion at a rock bottom price. I'm going to run a sheep farm. }
+
+Plh_137 { So you're going to be — a shepherd? }
+
+Plh_135 { No, you need to think outside the box. Look at the big picture. Sheep are pure gold. Sheep MAKE actual gold. }
+
+Plh_138 { You shove grass into a sheep, and the sheep grows wool, which I turn into coins. And where do I get grass? Well? IT GROWS BY ITSELF! JUST LIKE THAT! }
+
+Plh_93 { But to start my... uh, OUR sheep farming venture, I need just a few more coins. I've already put in my share. But you must have some coins...? }
+
+Plh_95 { How many do you need? }
+
+Plh_96 { I don't know... }
+
+Plh_97 { Listen, I just need $GVAR:QuestVars_RipperAmbush.SheepCosts$ coins. }
+
+Plh_98 { Yeah, I know. It's more than a few. But I've already explained it to you. Endless amounts of grass. Endless amounts of wool... }
+
+Plh_99 { DOUBLE THE COINS! }
+
+Plh_108 { Have patience. I haven't got the coins just yet. }
+
+Plh_52 { Hey, you there. I'm Gawan. I'm looking for people to help me with my business. And you look like you've got some battles under your belt. Business is also a battle. Want to make some coins? }
+
+Plh_53 { Always. What's the deal? }
+
+Plh_54 { No, thanks. }
+
+Plh_55 { You can't be serious. Everyone needs coins. At least hear me out... }
+
+Plh_6 { *grumbles* What do you want? }
+
+Plh_117 { I'm in. (Give $GVAR:QuestVars_RipperAmbush.YCosts$ coins) }
+
+Plh_101 { Let me think about it. }
+
+Plh_102 { I don't want anything to do with it. I'm out. }
+
+Plh_106 { We're going to be making coins faster than we can spend them. I'll tell you when it's time to harvest. *smirks* }
+
+Plh_103 { Don't take too long. The offer won't be on the table forever. }
+
+Plh_104 { Then get lost. I need only people who believe in me. I'll find someone else. }
+
+Plh_100 { I'm in. (Give $GVAR:QuestVars_RipperAmbush.SheepCosts$ coins) }
+
+Plh_155 { *spits on the ground* I want nothing to do with you. Get lost. }
+
+Plh_156 { I had a new business idea, but I couldn't find you anywhere. Had to invest my own coins. }

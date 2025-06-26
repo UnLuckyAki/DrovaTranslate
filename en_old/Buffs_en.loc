@@ -1,0 +1,30 @@
+SleepBuff { Rested }
+
+SleepBuffDescription { Increases your movement speed by [MovementPercent]. }
+
+Poison { Poison }
+
+PoisonDescription { Reduces your movement speed by [MovementPercent] and your armor by [ArmorReduce]. }
+
+Bleeding { Bleed }
+
+BleedingDescription { You're losing health periodically. }
+
+SleepBuff_T2 { Well Rested }
+
+Veil_Name { Blackflame }
+
+Veil_Desc { You're continuously taking damage. }
+
+Intoxicated_Name { Drunk }
+
+Intoxicated_Desc { Everything looks kind of fuzzy... }
+
+NoFood_Name { Empty Stomach }
+
+NoFood_Desc { Eat something to fill your stomach. If you're sated, you'll regenerate lost health over time. }
+
+waterbarrel { Water }
+
+waterbarrel_description { Restores health over a short period of time. }
+

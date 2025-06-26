@@ -1,0 +1,182 @@
+Plh_19 { You want to go to Nemeton? }
+
+Plh_24 { You're a beekeeper too? }
+
+Plh_61 { What does the future hold for the Woodcutter Camp? }
+
+Plh_65 { Where was Larea going? }
+
+Plh_101 { What kind of bees were you singing about? }
+
+Plh_113 { Birka says she needs honey from you. }
+
+Plh_102 { The beast is dead. It's a bear. }
+
+Plh_20 { Traditionally, my route ends here. I know every corner in Drova — the beautiful parts and the dangerous ones! And now my route is perfect! For the last five summers, I've been able to travel throughout the entire land without any bad encounters. }
+
+Plh_131 { Good for business, but also good for my health! }
+
+Plh_80 { *sings* My bees, my bees! They give me honey! Makes me feel so lucky! I love my bees, my bees! }
+
+Plh_23 { I am at one with myself. *closes eyes and takes a deep breath* }
+
+Plh_66 { *exhales deeply* Was there anything else? Oh, that's not what you meant. I'm waiting here until the bridge is repaired. Under no circumstances do I intend to deviate from my tried and true route, just to run smack into some creepy-crawlies. Or their claws. }
+
+Plh_21 { I prefer listening to my instinct! And meeting new people like you! Well, new people who don't want to hand me a shovel or anything horrible like that! }
+
+Plh_25 { The bees' best friend in all of Drova! My beehives are scattered all over the place. On each route, I take care of the busy buzzers and harvest their honey. }
+
+Plh_62 { I have known them for a long time, and... I'm worried about them. Their ranks are steadily dwindling. They are good people, all of them, but their trust is diminishing... Cengiz has so much on his plate, and now he's got to worry about Larea too. She should have been back a long while ago. }
+
+Plh_63 { I miss her too. *smirks* She's one with the Floodplain Forest, but in a very different way than I am. She merges with the wilderness, as though she didn't need any people. Oh, I wish I could do that too... }
+
+Plh_64 { She's a hunter. She wanted to hunt water rats north of here. Usually she's roaming around out there for a few days. But after the earthquake, the rats probably scattered in all directions... }
+
+Plh_4 { The fatigue weighs down my soul and my body. Leave me in peace... my soul needs peace... }
+
+Plh_10 { Greetings, fellow being! You have a friendly face. I can see that right away! }
+
+Plh_76 { I am Bombus. Traveling trader, beekeeper, healer. My hands carry the light of the sun, and my eyes are moistened with dew. Isn't Drova a wonderful place? }
+
+Plh_77 { What I am not, however, is a mind reader, so you will have to tell me who you are, the very old-fashioned way! }
+
+Plh_105 { Hang on... Beekeeper? }
+
+Plh_11 { I am $GVAR:EVars_Player.Name$. }
+
+Plh_12 { I don't know whether I should reveal that to you... }
+
+Plh_13 { Maybe I'd best wait until you can read minds... }
+
+Plh_106 { Of course! My beehives are scattered all over Drova. Without me, nature would have perished here long ago! }
+
+Plh_14 { Ah, then please accept my greetings, $GVAR:EVars_Player.Name$. It is always a pleasure to meet new people whom the Divinities consider worthy to make this place more beautiful! }
+
+Plh_17 { Actually, I'm supposed to be in Nemeton. But a rest like this can do wonders. I've even seen a butterfly! }
+
+Plh_68 { *stares dreamily into space* }
+
+Plh_69 { Fortunately, my dried healing herbs keep for a long time. At some point, they will have the bridge repaired. As long as my hand doesn't have to wield a hammer, I'm good. }
+
+Plh_15 { Oh, I like secrets! But take heed not to remain too mysterious. After all, we all need good friends, don't we? }
+
+Plh_16 { And that could soon happen! Yesterday, I discovered a new mushroom species. They are blue. Thoughts are also blue, right? All I've got to do now is cook them! The mushrooms, I mean. }
+
+Plh_117 { There must be so much more in there! The bear ate a lot of my honey... Woe! }
+
+Plh_118 { Yes, uh, bad bear. }
+
+Plh_119 { I've got to confess something, Bombus... That was me. }
+
+Plh_120 { As I always say: Gimme, gimme, gimme beer —things are going down now here! }
+
+Plh_121 { Well, I'm glad that it prefers eating honey rather than me. }
+
+Plh_124 { Bombus has taken precautions. I'm the only one who knows where all my hives are located. They contain more than enough honey, assuming you know where to look. *winks* }
+
+Plh_122 { You? But $GVAR:EVars_Player.Name$! That — so — Bombus doesn't get angry so easily, but THE AUDACITY! I'LL... I'LL... }
+
+Plh_123 { Now, don't get so flustered. It's not that bad. I hope it tasted nice. }
+
+Plh_81 { *sings* For a long time I was gone, but daddy will be back soon! }
+
+Plh_132 { The good Larea is back! If I hadn't met her, I would not have wanted to continue my route. That's taken a load off of Bombus! }
+
+Plh_133 { I used your healing ointment to save her. But you mustn't tell anyone! }
+
+Plh_135 { All's well that ends well. }
+
+Plh_136 { What did you expect? Larea is a skilled hunter. }
+
+Plh_137 { I thought you had something to do with it! }
+
+Plh_138 { Don't worry, Bombus is Drova's best keeper of secrets. My lips are sealed! }
+
+Plh_139 { How fortuitous! Oh, the bad things I imagined happening... }
+
+Plh_141 { My old bones are telling me that someone was not altogether uninvolved in it... }
+
+Plh_140 { I can still learn a trick or two from Larea, indeed! }
+
+Plh_9 { Greetings! }
+
+Plh_107 { I had introduced myself as a beekeeper. Had you forgotten? *winks* }
+
+Plh_109 { Some beast is marauding around my hives behind the barn. It's terrible! }
+
+Plh_125 { My bees will shake in fear! Nooooo! The honey they'll produce in that state will be inedible! }
+
+Plh_108 { Maybe you can slay the beast? That would certainly make them happy. }
+
+Plh_116 { The bear that got into the hives? It's already dead. }
+
+Plh_110 { Oh, really? Impressive, really impressive! Please accept my sincere thanks! And from my bees too, of course! }
+
+Plh_111 { Now, the honey can start flowing to the tavern again! Or I'll enjoy the view here for a little while longer... We'll see, we'll see. }
+
+Plh_128 { No problem. }
+
+Plh_129 { I'll see what I can do. }
+
+Plh_130 { Glad to hear it! }
+
+Plh_114 { *mumbles* Yes, yes, I would like that! Bombus, Bombus, you've gotten yourself into hot water again. }
+
+Plh_6 { You said you're a healer? }
+
+Plh_73 { Oh yes! Nature in Drova has so many wonderful things to offer. Here, take a look! }
+
+Plh_126 { A reddish herb can expel toxins from the body. }
+
+Plh_127 { Another herb, a purple one, can turn someone blue. There are even some herbs that enlighten the mind. Isn't that absolutely wonderful? }
+
+Plh_28 { Do you know anything that could heal the festering wound from a ripper bite? }
+
+Plh_29 { I must aid someone who's injured... }
+
+Plh_2 { Ripper. Hmm... dangerous. Their tusks cause more than mere wounds. A special healing potion can counteract the effects, but that's difficult to produce... }
+
+Plh_75 { How severe is the injury? }
+
+Plh_34 { It's a throbbing wound. }
+
+Plh_42 { It's causing weakness. }
+
+Plh_37 { Ah, throbbing. Not good. Then the bite is already a few hours old, and whatever the rippers have deposited in the wound will spread. Not good, not good. You can't risk waiting for it to heal... }
+
+Plh_38 { But don't despair! It may sound bad, and this mysterious person's life may be hanging by a thread, but you've found Bombus. Bombus, the healer! }
+
+Plh_46 { Listen. I can make you a healing ointment that will properly treat the ripper bite. For this, I shall need $GVAR:QuestVars_OnlyOneThingHelps_Config.AmountOfHealthPlant$ healing plants and an earthroot. But for the wounded person's sake, don't wait too long. }
+
+Plh_47 { I'll bring you everything. }
+
+Plh_48 { Earthroot? That'll help? }
+
+Plh_49 { I've already got the ingredients. }
+
+Plh_50 { What are you waiting for? }
+
+Plh_52 { Earthroot itself is poisonous and should NEVER be placed directly on a wound. But when you cook it and combine it with the right ingredients, it has an entirely different effect! But only then! }
+
+Plh_78 { And if you dry it and mix it with the right amount of pipeweed, you can find out how the sunset tastes and hear the stars shooting past! }
+
+Plh_8 { Very good. You create the healing ointment as follows: Cut the earthroot and squeeze it together to extract the juice from it. But don't touch it, if you want to keep your fingers. }
+
+Plh_53 { Toss the earthroot into the pot and boil it together with the other ingredients. Not too long. Then fish out the cooked earthroot. }
+
+Plh_59 { All you have to do is apply the viscous ointment to the wound. It should take effect quickly. Otherwise, the patient will suffer a very different fate, and we mortals cannot change that, alas. }
+
+Plh_39 { Weakness... It isn't getting any better. Not good, not good. I don't want to say that it's the beginning of the end, but you shouldn't wait around. }
+
+Plh_30 { Then bring them here! }
+
+Plh_32 { This person does not want anyone to learn of their injury. }
+
+Plh_33 { Well. That's their own fault then. How advanced is the injury? }
+
+Plh_7 { I've got the healing plants and the earthroot with me. }
+
+Plh_55 { I made the ointment. }
+
+Plh_56 { Very good, but what are you doing with it here? Take it to the injured person! }
+

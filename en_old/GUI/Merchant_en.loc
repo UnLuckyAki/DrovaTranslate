@@ -1,0 +1,32 @@
+title_splitstack { Split Items }
+
+popup_balanceMoney { Balance with Coins }
+
+popup_giveForFree { Are you sure you don't want anything in return? }
+
+popup_valueAboveTrader { The value of your goods is higher than what the merchant is offering. <br><br>Would you like to just gift them the difference or would you like them to compensate with coins? }
+
+popup_valueBelowTrader { The merchant expects compensation of $TRADEVAR:RightTableValue$ coins. }
+
+popup_generic { Would you like to complete the transaction? }
+
+title { Trade }
+
+Value { Value of goods }
+
+Trader { Merchant }
+
+Spend { Give }
+
+Exchange { Barter }
+
+ExchangeOnly { Barter Only }
+
+popup_valueAboveTrader_NoCurrency { The value of your goods is higher than what the merchant is offering. <br><br>Would you like to just gift him the difference? }
+
+Comment_NoCoins { I don't accept coins. }
+
+SellWholeStack { Add/remove item stack to/from trade. }
+
+Sell_Ten { Add/remove 10 to/from trade. }
+

@@ -1,0 +1,75 @@
+Plh_44 { I saw on the bulletin board that you need fish? }
+
+Plh_21 { Do you know why Bonny is so mean? }
+
+Plh_8 { You wanted fish, I've got some for you here. (hand $GVAR:QuestVars_FishingForDunja_Config.AmountFish$ fish over) }
+
+Plh_9 { Oh, very nice! At least you're thinking of me! Thank you so much! I didn't think I'd get the fish. And from a member of the family to boot! }
+
+Plh_10 { The fish soup recipe is a secret passed down to me from my mother, may she be blessed by the Divinities. If that doesn't make the whole camp happy, I don't know what will. }
+
+Plh_11 { But don't worry, I'll save a portion for you, in any event. You've earned it. }
+
+Plh_45 { Oh yes, unfortunately I can no longer go fishing myself. }
+
+Plh_46 { If you bring me some tasty fish, I'll make a nice meal for us all. There's a pond east of the apple grove. There should be enough fish in it. }
+
+Plh_22 { Don't hold it against her, it's just that she's busy. She doesn't mean any harm. }
+
+Plh_23 { She was an extroverted, cheerful child. She had lots of friends and got along well with everyone. My little Bonny — how quickly she grew up! }
+
+Plh_24 { Your Bonny? }
+
+Plh_25 { Are you related? }
+
+Plh_26 { Yes, my little Bonny! }
+
+Plh_28 { I'm her mother. When the Remnants betrayed us, she became more cautious... Her best friend, Gera, simply went away and left my Bonny behind. }
+
+Plh_29 { Ever since then, she's never trusted anyone who doesn't belong to Nemeton. }
+
+Plh_32 { Whatever I ask her, all I get are monosyllabic answers. }
+
+Plh_31 { She hardly ever talks to me... }
+
+Plh_33 { Don't take it personally. Let me tell you how things work at the Shack... }
+
+Plh_34 { In the evenings, most people gather here and pick up their food from us. Everyone gets a meal and something to wet their whistle. }
+
+Plh_35 { Bonny ensures that the only ones who get something are those from the Nemeton — or people who have somehow proved useful to her before. She would never simply hand out stuff at random. }
+
+Plh_36 { You know, I used to do all this on my own. Bonny couldn't even peer over the counter! }
+
+Plh_37 { But those days are long past. Now she's in charge. She makes the decisions. I only assist. }
+
+Plh_27 { Related, you say! You could call it that. }
+
+Plh_38 { What's been going on with Asmus? }
+
+Plh_39 { I gave him Humbert's regards. The old man wanted revenge. }
+
+Plh_40 { I have no idea. }
+
+Plh_42 { Humbert? Then he really went through with it? }
+
+Plh_43 { I wouldn't have put it past Humbert, but Asmus deserved it. I just hope he doesn't have to struggle with it for too long. Sooner or later, everyone probably gets their comeuppance. }
+
+Plh_5 { Beer's on the house today! }
+
+Plh_41 { He'll be back. After all, there's beer around here. }
+
+Plh_4 { Welcome! You look friendly. *grins sweetly* }
+
+Plh_14 { Ah, there you are. I saved some fish soup for you. }
+
+Plh_15 { *smiles at you* Enjoy! }
+
+Plh_16 { Thank you. }
+
+Plh_17 { Nothing for me, thanks. }
+
+Plh_20 { You seem to like it. I'm glad. }
+
+Plh_19 { *blinks* Then... Well, you don't have to. I'll give it to Bonny. }
+
+Plh_7 { *smiles at you* }

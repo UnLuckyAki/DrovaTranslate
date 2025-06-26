@@ -1,0 +1,68 @@
+Plh_24 { I've got a question... }
+
+Plh_28 { Who is Levin? }
+
+Plh_29 { *squints his eyes* He's the boss around here. Be careful not to get him angry with you. Otherwise, you'll be in for it. But if he likes you... }
+
+Plh_3 { You look tired. }
+
+Plh_11 { Why were you dragooned into doing that? }
+
+Plh_8 { Sometimes, doing nothing is harder than physical labor. I was forced to stand guard here. }
+
+Plh_15 { Oh, how can I put it... I might have said some things about Levin that weren't so nice. And he might have been standing behind me and overheard everything. Now I've got to stand guard here, and nothing is happening. }
+
+Plh_41 { I'm never going to talk about Levin again. By the Divinities, I swear it! }
+
+Plh_4 { *yawns and rubs eyes* What is it? }
+
+Plh_2 { *yawns* Okay, go in. Just don't screw up! }
+
+Plh_46 { What would be screwing up? }
+
+Plh_5 { What is this place? }
+
+Plh_6 { I've come from Jola, and want to work in the Pit. }
+
+Plh_47 { You'll notice pretty damn quickly if you do. }
+
+Plh_12 { You have entered the eternal Apple Grove. Here the Divinities shall bestow their power upon you. Here you shall never go hungry. All you must do is defeat me, Esdert the Watcher, in noble combat! }
+
+Plh_18 { Then fight! }
+
+Plh_19 { You've got to be kidding me! }
+
+Plh_22 { It was only a joke! Wow, are you gullible when someone gets highfalutin on you. }
+
+Plh_21 { *smirks* That is the silver mine. We could always use some new Hewers. You can earn a lot of coins here, plus some food and a roof over your head. If you can get on the stick, that is. }
+
+Plh_40 { Go and report to Levin. He's along the path. He can explain it all. }
+
+Plh_13 { Then you're in the right place. I'm Esdert, and I guard the entrance. Just follow the path, and you'll find Levin. }
+
+Plh_25 { I was attacked by bandits along the way. }
+
+Plh_26 { I could take care of the bandits. }
+
+Plh_27 { The bandits won't be making any more trouble for you. }
+
+Plh_30 { Dammit, I thought we'd gotten rid of them. We chased them away just a few days ago. They're worse than a rat plague. I'll deal with them later — once I can get away. }
+
+Plh_31 { *sizes you up* You? Without the right weapons and equipment? Alone? I'm not sure I want to stand next to you in battle, but you're a funny guy. }
+
+Plh_32 { Let me worry about that. If I drive them away, what's in it for me? }
+
+Plh_35 { True, I'd better stay back. }
+
+Plh_33 { If you really do drive the bandits away, I'll give you $GVAR:QuestVars_BanditMine_Config.Reward$ clinking coins. Good work is always rewarded here. }
+
+Plh_34 { But the $GVAR:QuestVars_BanditMine_Config.Reward$ coins aren't worth your life. And we'd be losing a capable Hewer. }
+
+Plh_36 { You've still got some sense left in you, after all. }
+
+Plh_37 { *sizes you up* YOU finished them off?! How did you do that? }
+
+Plh_38 { Maybe you'll gradually stop doubting me. }
+
+Plh_39 { *frowns* Then I probably underestimated you. Here are the $GVAR:QuestVars_BanditMine_Config.Reward$ coins. You've taken some work off my hands. }
+

@@ -1,0 +1,168 @@
+Plh_73 { Would you happen to have some feed for the canary? }
+
+Plh_70 { What are you doing here? }
+
+Plh_71 { How long have you been here? }
+
+Plh_5 { About the meat... }
+
+Plh_12 { I've got the meat for you. (Give $GVAR:QuestVars_FoodInTheMine_Config.AmountOfFoodNeeded$ pieces of stringy meat) }
+
+Plh_90 { Agnessa seems to be in really bad shape. How can we help her? }
+
+Plh_91 { *sighs* She is so stubborn. I've already given her something to eat, and now she's resting up here at my place. }
+
+Plh_92 { But she needs medicine. Shadeshrooms could help. These are small plants that have healing properties. }
+
+Plh_93 { $GVAR:QuestVars_INeedToWorkAgain_Config.AmountOfTüften$ shadeshrooms should be enough. Maybe you'll find some while you're working. }
+
+Plh_72 { *grabs her head* Falco! I completely forgot about you! }
+
+Plh_74 { Falco is very finicky. He'd rather starve than eat something he doesn't like. }
+
+Plh_75 { Stubborn critter... }
+
+Plh_79 { When I saw him earlier, he looked pretty hungry. }
+
+Plh_80 { Give something to feed him! }
+
+Plh_76 { Here, feed him a few berries. He loves those. You can't find them in here, but I still had a few lying around. }
+
+Plh_77 { Merik is supposed to get me more. }
+
+Plh_78 { Get a move on. Go to Falco before he croaks from hunger! }
+
+Plh_42 { Make sure there's not going to be a riot in here! }
+
+Plh_86 { I was just joking, but you're kind of right. I provide good food. That helps keep up morale. *smirks happy* }
+
+Plh_44 { Not too long... something shy of two years. Before that I was on some kind of farm, but I didn't like it there very much. }
+
+Plh_85 { I was supposed to chop wood there. That wasn't my thing. And here in the Remnants' camp they needed a cook. Lucky for me. }
+
+Plh_45 { The Hewers are hungry. That's why I hardly leave the Pit anymore. }
+
+Plh_15 { First, let me cook in peace. }
+
+Plh_0 { Do you smell that? }
+
+Plh_20 { Of course. }
+
+Plh_22 { Nope. }
+
+Plh_23 { Makes your mouth water, doesn't it? }
+
+Plh_25 { You look like you want to eat something you've never tasted before! }
+
+Plh_28 { What are you up to? }
+
+Plh_27 { I rather eat something I know. }
+
+Plh_29 { The Remnants bring me the same ingredients all the time. Another day, and nothing's changed... }
+
+Plh_81 { Time for a change! }
+
+Plh_31 { Help me create a new, unique dish, and then you may taste it! }
+
+Plh_32 { So, what do you want me to do for you? }
+
+Plh_2 { I don't have time right now for this. }
+
+Plh_3 { *clears her throat* But sure... }
+
+Plh_30 { It's only a matter of time before you come around. }
+
+Plh_24 { Then your nose must be broken. }
+
+Plh_7 { You want to help me after all? I only need $GVAR:QuestVars_FoodInTheMine_Config.AmountOfFoodNeeded$ pieces raw meat in order to try the new recipe. }
+
+Plh_39 { Why aren't you hunting the digpigs yourself? }
+
+Plh_8 { All right, I'll bring you the meat. }
+
+Plh_9 { I've got other things to take care of. }
+
+Plh_40 { I cut things only if they're already dead. }
+
+Plh_84 { I'm not much of a fighter. }
+
+Plh_10 { Great! Bring me $GVAR:QuestVars_FoodInTheMine_Config.AmountOfFoodNeeded$ pieces of stringy meat. That should be enough to try the new dish. }
+
+Plh_41 { Oh, and if the digpig is too strong, then just run away. They lose interest pretty quickly. }
+
+Plh_87 { Otherwise, just run towards the guards. Good fortunes in the mines! }
+
+Plh_11 { Too bad. Come back if the prospect of delicious food piques your interest. }
+
+Plh_6 { Soup is good food. The people here usually get served bread and vegetable soup, which is why I need an ingredient with more kick. }
+
+Plh_82 { Food that's invigorating boosts morale. }
+
+Plh_35 { There are a few digpigs in the Pit. They'll ignore you if you ignore them. }
+
+Plh_83 { But when they get aggressive... Well, some Hewers have already ended up in their stomachs. }
+
+Plh_36 { But it works both ways! Bring me $GVAR:QuestVars_FoodInTheMine_Config.AmountOfFoodNeeded$ pieces of their stringy meat! }
+
+Plh_38 { So? }
+
+Plh_4 { Plh_4 }
+
+Plh_19 { Ah, nice seeing you. *smiles* }
+
+Plh_13 { Ah, very good! }
+
+Plh_46 { That doesn't look too bad. }
+
+Plh_14 { I'll start preparing everything. }
+
+Plh_17 { Those digpigs are hideous as hell, but you can make something so delicious from them! Do you want a taste? }
+
+Plh_47 { I'd like that. }
+
+Plh_48 { I'd rather not. }
+
+Plh_49 { *dips in the ladle and hands it to you* Here you go. }
+
+Plh_53 { *you sip some of the soup out of the ladle. It tastes like cabbage, onions, and peas in a viscous, tangy sauce, and some meat in the finish* }
+
+Plh_54 { (eat all the soup in the ladle) }
+
+Plh_55 { (return the ladle) }
+
+Plh_57 { *you eagerly slurp the rest from the ladle* }
+
+Plh_56 { So? Do you like it? }
+
+Plh_59 { That was really delicious! }
+
+Plh_60 { Not really my thing. }
+
+Plh_61 { And THAT'S what you sent me out for? }
+
+Plh_62 { *her eyes light up* It just makes me so happy when people enjoy my food. }
+
+Plh_65 { Hewers and warriors alike — they simply cannot get enough of my food. And when even Mursel is cutting in line, that really speaks volumes. }
+
+Plh_88 { Even the grumpy Murtagh likes coming here. His eyes would light up if he knew that there was meat in today's meal! }
+
+Plh_68 { Here. It's not much, but you should have a token of my gratitude. }
+
+Plh_94 { And here's another meal. You earned it. }
+
+Plh_69 { Please come again! You know where to find me if you get hungry! *smiles cordially* }
+
+Plh_63 { *squints her eyes* Fortunately, this is just one opinion. }
+
+Plh_64 { *her eyes are flashing* That's no reason to talk to me like that. }
+
+Plh_58 { *you hand Shona the almost full ladle* }
+
+Plh_50 { None of this would have been even possible without you! Just one bite! }
+
+Plh_51 { Okay, fine. }
+
+Plh_52 { No, really not. }
+
+Plh_66 { Well, suit yourself. The others will be delighted. *smirks* }
+

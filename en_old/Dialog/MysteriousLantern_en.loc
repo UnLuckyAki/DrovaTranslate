@@ -1,0 +1,10 @@
+Plh_0 { *You stand before a bizarre pedestal. A skeleton juts out of it. You see some kind of object lying on it. The pedestal seems almost alive...* }
+
+Plh_5 { (take object) }
+
+Plh_1 { (carefully touch the skeleton) }
+
+Plh_3 { *As you remove the object from the pedestal, you hear a sigh of relief. The skeleton in the pedestal appears to relax.* }
+
+Plh_4 { *Slowly, you move your hand towards the skeleton. The moment one of your fingertips brushes a bone, a sudden pain surges through you. Instinctively, you pull your hand back.* }
+

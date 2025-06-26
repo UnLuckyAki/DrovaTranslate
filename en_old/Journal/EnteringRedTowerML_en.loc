@@ -1,0 +1,22 @@
+Title { The Way to the Red Tower }
+
+Entry_00_Nemeton { There is a rune journey that can utilize the Divine Crystal, and that journey — with the Mighty Boar's assistance — might enable us to enter the Red Tower. But the Mighty Boar still lacks magical power. I'm supposed to go to the Library of the Bygones and find information about additional Divine Crystals in Drova. }
+
+Entry_00_Ruinenlager { We were unable to open the door to the Red Tower. The Mighty Boar wasn't powerful enough. In order to obtain more power, I'm supposed to search the Library of the Bygones for information about the whereabouts of additional Divine Crystals in Drova. }
+
+Entry_01 { I found out that yet additional Divine Crystals exist. Apparently, one can be found atop a knoll, north of the Woodcutter Camp. }
+
+Entry_02 { I found a Divine Crystal. Another one is supposed to be located deep in the Forest Primeval, west of the Remnants' camp. }
+
+Entry_03 { The power would suffice, but the Divine Crystals aren't charged. The Bygones used to charge the crystals deep in the Red Moor, southeast of Nemeton. I need to take a look around that area. }
+
+Entry_04_1_NemetonQuest { We've got the charged Divine Crystals and the Mighty Boar. We're ready for the Red Tower! I'm supposed to inform Mombert in the druids' house. }
+
+Entry_04_2_NemetonQuest { Mombert is ready. Red Tower, here we come! We're going to transform Drova into the Land of Legends! }
+
+Entry_04_3_NemetonQuest { Everything is ready. I should prepare myself well. There's no turning back! Once I'm ready, I'm supposed to report to Molvina. }
+
+Entry_04_1_RuinenlagerQuest { Everything is ready. I should prepare myself well. There's no turning back! Once I'm ready, I'm supposed to report to Jero. }
+
+Entry_05 { It worked! We're inside the Red Tower! }
+

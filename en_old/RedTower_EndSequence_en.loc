@@ -1,0 +1,312 @@
+Plh_53 { *The spirits of the trapped Divinities appear before you. Their power no longer rages. It is slow, cold, and dark. Calculating. Cornered.* }
+
+Plh_197 { *You sense that they're not welcoming you as a friend. And you feel alienated.* }
+
+Plh_54 { *Drivanius's texts flash through your mind. "How can I prove to them that I deserve their trust?"* }
+
+Plh_198 { *After a short while, you become aware of the great loneliness that's emanating from the Divinities and washing over to you. You look around for your friends, but see merely darkness.* }
+
+Plh_174 { *A memory gently breaks through. A squeak? You hear a mellifluous voice: "In the Refuge, in harmony with the Divinities."* }
+
+Plh_72 { *you remember the values of the Refuge — the virtue of Harmony* }
+
+Plh_73 { (look around for help) }
+
+Plh_115 { Without you, we'd have died in the mine. }
+
+Plh_116 { We need you at the Remnants' camp. }
+
+Plh_118 { Hunting with you is great! To us! }
+
+Plh_119 { The Blades of Jero will vote for you. Welcome to the Remnants' camp. }
+
+Plh_131 { The fact that someone beat Eugen... }
+
+Plh_133 { Ah, that was just dumb luck! }
+
+Plh_134 { Well fought! }
+
+Plh_135 { The expedition to the Forest Primeval will be tough. We must stick together. }
+
+Plh_136 { We'll make it through. We're a good squad! }
+
+Plh_137 { For freedom! For Jero! }
+
+Plh_138 { You're among the best fighters! }
+
+Plh_139 { You brought us the Divine Crystals. }
+
+Plh_140 { Freedom beckons! }
+
+Plh_130 { Welcome to the Remnants' camp! }
+
+Plh_132 { Nice fight! But you've still got a lot to learn. }
+
+Plh_117 { We could use someone with brains around here. }
+
+Plh_161 { *You see nothing. Not a soul can help you here. You're alone.* }
+
+Plh_171 { (accept the power of your memories) }
+
+Plh_201 { (revisit your memories) }
+
+Plh_74 { *You sense your loneliness dissolving. The Divinities' power now shines brighter. As it flows again, you perceive the unmistakable warmth emanating from it.* }
+
+Plh_55 { *A moment later, you find yourself paralyzed by doubt. Are you strong enough to confront the Divinities? You feel weak. The sight of the Divinities frightens you.* }
+
+Plh_75 { *you remember the virtue of courage and all the challenges you have faced* }
+
+Plh_76 { (look around — cry) }
+
+Plh_122 { $GVAR:EVars_Player.Name$ has won! }
+
+Plh_121 { A good fight... With a worthy victor. }
+
+Plh_163 { PRAISE $GVAR:EVars_Player.Name$! }
+
+Plh_56 { *Your memories invigorate you. You become aware of what you've experienced. The Divinities' power now resembles a gentle breeze. It warmly embraces you.* }
+
+Plh_175 { *The Divinities now feel your strength. And you sense their hesitation... The Divinities submit to you. You feel powerful; you can do whatever you wish.* }
+
+Plh_77 { (you remember the virtue of compassion and the times you could help the weak) }
+
+Plh_176 { (you compel the Divinities to submit to your will, demanding their power for yourself alone) }
+
+Plh_126 { Hey, Cay, did you play with $GVAR:EVars_Player.Name$? }
+
+Plh_164 { We survived, thanks to you. }
+
+Plh_166 { I'm finally back at Georgefarm, and I can work there. }
+
+Plh_167 { When we were in trouble, you stood by us! }
+
+Plh_127 { Finally, we can chop wood again! }
+
+Plh_168 { So can I, but my damned shoulder hurts! }
+
+Plh_169 { Our sister is doing better, thanks to you. }
+
+Plh_170 { Thanks to you. }
+
+Plh_57 { *The images you recall are flooding you with love and happiness. You feel warm. And safe.* }
+
+Plh_58 { *The power within you, and that of the Divinities, are identical. You now recognize this. As do they. You glance at each other — as though through a mirror.* }
+
+Plh_178 { You've found my chambers. I'm glad. Finally, someone who can apply the knowledge I've gathered, knowledge to which I've dedicated my entire life... }
+
+Plh_179 { I had to hide my records so they wouldn't fall into the wrong hands. Whoever found them had to be worthy of them. Understand their significance. My people were misled, and — but that's another story. }
+
+Plh_180 { But you, $GVAR:EVars_Player.Name$, you're here. You are worthy. You've continued my research, something I failed to do. You will change this world. For the better. I know it. Farewell. }
+
+Plh_60 { (open eyes) }
+
+Plh_177 { *You direct your power at the Divinities... and they succumb... to you...* }
+
+Plh_199 { *... But only briefly... Then they gather their strength, outshine yours, and force you to your knees.* }
+
+Plh_203 { *The Divinities are stronger than you are.* }
+
+Plh_200 { *Slowly, you come to your senses...* }
+
+Plh_145 { Without you, we couldn't have convicted Kendrick. }
+
+Plh_144 { Now you are part of the Nemeton. Part of the family. }
+
+Plh_147 { The Forest Primeval is dangerous. We've got to stick together. }
+
+Plh_150 { We do everything for our family. For our loved ones. }
+
+Plh_148 { I shall never be afraid again. I'm ready to fight. }
+
+Plh_149 { I believe in you, Karotte. And you too, $GVAR:EVars_Player.Name$! }
+
+Plh_151 { You're up, Luten! }
+
+Plh_152 { That was a low blow! }
+
+Plh_153 { Easy, kiddos — that's not why we're here. }
+
+Plh_154 { Today is all about $GVAR:EVars_Player.Name$. You are now a Guardian of Nemeton! }
+
+Plh_155 { Let's celebrate! }
+
+Plh_156 { You've done the Nemeton a great service... }
+
+Plh_157 { Not just the Nemeton, all of us. }
+
+Plh_158 { Carry that runestone with pride. }
+
+Plh_159 { We both made it. Gradan would be proud... }
+
+Plh_64 { Finally, we're there! The rune vessels are right there in front of us. The Divinities belong to us! }
+
+Plh_105 { Finally, thanks to the Divinities, we've got sufficient magical power... }
+
+Plh_106 { What — what's that? }
+
+Plh_0 { Look at that — the Deathfog. It's spreading! }
+
+Plh_92 { The Deathfog? }
+
+Plh_11 { The Deathfog has almost reached Nemeton! }
+
+Plh_12 { The Monoliths are no longer active! }
+
+Plh_13 { The rune circle... It used to power the Monoliths with magical energy! The connection must have been severed during the fight... Now the fog will swallow us up. }
+
+Plh_81 { $GVAR:EVars_Player.Name$, what should we do?! }
+
+Plh_82 { We must restore the rune circle! }
+
+Plh_85 { What kind of damage does the Deathfog inflict, anyway? }
+
+Plh_15 { This is insanity! I would need an eternity just to decipher its secrets. Restoring everything — no — we're... }
+
+Plh_87 { ... lost. }
+
+Plh_3 { Can the Divinities help us somehow? }
+
+Plh_4 { It must be possible, right? }
+
+Plh_2 { $GVAR:EVars_Player.Name$... Yes! }
+
+Plh_19 { It is said that the fog appeared once the third Divinity was captured. If the Divinities are free, they'll drive off the fog... Perhaps. }
+
+Plh_88 { That could work. It MUST work. }
+
+Plh_16 { Nemeton — was it all for nothing? My brother Jero... }
+
+Plh_20 { We release the Divinities. That is our only chance. }
+
+Plh_69 { But I've read that the Bygones greatly feared the Divinities' wrath... }
+
+Plh_21 { We need the captive Divinities. Only with them shall we be able to save Nemeton... }
+
+Plh_23 { We must release the Divinities, or we shall perish right here and now. Then everyone else in Drova! }
+
+Plh_35 { Molvina! }
+
+Plh_65 { It was all for nothing... We've failed. }
+
+Plh_36 { Molvina cannot decide right now. We've got to do it. So? }
+
+Plh_193 { I've witnessed the Divinities' power with my own eyes. If we release them, they will lay waste to all of Drova. I'm certain of that. }
+
+Plh_33 { But we would survive! Otherwise, we'd be consumed by the Deathfog! }
+
+Plh_24 { We must destroy the rune vessels. Let's go! No time to waste! }
+
+Plh_25 { I've found something — in the chambers of the last leader of the Bygones... }
+
+Plh_208 { Damn, we should have listened to Olaf. Maybe he and his Ruin Raiders might have found a solution. }
+
+Plh_207 { We don't have time to wallow in self-pity. We must destroy the rune vessels. Let's go! }
+
+Plh_102 { This is our last chance. DO IT! }
+
+Plh_101 { We've also got to release the Mighty Boar. }
+
+Plh_34 { I've got the Mighty Boar with me... }
+
+Plh_66 { $GVAR:EVars_Player.Name$, you take the Mighty Boar. The rest of us will spread out — one each! }
+
+Plh_103 { We've got to do it. Now! }
+
+Plh_26 { What are you talking about? }
+
+Plh_28 { Drivanius developed a helmet that allowed him to communicate with the Divinities. }
+
+Plh_190 { Communicate with the Divinities? What good will that do? }
+
+Plh_195 { Maybe I can appease the Divinities? }
+
+Plh_191 { I'll give it a try. This is our best chance. }
+
+Plh_204 { No clue, but no one else has come up with a better idea either! }
+
+Plh_27 { I hope you know what you're doing, $GVAR:EVars_Player.Name$... But give it a shot. What else can we do? }
+
+Plh_29 { Place the Boar in their midst and — try to stay calm. }
+
+Plh_70 { I need the Boar's rune vessel — I've already established contact with it. }
+
+Plh_100 { That's right. But we haven't got any choice. How much wrath the Divinities will direct at us, we can't know. But in the Deathfog, we will surely perish. }
+
+Plh_14 { We must quickly restore the rune circle. That's how we can keep the fog at bay! }
+
+Plh_86 { It will destroy everything. Us. All life. The monoliths have kept it at bay all this time. That's over now. Everything is over. }
+
+Plh_90 { Finally done! We've got it... }
+
+Plh_91 { Look at this! Something's not right! The Deathfog! }
+
+Plh_67 { The Deathfog has almost reached Nemeton. Molvina... What should we do?! }
+
+Plh_1 { What happened? Are the Monoliths... }
+
+Plh_80 { Molvina... what now? }
+
+Plh_50 { *You reach for the rune vessel. Your left hand touches the rune of truth, your right hand the rune of kindness.* }
+
+Plh_51 { *You take a deep breath, and focus on the power that lies between your hands.* }
+
+Plh_52 { *You relax and exhale...* }
+
+Plh_8 { *Suddenly, an unfathomable fury overcomes you. All your muscles tense up, your heart slams like a sledgehammer, pulsing throughout your body, and your breath blasts out as though from a bellows.* }
+
+Plh_37 { (respond to the anger, clench harder, shout) }
+
+Plh_39 { (try to stay calm) }
+
+Plh_40 { *The anger is overwhelming. You feel the hot flow of divine power racing through your arms and body.* }
+
+Plh_43 { *Thoughts flood your mind, spreading out, overwhelming you.* }
+
+Plh_44 { *All the moments when you felt powerless — when you, or others, were wronged...* }
+
+Plh_45 { *Challenges you couldn't meet. Moments when you hated yourself, the world, and life itself...* }
+
+Plh_46 { *You can't stop thinking about how nature and its inhabitants were so ruthlessly harmed...* }
+
+Plh_47 { *One thought keeps growing larger and larger, until it consumes you. You're back in the Forest Primeval, on the clearing with the first tree. You sense the anger's origin...* }
+
+Plh_48 { *The Mighty Boar stands before you, with innumerable dead boars and piglets scattered around him. The creature feels helpless, weak, and full of unfathomable rage as it's drawn into the vessel in your hands.* }
+
+Plh_196 { *Darkness falls over your eyes* }
+
+Plh_49 { *As your senses fade, you detect searing heat between your hands, and an endless scream rising from your throat, and then — silence...* }
+
+Plh_61 { $GVAR:EVars_Player.Name$, did you do it? The power of a Divinity just radiated from you! }
+
+Plh_184 { It was all so strange... I — I don't know what happened. }
+
+Plh_185 { What happened? You must have learned something! What do we do now? }
+
+Plh_187 { We must destroy the vessels! }
+
+Plh_78 { You heard! Destroy the vessels! $GVAR:EVars_Player.Name$, you take the Mighty Boar! }
+
+Plh_62 { It is done. The Divinities trust me. Destroy the vessels. }
+
+Plh_63 { Darwin... The Divinities repose in US. We must release them, now! }
+
+Plh_71 { Mombert, the Divinities repose in US. We must release them, now! }
+
+Plh_42 { *The anger is overwhelming. You feel the hot flow of divine power racing through your arms and body.* }
+
+Plh_17 { Can we use the Divinities to make it back to our homeland? Can we still escape? }
+
+Plh_18 { I — I've got no idea. It's impossible for me to know instantly... First I'll have to figure out how it works. }
+
+Plh_111 { It's possible... But it will cost us everything. Maybe there's another possibility — a better one... }
+
+Plh_110 { Jero, what should we do? }
+
+Plh_112 { If we release the Divinities, it will all been for nothing. We can never return home... }
+
+Plh_113 { But if we do nothing, we'll die for sure. }
+
+Plh_114 { We've got to let them go. At least our lives will be spared. }
+
+Plh_107 { The Deathfog has almost reached Nemeton — it will devour everything. Jero — what should we do?! }
+

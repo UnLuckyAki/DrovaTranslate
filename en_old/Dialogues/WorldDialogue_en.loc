@@ -1,0 +1,218 @@
+Plh_63 { Hit it! }
+
+Plh_64 { I hope it'll be an interesting battle. }
+
+Plh_0 { Hey, Andarta, I've gotten you this ring. Only for you. }
+
+Plh_1 { For me? And who might you be? }
+
+Plh_3 { I'm Tuz, and... I really like you. }
+
+Plh_4 { *blushes* Well... I don't even know how to respond to that... }
+
+Plh_6 { YES! }
+
+Plh_7 { LET'S DO IT! }
+
+Plh_8 { Let's keep moving! }
+
+Plh_10 { Hm... I don't know... }
+
+Plh_11 { Trust me, you won't regret it! }
+
+Plh_15 { Tonight at nine, $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$ will face $GVAR:DAS_ArenaSystem.MainFight_Participant_02_Name$. }
+
+Plh_16 { Is this some kind of clue? }
+
+Plh_17 { The shape of the symbol seems to bear some similarity to the rune circle. }
+
+Plh_18 { The symbol tapers off at the bottom — just like the black spikes used here. }
+
+Plh_19 { A strangely shaped symbol. It certainly has some connection to the research that's been conducted here. }
+
+Plh_20 { The material feels odd to the touch. }
+
+Plh_22 { I cannot get rid of all the detritus by myself. }
+
+Plh_23 { This doesn't seem to be working. }
+
+Plh_29 { I need to clear the detritus first. }
+
+Plh_34 { This is where the detritus is emptied. }
+
+Plh_35 { I need to equip my pickax. }
+
+Plh_36 { I need a torch. }
+
+Plh_37 { The talisman... responds. }
+
+Plh_38 { The talisman vibrates. }
+
+Plh_39 { The talisman feels warm to the touch... }
+
+Plh_40 { In memory of Caius Cassius Helios, fifth-generation rune caster. }
+
+Plh_41 { Here lies Lucius Aemilius Tribune, master rune caster, founder of rune research. }
+
+Plh_42 { Here lies Flavius Augustus, leader of the armies in the battle against the first Divinity. }
+
+Plh_43 { I need to clear the detritus first. }
+
+Plh_44 { Today Bady battles Gra! }
+
+Plh_45 { Know about the first three and step forward in order to explore the depths of rune magic. }
+
+Plh_46 { There is a slight tug coming from the object. }
+
+Plh_47 { It seems as though they were preparing for war. }
+
+Plh_48 { You feel a tingling all over your body. The object emits unfathomable power... }
+
+Plh_49 { Traces of a great deal of scratching and biting on this palisade. }
+
+Plh_50 { The shield is riddled with holes and cracks — as if something had been fastened to it. }
+
+Plh_51 { A raven above a triskelion. }
+
+Plh_52 { Two hands, a friendly handshake, and a coin below them. }
+
+Plh_53 { It shows the heft and the beginning of a sword's blade under the raven of Nemeton. }
+
+Plh_54 { A scythe under the raven of Nemeton. Apparently, this is where the druids are. }
+
+Plh_55 { It shows an anvil under the raven of Nemeton. It seems to symbolize craftsmanship. }
+
+Plh_56 { There is something here. }
+
+Plh_57 { Oh, what is this? }
+
+Plh_58 { Someone hid something here. }
+
+Plh_59 { Scarlet, bloodlike magical power is shimmering in the middle section. }
+
+Plh_60 { This must be the banner of the Remnants. I wonder what the spiral represents... }
+
+Plh_61 { The red markings on the rock could be a warning. }
+
+Plh_62 { What could be powerful enough to cast something that great from the sky, with such force? }
+
+Plh_67 { I've got my Spark! Finally! }
+
+Plh_68 { You've earned it. }
+
+Plh_69 { Finally, I'm one of you. }
+
+Plh_70 { We've been trusting you for a while now. }
+
+Plh_71 { But now I officially belong to you, too! }
+
+Plh_72 { That looks like a part of a rune. }
+
+Plh_73 { You're done. }
+
+Plh_132 { Nothing's moving anymore. }
+
+Plh_133 { That would be that. }
+
+Plh_134 { You're staying right there. }
+
+Plh_135 { That was far too easy. }
+
+Plh_136 { If only we had that. }
+
+Plh_105 { Come here, you little punk! }
+
+Plh_106 { I'll tan your hide! }
+
+Plh_102 { I'm already looking forward to the next battle. }
+
+Plh_103 { Critters! }
+
+Plh_104 { Eat this! }
+
+Plh_127 { There's the beast! }
+
+Plh_128 { We are Olaf's revenge! }
+
+Plh_129 { That head's is going to look great decorating my wall! }
+
+Plh_130 { Don't stop now! }
+
+Plh_27 { Where might that treasure be? }
+
+Plh_24 { That won't work. }
+
+Plh_65 { We'll figure something out. }
+
+Plh_25 { Nothing. }
+
+Plh_26 { I shouldn't have come along... }
+
+Plh_85 { C'mon, get punching! }
+
+Plh_86 { Yeah, show us what you're made of! }
+
+Plh_87 { Don't hold back! }
+
+Plh_88 { WOOOO! }
+
+Plh_89 { Right on the kisser! }
+
+Plh_90 { YEAHHH! BLOOD!! }
+
+Plh_91 { Sock it to him! }
+
+Plh_92 { Smack away! }
+
+Plh_97 { I bet on you! Smack ‘em! }
+
+Plh_93 { I'm really excited. }
+
+Plh_94 { Who's going to win? }
+
+Plh_95 { Start fighting already... }
+
+Plh_96 { Ahhhh... and now we relax. }
+
+Plh_98 { Will they start punching each other out any time soon? }
+
+Plh_99 { It's going to start soon. }
+
+Plh_100 { Can't wait any longer... }
+
+Plh_101 { The next battle will begin soon. }
+
+Plh_74 { The eggs... We must destroy the eggs. }
+
+Plh_75 { Die! }
+
+Plh_83 { Your turn now! }
+
+Plh_84 { Sorry! }
+
+Plh_76 { Wretched spawn! }
+
+Plh_81 { Die! }
+
+Plh_82 { Get out of here! }
+
+Plh_77 { Damn, there's even more of them spawning from the eggs! }
+
+Plh_78 { The eggs... We must destroy the eggs! }
+
+Plh_80 { Damn, why won't you die already?! }
+
+Plh_79 { There's its brood. I know it's here somewhere! }
+
+Plh_140 { There's no battle scheduled for today. }
+
+Plh_141 { This cannot go on... }
+
+Plh_142 { We mustn't put up with that. }
+
+Plh_143 { Dammit, how can this be? }
+
+Plh_144 { Dammit! Aldrik, you jackass! }
+
+Plh_145 { Oh, crap, no! }
+

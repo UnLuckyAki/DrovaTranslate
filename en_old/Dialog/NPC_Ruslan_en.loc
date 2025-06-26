@@ -1,0 +1,226 @@
+Plh_30 { Quest help... }
+
+Plh_37 { About food... }
+
+Plh_15 { Shona's whipped up something scrumptious again... }
+
+Plh_19 { Stop taking silver from Almar. }
+
+Plh_38 { So, what does Shona's new dish taste like? }
+
+Plh_4 { Hm... }
+
+Plh_125 { You're not getting away from me again! }
+
+Plh_127 { Hey, I'm Murtagh. I saw you arrive earlier. YOU'VE probably earned yourself some silver already, haven't you? }
+
+Plh_0 { Pretty dangerous around here, isn't it? You'd better stick with people who can protect you. And that'd be me. }
+
+Plh_86 { This will cost you only $GVAR:QuestVars_ItPaidOff_Config.AmountToPay$ silver. I've got your back, so you can work in peace... it's worth it. }
+
+Plh_88 { I thought you guards are here to protect us anyway? }
+
+Plh_90 { Levin didn't mention any kind of fee. }
+
+Plh_126 { Shona's cooked something again. Do you really want to miss out on that? }
+
+Plh_2 { All right. (give $GVAR:QuestVars_ItPaidOff_Config.AmountToPay$ silver) }
+
+Plh_3 { I don't have that much silver. }
+
+Plh_5 { Looks like I'm going to have to teach you some manners. (Start brawl) }
+
+Plh_89 { Because we love you Hewers so much? }
+
+Plh_128 { Pretty brazen of you. Maybe I'll just take your silver... }
+
+Plh_91 { Levin isn't here, so in this place it's our rules. So, silver? }
+
+Plh_6 { Attaboy. Now you can work in peace. Murtagh is watching your back. *smirks widely* }
+
+Plh_7 { Oh yeah? Really? *grabs your arm* We'll see about that... }
+
+Plh_112 { Go ahead. }
+
+Plh_113 { Take your stinking paws off me, if you want to keep them. }
+
+Plh_10 { Hm. That's more than $GVAR:QuestVars_ItPaidOff_Config.AmountToPay$ silver. Then you'll have to pay double. }
+
+Plh_123 { You win. Take it. }
+
+Plh_124 { I'm not going to give you a thing! }
+
+Plh_115 { Don't lie to me again. You will regret it. }
+
+Plh_9 { Hm. Your pockets really are empty. What a wimp. Get lost. I hope next time your pockets are full of silver. }
+
+Plh_114 { You asked for it. }
+
+Plh_8 { We'll see about that. }
+
+Plh_17 { Hm? Cooked what? }
+
+Plh_31 { Even has some meat in it. }
+
+Plh_32 { Smells pretty good. }
+
+Plh_33 { She made a few portions over by her stall. }
+
+Plh_34 { With MEAT? For weeks, I haven't eaten anything but bread and vegetables. }
+
+Plh_129 { Damn... if Mursel gets wind of this, he's going to eat it all by himself! }
+
+Plh_35 { *licks his lips* I'm excited... }
+
+Plh_117 { Hey, there you are again. }
+
+Plh_13 { Next time, you pay right away, got it? }
+
+Plh_14 { Hm. Well fought. Not half bad! }
+
+Plh_118 { You're not getting anything from me anymore, got it? }
+
+Plh_121 { You're days of cleaning people out are over. }
+
+Plh_119 { From now on, you're leaving Almar and me in peace, got it? }
+
+Plh_120 { I got it, I got it. Easy. Damn, none of the others ever complained... }
+
+Plh_20 { Ugh! All right! I'll leave him alone. And you leave me out of your tussle! }
+
+Plh_21 { Or else what? }
+
+Plh_94 { Take it. (give $GVAR:QuestVars_ItPaidOff_Config.AmountOfSilverToBribeRuslan$) }
+
+Plh_24 { I'm sure we can work this out somehow. }
+
+Plh_92 { $GVAR:QuestVars_ItPaidOff_Config.AmountOfSilverToBribeRuslan$ silver? Seriously? }
+
+Plh_22 { Maybe you'll change your mind after I give you a big fat knuckle sandwich. }
+
+Plh_23 { Oh, forget it. }
+
+Plh_95 { That's better. You can tell Almar that I'll leave him alone. At least for now. }
+
+Plh_25 { Sure. Just give me $GVAR:QuestVars_ItPaidOff_Config.AmountOfSilverToBribeRuslan$ silver and I'll look the other way for a few days! And maybe the others too! }
+
+Plh_93 { You think I'll take only $GVAR:QuestVars_ItPaidOff_Config.AmountToPay$ silver from Almar? The dude is raking in the goods in the Deep Mine. But if you make up for my losses... *smirks* }
+
+Plh_26 { You've asked for it! }
+
+Plh_28 { Already done. }
+
+Plh_39 { Mhhhh... that really agrees with me nicely. Shona outdid herself again. }
+
+Plh_40 { I got her the meat. }
+
+Plh_42 { Without me, she wouldn't have anything to cook. }
+
+Plh_47 { I've got to admit: With all the meat you've gotten for her, this is really delicious *licks his lips* }
+
+Plh_49 { I guess as a thank-you I can forgo your payment this time. I scratch your back, you scratch mine. }
+
+Plh_50 { Why are you taking money, anyway? }
+
+Plh_51 { Thanks. Now I can move more around freely in the Pit. }
+
+Plh_52 { That's how it's done! }
+
+Plh_53 { So we can get out of Drova faster. The guards benefit, and the Hewers are better motivated. And everything moves along faster. }
+
+Plh_56 { Levin lacks the silver you take off the Hewers. You're gumming up the works. }
+
+Plh_64 { Why do you want to bust out of Drova so badly? }
+
+Plh_57 { If it helps to get away from here faster, then it's the right thing to do. }
+
+Plh_58 { Oh, come on. It's just a bit of silver. That doesn't hurt anyone... }
+
+Plh_60 { You got your hands on more than a bit of silver... }
+
+Plh_61 { Maybe there's another reason you want to leave here...? }
+
+Plh_63 { So what? Jealous? I'll spend it, after all! But it's kinda fun to take something off these Hewer wimps. }
+
+Plh_67 { But maybe... If more of it reached Levin, it might help. Right? }
+
+Plh_68 { Absolutely. Every bit helps. }
+
+Plh_69 { Certainly. But Katsa, especially, is making things worse. }
+
+Plh_96 { Hm. Maybe you're right. }
+
+Plh_98 { Hey, Murtagh. Almar seems really out of it. Says you're cleaning him out every day, although he works so hard. Is that true? }
+
+Plh_99 { Cleaning out might be exaggerating somewhat... }
+
+Plh_100 { Exaggerating?! You took him for every last bit of silver? }
+
+Plh_101 { Well, so... I guess... }
+
+Plh_130 { You want me to leave him alone...? }
+
+Plh_102 { Exactly! Nice of you to realize that. We've got to stick together down here after all... *smiles* }
+
+Plh_103 { Stick together... right. You might have a point... }
+
+Plh_131 { So... can I have some more of your fabulous food...? }
+
+Plh_104 { There's not much left... But it's nice that you enjoy it... *smiles* }
+
+Plh_133 { Next time, I'll wait for you so I can have my way with you right away. *blushes* Uh, with the food, that is. }
+
+Plh_106 { I'd better leave you alone... }
+
+Plh_108 { What?! No, no, it's all right! }
+
+Plh_110 { You'd better get back to work! }
+
+Plh_134 { Oh, and tell Almar that he doesn't have to pay up anymore. }
+
+Plh_71 { Hm, yeah, Katsa. Half is really a pretty big chunk. One of these days, I should talk with her... }
+
+Plh_66 { I've just got to get out of here. Gotta figure it out... if I never find out... none of this is your business! }
+
+Plh_72 { What do you need to figure out? }
+
+Plh_74 { EVERYTHING! I was born in the real world, and now I'm stuck here! Soon, I shall have forgotten everything about my homeland! }
+
+Plh_76 { Would that be so bad? }
+
+Plh_77 { You're not looking for freedom? }
+
+Plh_78 { Are you freaking kidding me? Of course that would be bad! I just need to know what my real life was about? }
+
+Plh_80 { Does everyone who comes to Drova lose their memory? }
+
+Plh_81 { I'm sure you'll get your memory back. }
+
+Plh_82 { Dunno. Almost everyone I know was born here. No one has come through the Gorge for a long time. }
+
+Plh_84 { *he hints at a smile that seems almost to cause him pain* Hm. We'll keep this between us, you understand? }
+
+Plh_83 { And if it's the last thing I ever do. Otherwise, I shall not be Murtagh, the Iron One. Nothing can stop me. }
+
+Plh_79 { I do. But my memories are more important to me. They are... my essence. And they grow paler. As if I'm turning into mist... }
+
+Plh_59 { Exactly. And if you keep asking stupid questions, I might change my mind. Understand? }
+
+Plh_65 { I can't stand the sight of anything anymore. I mean, I've seen EVERYTHING. And there's danger around every corner! }
+
+Plh_54 { That's right. }
+
+Plh_55 { Don't get cocky. Or I might change my mind. }
+
+Plh_44 { *squints* Meaning? You could never have made such a delicious meal from it! }
+
+Plh_45 { True, but without the meat it'd only have been half as good. }
+
+Plh_46 { I probably couldn't have... }
+
+Plh_48 { Told you! }
+
+NewName { Murtagh }
+
+Plh_135 { Enjoy. }
+

@@ -1,0 +1,14 @@
+MadWoman_Name { Crazy Woman }
+
+Percept_Skeleton_00 { Two skeletons lie here, embracing each other. A grown person and apparently a child. This is probably the mother. }
+
+Percept_Skeleton_01 { (Examine children's bones) }
+
+Percept_Skeleton_02 { *You move the bones aside. Underneath them, you discover a switch* }
+
+Percept_Skeleton_03 { (activate switch) }
+
+Percept_Grave_00 { I'm sorry. I should have been there for you. }
+
+Percept_Grave_01 { The tablet is badly scratched and unintelligible. }
+
