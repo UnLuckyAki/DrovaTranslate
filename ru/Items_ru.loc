@@ -808,7 +808,7 @@ item_mikeschLetter_name { Оказанная Услуга }
 
 item_BanditsOnTheBridge_name { Уведомление: Освободите Мост }
 
-cons_flow_dash_name { Рывок }
+cons_flow_dash_name { Порыв }
 
 cons_flow_dash_description { Вы стремительно устремляетесь вперёд по линии взгляда. }
 
