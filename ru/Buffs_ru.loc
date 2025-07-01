@@ -33,3 +33,4 @@ HealReduction { Страдания Болот }
 HealReduction_Desc { Получаемое лечение снижено на [ValuePercent]. }
 
 BlackPuddle_Name { Кровь Болот }
+

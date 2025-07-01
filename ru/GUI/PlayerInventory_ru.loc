@@ -2,7 +2,7 @@ title_character_segment { Персонаж }
 
 label_character_level { Уров. }
 
-tooltip_character_level {Отображает ваш текущий уровень. Показывает, насколько силен ваш персонаж. }
+tooltip_character_level { Отображает ваш текущий уровень. Показывает, насколько силен ваш персонаж. }
 
 tooltip_character_faction { Отображает вашу текущую доблесть. }
 
