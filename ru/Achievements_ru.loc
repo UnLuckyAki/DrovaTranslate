@@ -2,63 +2,63 @@ Achievement_ImmersiveMod_name { Железо }
 
 Achievement_ImmersiveMod_desc { Завершите Дрову в режиме сохранений "Железо". }
 
-Achievement_CengizWoodcampQuest_name { Хорошее начало }
+Achievement_CengizWoodcampQuest_name { Хорошее Начало }
 
 Achievement_CengizWoodcampQuest_desc { Убедитесь, что все люди Дженгиза работают на мосту. }
 
-Achievement_LeftDeepMine_name { Вниз по течению }
+Achievement_LeftDeepMine_name { Под Землёй }
 
-Achievement_LeftDeepMine_desc { Сбегите из Глубокой шахты в лагере Отступников. }
+Achievement_LeftDeepMine_desc { Выберитесь из Глубокой Шахты в лагере Отступников. }
 
-Achievement_HelpedGeorg_name { О схватках и хитростях }
+Achievement_HelpedGeorg_name { О Боях и Лисах }
 
 Achievement_HelpedGeorg_desc { Помогите каждому человеку на Ферме Георга. }
 
 Achievement_JoinNemeton_name { Часть Семьи }
 
-Achievement_JoinNemeton_desc { Вступите к Неметонцам. }
+Achievement_JoinNemeton_desc { Вступите в Неметон. }
 
 Achievement_JoinRuinenlager_name { Вступление к Отступникам }
 
 Achievement_JoinRuinenlager_desc { Вступите к Отступникам. }
 
-Achievement_GotFamiliar_name { Моя искрящаяся маленькая Искра }
+Achievement_GotFamiliar_name { Моя энергичная маленькая Искра }
 
 Achievement_GotFamiliar_desc { Искра выбрала вас. }
 
-Achievement_CaughtBoar_name { Божественность — наша! }
+Achievement_CaughtBoar_name { Божество в Наших Руках! }
 
 Achievement_CaughtBoar_desc { Победите Могучего Вепря. }
 
 Achievement_GotYourRunestone_name { Только с Руной }
 
-Achievement_GotYourRunestone_desc { Получите ваш Рунный Камень. }
+Achievement_GotYourRunestone_desc { Получите ваш собственный Камень Рун. }
 
-Achievement_CompletedLibrary_name { Книжный червь }
+Achievement_CompletedLibrary_name { Книжный Червь }
 
 Achievement_CompletedLibrary_desc { Завершите исследование Библиотеки. }
 
 Achievement_CompletedAuwald_name { Один в Лесу }
 
-Achievement_CompletedAuwald_desc { Найдите Божественный кристалл в Пойменном лесу. }
+Achievement_CompletedAuwald_desc { Найдите Божественный Кристалл в Пойменном Лесу. }
 
-Achievement_CompletedCityDungeon_name { По следам Прошлого }
+Achievement_CompletedCityDungeon_name { По Следам Прошлого }
 
-Achievement_CompletedCityDungeon_desc { Найдите Божественный кристалл в Первобытном лесу. }
+Achievement_CompletedCityDungeon_desc { Найдите Божественный Кристалл в Первобытном Лесу. }
 
 Achievement_EnteredRedTower_name { В Красной Башне! }
 
 Achievement_EnteredRedTower_desc { Войдите в Красную Башню. }
 
-Achievement_FirstDeath_name { Добро пожаловать в Дрову }
+Achievement_FirstDeath_name { Добро Пожаловать в Дрову }
 
-Achievement_FirstDeath_desc { Первая смерть. }
+Achievement_FirstDeath_desc { Погибните в первый раз. }
 
 Achievement_FirstArenaFight_name { Я Вас Не Веселю? }
 
 Achievement_FirstArenaFight_desc { Выиграйте свой первый бой на арене. }
 
-Achievement_GraWonArenaFight_name { Для аутсайдера }
+Achievement_GraWonArenaFight_name { Всё Для Аутсайдера }
 
 Achievement_GraWonArenaFight_desc { Вы помогли Гра выиграть битву. Эстер счастлива. }
 
@@ -70,65 +70,65 @@ Achievement_BertineRevenge_name { Око за Око, Зуб за Зуб }
 
 Achievement_BertineRevenge_desc { Помогите Бертине свершить свою последнюю месть. }
 
-Achievement_Schnitzeljagd_name { Охота за сокровищами }
+Achievement_Schnitzeljagd_name { Охота за Сокровищем }
 
 Achievement_Schnitzeljagd_desc { Создайте свой собственный талисман. }
 
 Achievement_ArenaMaster_name { Гладиатор }
 
-Achievement_ArenaMaster_desc { Достигните вершины во время боев на арене в лагере Отступников. }
+Achievement_ArenaMaster_desc { Достигните вершины во время боёв на арене в лагере Отступников. }
 
-Achievement_Blackboard_name { Во благо общества }
+Achievement_Blackboard_name { Во Благо Общества }
 
 Achievement_Blackboard_desc { Выполните все задания с доски объявлений. }
 
-Achievement_LastManStandingFeuertaufe_name { Последний выживший }
+Achievement_LastManStandingFeuertaufe_name { Остаться в Живых }
 
-Achievement_LastManStandingFeuertaufe_desc { Станьте последним, кто остался в живых после боевого крещения Ойгена. }
+Achievement_LastManStandingFeuertaufe_desc { Станьте тем человеком, что последним останется стоять на ногах во время боевого крещения Ойгена. }
 
 Achievement_CompletedBrutusMine_name { Свобода! }
 
-Achievement_CompletedBrutusMine_desc { Освободите заключенных в Яме. }
+Achievement_CompletedBrutusMine_desc { Освободите заключенных в Шахте. }
 
-Achievement_KilledRipperWoodcampAct1_name { Права рука Дженгиза }
+Achievement_KilledRipperWoodcampAct1_name { Правая Рука Дженгиза }
 
-Achievement_KilledRipperWoodcampAct1_desc { Убейте вожака стаи Потрошителей возле Лагеря Лесорубов в первом акте. }
+Achievement_KilledRipperWoodcampAct1_desc { Убейте вожака стаи потрошителей возле Лагеря Лесорубов за время первого акта. }
 
-Achievement_HelpedSickSister_name { Самаритянин }
+Achievement_HelpedSickSister_name { Добрый Самаритянин }
 
-Achievement_HelpedSickSister_desc { Помогите захворавшей сестре бандита. }
+Achievement_HelpedSickSister_desc { Помогите захворавшей сестре бандитов. }
 
 Achievement_KilledBearBeforeAct2_name { Медвежий Ужас }
 
-Achievement_KilledBearBeforeAct2_desc { Убейте медведя в первом акте. }
+Achievement_KilledBearBeforeAct2_desc { Убейте медведя во время первого акта игры. }
 
-Achievement_KilledOlafRipper_name { Вредителем меньше }
+Achievement_KilledOlafRipper_name { Вредителем Меньше }
 
 Achievement_KilledOlafRipper_desc { Решите проблему Олафа с Потрошителями. }
 
-Achievement_KilledDiemo_name { Без выбора }
+Achievement_KilledDiemo_name { Такова Судьба }
 
 Achievement_KilledDiemo_desc { Столкнитесь с местью Диемо. }
 
-Achievement_GaveCayFamiliar_name { Поросенок по имени Кей }
+Achievement_GaveCayFamiliar_name { Поросёнок по имени Кей }
 
 Achievement_GaveCayFamiliar_desc { Отдайте часть себя, чтобы спасти Кея. }
 
-Achievement_StoppedMurtaghAndMursel_name { Я - закон }
+Achievement_StoppedMurtaghAndMursel_name { Я Здесь Закон }
 
-Achievement_StoppedMurtaghAndMursel_desc { Восстановите справедливость в Яме в лагере Отступников. }
+Achievement_StoppedMurtaghAndMursel_desc { Восстановите справедливость в Яме Лагеря Отступников. }
 
-Achievement_LeftMine100Silver_name { Это Мое Серебро! }
+Achievement_LeftMine100Silver_name { Это Моё Серебро! }
 
-Achievement_LeftMine100Silver_desc { Покиньте Яму в Лагере Отступников со 100 серебрами в кармане. }
+Achievement_LeftMine100Silver_desc { Покиньте Яму Лагеря Отступников со 100 кусками серебра в кармане. }
 
-Achievement_UndertookJourneyToRoots_name { Един с Древним Лесом }
+Achievement_UndertookJourneyToRoots_name { Единство с Первобытным Лесом }
 
-Achievement_UndertookJourneyToRoots_desc { Отправьтесь в путешествие к корням Матери. }
+Achievement_UndertookJourneyToRoots_desc { Совершите паломничество к корням Матери. }
 
 Achievement_FedMikesch10Fish_name { Микеш Пожиратель }
 
-Achievement_FedMikesch10Fish_desc { Накормите Микеша 10 рыбами. }
+Achievement_FedMikesch10Fish_desc { Скормите Микешу 10 рыб. }
 
 Achievement_InteractedWithAllUniqueCritters_name { Заклинатель Животных }
 
@@ -138,15 +138,15 @@ Achievement_LearnedFromBady_name { Покоритель Арены }
 
 Achievement_LearnedFromBady_desc { Победите Бади в честном бою. }
 
-Achievement_TookAllDrugs_name { Затянуться по полной }
+Achievement_TookAllDrugs_name { Оттянуться По Полной }
 
-Achievement_TookAllDrugs_desc { Попробуйте все наркотики в Дрове. }
+Achievement_TookAllDrugs_desc { Попробуйте все дурманящие вещества и алкоголь в Дрове. }
 
 Achievement_GotRelicFromRuinenraeuber_name { Скрыто, но не Забыто }
 
 Achievement_GotRelicFromRuinenraeuber_desc { Завершите реликвию для Расхитителей Руин. }
 
-Achievement_FinishedPwyllConversation_name { Все началось, когда... }
+Achievement_FinishedPwyllConversation_name { В некотором царстве, некотором государстве... }
 
 Achievement_FinishedPwyllConversation_desc { Получите уникальный подарок от Пуйла. }
 
@@ -154,7 +154,7 @@ Achievement_FoundAtlanterWeapon_name { Наследие Прошедших }
 
 Achievement_FoundAtlanterWeapon_desc { Найдите древнее оружие. }
 
-Achievement_CraftedEpicArmor_name { Ничто не навредит вам! }
+Achievement_CraftedEpicArmor_name { Ничто Вам Не Навредит! }
 
 Achievement_CraftedEpicArmor_desc { Получите комплект доспехов Прошедших. }
 
@@ -162,23 +162,23 @@ Achievement_WonAgainstBrutus_name { Последний Владыка Проше
 
 Achievement_WonAgainstBrutus_desc { Победите Дриваниуса. }
 
-Achievement_JoinedRustmossBusiness_name { Часть сделки }
+Achievement_JoinedRustmossBusiness_name { Часть Сделки }
 
-Achievement_JoinedRustmossBusiness_desc { Начните торговлю Ржавым Мохом. }
+Achievement_JoinedRustmossBusiness_desc { Начните торговлю Ржавым Мхом. }
 
-Achievement_TrustedGawan_name { Полное доверие }
+Achievement_TrustedGawan_name { Полное Доверие }
 
-Achievement_TrustedGawan_desc { Поверьте Гавану и его деловому чутью. }
+Achievement_TrustedGawan_desc { Доверьтесь Гавану и его деловому чутью. }
 
-Achievement_DefaultEnding_name { Всё кончается }
+Achievement_DefaultEnding_name { Всё Кончается }
 
-Achievement_DefaultEnding_desc { Вы испытали историю вплоть до её горького конца. Вы пробудили гнев Божеств и рассеяли Смертоносный туман. }
+Achievement_DefaultEnding_desc { Вы испытали историю вплоть до её горького конца. Вы высвободили гнев Божеств и рассеяли Туман Смерти. }
 
-Achievement_OptionalEnding_name { Новые пути }
+Achievement_OptionalEnding_name { Новые Пути }
 
-Achievement_OptionalEnding_desc { Вы испытали историю вплоть до её горького конца. Вы умиротворили Божеств и рассеяли Смертоносный туман. }
+Achievement_OptionalEnding_desc { Вы испытали историю вплоть до победного конца. Вы умиротворили Божеств и рассеяли Туман Смерти. }
 
-Achievement_EnteredNemeton_name { Я найду путь! }
+Achievement_EnteredNemeton_name { Я Найду уть! }
 
 Achievement_EnteredNemeton_desc { Найдите путь в Неметон. }
 
@@ -188,7 +188,7 @@ Achievement_AllAchievements_desc { Получите все Достижения.
 
 Achievement_ExplorerMode_name { Исследователь }
 
-Achievement_ExplorerMode_desc { Завершите Дрову в режиме исследователя. }
+Achievement_ExplorerMode_desc { Завершите Дрову в режиме "Исследование". }
 
 Achievement_HardcoreMode_name { Хардкор }
 

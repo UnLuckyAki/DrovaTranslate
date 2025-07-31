@@ -195,7 +195,7 @@
 | Dialog/NPC_Lukan_ru.loc | ✅    |
 | Dialog/NPC_Luten_ru.loc | ✅    |
 | Dialog/NPC_Mairin_ru.loc | ✅    |
-| Dialog/NPC_Mali_ru.loc | Машинный перевод    |
+| Dialog/NPC_Mali_ru.loc | ✅    |
 | Dialog/NPC_Manes_ru.loc | ✅    |
 | Dialog/NPC_Mareno_ru.loc | ✅    |
 | Dialog/NPC_Margitte_ru.loc | ✅    |
@@ -203,15 +203,15 @@
 | Dialog/NPC_Melf_ru.loc | ✅    |
 | Dialog/NPC_Meluna_ru.loc | ✅    |
 | Dialog/NPC_Merik_ru.loc | ✅    |
-| Dialog/NPC_Merlind_ru.loc | Машинный перевод    |
+| Dialog/NPC_Merlind_ru.loc | ✅    |
 | Dialog/NPC_Mikesch_ru.loc | ✅    |
-| Dialog/NPC_MiningChef_ru.loc | Машинный перевод    |
-| Dialog/NPC_Miraculix_ru.loc | Машинный перевод    |
+| Dialog/NPC_MiningChef_ru.loc | ✅    |
+| Dialog/NPC_Miraculix_ru.loc | ✅    |
 | Dialog/NPC_Miranda_ru.loc | ✅    |
 | Dialog/NPC_Mog_ru.loc | ✅    |
 | Dialog/NPC_Molvina_ru.loc | ✅    |
 | Dialog/NPC_Mombert_ru.loc | ✅    |
-| Dialog/NPC_Monko_ru.loc | Машинный перевод    |
+| Dialog/NPC_Monko_ru.loc | ✅    |
 | Dialog/NPC_Morvin_ru.loc | ✅    |
 | Dialog/NPC_Mottek_ru.loc | ✅    |
 | Dialog/NPC_Muc_ru.loc | ✅    |
@@ -224,7 +224,7 @@
 | Dialog/NPC_Olaf_ru.loc | ✅    |
 | Dialog/NPC_Olga_ru.loc | ✅    |
 | Dialog/NPC_Oskar_ru.loc | ✅    |
-| Dialog/NPC_Owain_ru.loc | Машинный перевод    |
+| Dialog/NPC_Owain_ru.loc | ✅    |
 | Dialog/NPC_Palina_ru.loc | ✅    |
 | Dialog/NPC_Piglet_Cay_ru.loc | ✅    |
 | Dialog/NPC_Piglet_Chris_ru.loc | ✅    |
@@ -243,24 +243,24 @@
 | Dialog/NPC_Sagar_ru.loc | ✅    |
 | Dialog/NPC_Sean_ru.loc | ✅    |
 | Dialog/NPC_Senga_ru.loc | ✅    |
-| Dialog/NPC_Sheep_Liesl_ru.loc | Машинный перевод    |
+| Dialog/NPC_Sheep_Liesl_ru.loc | ✅    |
 | Dialog/NPC_Shona_ru.loc | ✅    |
 | Dialog/NPC_Sine_ru.loc | ✅   |
 | Dialog/NPC_Slawa_ru.loc | ✅    |
 | Dialog/NPC_Sorcha_ru.loc | ✅    |
 | Dialog/NPC_Swenn_ru.loc | ✅    |
 | Dialog/NPC_Tadhg_ru.loc | ✅    |
-| Dialog/NPC_Taron_ru.loc | Машинный перевод    |
+| Dialog/NPC_Taron_ru.loc | ✅    |
 | Dialog/NPC_Teigen_ru.loc | ✅    |
 | Dialog/NPC_Tiaa_ru.loc | ✅    |
 | Dialog/NPC_Tristan_ru.loc | ✅    |
 | Dialog/NPC_Tuz_ru.loc | ✅    |
-| Dialog/NPC_Vik_ru.loc | Машинный перевод    |
+| Dialog/NPC_Vik_ru.loc | ✅    |
 | Dialog/NPC_Willi_ru.loc | ✅    |
 | Dialog/NPC_Wind_ru.loc | ✅    |
-| Dialog/NPC_Zoltan_ru.loc | Машинный перевод    |
+| Dialog/NPC_Zoltan_ru.loc | ✅    |
 | Dialog/Obsidian_CentralStation_ru.loc | ✅    |
-| Dialog/Poo_Liesl_ru.loc | Машинный перевод    |
+| Dialog/Poo_Liesl_ru.loc | ✅    |
 | Dialog/RuinenlagerGreetPlayerNemeton_ru.loc | ✅    |
 | Dialog/RuinenlagerHauerFinishedWork_ru.loc | ✅    |
 | Dialog/RuinenlagerWorldDialog_ru.loc | ✅    |

@@ -72,7 +72,7 @@ action_SwapWeaponSet { Сменить оружие }
 
 action_Walk { Идти }
 
-action_Trade_All { Обменять все }
+action_Trade_All { Обменять всё }
 
 action_Trade_Ten { Обменять десять }
 
@@ -120,13 +120,13 @@ action_QuickslotAssignment { Назначить в быстрый доступ }
 
 action_DeleteQuickbarItem { Очистить Быстрый доступ }
 
-action_PrevPanel { Прошлая категория }
+action_PrevPanel { Предыдущая категория }
 
 action_NextPanel { Следующая категория }
 
-action_Lockpick_Left { Миниигра: влево }
+action_Lockpick_Left { Мини-игра: влево }
 
-action_Lockpick_Right { Миниигра: вправо }
+action_Lockpick_Right { Мини-игра: вправо }
 
 action_GuiScrollY { Прокрутка Интерфейса }
 
@@ -192,7 +192,7 @@ action_uiSubmit { Применить графический интерфейс }
 
 action_minigameSubmit { Действие в мини-игре }
 
-action_PrevNavigation { Прошлая вкладка }
+action_PrevNavigation { Предыдущая вкладка }
 
 action_NextNavigation { Следующая вкладка }
 

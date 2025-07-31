@@ -36,9 +36,9 @@ talentcanbelearned { Можно изучить }
 
 unknownteacher { Неизвестно }
 
-talentnotknown { Вы еще не открыли этот талант. }
+talentnotknown { Вы ещё не открыли этот талант. }
 
-foodText { Восстанавливает [HealValue] здоровья каждые [StackTime] секунд, пока не восстановиться [MaxStack] здоровья. Если полоска здоровья заполнена, исцеление приостанавливается. }
+foodText { Восстанавливает [HealValue] здоровья каждые [StackTime] секунды, пока не восстановиться [MaxStack] здоровья. Если полоска здоровья заполнена, исцеление приостанавливается. }
 
 recipe_requirements { Требуется: }
 
@@ -56,7 +56,7 @@ weaponDamage { Урон от оружия [VALUE] }
 
 movementSpeed { Скорость передвижения [VALUE] }
 
-poiseDamage { Урон от стойки [VALUE] }
+poiseDamage { Урон стойкости [VALUE] }
 
 magicResistance { Сопротивление магии [VALUE] }
 
@@ -116,7 +116,7 @@ LearnSpell { Обучает оружейным способностям }
 
 flowText { Генерирует [HealValue] Фокуса в течение [StackTime] секунд. }
 
-needrunestone { Требуется рунный камень }
+needrunestone { Требуется камень рун }
 
 strength_value { Сила [VALUE] }
 

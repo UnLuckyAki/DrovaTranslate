@@ -6,4 +6,4 @@ Lindon { Линдон был дерзким.<br>Он занял у меня $GVA
 
 Bady { Почтенный Бади взял в долг $GVAR:QuestVars_Debt_Config.MoneyFromBady$ монет. }
 
-Lore { Лор должна мне $GVAR:QuestVars_Debt_Config.MoneyFromLore$ монет. }
+Lore { Лора должна мне $GVAR:QuestVars_Debt_Config.MoneyFromLore$ монет. }
