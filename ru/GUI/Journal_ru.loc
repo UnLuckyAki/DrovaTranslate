@@ -1,6 +1,6 @@
 Entry_Created { Новая запись в журнале }
 
-Entry_Updated { Журнал обновлен }
+Entry_Updated { Журнал обновлён }
 
 OthersUpdated { +$JOURNAL:Others$ Разное }
 
@@ -18,11 +18,11 @@ Group_RuinCamp { Отступники }
 
 Group_Tavern { Таверна }
 
-Group_Woodcamp { Лесоруб }
+Group_Woodcamp { Лесорубы }
 
 Group_World { Мир }
 
-Group_Unsorted { Несортировано }
+Group_Unsorted { Неклассифицированное }
 
 Group_Magielager { Убежище }
 
@@ -30,12 +30,12 @@ Group_RedTower { Красная Башня }
 
 Group_Mine { Яма }
 
-Group_MainQuest { Главное Задание }
+Group_MainQuest { Основной Сюжет }
 
 Group_Dungeon_Library { Библиотека }
 
-Group_Dungeon_City { Город в Первобытном лесу }
+Group_Dungeon_City { Город в Первобытном Лесу }
 
 Group_Dungeon_Auwald { Холм в Пойменном Лесу }
 
-Group_TreasureMaps { Карты сокровищ }
+Group_TreasureMaps { Карты Сокровищ }

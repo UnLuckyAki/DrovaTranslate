@@ -14,7 +14,7 @@ physicalresistance { Броня }
 
 magicalresistance { Магич. сопрот. }
 
-flowcosts { Стоимость фокуса }
+flowcosts { Стоимость Фокуса }
 
 strength { Сила }
 
@@ -36,33 +36,33 @@ talentcanbelearned { Можно изучить }
 
 unknownteacher { Неизвестно }
 
-talentnotknown { Вы еще не открыли этот талант. }
+talentnotknown { Вы ещё не открыли этот талант. }
 
-foodText { Восстанавливает [HealValue] здоровья каждые [StackTime] секунд, пока не восстановиться [MaxStack] здоровья. Если полоска здоровья заполнена, исцеление приостанавливается. }
+foodText { Восстанавливает [HealValue] здоровья каждые [StackTime] секунды, пока не восстановиться [MaxStack] здоровья. Если полоска здоровья заполнена, исцеление приостанавливается. }
 
 recipe_requirements { Требуется: }
 
 buffAdditionalDescription { (Новая еда заменяет эффект сытости) }
 
-maxHealth { Макс. здоровье [VALUE] }
+maxHealth { Макс. Здоровье [VALUE] }
 
 flowGain { Фокус [VALUE] }
 
-magicDamage { Магический урон [VALUE] }
+magicDamage { Магический Урон [VALUE] }
 
-bleedingChance { Шанс кровотечения [VALUE] }
+bleedingChance { Шанс Кровотечения [VALUE] }
 
 weaponDamage { Урон от оружия [VALUE] }
 
-movementSpeed { Скорость передвижения [VALUE] }
+movementSpeed { Скорость Передвижения [VALUE] }
 
-poiseDamage { Урон от стойки [VALUE] }
+poiseDamage { Урон Стойкости [VALUE] }
 
-magicResistance { Сопротивление магии [VALUE] }
+magicResistance { Сопротивление Магии [VALUE] }
 
-staminaReg { Регенерация выносливости [VALUE] }
+staminaReg { Регенерация Выносливости [VALUE] }
 
-flowReg { Регенерация фокуса [VALUE] }
+flowReg { Регенерация Фокуса [VALUE] }
 
 armor { Броня [VALUE] }
 
@@ -72,7 +72,7 @@ flowPhysical { Способность }
 
 flowMagical { Заклинания }
 
-flowOneTime { Свиток заклинания }
+flowOneTime { Свиток Заклинания }
 
 learnspell { Используйте этот предмет, чтобы изучить способность }
 
@@ -82,17 +82,17 @@ alreadylearned { Уже изучено }
 
 trashtotrade { Добавить хлам к стоимости товара }
 
-craftingItem { Материал для ремесла }
+craftingItem { Материал для Ремесла }
 
 saleitem { Товар для продажи }
 
-weaponDamage_single { Урон оружия [VALUE] }
+weaponDamage_single { Урон Оружия [VALUE] }
 
-critchance { Критический шанс }
+critchance { Критический Шанс }
 
-critchance_Value { Критический шанс [VALUE] }
+critchance_Value { Критический Шанс [VALUE] }
 
-orientationpoint { Базовый фокус [VALUE] }
+orientationpoint { Базовый Фокус [VALUE] }
 
 stat_change_str { +$STATCHANGE:PhysDmg$ физ. урон }
 
@@ -102,11 +102,11 @@ stat_change_mind { +$STATCHANGE:MagDmg$ маг. урона + +$STATCHANGE:Focus$
 
 helmet_cosmetics { (Шлемы исключительно косметические и не оказывают никакого влияния на вашего персонажа.) }
 
-mainHandWeapon { Одноручное оружие }
+mainHandWeapon { Одноручное Оружие }
 
-offHandWeapon { Оружие для левой руки }
+offHandWeapon { Оружие для Левой Руки }
 
-twoHandedWeapon { Двуручное оружие }
+twoHandedWeapon { Двуручное Оружие }
 
 munition { Боеприпасы }
 
@@ -116,7 +116,7 @@ LearnSpell { Обучает оружейным способностям }
 
 flowText { Генерирует [HealValue] Фокуса в течение [StackTime] секунд. }
 
-needrunestone { Требуется рунный камень }
+needrunestone { Требуется Камень Рун }
 
 strength_value { Сила [VALUE] }
 

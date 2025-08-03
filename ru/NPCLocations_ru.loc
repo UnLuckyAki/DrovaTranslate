@@ -1,10 +1,10 @@
-Faction_Neutral { Нейтрально }
+Faction_Neutral { Нейтрал }
 
 Remnants_Arena { Лагерь Отступников: Квартал Арены }
 
-Remnants_WayToMine { К югу от шахты в Лагере Отступников }
+Remnants_WayToMine { К югу от шахты Отступников }
 
-Nemeton_Gate_North { Неметон: Северные ворота }
+Nemeton_Gate_North { Неметон: Северные Ворота }
 
 Nemeton_Dormitory { В восточной части Неметона }
 
@@ -14,43 +14,43 @@ Remnants_Mine { Шахта Отступников }
 
 Remnants_MinerArea { Лагерь Отступников: Квартал Рубщиков }
 
-Nemeton_Palisades_North { Неметон: Северная стена Частокола }
+Nemeton_Palisades_North { Неметон: Северная Стена Частокола }
 
-Neutral_SilverMine { Серебряный рудник в русле реки }
+Neutral_SilverMine { Серебряный рудник в Русле Реки }
 
-Cave_RuinRaiders { Убежище Расхитителей Руин }
+Cave_RuinRaiders { Укрытие Расхитителей Руин }
 
-Tavern_Forest { Таверна Безголовый Потрошитель }
+Tavern_Forest { Таверна "Безголовый Потрошитель" }
 
 Nemeton_WarriorsQuarter { Неметон: Квартал Бойцов }
 
 Remnants_Academy { Лагерь Отступников: Академия }
 
-Neutral_Forest { Хвойный лес }
+Neutral_Forest { Хвойный Лес }
 
-Remnants_Market { Лагерь Отступников: Торговая площадь }
+Remnants_Market { Лагерь Отступников: Торговая Площадь }
 
-MissingPerson { Пропавший }
+MissingPerson { Местонахождение Неизвестно }
 
 Remnants_UpperQuarter { Лагерь Отступников: Верхний Квартал }
 
 Remnants_Tavern { Таверна Бернольда }
 
-Neutral_Refugee { Приют }
+Neutral_Refugee { Убежище }
 
 Nemeton_Kitchen { Неметон: Кухня }
 
-Remnants_LostQuater { Лагерь Отступников: Темный квартал }
+Remnants_LostQuater { Лагерь Отступников: Тёмный Квартал }
 
 Nemeton_FrontCamp { Лагерь за пределами Неметона }
 
 Nemeton_CraftingQuarter { Неметон: Квартал Ремесленников }
 
-Nemeton_Market { Неметон: Рыночная площадь }
+Nemeton_Market { Неметон: Рыночная Площадь }
 
 Nemeton_Farm_Georg { Ферма Георга }
 
-Neutral_DestroyedBridge { Сломанный мост }
+Neutral_DestroyedBridge { Сломанный Мост }
 
 Neutra_Heath { Neutra_Heath }
 
@@ -60,7 +60,7 @@ Remnants_Entry { Лагерь Отступников: Вход }
 
 Remnants_Global { Лагерь Отступников }
 
-Nemeton_MarketAndCrafting { Неметон: Рыночная площадь / Квартал ремесленников }
+Nemeton_MarketAndCrafting { Неметон: Рыночная Площадь / Квартал Ремесленников }
 
 Nemeton_Moor_South { Болото к югу от Неметона }
 
@@ -68,31 +68,31 @@ Nemeton_Garden { Неметон: Сад на востоке }
 
 Neutral_Maw { Ущелье }
 
-Nemeton_WarriorQuarter { Неметон: Квартал бойцов }
+Nemeton_WarriorQuarter { Неметон: Квартал Бойцов }
 
-Nemeton_SacredGrove { Неметон: Священная роща }
+Nemeton_SacredGrove { Неметон: Священная Роща }
 
-Neutral_River_WoodcampAndRemnants { У реки между лагерем Лесорубов и лагерем Отступников. }
+Neutral_River_WoodcampAndRemnants { У реки между Лагерем Лесорубов и Лагерем Отступников. }
 
-Nemeton_AppleGrove { Яблоневая роща рядом с Неметоном }
+Nemeton_AppleGrove { Яблоневая Роща рядом с Неметоном }
 
 Nemeton_BridgeToDruids { Неметон: Мост в Квартал Друидов }
 
-Neutral_FloodplainForest_Plateau_Ruins { Подземные руины на холме в Пойменном лесу }
+Neutral_FloodplainForest_Plateau_Ruins { Подземные Руины на Холме в Пойменном Лесу }
 
-Nemeton_Gate_South { Неметон: Южные ворота }
+Nemeton_Gate_South { Неметон: Южные Ворота }
 
 Neutral_ForestPrimeval_Border { Первобытный Лес: Окраина }
 
-Neutral_Cave_Woodcamp_South { Рядом с лагерем Лесорубов }
+Neutral_Cave_Woodcamp_South { Рядом с Лагерем Лесорубов }
 
-Dead { Мертв }
+Dead { Труп }
 
-DrivaniusChamber { Комната Дриваниуса }
+DrivaniusChamber { Покои Дриваниуса }
 
-Riverbed_North { Русло реки на севере }
+Riverbed_North { Русло Реки на севере }
 
-TravelingMerchants { Лагерь Отступников: Вход; Неметон: Вход; Таверна; К западу от Джорджфарма }
+TravelingMerchants { Лагерь Отступников: Вход; Неметон: Вход; Таверна; На западе Фермы Георга }
 
 Neutral_Heath { Пустошь }
 
@@ -100,17 +100,17 @@ Neutral_ForestPrimeval { Первобытный Лес }
 
 Remnants_Underground { Лагерь Отступников: подземелье }
 
-Neutral_Forest_Camp { Лагерь в Хвойном лесу }
+Neutral_Forest_Camp { Лагерь в Хвойном Лесу }
 
 Unknown { ??? }
 
 Nemeton_DruidCave { Неметон: Пещера Друидов }
 
-Nemeton_Leader { Неметон: Дом лидера }
+Nemeton_Leader { Неметон: Дом Лидера }
 
 Expedition_Moor { Экспедиция на болото }
 
-Nemeton_Muc { Неметон: Южные ворота; Ферма Георга или Яблоневая роща }
+Nemeton_Muc { Неметон: Южные Ворота; Ферма Георга или Яблоневая Роща }
 
-SmugglersDen { Убежище преступников }
+SmugglersDen { Логово Преступников }
 

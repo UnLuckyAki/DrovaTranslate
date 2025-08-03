@@ -1,10 +1,10 @@
-Woodcamp { Лесоруб }
+Woodcamp { Лесорубы }
 
 Schlund { Ущелье }
 
 Mine { Яма }
 
-River { Русло реки }
+River { Русло Реки }
 
 Ruins { Руины }
 
@@ -18,19 +18,19 @@ Tavern { Таверна }
 
 Heide { Пустошь }
 
-FriendlyMoor { Красное болото }
+FriendlyMoor { Красное Болото }
 
 Nemeton { Неметон }
 
 EntryNemeton { Вход в Неметон }
 
-NemetonHain { Священная роща }
+NemetonHain { Священная Роща }
 
-DeathMoor { Мрачное болото }
+DeathMoor { Мрачное Болото }
 
-RottenMoor { Гнилое болото }
+RottenMoor { Гнилое Болото }
 
-Auwald { Пойменный лес }
+Auwald { Пойменный Лес }
 
 Leuchtwald { Первобытный Лес }
 
@@ -38,13 +38,13 @@ Mutter { Мать }
 
 Magiecamp { Убежище }
 
-RedTower { Красная башня }
+RedTower { Красная Башня }
 
 Library { Библиотека }
 
 CityDungeon { Город Первобытного Леса }
 
-SpiderDungeon { Холм в Пойменном лесу }
+SpiderDungeon { Холм в Пойменном Лесу }
 
 Cave { Пещера }
 
@@ -56,5 +56,5 @@ RuinUnder { Пещера }
 
 Intro_Real { Старый Свет }
 
-Intro_Fog { Туманные тропы }
+Intro_Fog { Туманные Тропы }
 

@@ -42,7 +42,7 @@ action_Attack_Primary { Атаковать }
 
 action_Block { Доп. действие }
 
-action_Attack_And_Interaction { взаимодействовать (обычная стойка) / <br>Атаковать (боевая стойка) }
+action_Attack_And_Interaction { Взаимодействовать (обычная стойка) / <br>Атаковать (боевая стойка) }
 
 action_Block_And_Perception { Режим исследования (обычная стойка) / <br> Доп. действие (боевая стойка) }
 
@@ -72,7 +72,7 @@ action_SwapWeaponSet { Сменить оружие }
 
 action_Walk { Идти }
 
-action_Trade_All { Обменять все }
+action_Trade_All { Обменять всё }
 
 action_Trade_Ten { Обменять десять }
 
@@ -116,17 +116,17 @@ action_Quickbar_3 { Быстрый доступ 3 }
 
 action_Quickbar_4 { Быстрый доступ 4 }
 
-action_QuickslotAssignment { Назначить в быстрый доступ }
+action_QuickslotAssignment { Назначить в Быстрый доступ }
 
 action_DeleteQuickbarItem { Очистить Быстрый доступ }
 
-action_PrevPanel { Прошлая категория }
+action_PrevPanel { Предыдущая категория }
 
 action_NextPanel { Следующая категория }
 
-action_Lockpick_Left { Миниигра: влево }
+action_Lockpick_Left { Мини-игра: влево }
 
-action_Lockpick_Right { Миниигра: вправо }
+action_Lockpick_Right { Мини-игра: вправо }
 
 action_GuiScrollY { Прокрутка Интерфейса }
 
@@ -192,7 +192,7 @@ action_uiSubmit { Применить графический интерфейс }
 
 action_minigameSubmit { Действие в мини-игре }
 
-action_PrevNavigation { Прошлая вкладка }
+action_PrevNavigation { Предыдущая вкладка }
 
 action_NextNavigation { Следующая вкладка }
 

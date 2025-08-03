@@ -1,6 +1,6 @@
 Title { Обучение }
 
-IsTrader { Торговец }
+IsTrader { Торговля }
 
 Category_Basics { Основы }
 
@@ -12,11 +12,11 @@ Category_Items { Предметы }
 
 Name_Movement { Передвижение }
 
-Name_Perception_01 { Режим исследования: Осмотр }
+Name_Perception_01 { Режим Исследования: Осмотр }
 
-Name_Perception_02 { Режим исследования: Обнаружение }
+Name_Perception_02 { Режим Исследования: Обнаружение }
 
-Name_Perception_03 { Режим исследования: Изучение }
+Name_Perception_03 { Режим Исследования: Изучение }
 
 Name_Interact { Взаимодействие }
 
@@ -24,9 +24,9 @@ Name_Stealing { Воровство }
 
 Name_Crafting { Ремесло }
 
-Name_LevelUp { Повышение уровня }
+Name_LevelUp { Повышение Уровня }
 
-Name_ChangeStance { Изменение стойки }
+Name_ChangeStance { Изменение Стойки }
 
 Name_StatusEffects { Состояния }
 
@@ -36,11 +36,11 @@ Name_Journal { Записи в журнале }
 
 Name_FirstNote { Заметки }
 
-Name_FirstTreasure { Карты сокровищ }
+Name_FirstTreasure { Карты Сокровищ }
 
 Name_Dodge { Уклонение }
 
-Name_SecondWeapon { Смена оружия }
+Name_SecondWeapon { Смена Оружия }
 
 Name_Abilities_02 { Способности }
 
@@ -54,21 +54,21 @@ Name_BattleBuddies_Spell { Заклинания }
 
 Name_NeedMunition { Боеприпасы }
 
-Name_Secondaries { Действия вне боя }
+Name_Secondaries { Использование Левой Руки }
 
-Name_PoiseBreak { Стойка }
+Name_PoiseBreak { Стойкость }
 
-Name_LookDirectionCombat { Линия обзора в бою }
+Name_LookDirectionCombat { Линия Обзора в Бою }
 
 Name_FirstHeal { Лечение }
 
 Name_FirstFood { Еда }
 
-Name_FirstGoodFood { Богатая еда }
+Name_FirstGoodFood { Питательная Еда }
 
-Name_FirstWeapon { Типы оружия }
+Name_FirstWeapon { Типы Оружия }
 
-Name_FirstRangeWeapon { Дальнобойное оружие }
+Name_FirstRangeWeapon { Дальнобойное Оружие }
 
 Name_FirstConsFlow { Свитки }
 

@@ -154,11 +154,11 @@ BluePoo { Синие Фекалии }
 
 BlueVomit { Синяя Рвота }
 
-BrokenFence { Сломанный забор }
+BrokenFence { Сломанный Забор }
 
-BrokenPlant { Сломанное растение }
+BrokenPlant { Растоптанное Растение }
 
-SheepTrace { Овечья тропа }
+SheepTrace { Овечьи Следы }
 
 Andrick { Андрик }
 
@@ -232,7 +232,7 @@ Jendrik { Джендрик }
 
 Larea { Ларея }
 
-RabbitHole { Кроличья нора }
+RabbitHole { Кроличья Нора }
 
 Piglet_Kai { Беа }
 
@@ -352,7 +352,7 @@ Swenn { Свенн }
 
 Jennifer { Дженнифер }
 
-Beard_Red { Рыжик }
+Beard_Red { Рыжие Волосы }
 
 MineCookingFire { Очаг }
 
@@ -418,7 +418,7 @@ Sean { Шон }
 
 Florin { Флорин }
 
-BlackBoard { Доска объявлений }
+BlackBoard { Доска Объявлений }
 
 RootsExpeditionNemeton { Корни }
 
@@ -458,7 +458,7 @@ Jarmon { Джармон }
 
 Karmi { Карми }
 
-Guard { Охранник }
+Guard { Стражник }
 
 BeeHive { Улей }
 
@@ -488,7 +488,7 @@ Dylan { Дилан }
 
 Fygen { Файген }
 
-Eoin { Эоин }
+Eoin { Эойн }
 
 Josi { Джоси }
 
@@ -498,7 +498,7 @@ bandit_generic { Бандит }
 
 Leru { Лортиз }
 
-Cat { Кот }
+Cat { Кошка }
 
 Dog { Собака }
 
@@ -506,7 +506,7 @@ Sheep { Овечка }
 
 PigletAtRoot { Поросёнок }
 
-Critter_Cat_01 { Кот }
+Critter_Cat_01 { Кошка }
 
 Critter_Dog_01 { Собака }
 
@@ -550,7 +550,7 @@ Erwin { Эрвин }
 
 Henrike { Анри }
 
-Waterrat_Young { Детеныш Водяной Крысы }
+Waterrat_Young { Детёныш Водяной Крысы }
 
 Waterrat { Водяная Крыса }
 
@@ -580,9 +580,9 @@ Sprigga { Спригга }
 
 Stonefist { Камнекруш }
 
-Frog_Melee { Красный лягушонок }
+Frog_Melee { Красный Лягушонок }
 
-Frog_Ranged { Зелёный лягушонок }
+Frog_Ranged { Зелёный Лягушонок }
 
 Bloodquito { Кровосос }
 
@@ -606,7 +606,7 @@ Snapper { Магический Паук-охотник }
 
 Spitter { Магический Ядовитый Паук }
 
-BigSpider { Явление }
+BigSpider { Призрак }
 
 BigSpider_Auwald { Магический Огромный Паук }
 
