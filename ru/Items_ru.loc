@@ -18,25 +18,25 @@ item_redHerb_name { Ржавокорень }
 
 item_redHerb_description { Растёт на болоте. }
 
-item_meat_raw_name { Сочное мясо }
+item_meat_raw_name { Сочное Мясо }
 
-item_meat_raw_description { Все ещё сырое. Непригодно для употребления в пищу. }
+item_meat_raw_description { Всё ещё сырое. Непригодно для употребления в пищу. }
 
 item_farmersFood_name { Фермерское Рагу }
 
-item_bogIron_name { Болотное железо }
+item_bogIron_name { Болотное Железо }
 
-armor_feet_shoe_lost_name { Один кожаный ботинок }
+armor_feet_shoe_lost_name { Один Кожаный Ботинок }
 
-armor_feet_shoe_lost_description { Один вонючий ботинок }
+armor_feet_shoe_lost_description { Один Вонючий Ботинок }
 
-item_letterToAsmus_open_name { Открытое письмо для Асмуса }
+item_letterToAsmus_open_name { Открытое Письмо для Асмуса }
 
 item_letterToAsmus_open_description { Это письмо адресовано Асмусу. Печать сломана. }
 
 item_honey_name { Мёд }
 
-item_packageToMoorlager_name { Пакет товаров }
+item_packageToMoorlager_name { Пакет Товаров }
 
 item_packageToMoorlager_description { Товары от Георга для Ангуса в Неметоне. }
 
@@ -44,9 +44,9 @@ item_letterToAsmus_sealed_name { Письмо для Асмуса }
 
 item_letterToAsmus_sealed_description { Это письмо адресовано Асмусу. }
 
-item_healthPlant_0_name { Целебное растение }
+item_healthPlant_0_name { Целебное Растение }
 
-item_healthPlant_1_name { Большое целебное растение }
+item_healthPlant_1_name { Большое Целебное Растение }
 
 item_lanternFruit_name { Светофрукт }
 
@@ -54,15 +54,15 @@ item_lanternFruit_description { Можно найти на деревьях в �
 
 item_lyra_name { Лира }
 
-misc_lockpick_simple_name { Простая отмычка }
+misc_lockpick_simple_name { Простая Отмычка }
 
-misc_lockpick_simple_description { Теперь не существует замка, который сможет устоять передо мной. }
+misc_lockpick_simple_description { Больше не существует замка, который сможет устоять передо мной. }
 
 misc_worldmap_name { Грубая карта Дровы }
 
 misc_mapink_name { Чернила }
 
-misc_mapink_description { Используется для отметки мест на карте. }
+misc_mapink_description { Используются для отметки мест на карте. }
 
 key_chest_delani_name { Ключ Делани }
 
@@ -112,15 +112,15 @@ weapon_axe_bady_dull_name { Тупой топор Бади. }
 
 weapon_axe_bady_sharp_name { Острый топор Бади. }
 
-item_letterMehlunaToBady_name { Любовное письмо от Мелуны }
+item_letterMehlunaToBady_name { Любовное Письмо от Мелуны }
 
-item_earthroot_name { Земляной корень }
+item_earthroot_name { Земляной Корень }
 
-item_earthroot_description { Растёт у рек в Пойменном Лесу }
+item_earthroot_description { Растёт у рек в Пойменном Лесу. }
 
 item_wine_name { Вино }
 
-note_mineInformation_name { В поиске Рубщиков }
+note_mineInformation_name { В Поиске Рубщиков }
 
 item_entryMine_name { Записка от Левина }
 
@@ -350,7 +350,7 @@ weapon_spear_wingSpear_name { Крылатое Копьё }
 
 weapon_spear_silverSpear_name { Тупое Железное Копьё }
 
-weapon_spear_bloodBlade_name { Кровавое Лезвие }
+weapon_spear_bloodBlade_name { Кровопускатель }
 
 weapon_spear_tipOfDeath_name { Копьё Красной Змеи }
 
@@ -430,7 +430,7 @@ item_flowPlant_0_name { Весенний Зверобой }
 
 item_flowPlant_0_description { Можно найти возле старых построек. }
 
-item_flowPlant_1_name { Весенний цветок }
+item_flowPlant_1_name { Весенний Цветок }
 
 item_flowPlant_1_description { Можно найти возле старых построек. }
 
@@ -438,7 +438,7 @@ item_healthPlant_2_name { Цветок Жизни }
 
 item_potion_health_0_name { Лечебное Зелье }
 
-item_potion_health_1_name { Мощное лечебное зелье }
+item_potion_health_1_name { Мощное Лечебное Зелье }
 
 item_permapotion_life_name { Эликсир Жизни }
 
@@ -450,7 +450,7 @@ item_permapotion_skill_name { Эликсир Ловкости }
 
 item_permaherb_strength_name { Базальтовый Корень }
 
-item_permaherb_mind_name { Мозговая трава }
+item_permaherb_mind_name { Мозговая Трава }
 
 item_permaherb_life_name { Боярышник }
 
@@ -510,13 +510,13 @@ item_stew_tiaa_name { Рагу от Тиаа }
 
 item_stew_tiaa_manipulated_name { Испорченная Еда }
 
-item_stew_tiaa_manipulated_description { Кишки Бади будут не в восторге. }
+item_stew_tiaa_manipulated_description { Желудок Бади будут не в восторге. }
 
 item_mushroom_name { Обыкновенный Гриб }
 
-item_berry_name { Ягода }
+item_berry_name { Ягоды }
 
-item_berry_description { Растёт в Пойменном Лесу. }
+item_berry_description { Растут в Пойменном Лесу. }
 
 item_fish_bass_name { Окунь }
 
@@ -534,7 +534,7 @@ misc_riddle_horn_name { Рог }
 
 misc_riddle_horn_description { Полезен во многих ситуациях и всегда востребован. }
 
-misc_riddle_conch_name { Моллюск }
+misc_riddle_conch_name { Ракушка }
 
 misc_riddle_club_name { Церемониальный меч }
 
@@ -572,11 +572,11 @@ misc_bagOfCurrency_description { Мешочек, который звенит, е
 
 key_chest_mineBanditMainKey_name { Ржавый Ключ }
 
-key_chest_mineBanditMainKey_description { Получено после встречи с кучкой бандитов. }
+key_chest_mineBanditMainKey_description { Получен после встречи с кучкой бандитов. }
 
 item_mineRelic_name { Странная Реликвия }
 
-item_mineRelic_description { Древняя реликвия Прошедших }
+item_mineRelic_description { Древняя Реликвия Прошедших }
 
 item_rubble_name { Щебень }
 
@@ -626,15 +626,15 @@ item_energycrystal_aufwald_charged_description { Этот Божественны
 
 item_energycrystal_brutus_empty_name { Пустой Божественный Кристалл }
 
-item_energycrystal_brutus_charged_name { Наполненный Божественный Кристалл }
+item_energycrystal_brutus_charged_name { Зачарованный Божественный Кристалл }
 
 item_secret_foglets_name { Туманная Секреция }
 
-item_ripper_head_name { Гигантский Коготь Потрошителя }
+item_ripper_head_name { Коготь Гигантского Потрошителя }
 
 item_essence_atlanter_name { Древняя Эссенция }
 
-item_essence_atlanter_description { Эту Эссенцию можно получить только от древнего существа. }
+item_essence_atlanter_description { Эту эссенцию можно получить только от древнего существа. }
 
 item_heart_name { Медвежье Сердце }
 
@@ -644,7 +644,7 @@ item_beak_name { Клюв }
 
 item_essence_stone_name { Земная Эссенция }
 
-item_essence_stone_description { Эту Эссенцию можно получить только от могущественного каменного создания. }
+item_essence_stone_description { Эту эссенцию можно получить только от могущественного каменного создания. }
 
 item_salivate_worm_name { Слюна Червя }
 
@@ -656,7 +656,7 @@ item_essence_void_description { Тусклый фрагмент, который 
 
 consumable_potion_darkbrew_healing_name { Тёмный Отвар }
 
-key_mursel_mine_name { Ключ к серебряной Шахте }
+key_mursel_mine_name { Ключ от Серебряной Шахты }
 
 key_mursel_mine_description { Ключ к ночлежке в Яме лагеря Отступников. }
 
@@ -764,7 +764,7 @@ misc_emptyTraderBag_name { Пустая Грязная Сумка }
 
 misc_emptyTraderBag_description { Пустая сумка, на которой вышит символ, изображающий две скрещенные руки под вороном. }
 
-item_redGlyphStone_name { Красный, декоративный Камень }
+item_redGlyphStone_name { Красный, Декоративный Камень }
 
 item_redGlyphStone_description { Декоративный красный камень. На нём изображены две руки, скрещенные под символом ворона. }
 
@@ -800,13 +800,13 @@ item_traps_name { Уведомление: Нам Нужно Больше Лов�
 
 cons_flow_obsidianSpear_name { Призыв Обсидианового Копья }
 
-cons_flow_obsidianSpear_description { Вы призываете копьё Прошедших, которое создает Фокус в области вокруг себя. }
+cons_flow_obsidianSpear_description { Вы призываете копьё Прошедших, которое восстанавливает Фокус в области вокруг себя. }
 
 item_playWithKids_name { Уведомление: Игра с Детьми }
 
 item_mikeschLetter_name { Оказанная Услуга }
 
-item_BanditsOnTheBridge_name { Уведомление: Освободите Мост }
+item_BanditsOnTheBridge_name { Уведомление: Освобождение Моста }
 
 cons_flow_dash_name { Порыв }
 
@@ -994,7 +994,7 @@ armor_chest_lendha_name_name { Лёгкая Броня Неметона }
 
 armor_chest_shirt_ragged_name_name { Лохмотья }
 
-armor_chest_shirt_ragged_name_description { Лучше, чем ничего, я думаю... }
+armor_chest_shirt_ragged_name_description { Лучше, чем ничего. Наверное... }
 
 armor_chest_ruinenlager_fighter_druid_name_name { Друидическая Боевая Броня Отступников }
 
@@ -1050,7 +1050,7 @@ item_thornfetish_name { Шипастый Фетиш }
 
 item_thornfetish_description { Каждое заклинание и каждая способность потребляют дополнительно [HealValuePercent] здоровья, но наносят на [DamageValuePercent] больше урона. }
 
-item_riptoothchain_name { Клыкастое Ожерелье }
+item_riptoothchain_name { Ожерелье из Клыков }
 
 item_riptoothchain_description { Эффект кровотечения наносит урон быстрее. }
 
@@ -1060,7 +1060,7 @@ item_vipertooth_description { Яд дополнительно замедляет
 
 item_mastersmemory_name { Пояс Мастера }
 
-item_mastersmemory_description { Последний удар в комбо с мечом или топором наносит на [DamageValuePercent] больше урона и генерирует на [FocusValuePercent] больше фокуса. }
+item_mastersmemory_description { Последний удар в комбо с мечом или топором наносит на [DamageValuePercent] больше урона и генерирует на [FocusValuePercent] больше Фокуса. }
 
 item_cleavageskull_name { Череполом }
 
@@ -1090,7 +1090,7 @@ item_boartooth_name { Череп Вепря }
 
 item_boartooth_description { Тяжёлые атаки потребляют на [StaminaValuePercent] меньше выносливости. }
 
-item_tendonofglory_name { Молния Величия }
+item_tendonofglory_name { Цепь Великолепия }
 
 item_tendonofglory_description { Дистанционные атаки пронзают первую пораженную цель. }
 
@@ -1148,7 +1148,7 @@ item_armorring_1_name { Серебряный Трискелион }
 
 item_magicresring_0_name { Трикветр }
 
-item_magicresring_1_name { Светящийся Трикветр }
+item_magicresring_1_name { Сияющий Трикветр }
 
 item_harpyiefeather_name { Перо Гарпии }
 
@@ -1188,7 +1188,7 @@ item_letterCityDungeon_1_name { Беспорядки в Дрове V }
 
 item_letterCityDungeon_2_name { Беспорядки в Дрове VI }
 
-item_letterCityDungeon_3_name { Старая партитура }
+item_letterCityDungeon_3_name { Старая Партитура }
 
 item_letterCityDungeon_Underground_0_name { Конец близок I }
 
@@ -1216,11 +1216,11 @@ item_rustmoss_BadFromGera_description { Гера хочет, чтобы этот
 
 item_kiepe_rubble_name { Корзина }
 
-item_paperchasestone_cleansed_name { Очищенный талисман }
+item_paperchasestone_cleansed_name { Очищенный Талисман }
 
 item_paperchasestone_cleansed_description { Поташ очистил талисман от всего зла. Но на нём всё ещё не хватает руны. }
 
-item_paperchasestone_band_name { Талисман со шнуром }
+item_paperchasestone_band_name { Талисман со Шнуром }
 
 item_paperchasestone_band_description { Грубый талисман теперь висит на шнурке. Но он всё ещё выглядит неопрятно... }
 
@@ -1260,9 +1260,9 @@ item_brutus_seal_inactive_name { Неактивная Печать Дриван�
 
 item_brutus_seal_inactive_description { Из семи встроенных кристаллов пока светится только $GVAR:QuestVars_Brutus.ActivateShrine$. }
 
-item_shell_01_name { Моллюск }
+item_shell_01_name { Ракушка }
 
-item_shell_02_name { Моллюск }
+item_shell_02_name { Ракушка }
 
 item_atlanter_wine_name { Вино Прошедших }
 
@@ -1286,7 +1286,7 @@ item_letterTableBrutus_1_name { Финальное исследование Др
 
 item_letterTableBrutus_2_name { Финальное исследование Дриваниуса IV }
 
-item_atlanteanarmorparts_name { Части доспехов Прошедших }
+item_atlanteanarmorparts_name { Части Доспеха Прошедших }
 
 item_atlanteanarmorparts_description { Выглядят ценными. Может, кузнец сможет что-нибудь с ними сделать? }
 
@@ -1400,7 +1400,7 @@ recipe_hunterstrophy_name { Рецепт: Трофей Охотника }
 
 recipe_ironarrow_name { Рецепт: Железные Стрелы }
 
-recipe_ironbar_name { Рецепт: Железный слиток }
+recipe_ironbar_name { Рецепт: Железный Слиток }
 
 recipe_ironlump_name { Рецепт: Кусок Железа }
 
@@ -1502,7 +1502,7 @@ item_ripper_head_huntTheRipper_description { Этот потрошитель б�
 
 item_letter_sick_siser_name { Записка Друида }
 
-SickSiser { Записка из лагеря разбойников }
+SickSiser { Записка из Лагеря Разбойников }
 
 armor_chest_light_atlanter_name { Рунические Доспехи Прошедших }
 
@@ -1558,7 +1558,7 @@ item_letter_shrine_terra_borealis_name { Святилище Терры }
 
 item_letter_shrine_vela_name { Святилище Вораго }
 
-key_sleepingTavernKey_name { Ключ от комнаты }
+key_sleepingTavernKey_name { Ключ от Комнаты }
 
 key_sleepingTavernKey_description { На эту ночь комната в таверне Олафа только моя. }
 
@@ -1624,11 +1624,11 @@ helmet_gladiator_name_name { Шлем Гладиатора }
 
 helmet_gladiator_name_description { Позволяет смотреть на своих будущих жертв через узкую прорезь. }
 
-helmet_blindfold_dark_name_name { Тёмная повязка на глаза }
+helmet_blindfold_dark_name_name { Тёмная Повязка на Глаза }
 
 helmet_blindfold_dark_name_description { Вы всё ещё можете видеть через узкую щель. И вы будете выглядеть гораздо более загадочно! }
 
-helmet_blindfold_light_name_name { Яркая повязка на глаза }
+helmet_blindfold_light_name_name { Яркая Повязка на Глаза }
 
 helmet_atlanter_name_name { Шлем Прошедших }
 
@@ -1692,7 +1692,7 @@ note_naughty_female_description { Рисунок красивой голой ж�
 
 misc_map_nemeton_name { Карта Неметона }
 
-misc_map_ruincamp_name { Карта лагеря Отступников }
+misc_map_ruincamp_name { Карта Лагеря Отступников }
 
 misc_map_leuchtwald_name { Карта Первобытного Леса }
 
@@ -1710,7 +1710,7 @@ armor_chest_ruinenlager_gladiator_name { Доспехи Гладиатора }
 
 armor_chest_ruinenlager_gladiator_description { За каждый % потерянного здоровья вы получаете на 1% меньше урона (максимальное снижение - 90%)<br><br>Доспехи, пропитанные кровью врагов. Победа за мной. }
 
-misc_bagOfCurrency_big_name { Большой мешочек, наполненный монетами }
+misc_bagOfCurrency_big_name { Большой Мешочек, Наполненный Монетами }
 
 item_letterRedTower_0_name { Туман Близко }
 
@@ -1732,7 +1732,7 @@ item_letterAtlanter_AtlanterRevolt_name { Бунт Прошедших }
 
 item_letterAtlanter_CancelledResearch_name { Отмена Исследования }
 
-item_letterAtlanter_DangerousRunes_name { Опасности Магии Рун }
+item_letterAtlanter_DangerousRunes_name { Опасности Рунической Магии }
 
 item_letterAtlanter_DangerousTravels_name { Опасное путешествие I }
 
@@ -1838,11 +1838,11 @@ item_foodpile_strong_name { Прыгающий Окунь }
 
 item_fish_trout_name { Форель }
 
-item_fish_trout_description { Всё ещё сырое. Не подходит для употребления в пищу. }
+item_fish_trout_description { Всё ещё сырая. Не подходит для употребления в пищу. }
 
 item_fish_dead_name { Рыба-Смерть }
 
-item_fish_dead_description { Всё ещё сырое. Не подходит для употребления в пищу. }
+item_fish_dead_description { Всё ещё сырая. Не подходит для употребления в пищу. }
 
 recipe_foodpile_strong_name { Рецепт: Прыгающий Окунь }
 
@@ -1896,7 +1896,7 @@ category_saleitems { Разное, Товары на продажу, Мусор 
 
 item_letterAtlanter_Shrines_name { Святилища Прошедших }
 
-item_letterCityDungeon_GodPaintings_name { Фрески, изображающие Богов }
+item_letterCityDungeon_GodPaintings_name { Фрески, Изображающие Богов }
 
 item_letter_Reija_name { Странные Наблюдения Дриваниуса }
 
@@ -1910,7 +1910,7 @@ weapon_sword_jendra_description {  }
 
 flow_ricochet_name { Рикошет }
 
-flow_ricochet_description { Вы выпускаете снаряд, который наносит [WeaponDamagePercent] урона от оружия, а затем рикошетит от противника в ближайших противников. }
+flow_ricochet_description { Вы выпускаете снаряд, который наносит [WeaponDamagePercent] урона от оружия, а затем рикошетит от противника в ближайших врагов. }
 
 recipe_flow_ricochet_name { Способность: Рикошет }
 
@@ -1990,15 +1990,15 @@ item_trinket_doriansHeirloom_name { Реликвия Дориана }
 
 item_trinket_doriansHeirloom_description { Уменьшает урон вашей Cтойкости и урон Фокусу на [PoiseValuePercent]. }
 
-weapon_axe_blaansoldsword_name { Старый топор Блаана }
+weapon_axe_blaansoldsword_name { Старый Топор Блаана }
 
 weapon_axe_blaansoldsword_description {  }
 
-weapon_sword_carimasoldsword_name { Старый меч Каримы }
+weapon_sword_carimasoldsword_name { Старый Меч Каримы }
 
 weapon_sword_carimasoldsword_description {  }
 
-item_wine_description { Тебе должно понравиться. }
+item_wine_description { Вам должно понравиться. }
 
 item_silverore_description { Нужно переплавить в печи. }
 

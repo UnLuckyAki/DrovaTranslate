@@ -10,7 +10,7 @@ WhatsUp3 { *бросает на вас злобный взгляд* Отвали
 
 WhatsUp5 { Что теперь? }
 
-WhatsUp { Что случилось? }
+WhatsUp { Что такое? }
 
 Hey4 { В чём дело? }
 
@@ -54,7 +54,7 @@ GoodBye { Увидимся. }
 
 WhatCanIDoForYou { Что я могу для тебя сделать? }
 
-DontKnowYourFace5 { Эй ты — я тебя не узнаю. }
+DontKnowYourFace5 { Эй, ты — я тебя не узнаю. }
 
 Hey7 { А, это ты. }
 
@@ -62,4 +62,4 @@ GoodBye3 { Береги себя. }
 
 ForMagielager { Да хранит тебя Могучий Вепрь. }
 
-DontKnowYourFace { Эй, я тебя не знаю. }
+DontKnowYourFace { Эй, кажется, мы не знакомы. }

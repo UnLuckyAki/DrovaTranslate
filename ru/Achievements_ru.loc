@@ -8,7 +8,7 @@ Achievement_CengizWoodcampQuest_desc { Убедитесь, что все люд�
 
 Achievement_LeftDeepMine_name { Под Землёй }
 
-Achievement_LeftDeepMine_desc { Выберитесь из Глубокой Шахты в лагере Отступников. }
+Achievement_LeftDeepMine_desc { Выберитесь из Глубокой Шахты Лагеря Отступников. }
 
 Achievement_HelpedGeorg_name { О Боях и Лисах }
 
@@ -88,7 +88,7 @@ Achievement_LastManStandingFeuertaufe_desc { Станьте тем челове�
 
 Achievement_CompletedBrutusMine_name { Свобода! }
 
-Achievement_CompletedBrutusMine_desc { Освободите заключенных в Шахте. }
+Achievement_CompletedBrutusMine_desc { Освободите пленников из шахты разбойников. }
 
 Achievement_KilledRipperWoodcampAct1_name { Правая Рука Дженгиза }
 
@@ -178,9 +178,9 @@ Achievement_OptionalEnding_name { Новые Пути }
 
 Achievement_OptionalEnding_desc { Вы испытали историю вплоть до победного конца. Вы умиротворили Божеств и рассеяли Туман Смерти. }
 
-Achievement_EnteredNemeton_name { Я Найду уть! }
+Achievement_EnteredNemeton_name { Я Найду Путь! }
 
-Achievement_EnteredNemeton_desc { Найдите путь в Неметон. }
+Achievement_EnteredNemeton_desc { Найдите способ попасть в Неметон. }
 
 Achievement_AllAchievements_name { Дровастично! }
 

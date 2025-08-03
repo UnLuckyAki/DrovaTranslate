@@ -42,7 +42,7 @@ action_Attack_Primary { Атаковать }
 
 action_Block { Доп. действие }
 
-action_Attack_And_Interaction { взаимодействовать (обычная стойка) / <br>Атаковать (боевая стойка) }
+action_Attack_And_Interaction { Взаимодействовать (обычная стойка) / <br>Атаковать (боевая стойка) }
 
 action_Block_And_Perception { Режим исследования (обычная стойка) / <br> Доп. действие (боевая стойка) }
 
@@ -116,7 +116,7 @@ action_Quickbar_3 { Быстрый доступ 3 }
 
 action_Quickbar_4 { Быстрый доступ 4 }
 
-action_QuickslotAssignment { Назначить в быстрый доступ }
+action_QuickslotAssignment { Назначить в Быстрый доступ }
 
 action_DeleteQuickbarItem { Очистить Быстрый доступ }
 
