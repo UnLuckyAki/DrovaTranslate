@@ -96,7 +96,7 @@ item_apple_name { Яблоко }
 
 item_callashroom_extract_name { Экстракт Каллагрибов }
 
-item_callashroom_extract_description { Экстракт, который нужен для талисмана Хелмы. }
+item_callashroom_extract_description { Экстракт, который нужен для талисмана Хельмы. }
 
 item_ironbar_name { Железный Слиток }
 
@@ -120,7 +120,7 @@ item_earthroot_description { Растёт у рек в Пойменном Лес
 
 item_wine_name { Вино }
 
-note_mineInformation_name { В Поиске Рубщиков }
+note_mineInformation_name { В Поиске Рудокопов }
 
 item_entryMine_name { Записка от Левина }
 
@@ -510,7 +510,7 @@ item_stew_tiaa_name { Рагу от Тиаа }
 
 item_stew_tiaa_manipulated_name { Испорченная Еда }
 
-item_stew_tiaa_manipulated_description { Желудок Бади будут не в восторге. }
+item_stew_tiaa_manipulated_description { Желудок Бади будет не в восторге. }
 
 item_mushroom_name { Обыкновенный Гриб }
 
@@ -608,7 +608,7 @@ key_tavernKey_description { Ключ от чёрного хода таверны
 
 weapon_bow_atlanterBow_name { Посланник Богов }
 
-weapon_bow_atlanterBow_description { Тебе может не понравиться их послание, заяви им об этом. }
+weapon_bow_atlanterBow_description { Тебе может не понравиться их послание. Заяви им об этом. }
 
 weapon_shield_atlanterShield_name { Защита Богов }
 
@@ -716,7 +716,7 @@ cons_flow_bloodRage_description { Тяжёлая атака, наносящая 
 
 item_rubin_name { Рубин }
 
-item_atlanterAcademyText_name { Путешествие Прошедших в Дрове }
+item_atlanterAcademyText_name { Путешествие Прошедших в Дрову }
 
 cons_flow_blink_name { Туманный Шаг }
 
@@ -764,7 +764,7 @@ misc_emptyTraderBag_name { Пустая Грязная Сумка }
 
 misc_emptyTraderBag_description { Пустая сумка, на которой вышит символ, изображающий две скрещенные руки под вороном. }
 
-item_redGlyphStone_name { Красный, Декоративный Камень }
+item_redGlyphStone_name { Красный Декоративный Камень }
 
 item_redGlyphStone_description { Декоративный красный камень. На нём изображены две руки, скрещенные под символом ворона. }
 
@@ -964,7 +964,7 @@ item_mudmash_name { Мясное Рагу Олафа }
 
 item_fogstew_name { Унылое Рагу }
 
-item_rootstew_name { Туманное Рагу }
+item_rootstew_name { Туманная Похлёбка }
 
 item_troutskewersbombus_name { Шашлычки Смерти а-ля Бомбус }
 
@@ -974,7 +974,7 @@ armor_chest_leather_name_name { Кожаная Броня }
 
 armor_chest_leather_name_description { Моя первая настоящая броня. }
 
-armor_chest_miner_name_name { Костюм Рубщика }
+armor_chest_miner_name_name { Костюм Рудокопа }
 
 armor_chest_miner_name_description { Не обеспечивает особой защиты от когтей, но в нём удобно работать. }
 
@@ -1432,7 +1432,7 @@ recipe_roastedcallamushroom_name { Рецепт: Жареные Каллагри
 
 recipe_roastofthepast_name { Рецепт: Жаркое Прошедших }
 
-recipe_rootstew_name { Рецепт: Туманное Рагу }
+recipe_rootstew_name { Рецепт: Туманная Похлёбка }
 
 recipe_rustymosspipe_name { Рецепт: Ржавый Мох }
 
@@ -1510,7 +1510,7 @@ armor_chest_heavy_atlanter_name { Рунический Панцирь Проше
 
 armor_chest_druid_atlanter_name { Руническое Одеяние Прошедших }
 
-armor_chest_druid_atlanter_description { Вновь выкованные, древние доспехи. Один только вид говорит об их могуществе. }
+armor_chest_druid_atlanter_description { Вновь выкованные древние доспехи. Один только вид говорит об их могуществе. }
 
 item_letter_library_0_name { История магии рун I }
 
@@ -1888,7 +1888,7 @@ item_KendrickThreat_name { Письмо с Угрозами }
 
 item_KendrickHideout_name { Тайное Письмо }
 
-item_KendrickGoodsBook_name { Грузовая Декларация }
+item_KendrickGoodsBook_name { Грузовой Манифест }
 
 category_crafting { Материалы для Ремесла }
 

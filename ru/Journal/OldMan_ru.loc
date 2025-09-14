@@ -1,4 +1,4 @@
-Title { Старик на рынке }
+Title { Старик на Рынке }
 
 Entry_01 { Мне встретился старик, который попросил меня достать ему разные вещи с рынка. Он просит принести ему $GVAR:QuestVars_OldMan_Config.AmountApple$ яблока, $GVAR:QuestVars_OldMan_Config.AmountDagger$ хлебный нож, $GVAR:QuestVars_OldMan_Config.AmountQuellWurz$ весеннего зверобоя и медвежью шкуру. Он говорит, что всё это можно купить на рынке. }
 
