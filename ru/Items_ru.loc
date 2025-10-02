@@ -1988,7 +1988,7 @@ item_Map_Treasure_WayToMine_name { Сокровище: Путь к Шахте }
 
 item_trinket_doriansHeirloom_name { Реликвия Дориана }
 
-item_trinket_doriansHeirloom_description { Уменьшает урон вашей Cтойкости и урон Фокусу на [PoiseValuePercent]. }
+item_trinket_doriansHeirloom_description { Уменьшает урон вашей Стойкости и урон Фокусу на [PoiseValuePercent]. }
 
 weapon_axe_blaansoldsword_name { Старый Топор Блаана }
 
